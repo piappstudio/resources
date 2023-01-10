@@ -340,7 +340,8 @@
             "9",
             "10"
         ],
-        "books_list": "books/aruna.json"
+        "books_list": "books/aruna-publications.json",
+        "common_folks":"https://www.commonfolks.in/books/aruna-publications"
     },
     {
         "id": 38,
@@ -348,7 +349,8 @@
         "stall_no": [
             "161-162"
         ],
-        "books_list": null
+        "books_list": "books/arunodhayam.json",
+        "common_folks": "https://www.commonfolks.in/books/arunodhayam"
     },
     {
         "id": 39,
@@ -390,7 +392,8 @@
         "stall_no": [
             "318-319"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks":"https://www.commonfolks.in/books/atlantic-publishers"
     },
     {
         "id": 44,
@@ -454,7 +457,8 @@
         "stall_no": [
             "415-416"
         ],
-        "books_list": null
+        "books_list": "books/desanthiri.json",
+        "common_folks":"https://www.commonfolks.in/books/desanthiri"
     },
     {
         "id": 83,
@@ -462,7 +466,8 @@
         "stall_no": [
             "137-138"
         ],
-        "books_list": null
+        "books_list": "books/dhanalakshmi-pathippagam.json",
+        "common_folks":"https://www.commonfolks.in/books/dhanalakshmi-pathippagam"
     },
     {
         "id": 84,
@@ -478,7 +483,8 @@
         "stall_no": [
             "F 30"
         ],
-        "books_list": null
+        "books_list": "books/discovery-book-palace.json",
+        "common_folks":"https://www.commonfolks.in/books/discovery-book-palace"
     },
     {
         "id": 86,
@@ -486,7 +492,8 @@
         "stall_no": [
             "582-583"
         ],
-        "books_list": null
+        "books_list": "books/discovery-book-palace.json",
+        "common_folks":"https://www.commonfolks.in/books/discovery-book-palace"
     },
     {
         "id": 87,
@@ -498,7 +505,7 @@
     },
     {
         "id": 88,
-        "name": "Dot Publicatios",
+        "name": "Dot Publications",
         "stall_no": [
             "557"
         ],
@@ -535,7 +542,8 @@
         "stall_no": [
             "F 34"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks":"https://www.commonfolks.in/books/emerald-publishers"
     },
     {
         "id": 93,
@@ -543,7 +551,8 @@
         "stall_no": [
             "101-102"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks":"https://www.commonfolks.in/books/emerald-publishers"
     },
     {
         "id": 94,
@@ -567,7 +576,8 @@
         "stall_no": [
             "288-289"
         ],
-        "books_list": null
+        "books_list": "books/eurekha-books.json",
+        "common_folks":"https://www.commonfolks.in/books/eurekha-books"
     },
     {
         "id": 97,
@@ -576,7 +586,8 @@
             "61",
             "62"
         ],
-        "books_list": null
+        "books_list": "books/ezhilini-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/ezhilini-pathippagam"
     },
     {
         "id": 98,
@@ -667,7 +678,8 @@
         "stall_no": [
             "F 14"
         ],
-        "books_list": null
+        "books_list": "books/harpercollins-publishers-india.json",
+        "common_folks":"https://www.commonfolks.in/books/harpercollins-publishers-india"
     },
     {
         "id": 109,
