@@ -840,7 +840,7 @@
           "week": 11,
           "notes": [
           ],
-          "categories": [],
+          "categories": ["NFTS"],
           "nominates": [11,22]
         },
         {
@@ -1571,7 +1571,7 @@
           "week": 12,
           "notes": [
           ],
-          "categories": [],
+          "categories": ["NOM"],
           "nominates": [10,22]
         }
 
@@ -1699,7 +1699,7 @@
           "week": 12,
           "notes": [
           ],
-          "categories": [],
+          "categories": ["NOM"],
           "nominates": [18,22]
         }
       ]
@@ -1991,7 +1991,7 @@
           "week": 12,
           "notes": [
           ],
-          "categories": [],
+          "categories": ["NOM"],
           "nominates": [10,15]
         }
       ]
@@ -2096,7 +2096,7 @@
           "week": 12,
           "notes": [
           ],
-          "categories": [],
+          "categories": ["NOM"],
           "nominates": [15,22]
         }
       ]
@@ -2215,7 +2215,7 @@
           "week": 12,
           "notes": [
           ],
-          "categories": [],
+          "categories": ["NOM"],
           "nominates": [10,20]
         }
       ]
