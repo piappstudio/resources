@@ -102,7 +102,7 @@
       "name": "Ticket To Final",
       "key": "TTF",
       "color": "FFD4AF37",
-      "graph": false,
+      "graph": true,
       "is_week": true,
       "graphOrder": 1
     },
@@ -1368,8 +1368,9 @@
         {
           "week": 13,
           "notes": [
+            "Own Points on Blind Fold"
           ],
-          "categories": ["NOM"],
+          "categories": ["NOM", "TTF-2"],
           "nominates": [22,18]
         }
       ]
@@ -1905,8 +1906,9 @@
         {
           "week": 13,
           "notes": [
+            "Luck, Earned 2 Points due to Deepak"
           ],
-          "categories": [],
+          "categories": ["TTF-2"],
           "nominates": [11,20]
         }
       ]
@@ -2151,8 +2153,9 @@
         {
           "week": 13,
           "notes": [
+            "Luck, Earned 2 Points due to Soundariya"
           ],
-          "categories": ["NOM"],
+          "categories": ["NOM", "TTF-2"],
           "nominates": [22,24]
         }
       ]
