@@ -558,7 +558,7 @@
           "week": 13,
           "notes": [
           ],
-          "categories": ["NOM"],
+          "categories": ["NOM", "TTF-1"],
           "nominates": [20,10]
         }
 
@@ -1606,8 +1606,9 @@
         {
           "week": 13,
           "notes": [
+            "Neruppu Kuzhi, Level-2 Winner"
           ],
-          "categories": ["NOM"],
+          "categories": ["NOM", "TTF-3"],
           "nominates": [5,18]
         }
 
@@ -2153,9 +2154,9 @@
         {
           "week": 13,
           "notes": [
-            "Luck, Earned 2 Points due to Soundariya"
+            "Luck, Earned 2 Points due to Soundariya", "Neruppu Kuzhi- L2, runner"
           ],
-          "categories": ["NOM", "TTF-2"],
+          "categories": ["NOM", "TTF-2", "TTF-1"],
           "nominates": [22,24]
         }
       ]
