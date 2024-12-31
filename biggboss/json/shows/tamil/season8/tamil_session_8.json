@@ -557,8 +557,9 @@
         {
           "week": 13,
           "notes": [
+            "Level-2 Neruppu Kozhi 1 point", "2 Points for lights ON task"
           ],
-          "categories": ["NOM", "TTF-1"],
+          "categories": ["NOM", "TTF-1", "TTF-2"],
           "nominates": [20,10]
         }
 
@@ -1606,9 +1607,9 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi, Level-2 Winner"
+            "Neruppu Kuzhi, Level-2 Winner", "Lights ON winner"
           ],
-          "categories": ["NOM", "TTF-3"],
+          "categories": ["NOM", "TTF-3", "TTF-3"],
           "nominates": [5,18]
         }
 
@@ -1907,9 +1908,9 @@
         {
           "week": 13,
           "notes": [
-            "Luck, Earned 2 Points due to Deepak"
+            "Luck, Earned 2 Points due to Deepak", "Earned 1 point during Light ON task"
           ],
-          "categories": ["TTF-2"],
+          "categories": ["TTF-2", "TTF-1"],
           "nominates": [11,20]
         }
       ]
