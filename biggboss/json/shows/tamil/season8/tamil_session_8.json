@@ -1909,9 +1909,9 @@
         {
           "week": 13,
           "notes": [
-            "Luck, Earned 2 Points due to Deepak", "Earned 1 point during Light ON task", "Connect Extension: 5 Pts."
+            "Earned 1 point during Light ON task", "Connect Extension: 5 Pts."
           ],
-          "categories": ["TTF-2", "TTF-1", "TTF-5"],
+          "categories": ["TTF-1", "TTF-5"],
           "nominates": [11,20]
         }
       ]
