@@ -1101,9 +1101,9 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi : 2 Pts.", "Connect Extension: 1 Pts."
+            "Neruppu Kuzhi : 2 Pts.", "Connect Extension: 1 Pts.", "New Year point: 1, 0.5 from Jacquline"
           ],
-          "categories": ["NOM", "TTF-2", "TTF-1"],
+          "categories": ["NOM", "TTF-2", "TTF-1", "TTF-1"],
           "nominates": [5,24]
         }
       ]
@@ -1370,9 +1370,9 @@
         {
           "week": 13,
           "notes": [
-            "Own Points on Blind Fold"
+            "Own Points on Blind Fold: 2 Pts", "New Year point: 1, 0.5 from Soundariya"
           ],
-          "categories": ["NOM", "TTF-2"],
+          "categories": ["NOM", "TTF-2", "TTF-1"],
           "nominates": [22,18]
         }
       ]
@@ -1608,9 +1608,10 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi, Level-2 Winner: 3 Pts.", "Lights ON winner: 3 Pts.", "Losing 1 points for Manjari"
+            "Neruppu Kuzhi, Level-2 Winner: 3 Pts.", "Lights ON winner: 3 Pts.",
+            "Losing 1 points for Manjari", "New Year point: 1, 0.5 from Deepak"
           ],
-          "categories": ["NOM", "TTF-3", "TTF-2"],
+          "categories": ["NOM", "TTF-3", "TTF-2", "TTF-1"],
           "nominates": [5,18]
         }
 
@@ -2158,9 +2159,9 @@
           "week": 13,
           "notes": [
             "Luck, Earned 2 Points due to Soundariya", "Neruppu Kuzhi- L2, runner: 2 Pts.",
-            "Losing 1 point for Manjari"
+            "Losing 1 point for Manjari", "New Year point: 1, 0.5 from Rayan"
           ],
-          "categories": ["NOM", "TTF-2", "TTF-1"],
+          "categories": ["NOM", "TTF-2", "TTF-1", "TTF-1"],
           "nominates": [22,24]
         }
       ]
@@ -2285,9 +2286,9 @@
         {
           "week": 13,
           "notes": [
-            "Morning Activity Best Speech"
+            "Morning Activity Best Speech", "New Year point: 1, 0.5 got from Muthu"
           ],
-          "categories": ["NOM", "TTF-1", "TTF-3"],
+          "categories": ["NOM", "TTF-1", "TTF-3", "TTF-1"],
           "nominates": [12,14]
         }
       ]
