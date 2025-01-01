@@ -1607,9 +1607,9 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi, Level-2 Winner", "Lights ON winner"
+            "Neruppu Kuzhi, Level-2 Winner: 3 Pts.", "Lights ON winner: 3 Pts.", "Losing 1 points for Manjari"
           ],
-          "categories": ["NOM", "TTF-3", "TTF-3"],
+          "categories": ["NOM", "TTF-3", "TTF-2"],
           "nominates": [5,18]
         }
 
@@ -2043,8 +2043,9 @@
         {
           "week": 13,
           "notes": [
+            "Got 3 points in Neruppu Kuzhi: 2 Pts", "-1 point on hello, hello"
           ],
-          "categories": ["NOM", "TTF-3"],
+          "categories": ["NOM", "TTF-2"],
           "nominates": [14,10]
         }
       ]
@@ -2155,9 +2156,10 @@
         {
           "week": 13,
           "notes": [
-            "Luck, Earned 2 Points due to Soundariya", "Neruppu Kuzhi- L2, runner"
+            "Luck, Earned 2 Points due to Soundariya", "Neruppu Kuzhi- L2, runner: 2 Pts.",
+            "Losing 1 point for Manjari"
           ],
-          "categories": ["NOM", "TTF-2", "TTF-2"],
+          "categories": ["NOM", "TTF-2", "TTF-1"],
           "nominates": [22,24]
         }
       ]
@@ -2282,8 +2284,9 @@
         {
           "week": 13,
           "notes": [
+            "Morning Activity Best Speech"
           ],
-          "categories": ["NOM", "TTF-1"],
+          "categories": ["NOM", "TTF-1", "TTF-3"],
           "nominates": [12,14]
         }
       ]
@@ -2415,8 +2418,10 @@
         {
           "week": 13,
           "notes": [
+            "Neruppu Kuzhi- Level-1 Winner: 5 Pts.",
+            "Losing 1 point for Manjari"
           ],
-          "categories": ["NOM", "TTF-5"],
+          "categories": ["NOM", "TTF-4"],
           "nominates": [20,12]
         }
       ]
