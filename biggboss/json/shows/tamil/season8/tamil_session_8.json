@@ -557,9 +557,9 @@
         {
           "week": 13,
           "notes": [
-            "Level-2 Neruppu Kozhi 1 point", "2 Points for lights ON task"
+            "Level-2 Neruppu Kozhi 1 point", "2 Points for lights ON task", "Connect Extension: 2 Pts."
           ],
-          "categories": ["NOM", "TTF-1", "TTF-2"],
+          "categories": ["NOM", "TTF-1", "TTF-2", "TTF-2"],
           "nominates": [20,10]
         }
 
@@ -1101,8 +1101,9 @@
         {
           "week": 13,
           "notes": [
+            "Neruppu Kuzhi : 2 Pts.", "Connect Extension: 1 Pts."
           ],
-          "categories": ["NOM", "TTF-2"],
+          "categories": ["NOM", "TTF-2", "TTF-1"],
           "nominates": [5,24]
         }
       ]
@@ -1908,9 +1909,9 @@
         {
           "week": 13,
           "notes": [
-            "Luck, Earned 2 Points due to Deepak", "Earned 1 point during Light ON task"
+            "Luck, Earned 2 Points due to Deepak", "Earned 1 point during Light ON task", "Connect Extension: 5 Pts."
           ],
-          "categories": ["TTF-2", "TTF-1"],
+          "categories": ["TTF-2", "TTF-1", "TTF-5"],
           "nominates": [11,20]
         }
       ]
@@ -2043,9 +2044,9 @@
         {
           "week": 13,
           "notes": [
-            "Got 3 points in Neruppu Kuzhi: 2 Pts", "-1 point on hello, hello"
+            "Got 3 points in Neruppu Kuzhi: 3 Pts", "-1 point on hello, hello", "Connect Extension: 3"
           ],
-          "categories": ["NOM", "TTF-2"],
+          "categories": ["NOM", "TTF-2", "TTF-3"],
           "nominates": [14,10]
         }
       ]
@@ -2419,9 +2420,9 @@
           "week": 13,
           "notes": [
             "Neruppu Kuzhi- Level-1 Winner: 5 Pts.",
-            "Losing 1 point for Manjari"
+            "Losing 1 point for Manjari", "Connect Extension: 4 Pts."
           ],
-          "categories": ["NOM", "TTF-4"],
+          "categories": ["NOM", "TTF-4", "TTF-4"],
           "nominates": [20,12]
         }
       ]
