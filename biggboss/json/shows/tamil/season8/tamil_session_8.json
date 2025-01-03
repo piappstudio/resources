@@ -1101,8 +1101,10 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi : 2 Pts.", "Connect Extension: 1 Pts.",
-            "T7-New Year point: 1, 0.5 from Jacquline", "T8-Uruttu Ball: -4 Pts. Manjari 2: Muthu:2"
+            "T2 Neruppu Kuzhi : 2 Pts.",
+            "T6 Connect Extension: 1 Pts.",
+            "T7 New Year point: 1, 0.5 from Jacquline",
+            "T8-Uruttu Ball: -4 Pts. Manjari 2: Muthu:2"
           ],
           "categories": ["NOM", "TTF-2", "TTF-1", "TTF-1", "TTF--4"],
           "nominates": [5,24]
@@ -1373,9 +1375,11 @@
         {
           "week": 13,
           "notes": [
-            "T1: Own Points on Blind Fold: 2 Pts", "T7:New Year point: 1, 0.5 from Soundariya", "T8: Uruttu Ball: -3, Jacquline, Rayan, Raanav"
+            "T1: Own Points on Blind Fold: 2 Pts",
+            "T7:New Year point: 1, 0.5 from Soundariya",
+            "T8: Uruttu Ball: -3, Jacquline, Rayan, Raanav"
           ],
-          "categories": ["NOM", "TTF-0"],
+          "categories": ["NOM", "TTF-2", "TTF-1", "TTF--3"],
           "nominates": [22,18]
         }
       ]
@@ -1617,7 +1621,7 @@
             "T7: New Year point: 1, 0.5 from Deepak",
             "T8: Uruttu Task: -6 Pts. Rayan:1,Raanav:1, Manjari:2, Deepak:2"
           ],
-          "categories": ["NOM", "TTF-0"],
+          "categories": ["NOM", "TTF-3", "TTF-3", "TTF--1", "TTF-1", "TTF--6"],
           "nominates": [5,18]
         }
 
