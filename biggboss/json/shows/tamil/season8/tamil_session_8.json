@@ -557,9 +557,9 @@
         {
           "week": 13,
           "notes": [
-            "Level-2 Neruppu Kozhi 1 point", "2 Points for lights ON task", "Connect Extension: 2 Pts."
+            "Level-2 Neruppu Kozhi: 1 Pt", "Lights ON task: 2 Pts", "Connect Extension: 2 Pts.", "T8 Urutu Ball: 3"
           ],
-          "categories": ["NOM", "TTF-1", "TTF-2", "TTF-2"],
+          "categories": ["NOM", "TTF-1", "TTF-2", "TTF-2", "TTF-3"],
           "nominates": [20,10]
         }
 
@@ -1101,9 +1101,10 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi : 2 Pts.", "Connect Extension: 1 Pts.", "New Year point: 1, 0.5 from Jacquline"
+            "Neruppu Kuzhi : 2 Pts.", "Connect Extension: 1 Pts.",
+            "T7-New Year point: 1, 0.5 from Jacquline", "T8-Uruttu Ball: -4 Pts. Manjari 2: Muthu:2"
           ],
-          "categories": ["NOM", "TTF-2", "TTF-1", "TTF-1"],
+          "categories": ["NOM", "TTF-0"],
           "nominates": [5,24]
         }
       ]
@@ -1238,8 +1239,10 @@
         {
           "week": 13,
           "notes": [
+            "T2 Neruppu Kozhi: 4 Pts",
+            "T8- Uruttu Ball: 6 Pts from Jacquine", "T8- Uruttu Ball: 3 Pts"
           ],
-          "categories": ["TTF-4"],
+          "categories": ["TTF-4", "TTF-6", "TTF-3"],
           "nominates": [17,18]
         }
       ]
@@ -1370,9 +1373,9 @@
         {
           "week": 13,
           "notes": [
-            "Own Points on Blind Fold: 2 Pts", "New Year point: 1, 0.5 from Soundariya"
+            "T1: Own Points on Blind Fold: 2 Pts", "T7:New Year point: 1, 0.5 from Soundariya", "T8: Uruttu Ball: -3, Jacquline, Rayan, Raanav"
           ],
-          "categories": ["NOM", "TTF-2", "TTF-1"],
+          "categories": ["NOM", "TTF-0"],
           "nominates": [22,18]
         }
       ]
@@ -1608,10 +1611,13 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi, Level-2 Winner: 3 Pts.", "Lights ON winner: 3 Pts.",
-            "Losing 1 points for Manjari", "New Year point: 1, 0.5 from Deepak"
+            "T2: Neruppu Kuzhi, Level-2 Winner: 3 Pts.",
+            "T3: Lights ON winner: 3 Pts.",
+            "T4: Lost:-1 points for Manjari",
+            "T7: New Year point: 1, 0.5 from Deepak",
+            "T8: Uruttu Task: -6 Pts. Rayan:1,Raanav:1, Manjari:2, Deepak:2"
           ],
-          "categories": ["NOM", "TTF-3", "TTF-2", "TTF-1"],
+          "categories": ["NOM", "TTF-0"],
           "nominates": [5,18]
         }
 
@@ -1910,9 +1916,12 @@
         {
           "week": 13,
           "notes": [
-            "Earned 1 point during Light ON task", "Connect Extension: 5 Pts."
+            "T3: Earned 1 point during Light ON task",
+            "T6: Connect Extension: 5 Pts.",
+            "T8: Uruttu Ball: 3 Pts",
+            "T8: Uruttu Ball: 2 Pts from Pavithra"
           ],
-          "categories": ["TTF-1", "TTF-5"],
+          "categories": ["TTF-1", "TTF-5", "TTF-3", "TTF-2"],
           "nominates": [11,20]
         }
       ]
@@ -2045,9 +2054,13 @@
         {
           "week": 13,
           "notes": [
-            "Got 3 points in Neruppu Kuzhi: 3 Pts", "-1 point on hello, hello", "Connect Extension: 3"
+            "T2: Neruppu Kuzhi: 3 Pts",
+            "T5: Hello, Heloo: -1 Pt",
+            "T6: Connect Extension: 3 Pts.",
+            "T8: Uruttu Ball: 1 Pts from Arun",
+            "T8: Urutu Ball: -6 to Soundariya"
           ],
-          "categories": ["NOM", "TTF-2", "TTF-3"],
+          "categories": ["NOM", "TTF-0"],
           "nominates": [14,10]
         }
       ]
@@ -2286,9 +2299,14 @@
         {
           "week": 13,
           "notes": [
-            "Morning Activity Best Speech", "New Year point: 1, 0.5 got from Muthu"
+            "T1: Nerupu Kozhi: 1 Pt.",
+            "T4: Morning Activity Best Speech: 3 Pts.",
+            "T7: New Year point: 1, 0.5 got from Muthu",
+            "T5: Hello, Hello: 1 Pt.",
+            "T8: Uruttu Ball: 2 Pts from Pavithra",
+            "T8: Uruttu Ball: 3 Pts."
           ],
-          "categories": ["NOM", "TTF-1", "TTF-3", "TTF-1"],
+          "categories": ["NOM", "TTF-1", "TTF-3", "TTF-1", "TTF-1", "TTF-2", "TTF-3"],
           "nominates": [12,14]
         }
       ]
@@ -2420,10 +2438,14 @@
         {
           "week": 13,
           "notes": [
-            "Neruppu Kuzhi- Level-1 Winner: 5 Pts.",
-            "Losing 1 point for Manjari", "Connect Extension: 4 Pts."
+            "T2: Neruppu Kuzhi- Level-1 Winner: 5 Pts.",
+            "T4: Losing 1 point for Manjari",
+            "T6: Connect Extension: 4 Pts.",
+            "T8: Uruttu Ball: 1 Pts from Arun",
+            "T8: Uruttu Ball: 1 Pts from Vishal",
+            "T8: Uruttu Ball: 3 Pts"
           ],
-          "categories": ["NOM", "TTF-4", "TTF-4"],
+          "categories": ["NOM", "TTF-4", "TTF-4", "TTF-1", "TTF-1", "TTF-3"],
           "nominates": [20,12]
         }
       ]
