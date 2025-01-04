@@ -2447,9 +2447,9 @@
             "T6: Connect Extension: 4 Pts.",
             "T8: Uruttu Ball: 1 Pts from Arun",
             "T8: Uruttu Ball: 1 Pts from Vishal",
-            "T8: Uruttu Ball: 3 Pts"
-          ],
-          "categories": ["NOM", "TTF-4", "TTF-4", "TTF-1", "TTF-1", "TTF-3"],
+            "T8: Uruttu Ball: 3 Pts",
+            "T5: Hello, Hello. Manjari given hair color task and share 2 points"],
+          "categories": ["NOM", "TTF-5", "TTF-4","TTF--1", "TTF-1", "TTF-1", "TTF-3", "TTF-2"],
           "nominates": [20,12]
         }
       ]
