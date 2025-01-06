@@ -430,7 +430,7 @@
       "eliminated_date": null,
       "name": "Deepak",
       "id": "5",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak_pp.png",
       "dial_number": "7669065304",
       "history": [
@@ -981,7 +981,7 @@
       "eliminated_date": null,
       "name": "Pavithra Janani",
       "id": "10",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra_pp.png",
       "dial_number": "7669065310",
       "history": [
@@ -1254,7 +1254,7 @@
       "eliminated_date": null,
       "name": "Arun Prasanth",
       "id": "12",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
       "dial_number": "7669065303",
       "history": [
@@ -1497,7 +1497,7 @@
       "eliminated_date": null,
       "name": "Vishal",
       "id": "14",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/vishal_pp.png",
       "dial_number": "7669065318",
       "history": [
@@ -1935,7 +1935,7 @@
       "eliminated_date": null,
       "name": "Jacqueline",
       "id": "18",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline_pp.png",
       "dial_number": "7669065307",
       "history": [
@@ -2224,11 +2224,11 @@
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari.png",
-      "eliminated_date": null,
+      "eliminated_date": "2025-01-05",
       "start_date": "2024-11-03",
       "name": "Manjari",
       "id": "22",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari_pp.png",
       "dial_number": "7669065319",
       "history": [
@@ -2310,7 +2310,7 @@
             "T8: Uruttu Ball: 2 Pts from Pavithra",
             "T8: Uruttu Ball: 3 Pts."
           ],
-          "categories": ["NOM", "TTF-1", "TTF-3", "TTF-1", "TTF-1", "TTF-2", "TTF-3"],
+          "categories": ["NOM", "TTF-1", "TTF-3", "TTF-1", "TTF-1", "TTF-2", "TTF-3", "EVI"],
           "nominates": [12,14]
         }
       ]
@@ -2369,8 +2369,9 @@
       "eliminated_date": null,
       "start_date": "2024-11-03",
       "name": "Rayan",
+      "title": "TTF Winner",
       "id": "24",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/rayan_pp.png",
       "dial_number": null,
       "history": [
