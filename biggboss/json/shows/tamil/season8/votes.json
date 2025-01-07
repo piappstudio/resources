@@ -815,6 +815,53 @@
             }
           ]
 
+        },
+        { "week": 14,
+          "players": [
+            {
+              "id": 17,
+              "name": "Muthu",
+              "vote": 55867,
+              "percentage": 37.73
+            },
+            {
+              "id": 11,
+              "name": "Soundariya",
+              "vote": 28356,
+              "percentage": 19.15
+            },
+            {
+              "id": 18,
+              "name": "Jacquline",
+              "vote": 13755,
+              "percentage": 9.29
+            },
+            {
+              "id": 5,
+              "name": "Deepak",
+              "vote": 13152,
+              "percentage": 8.88
+            },
+            {
+              "id": 12,
+              "name": "Arun",
+              "vote": 13013,
+              "percentage": 8.79
+            },
+            {
+              "id": 14,
+              "name": "Vishal",
+              "vote": 12067,
+              "percentage": 8.15
+            },
+            {
+              "id": 10,
+              "name": "Pavithra",
+              "vote": 11866,
+              "percentage": 8.01
+            }
+          ]
+
         }
       ]
     }
