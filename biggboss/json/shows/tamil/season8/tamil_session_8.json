@@ -427,10 +427,10 @@
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak.png",
-      "eliminated_date": null,
+      "eliminated_date": "2025-01-12",
       "name": "Deepak",
       "id": "5",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak_pp.png",
       "dial_number": "7669065304",
       "history": [
@@ -565,7 +565,7 @@
         {
           "week": 14,
           "notes": ["Direct Nomination"],
-          "categories": ["NOM"],
+          "categories": ["NOM", "EVI"],
           "nominates": []
         }
 
@@ -1120,6 +1120,12 @@
           "notes": ["Direct Nomination"],
           "categories": ["NOM"],
           "nominates": []
+        },
+        {
+          "week": 15,
+          "notes": ["Direct Nomination"],
+          "categories": ["NOM"],
+          "nominates": []
         }
 
       ]
@@ -1265,15 +1271,21 @@
           "notes": ["Direct Nomination"],
           "categories": ["NOM"],
           "nominates": []
+        },
+        {
+          "week": 15,
+          "notes": ["Direct Nomination"],
+          "categories": ["NOM"],
+          "nominates": []
         }
       ]
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun.png",
-      "eliminated_date": null,
+      "eliminated_date": "2025-01-11",
       "name": "Arun Prasanth",
       "id": "12",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
       "dial_number": "7669065303",
       "history": [
@@ -1404,7 +1416,7 @@
         {
           "week": 14,
           "notes": ["Direct Nomination"],
-          "categories": ["NOM"],
+          "categories": ["NOM", "EVI"],
           "nominates": []
         }
       ]
@@ -1651,6 +1663,12 @@
         },
         {
           "week": 14,
+          "notes": ["Direct Nomination"],
+          "categories": ["NOM"],
+          "nominates": []
+        },
+        {
+          "week": 15,
           "notes": ["Direct Nomination"],
           "categories": ["NOM"],
           "nominates": []
@@ -1964,6 +1982,12 @@
           "notes": ["Direct Nomination"],
           "categories": ["NOM"],
           "nominates": []
+        },
+        {
+          "week": 15,
+          "notes": ["Direct Nomination"],
+          "categories": ["NOM"],
+          "nominates": []
         }
       ]
     },
@@ -2106,6 +2130,12 @@
         },
         {
           "week": 14,
+          "notes": ["Direct Nomination"],
+          "categories": ["NOM"],
+          "nominates": []
+        },
+        {
+          "week": 15,
           "notes": ["Direct Nomination"],
           "categories": ["NOM"],
           "nominates": []
@@ -2495,6 +2525,18 @@
             "T5: Hello, Hello. Manjari given hair color task and share 2 points"],
           "categories": ["NOM", "TTF-5", "TTF-4","TTF--1", "TTF-1", "TTF-1", "TTF-3", "TTF-2"],
           "nominates": [20,12]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "categories": [],
+          "nominates": []
+        },
+        {
+          "week": 15,
+          "notes": ["Direct Nomination"],
+          "categories": ["NOM"],
+          "nominates": []
         }
       ]
     }
