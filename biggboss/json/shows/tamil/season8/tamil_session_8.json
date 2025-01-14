@@ -41,7 +41,23 @@
       "weekly_enabled": true,
       "is_week": true,
       "graph": true,
-      "graphOrder": 5
+      "graphOrder": 3
+    },
+    {
+      "name": "Ticket To Final",
+      "key": "TTF",
+      "color": "FFD4AF37",
+      "graph": true,
+      "is_week": true,
+      "graphOrder": 1
+    },
+    {
+      "name": "Money Box",
+      "key": "MB",
+      "color": "FF2E9F49",
+      "graph": true,
+      "is_week": true,
+      "graphOrder": 2
     },
     {
       "name": "Evicted",
@@ -97,22 +113,6 @@
       "color": "FF93000A",
       "text": "FFFFFFFF",
       "is_week": true
-    },
-    {
-      "name": "Ticket To Final",
-      "key": "TTF",
-      "color": "FFD4AF37",
-      "graph": true,
-      "is_week": true,
-      "graphOrder": 1
-    },
-    {
-      "name": "Money Box",
-      "key": "MB",
-      "color": "FF2E9F49",
-      "graph": true,
-      "is_week": true,
-      "graphOrder": 2
     },
     {
       "name": "Girls House",
