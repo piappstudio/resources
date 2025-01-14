@@ -107,6 +107,14 @@
       "graphOrder": 1
     },
     {
+      "name": "Money Box",
+      "key": "MB",
+      "color": "FF2E9F49",
+      "graph": true,
+      "is_week": true,
+      "graphOrder": 2
+    },
+    {
       "name": "Girls House",
       "key": "GH",
       "color": "FFEB34A4",
@@ -1985,8 +1993,8 @@
         },
         {
           "week": 15,
-          "notes": ["Direct Nomination"],
-          "categories": ["NOM"],
+          "notes": ["Direct Nomination", "Run 60M in 12 Minutes"],
+          "categories": ["NOM", "MB-50000"],
           "nominates": []
         }
       ]
