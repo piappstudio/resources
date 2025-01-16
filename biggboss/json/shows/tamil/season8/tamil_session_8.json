@@ -2543,7 +2543,7 @@
         {
           "week": 15,
           "notes": ["Direct Nomination"],
-          "categories": ["NOM"],
+          "categories": ["NOM", "MB-100000"],
           "nominates": []
         }
       ]
