@@ -1131,8 +1131,8 @@
         },
         {
           "week": 15,
-          "notes": ["Direct Nomination"],
-          "categories": ["NOM"],
+          "notes": ["Direct Nomination", "Finished 90M in 23 Seconds (25 Seconds)"],
+          "categories": ["NOM", "MB-200000"],
           "nominates": []
         }
 
@@ -1282,7 +1282,7 @@
         },
         {
           "week": 15,
-          "notes": ["Direct Nomination"],
+          "notes": ["Direct Nomination", "Failed to complete 120M in 30 Seconds. Return back to Home (Covered 90M in 21 Seconds)"],
           "categories": ["NOM"],
           "nominates": []
         }
@@ -1677,8 +1677,8 @@
         },
         {
           "week": 15,
-          "notes": ["Direct Nomination"],
-          "categories": ["NOM"],
+          "notes": ["Direct Nomination", "Finished 120M in 25 Seconds (30 Seconds)"],
+          "categories": ["NOM", "MB-500000"],
           "nominates": []
         }
 
@@ -2004,7 +2004,7 @@
       "eliminated_date": null,
       "name": "Jacqueline",
       "id": "18",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline_pp.png",
       "dial_number": "7669065307",
       "history": [
@@ -2144,8 +2144,8 @@
         },
         {
           "week": 15,
-          "notes": ["Direct Nomination"],
-          "categories": ["NOM"],
+          "notes": ["Direct Nomination", "Failed to complete 160M in 35 Seconds. Takes 2 more seconds."],
+          "categories": ["NOM", "EVI"],
           "nominates": []
         }
       ]
@@ -2542,7 +2542,7 @@
         },
         {
           "week": 15,
-          "notes": ["Direct Nomination"],
+          "notes": ["Direct Nomination", "Finished 60M in 17 Seconds"],
           "categories": ["NOM", "MB-200000"],
           "nominates": []
         }
