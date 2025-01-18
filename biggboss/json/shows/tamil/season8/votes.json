@@ -868,14 +868,14 @@
             {
               "id": 17,
               "name": "Muthu",
-              "vote": 204740,
-              "percentage": 49.80
+              "vote": 260053,
+              "percentage": 49.23
             },
             {
               "id": 11,
               "name": "Soundariya",
-              "vote": 82869,
-              "percentage": 20.16
+              "vote": 105669,
+              "percentage": 20
             },
             {
               "id": 18,
@@ -886,20 +886,20 @@
             {
               "id": 14,
               "name": "Vishal",
-              "vote": 56931,
-              "percentage": 13.85
+              "vote": 72556,
+              "percentage": 13.74
             },
             {
               "id": 10,
               "name": "Pavithra",
-              "vote": 31494,
-              "percentage": 7.66
+              "vote": 40592,
+              "percentage": 7.68
             },
             {
               "id": 24,
               "name": "Rayan",
-              "vote": 35060,
-              "percentage": 8.53
+              "vote": 49372,
+              "percentage": 9.35
             }
           ]
 
