@@ -1142,10 +1142,12 @@
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/soundariya.png",
-      "eliminated_date": null,
+      "eliminated_date": "2025-01-19",
       "name": "Soundarya Nanjundan",
       "id": "11",
-      "isNominated": true,
+      "isNominated": false,
+      "order": 2,
+      "title": "Runner Up",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/soundariya_pp.png",
       "dial_number": "7669065315",
       "history": [
@@ -1285,7 +1287,7 @@
         {
           "week": 15,
           "notes": ["Direct Nomination", "Failed to complete 120M in 30 Seconds. Return back to Home (Covered 90M in 21 Seconds)"],
-          "categories": ["NOM"],
+          "categories": ["NOM", "EVI"],
           "nominates": []
         }
       ]
@@ -1541,10 +1543,12 @@
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/vishal.png",
-      "eliminated_date": null,
+      "eliminated_date": "2025-01-19",
       "name": "Vishal",
       "id": "14",
-      "isNominated": true,
+      "order": 3,
+      "title": "5L Cash Box, 3rd Runner",
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/vishal_pp.png",
       "dial_number": "7669065318",
       "history": [
@@ -1680,7 +1684,7 @@
         {
           "week": 15,
           "notes": ["Direct Nomination", "Finished 120M in 25 Seconds (30 Seconds)"],
-          "categories": ["NOM", "MB-500000"],
+          "categories": ["NOM", "MB-500000", "EVI"],
           "nominates": []
         }
 
@@ -1852,10 +1856,12 @@
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar.png",
-      "eliminated_date": null,
+      "eliminated_date": "2025-01-19",
       "name": "MuthuKumar",
-      "isNominated": true,
+      "isNominated": false,
       "id": "17",
+      "order": 1,
+      "title": "5K Cash Box, Title Winner",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar_pp.png",
       "dial_number": "7669065309",
       "history": [
@@ -1996,7 +2002,7 @@
         {
           "week": 15,
           "notes": ["Direct Nomination", "Cash Box: Run 60M in 12 Sec won: ₹50K"],
-          "categories": ["NOM", "MB-50000"],
+          "categories": ["NOM", "MB-50000", "EVI"],
           "nominates": []
         }
       ]
@@ -2452,7 +2458,7 @@
       "eliminated_date": "2025-01-19",
       "start_date": "2024-11-03",
       "name": "Rayan",
-      "title": "TTF,2L Cash Box, 5th Runner",
+      "title": "TTF, 2L Cash Box, 5th Runner",
       "id": "24",
       "order": 5,
       "isNominated": false,
