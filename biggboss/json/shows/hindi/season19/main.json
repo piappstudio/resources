@@ -95,9 +95,16 @@
       "graphOrder": 2
     },
     {
-      "name": "Yellow Strike",
-      "key": "YC",
+      "name": "Evicted By Housemates",
+      "key": "EBH",
       "color": "FFEFC935",
+      "text": "FF000000",
+      "is_week": true
+    },
+    {
+      "name": "Secret Room",
+      "key": "SR",
+      "color": "FF052280",
       "text": "FF000000",
       "is_week": true
     },

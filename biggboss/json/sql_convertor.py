@@ -6,8 +6,8 @@ def generate_sql_insert(participants):
     # Define the base SQL template
     sql_template = (
         "INSERT INTO `participants` "
-        "(`show_id`, `name`, `dial_number`, `entry_date`, `evicted_date`, `image`, `full_image`, `created_at`, `updated_at`) "
-        "VALUES ('{show_id}', '{name}', '{dial_number}', '{entry_date}', '{evicted_date}', '{image}', '{full_image}', '{created_at}', '{updated_at}');"
+        "(`id`, `show_id`, `name`, `dial_number`, `entry_date`, `image`, `full_image`, `created_at`, `updated_at`) "
+        "VALUES ('{part_id}','{show_id}', '{name}', '{dial_number}', '{entry_date}', '{image}', '{full_image}', '{created_at}', '{updated_at}');"
     )
 
     # Get the current date and time for created_at and updated_at
@@ -19,23 +19,25 @@ def generate_sql_insert(participants):
     # Process each participant
     for participant in participants:
         # Extract data
-        show_id = '1'  # Assuming a constant value for this example
+        part_id = participant.get('id', '')
+        show_id = '3'  # Assuming a constant value for this example
         name = participant.get('name', '')
         dial_number = participant.get('dial_number', '')
-        entry_date = '2023-10-01'  # Placeholder value, adjust as needed
-        evicted_date = participant.get('eliminated_date', '')
+        entry_date = '2025-08-24'  # Placeholder value, adjust as needed
+        #evicted_date = participant.get('eliminated_date', '')
         image = participant.get('image', '')
         full_image = participant.get('full_image', '')
         created_at = now
         updated_at = now
 
+
         # Generate SQL statement
         sql_statement = sql_template.format(
+            part_id=part_id,
             show_id=show_id,
             name=name,
             dial_number=dial_number,
             entry_date=entry_date,
-            evicted_date=evicted_date,
             image=image,
             full_image=full_image,
             created_at=created_at,
@@ -50,7 +52,7 @@ def generate_sql_insert(participants):
 
 # Main function to read JSON from file and generate SQL
 def main():
-    input_file = 'shows/tamil_session_7.json'  # Replace with your JSON file path
+    input_file = 'shows/hindi/season19/main.json'  # Replace with your JSON file path
     output_file = 'insert_statements.sql'  # File to save the SQL statements
 
     # Read JSON data from file
