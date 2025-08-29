@@ -105,10 +105,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": [],
           "categories": [],
           "nominates": [
             8,
@@ -129,10 +129,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": [],
           "categories": [],
           "nominates": [
             2,
@@ -153,11 +153,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-          ],
           "categories": [
             "EBH",
             "SR",
@@ -179,12 +178,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-            
-          ],
           "categories": [
             "NOM"
           ],
@@ -207,12 +204,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-            
-          ],
           "categories": [
             "NOM"
           ],
@@ -235,12 +230,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-            
-          ],
           "categories": [
             "NOM"
           ],
@@ -263,12 +256,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-            
-          ],
           "categories": [
             "NOM"
           ],
@@ -291,12 +282,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-            
-          ],
           "categories": [
             "NOM"
           ],
@@ -319,10 +308,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": [],
           "categories": [],
           "nominates": [
             8,
@@ -343,10 +332,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": [],
           "categories": [],
           "nominates": [
             3,
@@ -367,10 +356,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": [],
           "categories": [],
           "nominates": [
             10,
@@ -391,10 +380,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": [],
           "categories": [],
           "nominates": [
             9,
@@ -415,12 +404,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-            
-          ],
           "categories": [
             "NOM"
           ],
@@ -443,12 +430,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "notes": [
-            
-          ],
           "categories": [
             "NOM"
           ],
@@ -471,6 +456,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": []
     },
     {
@@ -485,10 +471,10 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": [],
           "categories": [],
           "nominates": [
             12,
