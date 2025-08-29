@@ -47,7 +47,7 @@
       "color": "FFEA4839",
       "text": "FFFFFFFF",
       "is_week": true,
-      "graph": 0,
+      "graph": false,
       "graphOrder": null,
       "created_at": "2025-02-19T09:42:34.000000Z",
       "updated_at": "2025-02-19T09:42:34.000000Z"
