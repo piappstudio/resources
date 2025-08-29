@@ -39,8 +39,8 @@
       "runner": null,
       "cash": null,
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/logo.png",
-      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/tamil_session_8.json",
-      "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/tamil_session_8_trends.json",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/main.json",
+      "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/trends.json",
       "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/votes.json"
 
     }
