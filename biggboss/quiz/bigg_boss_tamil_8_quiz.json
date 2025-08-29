@@ -1,0 +1,427 @@
+[
+  {
+    "question": "Who won the Bigg Boss Tamil Season 8 title?",
+    "choices": ["Soundarya Nanjundan", "Vishal", "MuthuKumar", "Pavithra Janani"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant had the highest vote percentage in Week 1?",
+    "choices": ["MuthuKumar (15.84%)", "Soundarya (26.64%)", "Ravinder (13.57%)", "Arun Prasath (13.63%)"],
+    "answer": 1
+  },
+  {
+    "question": "How many wild card contestants entered the house in Week 5?",
+    "choices": ["4 contestants", "5 contestants", "6 contestants", "7 contestants"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant was eliminated and then re-entered the house?",
+    "choices": ["Anshida", "Sachana", "Jeffrey", "Tharshika"],
+    "answer": 1
+  },
+  {
+    "question": "What was MuthuKumar's final vote percentage when he won the title?",
+    "choices": ["33.27%", "45.91%", "48.91%", "52.15%"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first contestant to be eliminated from the house?",
+    "choices": ["Arnav", "Ravinder", "Dharsha Gupta", "Sachana"],
+    "answer": 1
+  },
+  {
+    "question": "Which house division was a major theme throughout the season?",
+    "choices": ["Big House vs Small House", "Boys House vs Girls House", "North House vs South House", "Senior House vs Junior House"],
+    "answer": 1
+  },
+  {
+    "question": "How many contestants appeared in nominations 11 times throughout the season?",
+    "choices": ["Jacqueline", "Soundarya", "Pavithra", "Arun"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant had the runner-up position in the finale?",
+    "choices": ["Vishal", "Pavithra Janani", "Soundarya Nanjundan", "Rayan"],
+    "answer": 2
+  },
+  {
+    "question": "In which week was Tharshika eliminated?",
+    "choices": ["Week 8", "Week 9", "Week 10", "Week 11"],
+    "answer": 2
+  },
+  {
+    "question": "What cash prize did MuthuKumar win from the Money Box challenge?",
+    "choices": ["₹2,00,000", "₹5,00,000", "₹50,000", "₹10,00,000"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant had ID number 17 in the show?",
+    "choices": ["Jacqueline", "MuthuKumar", "Vishal", "Soundarya"],
+    "answer": 1
+  },
+  {
+    "question": "How many weeks did the show run in total?",
+    "choices": ["12 weeks", "14 weeks", "15 weeks", "16 weeks"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant was known as a 'Serial Actor' and had ID 13?",
+    "choices": ["Anshida", "Tharshika", "Arun Prasanth", "Vishal"],
+    "answer": 1
+  },
+  {
+    "question": "Who won ₹5L from the Money Box challenge in the finale?",
+    "choices": ["Pavithra", "Soundarya", "Vishal", "Rayan"],
+    "answer": 2
+  },
+  {
+    "question": "Which wildcard contestant was eliminated in Week 6?",
+    "choices": ["Riya", "Manjari", "Varshini", "Shiva kumar"],
+    "answer": 0
+  },
+  {
+    "question": "What was Soundarya's vote percentage in Week 3?",
+    "choices": ["20.2%", "22.2%", "24.2%", "26.2%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was the captain in Week 1?",
+    "choices": ["Sathya", "Tharshika", "MuthuKumar", "Arun"],
+    "answer": 1
+  },
+  {
+    "question": "How many contestants were there in the original entry (Week 1)?",
+    "choices": ["16", "17", "18", "19"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant had the title '4th Runner' with ₹2L Cash Box?",
+    "choices": ["Vishal", "Pavithra Janani", "Rayan", "Jacqueline"],
+    "answer": 1
+  },
+  {
+    "question": "In Week 9, who had the highest vote percentage?",
+    "choices": ["Soundarya (14.52%)", "MuthuKumar (25.41%)", "Raanav (9.02%)", "Jacqueline (9.09%)"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was eliminated on 2024-11-10?",
+    "choices": ["Sunitha Gogoi", "Dharsha Gupta", "Arnav", "Riya"],
+    "answer": 0
+  },
+  {
+    "question": "What does 'TTF' stand for in the show categories?",
+    "choices": ["Time To Fight", "Ticket To Final", "Task To Finish", "Team To Form"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was known as a 'Gana Singer'?",
+    "choices": ["Ranjith", "Jeffrey", "Deepak", "Vishal"],
+    "answer": 1
+  },
+  {
+    "question": "Who was eliminated along with Sachana in Week 9?",
+    "choices": ["Tharshika", "Ananthi", "Ranjith", "Jeffrey"],
+    "answer": 1
+  },
+  {
+    "question": "Which platform was listed as the official voting app?",
+    "choices": ["TamilGlitz", "Pi App Studio", "Disney-HOTSTAR Bigg Boss 8 App", "Bigg Boss Vote Tamil"],
+    "answer": 2
+  },
+  {
+    "question": "In Week 15, what was Jacqueline's vote percentage?",
+    "choices": ["7.51%", "9.53%", "9.83%", "13.47%"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant had 2.3 Million followers according to the data?",
+    "choices": ["Soundarya", "Dharsha Gupta", "Jacqueline", "Pavithra"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the captain in Week 5?",
+    "choices": ["Sathya", "MuthuKumar", "Manjari", "Jeffrey"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant was eliminated on the finale day (2025-01-19)?",
+    "choices": ["Only MuthuKumar won", "Soundarya, Pavithra, Vishal, Rayan, Jacqueline", "Only Jacqueline", "Pavithra and Rayan"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was known as an 'Actor, Host' according to their profile?",
+    "choices": ["Vishal", "Deepak", "Ranjith", "Jeffrey"],
+    "answer": 1
+  },
+  {
+    "question": "What was Ranjith's vote percentage in Week 1?",
+    "choices": ["13.57%", "15.84%", "13.63%", "26.64%"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant was eliminated on 2024-10-27?",
+    "choices": ["Arnav", "Dharsha Gupta", "Ravinder", "Sachana"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the captain in Week 3?",
+    "choices": ["Sathya", "Tharshika", "MuthuKumar", "Manjari"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant had the dial number '7669065306'?",
+    "choices": ["Ravinder", "Sachana", "Dharsha", "Sathya"],
+    "answer": 0
+  },
+  {
+    "question": "What was VJ Vishal's vote percentage in Week 2?",
+    "choices": ["17.78%", "19.16%", "14.00%", "7.27%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was described as having 'Reviewer comes with bit hate' in Week 1?",
+    "choices": ["Ravinder", "Sachana", "Dharsha", "Sathya"],
+    "answer": 0
+  },
+  {
+    "question": "Who was eliminated on 2024-12-28?",
+    "choices": ["Ranjith", "Jeffrey", "Anshida", "Manjari"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was known as an 'RJ' (Radio Jockey)?",
+    "choices": ["Sunitha", "Ananthi", "Pavithra", "Soundarya"],
+    "answer": 1
+  },
+  {
+    "question": "What was Deepak's vote percentage in Week 2?",
+    "choices": ["6.55%", "7.27%", "8.20%", "6.21%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was captain in Week 4?",
+    "choices": ["Sathya", "MuthuKumar", "Tharshika", "Arun"],
+    "answer": 1
+  },
+  {
+    "question": "Who was eliminated on 2024-10-06 and later re-entered?",
+    "choices": ["Sachana", "Anshida", "Jacqueline", "Pavithra"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant was described as 'Maharaja actor'?",
+    "choices": ["Ranjith", "Sachana", "Deepak", "Arun"],
+    "answer": 1
+  },
+  {
+    "question": "What was Arun Prasath's vote percentage in Week 1?",
+    "choices": ["13.57%", "13.63%", "15.84%", "26.64%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was captain in Week 6?",
+    "choices": ["Sathya", "MuthuKumar", "Arun", "Manjari"],
+    "answer": 2
+  },
+  {
+    "question": "Who had the lowest vote percentage in Week 6?",
+    "choices": ["Sachana (3.11%)", "Shiva Kumar (2.87%)", "Varshini (2.66%)", "Manjari (2.63%)"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant was eliminated on 2024-11-17?",
+    "choices": ["Varshini", "Riya", "Manjari", "Shiva kumar"],
+    "answer": 1
+  },
+  {
+    "question": "What was Jeffrey's vote percentage in Week 4?",
+    "choices": ["20.62%", "11.31%", "10.31%", "10.57%"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant was known as 'Media' professional?",
+    "choices": ["MuthuKumar", "Vishal", "Deepak", "Ranjith"],
+    "answer": 0
+  },
+  {
+    "question": "Who was captain in Week 7?",
+    "choices": ["Sathya", "MuthuKumar", "Manjari", "Arun"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant was eliminated on 2024-11-24?",
+    "choices": ["Riya", "Varshini", "Manjari", "Shiva kumar"],
+    "answer": 1
+  },
+  {
+    "question": "What was Pavithra's vote percentage in Week 4?",
+    "choices": ["8.61%", "7.09%", "8.31%", "12.70%"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant was captain in Week 8?",
+    "choices": ["Deepak", "Jeffrey", "Ranjith", "Vishal"],
+    "answer": 0
+  },
+  {
+    "question": "Who was eliminated on 2024-12-01?",
+    "choices": ["Riya", "Varshini", "Shiva kumar", "Manjari"],
+    "answer": 2
+  },
+  {
+    "question": "What was Anshida's vote percentage in Week 8?",
+    "choices": ["17.26%", "13.10%", "9.82%", "6.36%"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant was captain in Week 9?",
+    "choices": ["Deepak", "Jeffrey", "Ranjith", "Vishal"],
+    "answer": 1
+  },
+  {
+    "question": "Who was captain in Week 10?",
+    "choices": ["Jeffrey", "Ranjith", "Vishal", "Deepak"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was eliminated on 2024-12-08 along with Sachana?",
+    "choices": ["Ananthi", "Tharshika", "Ranjith", "Jeffrey"],
+    "answer": 0
+  },
+  {
+    "question": "What was Soundarya's vote percentage in Week 10?",
+    "choices": ["19.33%", "18.49%", "11.27%", "8.71%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was captain in Week 11?",
+    "choices": ["Jeffrey", "Ranjith", "Vishal", "Deepak"],
+    "answer": 2
+  },
+  {
+    "question": "Who was eliminated on 2024-12-15 along with Tharshika?",
+    "choices": ["Ananthi", "Sathya", "Ranjith", "Jeffrey"],
+    "answer": 1
+  },
+  {
+    "question": "What was Manjari's vote percentage in Week 12?",
+    "choices": ["13.69%", "11.27%", "16.23%", "12.45%"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant was eliminated on 2024-12-22?",
+    "choices": ["Sathya", "Ranjith", "Jeffrey", "Anshida"],
+    "answer": 1
+  },
+  {
+    "question": "What was Deepak's vote percentage in Week 13?",
+    "choices": ["11.89%", "14.51%", "12.70%", "12.03%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was eliminated on 2024-12-29?",
+    "choices": ["Ranjith", "Jeffrey", "Anshida", "Manjari"],
+    "answer": 2
+  },
+  {
+    "question": "What was Raanav's vote percentage in Week 13?",
+    "choices": ["11.89%", "14.51%", "12.70%", "12.03%"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant was eliminated on 2025-01-04?",
+    "choices": ["Raanav", "Manjari", "Deepak", "Arun"],
+    "answer": 0
+  },
+  {
+    "question": "What was MuthuKumar's vote percentage in Week 14?",
+    "choices": ["17.85%", "33.27%", "10.52%", "9.88%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was eliminated on 2025-01-05?",
+    "choices": ["Raanav", "Manjari", "Deepak", "Arun"],
+    "answer": 1
+  },
+  {
+    "question": "What was Deepak's vote percentage in Week 14?",
+    "choices": ["10.52%", "9.88%", "9.85%", "10.34%"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant was eliminated on 2025-01-11?",
+    "choices": ["Deepak", "Arun Prasanth", "Vishal", "Pavithra"],
+    "answer": 1
+  },
+  {
+    "question": "What was Pavithra's vote percentage in Week 15?",
+    "choices": ["20.58%", "13.47%", "7.51%", "9.53%"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant was eliminated on 2025-01-12?",
+    "choices": ["Arun Prasanth", "Deepak", "Vishal", "Pavithra"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant finished 90M in 23 seconds during the Money Box challenge?",
+    "choices": ["Pavithra", "Vishal", "Soundarya", "MuthuKumar"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant finished 120M in 25 seconds during the Money Box challenge?",
+    "choices": ["Pavithra", "Vishal", "Soundarya", "MuthuKumar"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant ran 60M in 12 seconds to win ₹50K?",
+    "choices": ["MuthuKumar", "Vishal", "Soundarya", "Pavithra"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant failed to complete 160M in 35 seconds?",
+    "choices": ["Jacqueline", "Pavithra", "Soundarya", "Rayan"],
+    "answer": 0
+  },
+  {
+    "question": "Which contestant failed to complete 120M in 30 seconds?",
+    "choices": ["Jacqueline", "Pavithra", "Soundarya", "Rayan"],
+    "answer": 2
+  },
+  {
+    "question": "Which contestant finished 60M in 17 seconds to win ₹2L?",
+    "choices": ["Rayan", "Pavithra", "Vishal", "Jacqueline"],
+    "answer": 0
+  },
+  {
+    "question": "What does 'NFTS' category stand for?",
+    "choices": ["No Final Task Selected", "Nomination Free To Save", "New Format Task Started", "Nomination Free Save"],
+    "answer": 3
+  },
+  {
+    "question": "What does 'MB' category represent?",
+    "choices": ["Main Boss", "Money Box", "Multiple Benefits", "Major Battle"],
+    "answer": 1
+  },
+  {
+    "question": "Which contestant had the category 'GS' (Gold Star)?",
+    "choices": ["This information is not specified in the data", "MuthuKumar", "Soundarya", "Vishal"],
+    "answer": 0
+  },
+  {
+    "question": "What does 'YC' category stand for?",
+    "choices": ["Yellow Card", "Yellow Strike", "Year Challenge", "Youth Category"],
+    "answer": 1
+  },
+  {
+    "question": "What does 'RC' category represent?",
+    "choices": ["Red Card", "Room Challenge", "Reverse Category", "Random Choice"],
+    "answer": 0
+  },
+  {
+    "question": "Which iOS app name was mentioned for TamilGlitz voting?",
+    "choices": ["TamilGlitz's Poll", "Unofficial Trending", "TamilGlitz Vote", "Tamil Poll App"],
+    "answer": 1
+  }
+]
