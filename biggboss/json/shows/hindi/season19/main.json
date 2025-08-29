@@ -1,0 +1,279 @@
+{
+  "voting_options": {
+    "official_vote": [
+      {
+        "name": "Disney-HOTSTAR- BIGG BOSS 8 App",
+        "ios_name": "VijayTV HotStart",
+        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+        "ios_link": "https://apps.apple.com/us/app/disney/id1446075923",
+        "enable_ios": true
+      }
+    ],
+    "unofficial_voting": [
+      {
+        "name": "Pi App Studio",
+        "ios_name": "Pi App Studio Online Poll",
+        "link": "https://piappstudio.com/bigg-boss-tamil-online-voting/",
+        "enable_ios": true
+      },
+      {
+        "name": "Bigg Boss Vote In",
+        "ios_name": "Bigg Boss Vote In",
+        "link": "https://bigg-boss-vote.in/",
+        "enable_ios": true
+      }
+    ],
+    "polls": [
+    ]
+  },
+  "category": [
+    {
+      "name": "Captain",
+      "key": "Captain",
+      "color": "FF2E9F49",
+      "text": "FFFFFFFF",
+      "weekly_enabled": true,
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 3
+    },
+    {
+      "name": "Ticket To Final",
+      "key": "TTF",
+      "color": "FFD4AF37",
+      "graph": true,
+      "is_week": true,
+      "graphOrder": 1
+    },
+    {
+      "name": "Money Box",
+      "key": "MB",
+      "color": "FF2E9F49",
+      "graph": true,
+      "is_week": true,
+      "graphOrder": 2
+    },
+    {
+      "name": "Evicted",
+      "key": "EVI",
+      "color": "FFEA4839",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "weekly_enabled": true
+    },
+    {
+      "name": "Nominated",
+      "key": "NOM",
+      "color": "FFFCBC1F",
+      "text": "FF000000",
+      "graph": true,
+      "is_week": true,
+      "graphOrder": 4
+    },
+    {
+      "name": "Small Boss House",
+      "key": "SBH",
+      "color": "FF4A7AEE",
+      "text": "FFFFFFFF",
+      "weekly_enabled": true,
+      "graph": false,
+      "graphOrder": 3
+    },
+    {
+      "name": "Bigg Boss House",
+      "key": "BBH",
+      "color": "FF2E9F49",
+      "text": "FFFFFFFF",
+      "graph": false,
+      "weekly_enabled": false
+    },
+    {
+      "name": "Gold Star",
+      "key": "GS",
+      "color": "FFD4AF37",
+      "graph": false,
+      "graphOrder": 2
+    },
+    {
+      "name": "Yellow Strike",
+      "key": "YC",
+      "color": "FFEFC935",
+      "text": "FF000000",
+      "is_week": true
+    },
+    {
+      "name": "Red Card",
+      "key": "RC",
+      "color": "FF93000A",
+      "text": "FFFFFFFF",
+      "is_week": true
+    },
+    {
+      "name": "Girls House",
+      "key": "GH",
+      "color": "FFEB34A4",
+      "is_week": true,
+      "graph": true
+    },
+    {
+      "name": "Boys House",
+      "key": "BH",
+      "color": "FF052280",
+      "is_week": true,
+      "graph": true
+    },
+    {
+      "name": "Nomination Free Save",
+      "key": "NFTS",
+      "color": "FF1ecbe1",
+      "is_week": true,
+      "graph": true
+    }
+  ],
+  "participants": [
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/ashnoor.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Ashnoor Kaur",
+      "id": "1",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/ashnoor_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/zeeshan.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Zeeshan Quadri",
+      "id": "2",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/zeeshan_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/tanya.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Tanya Mittal",
+      "id": "3",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/tanya_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/awez.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Awez Darbar",
+      "id": "4",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/awez_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/nagma.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Nagma Mirajkar",
+      "id": "5",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/nagma_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/nehal.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Nehal Chudasama",
+      "id": "6",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/nehal_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/baseer.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Baseer Ali",
+      "id": "7",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/baseer_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/abhishek.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Abhishek Bajaj",
+      "id": "8",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/abhishek_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/gaurav.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Gaurav Khanna",
+      "id": "9",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/gaurav_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/natalia.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Natalia Janoszek",
+      "id": "10",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/natalia_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/pranit.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Pranit More",
+      "id": "11",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/pranit_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/neelam.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Neelam Giri",
+      "id": "12",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/neelam_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/farhana.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Farhana Bhatt",
+      "id": "13",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/farhana_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/mridul.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Mridul Tiwari",
+      "id": "14",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/mridul_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/kunickaa.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Kunickaa Sadanand",
+      "id": "15",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/kunickaa_pp.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/amaal.png",
+      "eliminated_date": null,
+      "start_date": "2025-08-24",
+      "name": "Amaal Malik",
+      "id": "16",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/session19/participants/amaal_pp.png"
+    }],
+  "notifications": []
+}

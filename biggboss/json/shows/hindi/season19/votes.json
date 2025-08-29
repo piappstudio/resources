@@ -1,0 +1,57 @@
+{
+  "Poll": [
+    {
+      "name": "Bigg Boss Vote In",
+      "ios_name": "Unofficial Bigg Boss Trending",
+      "votes": [
+        {
+          "week": 1,
+          "players": [
+            {
+              "id": 1,
+              "name": "Gaurav",
+              "vote": 5259,
+              "percentage": 22
+            },
+            {
+              "id": 2,
+              "name": "Pranit",
+              "vote": 3701,
+              "percentage": 16
+            },
+            {
+              "id": 3,
+              "name": "Neelam",
+              "vote": 3461,
+              "percentage": 15
+            },
+            {
+              "id": 4,
+              "name": "Tanya",
+              "vote": 3408,
+              "percentage": 15
+            },
+            {
+              "id": 5,
+              "name": "Abhishek",
+              "vote": 2848,
+              "percentage": 12
+            },
+            {
+              "id": 6,
+              "name": "Zeishan",
+              "vote": 2715,
+              "percentage": 12
+            },
+            {
+              "id": 7,
+              "name": "Natalia",
+              "vote": 2018,
+              "percentage": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
