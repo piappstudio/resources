@@ -214,6 +214,14 @@
             9,
             10
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+
+          ],
+          "nominates": [
+          ]
         }
       ]
     },
@@ -272,6 +280,14 @@
           "nominates": [
             5,
             12
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+
+          ],
+          "nominates": [
           ]
         }
       ]
