@@ -50,6 +50,41 @@
               "percentage": 9
             }
           ]
+        },
+        {
+          "week": 2,
+          "players": [
+            {
+              "id": 14,
+              "name": "Mridul",
+              "vote": 22615,
+              "percentage": 40
+            },
+            {
+              "id": 4,
+              "name": "Awez Darbar",
+              "vote": 10702,
+              "percentage": 19
+            },
+            {
+              "id": 3,
+              "name": "Tanya",
+              "vote": 10399,
+              "percentage": 19
+            },
+            {
+              "id": 16,
+              "name": "Amaal Mallik",
+              "vote": 10191,
+              "percentage": 18
+            },
+            {
+              "id": 15,
+              "name": "Kunickaa Sadanand",
+              "vote": 2132,
+              "percentage": 4
+            }
+          ]
         }
       ]
     }
