@@ -13,7 +13,7 @@
       {
         "name": "Pi App Studio",
         "ios_name": "Pi App Studio Online Poll",
-        "link": "https://piappstudio.com/bigg-boss-tamil-online-voting/",
+        "link": "https://prodbiggboss.piappstudio.com/polls/37",
         "enable_ios": true
       },
       {
@@ -156,6 +156,13 @@
           "nominates": [
             15
           ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -269,7 +276,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -285,6 +292,13 @@
           "week": 2,
           "categories": [
             "NTG"
+          ],
+          "nominates": []
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM"
           ],
           "nominates": []
         }
@@ -431,7 +445,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -447,6 +461,13 @@
           "nominates": [
             16
           ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -480,6 +501,13 @@
           "nominates": [
             15
           ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -606,6 +634,21 @@
           ]
         }
       ]
+    },
+    {
+      "id": "17",
+      "name": "Shehbaz Badesha",
+      "dial_number": "",
+      "title": null,
+      "start_date": "2025-08-24",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz.png",
+      "order_id": null,
+      "re_entry_date": "2025-09-08",
+      "re_evicted_date": null,
+      "eliminated_date": "2025-08-24",
+      "isNominated": false,
+      "history": []
     }
   ],
   "notifications": []
