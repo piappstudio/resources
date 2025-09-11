@@ -426,6 +426,7 @@
         "re_evicted_date": null,
         "eliminated_date": null,
         "isNominated": false,
+        "isCaptain": true,
         "history": [
             {
                 "week": 1,
