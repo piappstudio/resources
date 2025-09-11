@@ -85,6 +85,35 @@
               "percentage": 4
             }
           ]
+        },
+        {
+          "week": 3,
+          "players": [
+            {
+              "id": 14,
+              "name": "Mridul",
+              "vote": 14051,
+              "percentage": 30
+            },
+            {
+              "id": 10,
+              "name": "Natalia",
+              "vote": 12456,
+              "percentage": 26
+            },
+            {
+              "id": 5,
+              "name": "Nagma",
+              "vote": 10484,
+              "percentage": 22
+            },
+            {
+              "id": 4,
+              "name": "Awez",
+              "vote": 10359,
+              "percentage": 22
+            }
+          ]
         }
       ]
     }
