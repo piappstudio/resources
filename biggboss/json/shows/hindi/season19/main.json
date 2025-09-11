@@ -445,7 +445,8 @@
             {
                 "week": 3,
                 "categories": [
-                    "NTG"
+                    "NTG",
+                    "Captain"
                 ],
                 "nominates": []
             }
@@ -728,7 +729,7 @@
         "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz_pp.png",
         "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz.png",
         "order_id": null,
-        "re_entry_date": "2025-09-08",
+        "re_entry_date": "2025-09-07",
         "re_evicted_date": null,
         "eliminated_date": "2025-08-24",
         "isNominated": false,
