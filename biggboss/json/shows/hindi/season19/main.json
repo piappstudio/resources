@@ -335,7 +335,6 @@
             "re_evicted_date": null,
             "eliminated_date": "2025-09-14",
             "isNominated": true,
-            "isCaptain": false,
             "history": [
                 {
                     "week": 1,
@@ -559,7 +558,6 @@
             "re_evicted_date": null,
             "eliminated_date": "2025-09-14",
             "isNominated": true,
-            "isCaptain": false,
             "history": [
                 {
                     "week": 1,
