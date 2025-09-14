@@ -1,749 +1,758 @@
 {
-  "voting_options": {
-    "official_vote": [
-      {
-        "name": "Disney-HOTSTAR- BIGG BOSS 8 App",
-        "ios_name": "VijayTV HotStart",
-        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-        "ios_link": "https://apps.apple.com/us/app/disney/id1446075923",
-        "enable_ios": true
-      }
+    "voting_options": {
+        "official_vote": [
+            {
+                "name": "Disney-HOTSTAR- BIGG BOSS 8 App",
+                "ios_name": "VijayTV HotStart",
+                "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+                "ios_link": "https://apps.apple.com/us/app/disney/id1446075923",
+                "enable_ios": true
+            }
+        ],
+        "unofficial_voting": [
+            {
+                "name": "Pi App Studio",
+                "ios_name": "Pi App Studio Online Poll",
+                "link": "https://prodbiggboss.piappstudio.com/polls/37",
+                "enable_ios": true
+            },
+            {
+                "name": "Bigg Boss Vote In",
+                "ios_name": "Bigg Boss Vote In",
+                "link": "https://bigg-boss-vote.in/",
+                "enable_ios": true
+            }
+        ],
+        "polls": []
+    },
+    "category": [
+        {
+            "id": 23,
+            "show_id": 3,
+            "name": "Captain",
+            "key": "Captain",
+            "color": "FF2E9F49",
+            "text": "FFFFFFFF",
+            "is_week": true,
+            "graph": true,
+            "graphOrder": 3,
+            "created_at": "2025-02-19T09:42:13.000000Z",
+            "updated_at": "2025-02-19T09:42:13.000000Z"
+        },
+        {
+            "id": 24,
+            "show_id": 3,
+            "name": "Evicted",
+            "key": "EVI",
+            "color": "FFEA4839",
+            "text": "FFFFFFFF",
+            "is_week": true,
+            "graph": false,
+            "graphOrder": null,
+            "created_at": "2025-02-19T09:42:34.000000Z",
+            "updated_at": "2025-02-19T09:42:34.000000Z"
+        },
+        {
+            "id": 25,
+            "show_id": 3,
+            "name": "Nominated",
+            "key": "NOM",
+            "color": "FFFCBC1F",
+            "text": "FF000000",
+            "is_week": true,
+            "graph": true,
+            "graphOrder": 4,
+            "created_at": "2025-02-19T09:42:41.000000Z",
+            "updated_at": "2025-02-19T09:42:41.000000Z"
+        },
+        {
+            "id": 26,
+            "show_id": 3,
+            "name": "Evicted by Housemates",
+            "key": "EBH",
+            "color": "FFEFC935",
+            "text": "FF000000",
+            "is_week": true,
+            "graph": false,
+            "graphOrder": null,
+            "created_at": "2025-02-19T09:43:07.000000Z",
+            "updated_at": "2025-02-19T09:43:07.000000Z"
+        },
+        {
+            "id": 27,
+            "show_id": 3,
+            "name": "Secret Room",
+            "key": "SR",
+            "color": "FF052280",
+            "text": null,
+            "is_week": true,
+            "graph": true,
+            "graphOrder": null,
+            "created_at": "2025-02-19T09:43:29.000000Z",
+            "updated_at": "2025-02-19T09:43:29.000000Z"
+        }
     ],
-    "unofficial_voting": [
-      {
-        "name": "Pi App Studio",
-        "ios_name": "Pi App Studio Online Poll",
-        "link": "https://prodbiggboss.piappstudio.com/polls/37",
-        "enable_ios": true
-      },
-      {
-        "name": "Bigg Boss Vote In",
-        "ios_name": "Bigg Boss Vote In",
-        "link": "https://bigg-boss-vote.in/",
-        "enable_ios": true
-      }
+    "participants": [
+        {
+            "id": "15",
+            "name": "Kunickaa Sadanand",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        8,
+                        2
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        14
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Mridul Tiwari",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/mridul_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/mridul.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        15
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Farhana Bhatt",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "EBH",
+                        "SR",
+                        "NOM"
+                    ],
+                    "nominates": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        3
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Neelam Giri",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/neelam_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/neelam.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Pranit More",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        3,
+                        8
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        14
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Natalia Janoszek",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/natalia_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/natalia.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": "2025-09-14",
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        5,
+                        12
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NOM",
+                        "EVI"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Gaurav Khanna",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        12,
+                        3
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        3
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Abhishek Bajaj",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/abhishek_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/abhishek.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        11,
+                        3
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        15
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Baseer Ali",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/baseer_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/baseer.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        8,
+                        12
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        3
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG",
+                        "Captain"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Nehal Chudasama",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nehal_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nehal.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        16
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Nagma Mirajkar",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nagma_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nagma.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": "2025-09-14",
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        10,
+                        12
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        16
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NOM",
+                        "EVI"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Awez Darbar",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/awez_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/awez.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        9,
+                        12
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        15
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Tanya Mittal",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        9,
+                        1
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        14
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Zeeshan Quadri",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/zeeshan_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/zeeshan.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        11,
+                        15
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        4
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Ashnoor Kaur",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/ashnoor_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/ashnoor.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        16
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "name": "Amaal Malik",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal.png",
+            "order_id": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "isCaptain": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        12,
+                        14
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4
+                    ]
+                },
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": []
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Shehbaz Badesha",
+            "dial_number": "",
+            "title": null,
+            "start_date": "2025-08-24",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz.png",
+            "order_id": null,
+            "re_entry_date": "2025-09-07",
+            "re_evicted_date": null,
+            "eliminated_date": "2025-08-24",
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 3,
+                    "categories": [
+                        "NTG"
+                    ],
+                    "nominates": []
+                }
+            ]
+        }
     ],
-    "polls": []
-  },
-  "category": [
-    {
-      "id": 23,
-      "show_id": 3,
-      "name": "Captain",
-      "key": "Captain",
-      "color": "FF2E9F49",
-      "text": "FFFFFFFF",
-      "is_week": true,
-      "graph": true,
-      "graphOrder": 3,
-      "created_at": "2025-02-19T09:42:13.000000Z",
-      "updated_at": "2025-02-19T09:42:13.000000Z"
-    },
-    {
-      "id": 24,
-      "show_id": 3,
-      "name": "Evicted",
-      "key": "EVI",
-      "color": "FFEA4839",
-      "text": "FFFFFFFF",
-      "is_week": true,
-      "graph": false,
-      "graphOrder": null,
-      "created_at": "2025-02-19T09:42:34.000000Z",
-      "updated_at": "2025-02-19T09:42:34.000000Z"
-    },
-    {
-      "id": 25,
-      "show_id": 3,
-      "name": "Nominated",
-      "key": "NOM",
-      "color": "FFFCBC1F",
-      "text": "FF000000",
-      "is_week": true,
-      "graph": true,
-      "graphOrder": 4,
-      "created_at": "2025-02-19T09:42:41.000000Z",
-      "updated_at": "2025-02-19T09:42:41.000000Z"
-    },
-    {
-      "id": 26,
-      "show_id": 3,
-      "name": "Evicted by Housemates",
-      "key": "EBH",
-      "color": "FFEFC935",
-      "text": "FF000000",
-      "is_week": true,
-      "graph": false,
-      "graphOrder": null,
-      "created_at": "2025-02-19T09:43:07.000000Z",
-      "updated_at": "2025-02-19T09:43:07.000000Z"
-    },
-    {
-      "id": 27,
-      "show_id": 3,
-      "name": "Secret Room",
-      "key": "SR",
-      "color": "FF052280",
-      "text": null,
-      "is_week": true,
-      "graph": true,
-      "graphOrder": null,
-      "created_at": "2025-02-19T09:43:29.000000Z",
-      "updated_at": "2025-02-19T09:43:29.000000Z"
-    }
-  ],
-  "participants": [
-    {
-        "id": "15",
-        "name": "Kunickaa Sadanand",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [],
-                "nominates": [
-                    8,
-                    2
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    14
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "14",
-        "name": "Mridul Tiwari",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/mridul_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/mridul.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": true,
-        "history": [
-            {
-                "week": 1,
-                "categories": [],
-                "nominates": [
-                    2,
-                    3
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    15
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "13",
-        "name": "Farhana Bhatt",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "EBH",
-                    "SR",
-                    "NOM"
-                ],
-                "nominates": []
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    3
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "12",
-        "name": "Neelam Giri",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/neelam_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/neelam.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    9,
-                    10
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "11",
-        "name": "Pranit More",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    3,
-                    8
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    14
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "10",
-        "name": "Natalia Janoszek",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/natalia_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/natalia.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": true,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    5,
-                    12
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "9",
-        "name": "Gaurav Khanna",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    12,
-                    3
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    3
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "8",
-        "name": "Abhishek Bajaj",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/abhishek_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/abhishek.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    11,
-                    3
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    4,
-                    15
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "7",
-        "name": "Baseer Ali",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/baseer_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/baseer.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "isCaptain": true,
-        "history": [
-            {
-                "week": 1,
-                "categories": [],
-                "nominates": [
-                    8,
-                    12
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    3
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG",
-                    "Captain"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "6",
-        "name": "Nehal Chudasama",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nehal_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nehal.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [],
-                "nominates": [
-                    3,
-                    12
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    16
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "5",
-        "name": "Nagma Mirajkar",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nagma_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nagma.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": true,
-        "history": [
-            {
-                "week": 1,
-                "categories": [],
-                "nominates": [
-                    10,
-                    12
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    16
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "4",
-        "name": "Awez Darbar",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/awez_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/awez.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": true,
-        "history": [
-            {
-                "week": 1,
-                "categories": [],
-                "nominates": [
-                    9,
-                    12
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    15
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "3",
-        "name": "Tanya Mittal",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    9,
-                    1
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    14
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "2",
-        "name": "Zeeshan Quadri",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/zeeshan_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/zeeshan.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    11,
-                    15
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    4
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "1",
-        "name": "Ashnoor Kaur",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/ashnoor_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/ashnoor.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 2,
-                "categories": [],
-                "nominates": [
-                    16
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "16",
-        "name": "Amaal Malik",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal.png",
-        "order_id": null,
-        "re_entry_date": null,
-        "re_evicted_date": null,
-        "eliminated_date": null,
-        "isNominated": false,
-        "history": [
-            {
-                "week": 1,
-                "categories": [],
-                "nominates": [
-                    12,
-                    14
-                ]
-            },
-            {
-                "week": 2,
-                "categories": [
-                    "NOM"
-                ],
-                "nominates": [
-                    4
-                ]
-            },
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    },
-    {
-        "id": "17",
-        "name": "Shehbaz Badesha",
-        "dial_number": "",
-        "title": null,
-        "start_date": "2025-08-24",
-        "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz_pp.png",
-        "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz.png",
-        "order_id": null,
-        "re_entry_date": "2025-09-07",
-        "re_evicted_date": null,
-        "eliminated_date": "2025-08-24",
-        "isNominated": false,
-        "history": [
-            {
-                "week": 3,
-                "categories": [
-                    "NTG"
-                ],
-                "nominates": []
-            }
-        ]
-    }
-],
-  "notifications": []
+    "notifications": []
 }
