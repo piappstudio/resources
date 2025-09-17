@@ -8,43 +8,43 @@
           "week": 1,
           "players": [
             {
-              "id": 1,
+              "id": 9,
               "name": "Gaurav",
               "vote": 5259,
               "percentage": 22
             },
             {
-              "id": 2,
+              "id": 11,
               "name": "Pranit",
               "vote": 3701,
               "percentage": 16
             },
             {
-              "id": 3,
+              "id": 12,
               "name": "Neelam",
               "vote": 3461,
               "percentage": 15
             },
             {
-              "id": 4,
+              "id": 3,
               "name": "Tanya",
               "vote": 3408,
               "percentage": 15
             },
             {
-              "id": 5,
+              "id": 8,
               "name": "Abhishek",
               "vote": 2848,
               "percentage": 12
             },
             {
-              "id": 6,
+              "id": 2,
               "name": "Zeishan",
               "vote": 2715,
               "percentage": 12
             },
             {
-              "id": 7,
+              "id": 10,
               "name": "Natalia",
               "vote": 2018,
               "percentage": 9
@@ -112,6 +112,41 @@
               "name": "Awez",
               "vote": 27595,
               "percentage": 27
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "players": [
+            {
+              "id": 7,
+              "name": "Baseer Ali",
+              "vote": 10199,
+              "percentage": 26
+            },
+            {
+              "id": 8,
+              "name": "Abhishek Bajaj",
+              "vote": 10088,
+              "percentage": 26
+            },
+            {
+              "id": 1,
+              "name": "Ashnoor Kaur",
+              "vote": 9453,
+              "percentage": 24
+            },
+            {
+              "id": 11,
+              "name": "Pranit More",
+              "vote": 8462,
+              "percentage": 22
+            },
+            {
+              "id": 6,
+              "name": "Nehal Chudasama",
+              "vote": 544,
+              "percentage": 1
             }
           ]
         }
