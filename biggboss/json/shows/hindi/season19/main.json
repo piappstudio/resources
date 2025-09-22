@@ -386,8 +386,7 @@
                 {
                     "week": 4,
                     "categories": [
-                        "NOM",
-                        "SR"
+                        "NOM"
                     ],
                     "nominates": [
                         13,
@@ -396,7 +395,9 @@
                 },
                 {
                     "week": 5,
-                    "categories": [],
+                    "categories": [
+                        "SR"
+                    ],
                     "nominates": []
                 }
             ]
