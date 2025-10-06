@@ -190,6 +190,59 @@
               "percentage": 9
             }
           ]
+        },
+        {
+          "week": 6,
+          "players": [
+            {
+              "id": 11,
+              "name": "Pranit More",
+              "vote": 15683,
+              "percentage": 18
+            },
+            {
+              "id": 3,
+              "name": "Tanya",
+              "vote": 13095,
+              "percentage": 15
+            },
+            {
+              "id": 1,
+              "name": "Ashnoor Kaur",
+              "vote": 10610,
+              "percentage": 12
+            },
+            {
+              "id": 12,
+              "name": "Neelam Giri",
+              "vote": 10098,
+              "percentage": 11
+            },
+            {
+              "id": 16,
+              "name": "Ammal Malik",
+              "vote": 10000,
+              "percentage": 11
+            },
+            {
+              "id": 6,
+              "name": "Nehal Chudasama",
+              "vote": 9949,
+              "percentage": 11
+            },
+            {
+              "id": 2,
+              "name": "Zeishan",
+              "vote": 9868,
+              "percentage": 11
+            },
+            {
+              "id": 15,
+              "name": "Kunickaa Sadanand",
+              "vote": 9833,
+              "percentage": 11
+            }
+          ]
         }
       ]
     }
