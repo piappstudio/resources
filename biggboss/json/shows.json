@@ -43,6 +43,21 @@
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/trends.json",
       "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/votes.json"
 
+    },
+     {
+      "title": "BiggBoss Tamil Season 9",
+      "id": "4",
+      "host": "Vijay Sethupathi",
+      "start_date": "2025-10-05",
+      "end_date": null,
+      "winner": null,
+      "runner": null,
+      "cash": null,
+      "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/logo.png",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/main.json",
+      "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/trends.json",
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/votes.json"
+
     }
   ],
   "reviewers": [
