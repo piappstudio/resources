@@ -149,6 +149,13 @@
                         "NOM"
                     ],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": []
                 }
             ]
         },
@@ -209,6 +216,13 @@
                         "NOM"
                     ],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": []
                 }
             ]
         },
@@ -224,7 +238,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -270,6 +284,11 @@
                     "categories": [
                         "NOM"
                     ],
+                    "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
                     "nominates": []
                 }
             ]
@@ -381,7 +400,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -428,6 +447,11 @@
                         "NOM"
                     ],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": []
                 }
             ]
         },
@@ -443,7 +467,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -486,6 +510,13 @@
                 {
                     "week": 6,
                     "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
                     "nominates": []
                 }
             ]
@@ -550,6 +581,11 @@
                     "week": 6,
                     "categories": [],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": []
                 }
             ]
         },
@@ -608,6 +644,11 @@
                 },
                 {
                     "week": 6,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 7,
                     "categories": [],
                     "nominates": []
                 }
@@ -712,6 +753,13 @@
                         "NOM"
                     ],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": []
                 }
             ]
         },
@@ -770,6 +818,13 @@
                 },
                 {
                     "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": []
+                },
+                {
+                    "week": 7,
                     "categories": [
                         "NOM"
                     ],
@@ -833,6 +888,13 @@
                         "Captain"
                     ],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": []
                 }
             ],
             "isCaptain": true
@@ -849,7 +911,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -894,6 +956,13 @@
                     "week": 6,
                     "categories": [],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": []
                 }
             ]
         },
@@ -909,7 +978,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -954,6 +1023,11 @@
                         "NOM"
                     ],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": []
                 }
             ]
         },
@@ -969,7 +1043,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1016,6 +1090,11 @@
                         "NOM"
                     ],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": []
                 }
             ]
         },
@@ -1033,6 +1112,16 @@
             "eliminated_date": "2025-08-24",
             "isNominated": false,
             "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": []
+                },
                 {
                     "week": 3,
                     "categories": [
@@ -1057,6 +1146,11 @@
                     "week": 6,
                     "categories": [],
                     "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": []
                 }
             ]
         },
@@ -1074,6 +1168,41 @@
             "eliminated_date": null,
             "isNominated": false,
             "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 3,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 5,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 6,
+                    "categories": [],
+                    "nominates": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": []
+                }
             ]
         }
     ],
