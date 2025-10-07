@@ -243,6 +243,47 @@
               "percentage": 11
             }
           ]
+        },
+        {
+          "week": 7,
+          "players": [
+            {
+              "id": 7,
+              "name": "Baseer Ali",
+              "vote": 17089,
+              "percentage": 24
+            },
+            {
+              "id": 14,
+              "name": "Mridul Tiwari",
+              "vote": 15609,
+              "percentage": 22
+            },
+            {
+              "id": 11,
+              "name": "Pranit More",
+              "vote": 14700,
+              "percentage": 21
+            },
+            {
+              "id": 1,
+              "name": "Ashnoor Kaur",
+              "vote": 12368,
+              "percentage": 17
+            },
+            {
+              "id": 13,
+              "name": "Neelam Giri",
+              "vote": 9846,
+              "percentage": 14
+            },
+            {
+              "id": 2,
+              "name": "Zeeshan Quadri",
+              "vote": 2089,
+              "percentage": 3
+            }
+          ]
         }
       ]
     }
