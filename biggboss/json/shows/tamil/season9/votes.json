@@ -1,3 +1,57 @@
 {
-  
+    "Poll": [
+        {
+            "name": "TamilGlitz Trending",
+            "ios_name": "TamilGlitz Trending",
+            "votes": [
+                {
+                    "week": 1,
+                    "players": [
+                        {
+                            "id": 10,
+                            "name": "Aadhirai",
+                            "vote": 33427,
+                            "percentage": 24.26
+                        },
+                        {
+                            "id": 1,
+                            "name": "Watermelon Start Diwakar",
+                            "vote": 25431,
+                            "percentage": 18.46
+                        },
+                        {
+                            "id": 13,
+                            "name": "Viyana",
+                            "vote": 23224,
+                            "percentage": 16.86
+                        },
+                        {
+                            "id": 14,
+                            "name": "Praveen Rajdev",
+                            "vote": 16277,
+                            "percentage": 11.81
+                        },
+                        {
+                            "id": 16,
+                            "name": "Apsara CJ",
+                            "vote": 15601,
+                            "percentage": 11.32
+                        },
+                        {
+                            "id": 20,
+                            "name": "Kalaiyarasan",
+                            "vote": 12303,
+                            "percentage": 8.93
+                        },
+                        {
+                            "id": 8,
+                            "name": "Pravin Gandhi",
+                            "vote": 11508,
+                            "percentage": 8.35
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
