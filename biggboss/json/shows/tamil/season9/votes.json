@@ -8,46 +8,46 @@
                     "week": 1,
                     "players": [
                         {
-                            "id": 10,
-                            "name": "Aadhirai",
-                            "vote": 33427,
-                            "percentage": 24.26
-                        },
-                        {
                             "id": 1,
                             "name": "Watermelon Start Diwakar",
-                            "vote": 25431,
-                            "percentage": 18.46
+                            "vote": 149241,
+                            "percentage": 29.3
+                        },
+                        {
+                            "id": 10,
+                            "name": "Aadhirai",
+                            "vote": 110430,
+                            "percentage": 21.68
                         },
                         {
                             "id": 13,
                             "name": "Viyana",
-                            "vote": 23224,
-                            "percentage": 16.86
+                            "vote": 81288,
+                            "percentage": 15.96
                         },
                         {
                             "id": 14,
                             "name": "Praveen Rajdev",
-                            "vote": 16277,
-                            "percentage": 11.81
+                            "vote": 45386,
+                            "percentage": 8.91
                         },
                         {
                             "id": 16,
                             "name": "Apsara CJ",
-                            "vote": 15601,
-                            "percentage": 11.32
+                            "vote": 43824,
+                            "percentage": 8.6
                         },
                         {
                             "id": 20,
                             "name": "Kalaiyarasan",
-                            "vote": 12303,
-                            "percentage": 8.93
+                            "vote": 41166,
+                            "percentage": 8.08
                         },
                         {
                             "id": 8,
                             "name": "Pravin Gandhi",
-                            "vote": 11508,
-                            "percentage": 8.35
+                            "vote": 37998,
+                            "percentage": 7.46
                         }
                     ]
                 }
