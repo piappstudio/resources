@@ -248,40 +248,40 @@
           "week": 7,
           "players": [
             {
+              "id": 11,
+              "name": "Pranit More",
+              "vote": 96823,
+              "percentage": 22
+            },
+            {
               "id": 7,
               "name": "Baseer Ali",
-              "vote": 17089,
-              "percentage": 24
+              "vote": 95961,
+              "percentage": 22
             },
             {
               "id": 14,
               "name": "Mridul Tiwari",
-              "vote": 15609,
-              "percentage": 22
-            },
-            {
-              "id": 11,
-              "name": "Pranit More",
-              "vote": 14700,
-              "percentage": 21
-            },
-            {
-              "id": 1,
-              "name": "Ashnoor Kaur",
-              "vote": 12368,
-              "percentage": 17
+              "vote": 82112,
+              "percentage": 19
             },
             {
               "id": 13,
               "name": "Neelam Giri",
-              "vote": 9846,
+              "vote": 81058,
+              "percentage": 18
+            },
+            {
+              "id": 1,
+              "name": "Ashnoor Kaur",
+              "vote": 63521,
               "percentage": 14
             },
             {
               "id": 2,
               "name": "Zeeshan Quadri",
-              "vote": 2089,
-              "percentage": 3
+              "vote": 18985,
+              "percentage": 4
             }
           ]
         }
