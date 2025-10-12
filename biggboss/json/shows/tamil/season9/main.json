@@ -16,7 +16,7 @@
         {
             "id": "1",
             "name": "Watermelon Start Diwakar",
-            "dial_number": null,
+            "dial_number": "7835073320",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/diwakar_pp.png",
@@ -321,7 +321,7 @@
         {
             "id": "13",
             "name": "Viyana",
-            "dial_number": null,
+            "dial_number": "7835073318",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/viyana_pp.png",
@@ -335,7 +335,8 @@
                 {
                     "week": 1,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BSD"
                     ],
                     "nominates": [
                         20,
@@ -347,7 +348,7 @@
         {
             "id": "14",
             "name": "Praveen Rajdev",
-            "dial_number": null,
+            "dial_number": "7835073311",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/praveen_pp.png",
@@ -458,12 +459,14 @@
             "order_id": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
+            "eliminated_date": "2025-10-10",
             "isNominated": false,
             "history": [
                 {
                     "week": 1,
-                    "categories": [],
+                    "categories": [
+                        "EVI"
+                    ],
                     "nominates": [
                         20,
                         13
