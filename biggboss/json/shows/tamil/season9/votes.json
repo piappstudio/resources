@@ -5,7 +5,7 @@
             "ios_name": "TamilGlitz Trending",
             "votes": [
                 {
-                    "week": 5,
+                    "week": 1,
                     "players": [
                         {
                             "id": 1,
@@ -48,6 +48,66 @@
                             "name": "Pravin Gandhi",
                             "vote": 43069,
                             "percentage": 7.36
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "totalVotes": 94823,
+                    "players": [
+                        {
+                            "id": 7,
+                            "name": "Sabari Nathan",
+                            "vote": 21986,
+                            "percentage": 23.19
+                        },
+                        {
+                            "id": 1,
+                            "name": "Watermelon Start Diwakar",
+                            "vote": 21390,
+                            "percentage": 22.56
+                        },
+                        {
+                            "id": 19,
+                            "name": "Kamarudin",
+                            "vote": 10422,
+                            "percentage": 10.99
+                        },
+                        {
+                            "id": 4,
+                            "name": "VJ Parvathy",
+                            "vote": 9869,
+                            "percentage": 10.41
+                        },
+                        {
+                            "id": 11,
+                            "name": "Ramya Joo",
+                            "vote": 8723,
+                            "percentage": 9.2
+                        },
+                        {
+                            "id": 2,
+                            "name": "Aurora Sinclair",
+                            "vote": 7015,
+                            "percentage": 7.4
+                        },
+                        {
+                            "id": 9,
+                            "name": "Vyishali Kemkar",
+                            "vote": 5218,
+                            "percentage": 5.5
+                        },
+                        {
+                            "id": 16,
+                            "name": "Apsara CJ",
+                            "vote": 5157,
+                            "percentage": 5.44
+                        },
+                        {
+                            "id": 3,
+                            "name": "FJ Adisayam",
+                            "vote": 5043,
+                            "percentage": 5.31
                         }
                     ]
                 }

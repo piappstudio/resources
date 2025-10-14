@@ -266,7 +266,7 @@
               "percentage": 19
             },
             {
-              "id": 13,
+              "id": 12,
               "name": "Neelam Giri",
               "vote": 81058,
               "percentage": 18
@@ -282,6 +282,35 @@
               "name": "Zeeshan Quadri",
               "vote": 18985,
               "percentage": 4
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "players": [
+            {
+              "id": 9,
+              "name": "Gaurav Khanna",
+              "vote": 12696,
+              "percentage": 34
+            },
+            {
+              "id": 12,
+              "name": "Neelam Giri",
+              "vote": 11191,
+              "percentage": 30
+            },
+            {
+              "id": 14,
+              "name": "Mridul Tiwari",
+              "vote": 10273,
+              "percentage": 28
+            },
+            {
+              "id": 18,
+              "name": "Malti Chahar",
+              "vote": 2891,
+              "percentage": 8
             }
           ]
         }
