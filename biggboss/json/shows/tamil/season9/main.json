@@ -36,6 +36,17 @@
                         14,
                         9
                     ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM",
+                        "BSD"
+                    ],
+                    "nominates": [
+                        19,
+                        11
+                    ]
                 }
             ]
         },
@@ -51,7 +62,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -60,6 +71,16 @@
                     ],
                     "nominates": [
                         20,
+                        1
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
                         1
                     ]
                 }
@@ -77,7 +98,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -85,6 +106,16 @@
                     "nominates": [
                         20,
                         8
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        1
                     ]
                 }
             ]
@@ -101,7 +132,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -109,6 +140,17 @@
                     "nominates": [
                         8,
                         6
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM",
+                        "BSD"
+                    ],
+                    "nominates": [
+                        3,
+                        9
                     ]
                 }
             ]
@@ -137,6 +179,14 @@
                         20,
                         16
                     ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        1,
+                        4
+                    ]
                 }
             ]
         },
@@ -161,6 +211,14 @@
                         10,
                         13
                     ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        19,
+                        4
+                    ]
                 }
             ]
         },
@@ -176,7 +234,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -184,6 +242,16 @@
                     "nominates": [
                         20,
                         4
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        19
                     ]
                 }
             ]
@@ -199,14 +267,15 @@
             "order_id": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-10-12",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
                     "categories": [
                         "NOM",
-                        "BSD"
+                        "BSD",
+                        "EVI"
                     ],
                     "nominates": [
                         1,
@@ -227,7 +296,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -235,6 +304,16 @@
                     "nominates": [
                         1,
                         7
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        1,
+                        4
                     ]
                 }
             ]
@@ -251,7 +330,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -261,6 +340,17 @@
                     "nominates": [
                         1,
                         20
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "BSD",
+                        "NF"
+                    ],
+                    "nominates": [
+                        4,
+                        19
                     ]
                 }
             ]
@@ -277,7 +367,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -288,6 +378,17 @@
                     "nominates": [
                         1,
                         10
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM",
+                        "BSD"
+                    ],
+                    "nominates": [
+                        4,
+                        2
                     ]
                 }
             ]
@@ -309,11 +410,23 @@
                 {
                     "week": 1,
                     "categories": [
+                        "BSD",
                         "BSD"
                     ],
                     "nominates": [
                         20,
                         16
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "BSD",
+                        "NF"
+                    ],
+                    "nominates": [
+                        3,
+                        4
                     ]
                 }
             ]
@@ -330,7 +443,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -341,6 +454,17 @@
                     "nominates": [
                         20,
                         14
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "BSD",
+                        "NF"
+                    ],
+                    "nominates": [
+                        4,
+                        2
                     ]
                 }
             ]
@@ -357,7 +481,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -367,6 +491,14 @@
                     "nominates": [
                         20,
                         8
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        2,
+                        1
                     ]
                 }
             ]
@@ -395,6 +527,16 @@
                         13,
                         20
                     ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "BSD"
+                    ],
+                    "nominates": [
+                        4,
+                        16
+                    ]
                 }
             ]
         },
@@ -421,6 +563,16 @@
                         20,
                         2
                     ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        1,
+                        4
+                    ]
                 }
             ]
         },
@@ -444,6 +596,14 @@
                     "nominates": [
                         8,
                         20
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        19,
+                        4
                     ]
                 }
             ]
@@ -486,7 +646,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -496,6 +656,16 @@
                     "nominates": [
                         1,
                         16
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        1
                     ]
                 }
             ]
@@ -512,7 +682,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -522,6 +692,14 @@
                     "nominates": [
                         1,
                         10
+                    ]
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [
+                        1,
+                        7
                     ]
                 }
             ]
