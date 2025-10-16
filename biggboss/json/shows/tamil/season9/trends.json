@@ -11,13 +11,18 @@
                 "promo": [
                     {
                         "id": "4",
-                        "score": 7.6,
-                        "percentage": 21.71
+                        "score": 7.2,
+                        "percentage": 20.57
                     },
                     {
                         "id": "3",
-                        "score": 2.0,
-                        "percentage": 5.71
+                        "score": 2.2,
+                        "percentage": 6.29
+                    },
+                    {
+                        "id": "6",
+                        "score": 0.4,
+                        "percentage": 1.14
                     }
                 ]
             },
@@ -103,8 +108,8 @@
                     },
                     {
                         "id": "1",
-                        "score": 1.6,
-                        "percentage": 4.57
+                        "score": 1.4,
+                        "percentage": 4.0
                     },
                     {
                         "id": "17",
@@ -113,16 +118,11 @@
                     },
                     {
                         "id": "19",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.6,
+                        "percentage": 1.71
                     },
                     {
                         "id": "3",
-                        "score": 0.2,
-                        "percentage": 0.57
-                    },
-                    {
-                        "id": "6",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -147,8 +147,8 @@
                     },
                     {
                         "id": "7",
-                        "score": 1.2,
-                        "percentage": 1.4
+                        "score": 1.4,
+                        "percentage": 1.63
                     },
                     {
                         "id": "14",
@@ -184,11 +184,6 @@
                         "id": "5",
                         "score": 0.2,
                         "percentage": 0.23
-                    },
-                    {
-                        "id": "9",
-                        "score": 0.2,
-                        "percentage": 0.23
                     }
                 ]
             },
@@ -201,8 +196,8 @@
                 "promo": [
                     {
                         "id": "17",
-                        "score": 2.0,
-                        "percentage": 5.71
+                        "score": 1.8,
+                        "percentage": 5.14
                     },
                     {
                         "id": "11",
@@ -211,8 +206,8 @@
                     },
                     {
                         "id": "7",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.8,
+                        "percentage": 2.29
                     },
                     {
                         "id": "20",
@@ -249,12 +244,12 @@
                         "percentage": 2.86
                     },
                     {
-                        "id": "11",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "id": "2",
+                        "score": 1.0,
+                        "percentage": 2.86
                     },
                     {
-                        "id": "2",
+                        "id": "11",
                         "score": 0.8,
                         "percentage": 2.29
                     },
@@ -269,17 +264,17 @@
                         "percentage": 1.14
                     },
                     {
-                        "id": "9",
-                        "score": 0.4,
-                        "percentage": 1.14
-                    },
-                    {
                         "id": "15",
                         "score": 0.2,
                         "percentage": 0.57
                     },
                     {
                         "id": "20",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "9",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -294,13 +289,13 @@
                 "promo": [
                     {
                         "id": "4",
-                        "score": 5.2,
-                        "percentage": 14.86
+                        "score": 5.4,
+                        "percentage": 15.43
                     },
                     {
                         "id": "1",
-                        "score": 2.0,
-                        "percentage": 5.71
+                        "score": 2.4,
+                        "percentage": 6.86
                     },
                     {
                         "id": "6",
@@ -316,11 +311,6 @@
                         "id": "16",
                         "score": 0.4,
                         "percentage": 1.14
-                    },
-                    {
-                        "id": "9",
-                        "score": 0.2,
-                        "percentage": 0.57
                     }
                 ]
             },
@@ -333,13 +323,13 @@
                 "promo": [
                     {
                         "id": "4",
-                        "score": 7.0,
-                        "percentage": 20.0
+                        "score": 5.0,
+                        "percentage": 14.29
                     },
                     {
                         "id": "6",
-                        "score": 1.2,
-                        "percentage": 3.43
+                        "score": 4.2,
+                        "percentage": 12.0
                     }
                 ]
             },
@@ -362,8 +352,8 @@
                     },
                     {
                         "id": "7",
-                        "score": 1.0,
-                        "percentage": 2.86
+                        "score": 1.2,
+                        "percentage": 3.43
                     },
                     {
                         "id": "17",
@@ -391,8 +381,8 @@
                 "promo": [
                     {
                         "id": "7",
-                        "score": 5.0,
-                        "percentage": 14.27
+                        "score": 5.2,
+                        "percentage": 14.84
                     },
                     {
                         "id": "17",
@@ -445,8 +435,8 @@
                 "promo": [
                     {
                         "id": "1",
-                        "score": 1.6,
-                        "percentage": 4.57
+                        "score": 1.8,
+                        "percentage": 5.14
                     },
                     {
                         "id": "2",
@@ -469,11 +459,6 @@
                         "percentage": 1.71
                     },
                     {
-                        "id": "13",
-                        "score": 0.4,
-                        "percentage": 1.14
-                    },
-                    {
                         "id": "15",
                         "score": 0.4,
                         "percentage": 1.14
@@ -482,6 +467,16 @@
                         "id": "6",
                         "score": 0.4,
                         "percentage": 1.14
+                    },
+                    {
+                        "id": "7",
+                        "score": 0.4,
+                        "percentage": 1.14
+                    },
+                    {
+                        "id": "13",
+                        "score": 0.2,
+                        "percentage": 0.57
                     },
                     {
                         "id": "16",
@@ -519,8 +514,8 @@
                 "promo": [
                     {
                         "id": "7",
-                        "score": 4.6,
-                        "percentage": 13.13
+                        "score": 5.8,
+                        "percentage": 16.55
                     },
                     {
                         "id": "13",
@@ -563,6 +558,11 @@
                 "promo": [
                     {
                         "id": "7",
+                        "score": 2.4,
+                        "percentage": 6.86
+                    },
+                    {
+                        "id": "6",
                         "score": 1.2,
                         "percentage": 3.43
                     },
@@ -577,14 +577,14 @@
                         "percentage": 2.86
                     },
                     {
-                        "id": "6",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "id": "4",
+                        "score": 0.4,
+                        "percentage": 1.14
                     },
                     {
-                        "id": "4",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "id": "9",
+                        "score": 0.2,
+                        "percentage": 0.57
                     }
                 ]
             },
@@ -596,12 +596,12 @@
                 "url": "https://twitter.com/vijaytelevision/status/1977005064435683738",
                 "promo": [
                     {
-                        "id": "1",
-                        "score": 2.6,
-                        "percentage": 7.43
+                        "id": "7",
+                        "score": 3.2,
+                        "percentage": 9.14
                     },
                     {
-                        "id": "7",
+                        "id": "1",
                         "score": 1.6,
                         "percentage": 4.57
                     },
@@ -620,7 +620,7 @@
                 "url": "https://twitter.com/vijaytelevision/status/1976967181129642373",
                 "promo": [
                     {
-                        "id": "19",
+                        "id": "7",
                         "score": 2.6,
                         "percentage": 7.43
                     },
@@ -630,9 +630,9 @@
                         "percentage": 6.29
                     },
                     {
-                        "id": "7",
-                        "score": 1.2,
-                        "percentage": 3.43
+                        "id": "19",
+                        "score": 2.2,
+                        "percentage": 6.29
                     }
                 ]
             },
@@ -645,13 +645,23 @@
                 "promo": [
                     {
                         "id": "10",
-                        "score": 6.0,
-                        "percentage": 17.14
+                        "score": 5.4,
+                        "percentage": 15.43
                     },
                     {
                         "id": "7",
+                        "score": 0.8,
+                        "percentage": 2.29
+                    },
+                    {
+                        "id": "6",
                         "score": 0.6,
                         "percentage": 1.71
+                    },
+                    {
+                        "id": "9",
+                        "score": 0.2,
+                        "percentage": 0.57
                     }
                 ]
             },
@@ -664,13 +674,13 @@
                 "promo": [
                     {
                         "id": "9",
-                        "score": 2.4,
-                        "percentage": 6.86
+                        "score": 2.6,
+                        "percentage": 7.43
                     },
                     {
                         "id": "1",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "score": 0.4,
+                        "percentage": 1.14
                     }
                 ]
             },
@@ -688,8 +698,8 @@
                     },
                     {
                         "id": "7",
-                        "score": 2.6,
-                        "percentage": 7.43
+                        "score": 2.4,
+                        "percentage": 6.86
                     },
                     {
                         "id": "19",
@@ -698,8 +708,8 @@
                     },
                     {
                         "id": "6",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.6,
+                        "percentage": 1.71
                     },
                     {
                         "id": "2",
@@ -717,8 +727,8 @@
                 "promo": [
                     {
                         "id": "6",
-                        "score": 4.6,
-                        "percentage": 13.14
+                        "score": 5.2,
+                        "percentage": 14.86
                     },
                     {
                         "id": "10",
@@ -727,6 +737,11 @@
                     },
                     {
                         "id": "14",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "9",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -800,16 +815,21 @@
                 "promo": [
                     {
                         "id": "16",
-                        "score": 2.6,
-                        "percentage": 7.43
+                        "score": 2.8,
+                        "percentage": 8.0
                     },
                     {
                         "id": "18",
-                        "score": 2.6,
-                        "percentage": 7.43
+                        "score": 2.4,
+                        "percentage": 6.86
                     },
                     {
                         "id": "17",
+                        "score": 2.2,
+                        "percentage": 6.29
+                    },
+                    {
+                        "id": "6",
                         "score": 2.2,
                         "percentage": 6.29
                     },
@@ -820,11 +840,6 @@
                     },
                     {
                         "id": "13",
-                        "score": 1.0,
-                        "percentage": 2.86
-                    },
-                    {
-                        "id": "6",
                         "score": 1.0,
                         "percentage": 2.86
                     },
