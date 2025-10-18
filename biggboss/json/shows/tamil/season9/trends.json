@@ -11,18 +11,18 @@
                 "promo": [
                     {
                         "id": "4",
-                        "score": 7.2,
-                        "percentage": 20.57
+                        "score": 7.4,
+                        "percentage": 21.14
                     },
                     {
                         "id": "3",
-                        "score": 1.0,
-                        "percentage": 2.86
+                        "score": 0.8,
+                        "percentage": 2.29
                     },
                     {
                         "id": "6",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.6,
+                        "percentage": 1.71
                     }
                 ]
             },
@@ -35,8 +35,8 @@
                 "promo": [
                     {
                         "id": "7",
-                        "score": 2.8,
-                        "percentage": 8.0
+                        "score": 2.0,
+                        "percentage": 5.71
                     },
                     {
                         "id": "17",
@@ -44,12 +44,17 @@
                         "percentage": 4.0
                     },
                     {
+                        "id": "19",
+                        "score": 0.4,
+                        "percentage": 1.14
+                    },
+                    {
                         "id": "2",
                         "score": 0.4,
                         "percentage": 1.14
                     },
                     {
-                        "id": "3",
+                        "id": "6",
                         "score": 0.4,
                         "percentage": 1.14
                     },
@@ -60,11 +65,6 @@
                     },
                     {
                         "id": "15",
-                        "score": 0.2,
-                        "percentage": 0.57
-                    },
-                    {
-                        "id": "19",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -78,14 +78,19 @@
                 "url": "https://twitter.com/vijaytelevision/status/1978302630397935862",
                 "promo": [
                     {
-                        "id": "14",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "id": "17",
+                        "score": 0.4,
+                        "percentage": 1.14
                     },
                     {
                         "id": "11",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "19",
+                        "score": 0.2,
+                        "percentage": 0.57
                     }
                 ]
             },
@@ -103,13 +108,13 @@
                     },
                     {
                         "id": "1",
-                        "score": 1.0,
-                        "percentage": 2.86
+                        "score": 1.6,
+                        "percentage": 4.57
                     },
                     {
-                        "id": "19",
-                        "score": 1.0,
-                        "percentage": 2.86
+                        "id": "7",
+                        "score": 1.2,
+                        "percentage": 3.43
                     },
                     {
                         "id": "17",
@@ -117,9 +122,9 @@
                         "percentage": 1.71
                     },
                     {
-                        "id": "6",
-                        "score": 0.2,
-                        "percentage": 0.57
+                        "id": "19",
+                        "score": 0.6,
+                        "percentage": 1.71
                     }
                 ]
             },
@@ -131,34 +136,34 @@
                 "url": "https://twitter.com/vijaytelevision/status/1978034238990512183",
                 "promo": [
                     {
-                        "id": "2",
-                        "score": 1.6,
-                        "percentage": 1.86
+                        "id": "1",
+                        "score": 2.0,
+                        "percentage": 2.33
                     },
                     {
-                        "id": "1",
+                        "id": "2",
                         "score": 1.4,
                         "percentage": 1.63
                     },
                     {
                         "id": "7",
-                        "score": 1.4,
-                        "percentage": 1.63
-                    },
-                    {
-                        "id": "14",
-                        "score": 1.0,
-                        "percentage": 1.16
+                        "score": 1.2,
+                        "percentage": 1.4
                     },
                     {
                         "id": "17",
+                        "score": 0.8,
+                        "percentage": 0.93
+                    },
+                    {
+                        "id": "14",
                         "score": 0.6,
                         "percentage": 0.7
                     },
                     {
-                        "id": "20",
-                        "score": 0.6,
-                        "percentage": 0.7
+                        "id": "5",
+                        "score": 0.4,
+                        "percentage": 0.47
                     },
                     {
                         "id": "8",
@@ -166,27 +171,12 @@
                         "percentage": 0.47
                     },
                     {
-                        "id": "16",
-                        "score": 0.2,
-                        "percentage": 0.23
-                    },
-                    {
-                        "id": "4",
-                        "score": 0.2,
-                        "percentage": 0.23
-                    },
-                    {
-                        "id": "5",
-                        "score": 0.2,
-                        "percentage": 0.23
-                    },
-                    {
-                        "id": "6",
-                        "score": 0.2,
-                        "percentage": 0.23
-                    },
-                    {
                         "id": "9",
+                        "score": 0.4,
+                        "percentage": 0.47
+                    },
+                    {
+                        "id": "20",
                         "score": 0.2,
                         "percentage": 0.23
                     }
@@ -201,8 +191,8 @@
                 "promo": [
                     {
                         "id": "17",
-                        "score": 1.4,
-                        "percentage": 4.0
+                        "score": 1.6,
+                        "percentage": 4.57
                     },
                     {
                         "id": "7",
@@ -213,11 +203,6 @@
                         "id": "11",
                         "score": 0.8,
                         "percentage": 2.29
-                    },
-                    {
-                        "id": "2",
-                        "score": 0.2,
-                        "percentage": 0.57
                     },
                     {
                         "id": "20",
@@ -239,14 +224,9 @@
                 "url": "https://twitter.com/vijaytelevision/status/1977940587459547295",
                 "promo": [
                     {
-                        "id": "4",
-                        "score": 1.6,
-                        "percentage": 4.57
-                    },
-                    {
                         "id": "17",
-                        "score": 1.4,
-                        "percentage": 4.0
+                        "score": 1.2,
+                        "percentage": 3.43
                     },
                     {
                         "id": "2",
@@ -254,12 +234,7 @@
                         "percentage": 2.86
                     },
                     {
-                        "id": "10",
-                        "score": 0.8,
-                        "percentage": 2.29
-                    },
-                    {
-                        "id": "11",
+                        "id": "4",
                         "score": 0.8,
                         "percentage": 2.29
                     },
@@ -269,22 +244,42 @@
                         "percentage": 1.71
                     },
                     {
+                        "id": "7",
+                        "score": 0.4,
+                        "percentage": 1.14
+                    },
+                    {
                         "id": "9",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "score": 0.4,
+                        "percentage": 1.14
+                    },
+                    {
+                        "id": "10",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "11",
+                        "score": 0.2,
+                        "percentage": 0.57
                     },
                     {
                         "id": "13",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.2,
+                        "percentage": 0.57
                     },
                     {
                         "id": "15",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.2,
+                        "percentage": 0.57
                     },
                     {
                         "id": "20",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "6",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -299,8 +294,8 @@
                 "promo": [
                     {
                         "id": "4",
-                        "score": 4.6,
-                        "percentage": 13.14
+                        "score": 4.2,
+                        "percentage": 12.0
                     },
                     {
                         "id": "1",
@@ -323,6 +318,11 @@
                         "percentage": 1.14
                     },
                     {
+                        "id": "8",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
                         "id": "9",
                         "score": 0.2,
                         "percentage": 0.57
@@ -338,13 +338,13 @@
                 "promo": [
                     {
                         "id": "4",
-                        "score": 4.8,
-                        "percentage": 13.71
+                        "score": 5.4,
+                        "percentage": 15.43
                     },
                     {
                         "id": "6",
-                        "score": 4.2,
-                        "percentage": 12.0
+                        "score": 4.4,
+                        "percentage": 12.57
                     }
                 ]
             },
@@ -362,13 +362,13 @@
                     },
                     {
                         "id": "2",
-                        "score": 2.2,
-                        "percentage": 6.29
+                        "score": 2.0,
+                        "percentage": 5.71
                     },
                     {
                         "id": "7",
-                        "score": 1.2,
-                        "percentage": 3.43
+                        "score": 1.0,
+                        "percentage": 2.86
                     },
                     {
                         "id": "11",
@@ -390,24 +390,14 @@
                 "url": "https://twitter.com/vijaytelevision/status/1977305742966186461",
                 "promo": [
                     {
-                        "id": "7",
-                        "score": 5.6,
-                        "percentage": 15.98
-                    },
-                    {
                         "id": "17",
-                        "score": 1.8,
-                        "percentage": 5.14
+                        "score": 1.6,
+                        "percentage": 4.57
                     },
                     {
                         "id": "11",
-                        "score": 1.0,
-                        "percentage": 2.85
-                    },
-                    {
-                        "id": "6",
-                        "score": 1.0,
-                        "percentage": 2.85
+                        "score": 1.4,
+                        "percentage": 4.0
                     },
                     {
                         "id": "8",
@@ -415,24 +405,34 @@
                         "percentage": 2.85
                     },
                     {
+                        "id": "15",
+                        "score": 0.8,
+                        "percentage": 2.28
+                    },
+                    {
+                        "id": "6",
+                        "score": 0.8,
+                        "percentage": 2.28
+                    },
+                    {
                         "id": "12",
                         "score": 0.6,
                         "percentage": 1.71
                     },
                     {
-                        "id": "4",
+                        "id": "2",
+                        "score": 0.6,
+                        "percentage": 1.71
+                    },
+                    {
+                        "id": "14",
                         "score": 0.4,
                         "percentage": 1.14
                     },
                     {
-                        "id": "14",
-                        "score": 0.2,
-                        "percentage": 0.57
-                    },
-                    {
-                        "id": "2",
-                        "score": 0.2,
-                        "percentage": 0.57
+                        "id": "4",
+                        "score": 0.4,
+                        "percentage": 1.14
                     }
                 ]
             },
@@ -445,8 +445,8 @@
                 "promo": [
                     {
                         "id": "1",
-                        "score": 1.8,
-                        "percentage": 5.14
+                        "score": 1.6,
+                        "percentage": 4.57
                     },
                     {
                         "id": "10",
@@ -459,27 +459,27 @@
                         "percentage": 2.85
                     },
                     {
-                        "id": "3",
+                        "id": "19",
                         "score": 0.8,
                         "percentage": 2.28
                     },
                     {
-                        "id": "19",
-                        "score": 0.6,
-                        "percentage": 1.71
-                    },
-                    {
-                        "id": "6",
-                        "score": 0.6,
-                        "percentage": 1.71
-                    },
-                    {
                         "id": "15",
+                        "score": 0.6,
+                        "percentage": 1.71
+                    },
+                    {
+                        "id": "5",
+                        "score": 0.6,
+                        "percentage": 1.71
+                    },
+                    {
+                        "id": "3",
                         "score": 0.4,
                         "percentage": 1.14
                     },
                     {
-                        "id": "7",
+                        "id": "6",
                         "score": 0.4,
                         "percentage": 1.14
                     },
@@ -513,14 +513,9 @@
                 "url": "https://twitter.com/vijaytelevision/status/1977219825702261038",
                 "promo": [
                     {
-                        "id": "7",
-                        "score": 5.0,
-                        "percentage": 14.27
-                    },
-                    {
                         "id": "17",
-                        "score": 1.4,
-                        "percentage": 4.0
+                        "score": 1.6,
+                        "percentage": 4.57
                     },
                     {
                         "id": "13",
@@ -546,6 +541,11 @@
                         "id": "14",
                         "score": 0.2,
                         "percentage": 0.57
+                    },
+                    {
+                        "id": "7",
+                        "score": 0.2,
+                        "percentage": 0.57
                     }
                 ]
             },
@@ -557,32 +557,22 @@
                 "url": "https://twitter.com/vijaytelevision/status/1977074586475766067",
                 "promo": [
                     {
-                        "id": "7",
-                        "score": 2.4,
-                        "percentage": 6.86
-                    },
-                    {
                         "id": "6",
                         "score": 1.4,
                         "percentage": 4.0
                     },
                     {
                         "id": "1",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "score": 1.2,
+                        "percentage": 3.43
                     },
                     {
                         "id": "14",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "score": 0.4,
+                        "percentage": 1.14
                     },
                     {
                         "id": "9",
-                        "score": 0.6,
-                        "percentage": 1.71
-                    },
-                    {
-                        "id": "4",
                         "score": 0.4,
                         "percentage": 1.14
                     }
@@ -596,19 +586,14 @@
                 "url": "https://twitter.com/vijaytelevision/status/1977005064435683738",
                 "promo": [
                     {
-                        "id": "7",
-                        "score": 3.0,
-                        "percentage": 8.57
-                    },
-                    {
-                        "id": "1",
-                        "score": 1.8,
-                        "percentage": 5.14
-                    },
-                    {
                         "id": "20",
                         "score": 1.2,
                         "percentage": 3.43
+                    },
+                    {
+                        "id": "1",
+                        "score": 0.4,
+                        "percentage": 1.14
                     }
                 ]
             },
@@ -620,19 +605,19 @@
                 "url": "https://twitter.com/vijaytelevision/status/1976967181129642373",
                 "promo": [
                     {
-                        "id": "17",
-                        "score": 2.2,
-                        "percentage": 6.29
+                        "id": "19",
+                        "score": 1.6,
+                        "percentage": 4.57
                     },
                     {
-                        "id": "19",
-                        "score": 2.2,
-                        "percentage": 6.29
+                        "id": "17",
+                        "score": 1.4,
+                        "percentage": 4.0
                     },
                     {
                         "id": "7",
-                        "score": 2.2,
-                        "percentage": 6.29
+                        "score": 0.6,
+                        "percentage": 1.71
                     }
                 ]
             },
@@ -645,23 +630,18 @@
                 "promo": [
                     {
                         "id": "10",
-                        "score": 5.8,
-                        "percentage": 16.57
-                    },
-                    {
-                        "id": "7",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "score": 1.2,
+                        "percentage": 3.43
                     },
                     {
                         "id": "9",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "score": 0.4,
+                        "percentage": 1.14
                     },
                     {
                         "id": "6",
-                        "score": 0.4,
-                        "percentage": 1.14
+                        "score": 0.2,
+                        "percentage": 0.57
                     }
                 ]
             },
@@ -674,13 +654,8 @@
                 "promo": [
                     {
                         "id": "9",
-                        "score": 3.6,
-                        "percentage": 10.29
-                    },
-                    {
-                        "id": "1",
-                        "score": 0.2,
-                        "percentage": 0.57
+                        "score": 4.6,
+                        "percentage": 13.14
                     }
                 ]
             },
@@ -693,8 +668,8 @@
                 "promo": [
                     {
                         "id": "10",
-                        "score": 5.2,
-                        "percentage": 14.86
+                        "score": 5.0,
+                        "percentage": 14.29
                     },
                     {
                         "id": "7",
@@ -732,8 +707,8 @@
                     },
                     {
                         "id": "10",
-                        "score": 1.6,
-                        "percentage": 4.57
+                        "score": 1.4,
+                        "percentage": 4.0
                     },
                     {
                         "id": "14",
@@ -755,29 +730,24 @@
                 "url": "https://twitter.com/vijaytelevision/status/1976219228807008457",
                 "promo": [
                     {
-                        "id": "10",
-                        "score": 2.8,
-                        "percentage": 8.0
-                    },
-                    {
                         "id": "17",
-                        "score": 2.8,
-                        "percentage": 8.0
+                        "score": 4.2,
+                        "percentage": 12.0
                     },
                     {
-                        "id": "3",
-                        "score": 2.2,
-                        "percentage": 6.29
+                        "id": "10",
+                        "score": 3.2,
+                        "percentage": 9.14
                     },
                     {
                         "id": "7",
-                        "score": 2.2,
-                        "percentage": 6.29
+                        "score": 2.0,
+                        "percentage": 5.71
                     },
                     {
                         "id": "1",
-                        "score": 1.2,
-                        "percentage": 3.43
+                        "score": 1.0,
+                        "percentage": 2.86
                     },
                     {
                         "id": "16",
@@ -795,9 +765,19 @@
                         "percentage": 1.14
                     },
                     {
+                        "id": "3",
+                        "score": 0.4,
+                        "percentage": 1.14
+                    },
+                    {
                         "id": "9",
                         "score": 0.4,
                         "percentage": 1.14
+                    },
+                    {
+                        "id": "19",
+                        "score": 0.2,
+                        "percentage": 0.57
                     }
                 ]
             },
@@ -879,11 +859,16 @@
                     },
                     {
                         "id": "3",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "score": 1.0,
+                        "percentage": 2.86
                     },
                     {
                         "id": "12",
+                        "score": 0.4,
+                        "percentage": 1.14
+                    },
+                    {
+                        "id": "9",
                         "score": 0.4,
                         "percentage": 1.14
                     },
@@ -893,17 +878,7 @@
                         "percentage": 0.57
                     },
                     {
-                        "id": "4",
-                        "score": 0.2,
-                        "percentage": 0.57
-                    },
-                    {
                         "id": "8",
-                        "score": 0.2,
-                        "percentage": 0.57
-                    },
-                    {
-                        "id": "9",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -921,17 +896,12 @@
                         "percentage": 8.0
                     },
                     {
-                        "id": "15",
-                        "score": 1.4,
-                        "percentage": 4.0
-                    },
-                    {
                         "id": "2",
-                        "score": 1.4,
-                        "percentage": 4.0
+                        "score": 2.4,
+                        "percentage": 6.86
                     },
                     {
-                        "id": "16",
+                        "id": "15",
                         "score": 1.0,
                         "percentage": 2.86
                     },
@@ -942,8 +912,8 @@
                     },
                     {
                         "id": "12",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "score": 0.8,
+                        "percentage": 2.29
                     },
                     {
                         "id": "14",
@@ -956,12 +926,17 @@
                         "percentage": 1.71
                     },
                     {
-                        "id": "4",
+                        "id": "16",
+                        "score": 0.4,
+                        "percentage": 1.14
+                    },
+                    {
+                        "id": "18",
                         "score": 0.2,
                         "percentage": 0.57
                     },
                     {
-                        "id": "5",
+                        "id": "4",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -993,18 +968,18 @@
                 "promo": [
                     {
                         "id": "1",
-                        "score": 2.6,
-                        "percentage": 7.43
+                        "score": 2.0,
+                        "percentage": 5.71
                     },
                     {
                         "id": "4",
-                        "score": 1.6,
-                        "percentage": 4.57
+                        "score": 1.8,
+                        "percentage": 5.14
                     },
                     {
                         "id": "15",
-                        "score": 1.2,
-                        "percentage": 3.43
+                        "score": 1.4,
+                        "percentage": 4.0
                     },
                     {
                         "id": "2",
@@ -1020,6 +995,11 @@
                         "id": "11",
                         "score": 0.4,
                         "percentage": 1.14
+                    },
+                    {
+                        "id": "12",
+                        "score": 0.2,
+                        "percentage": 0.57
                     }
                 ]
             },
@@ -1031,8 +1011,13 @@
                 "promo": [
                     {
                         "id": "20",
-                        "score": 2.4,
-                        "percentage": 6.86
+                        "score": 2.0,
+                        "percentage": 5.71
+                    },
+                    {
+                        "id": "6",
+                        "score": 2.0,
+                        "percentage": 5.71
                     },
                     {
                         "id": "14",
@@ -1040,17 +1025,12 @@
                         "percentage": 5.14
                     },
                     {
-                        "id": "16",
+                        "id": "17",
                         "score": 1.6,
                         "percentage": 4.57
                     },
                     {
-                        "id": "6",
-                        "score": 1.4,
-                        "percentage": 4.0
-                    },
-                    {
-                        "id": "17",
+                        "id": "16",
                         "score": 1.2,
                         "percentage": 3.43
                     },
@@ -1069,21 +1049,26 @@
                 "promo": [
                     {
                         "id": "7",
-                        "score": 1.8,
-                        "percentage": 5.14
+                        "score": 2.6,
+                        "percentage": 7.43
                     },
                     {
                         "id": "14",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "score": 0.6,
+                        "percentage": 1.71
                     },
                     {
-                        "id": "3",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "id": "6",
+                        "score": 0.6,
+                        "percentage": 1.71
                     },
                     {
                         "id": "1",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "12",
                         "score": 0.2,
                         "percentage": 0.57
                     },
@@ -1102,26 +1087,31 @@
                 "promo": [
                     {
                         "id": "1",
-                        "score": 6.0,
-                        "percentage": 17.14
+                        "score": 5.8,
+                        "percentage": 16.57
                     },
                     {
-                        "id": "5",
-                        "score": 0.6,
-                        "percentage": 1.71
-                    },
-                    {
-                        "id": "11",
+                        "id": "12",
                         "score": 0.4,
                         "percentage": 1.14
                     },
                     {
-                        "id": "10",
+                        "id": "11",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "2",
                         "score": 0.2,
                         "percentage": 0.57
                     },
                     {
                         "id": "4",
+                        "score": 0.2,
+                        "percentage": 0.57
+                    },
+                    {
+                        "id": "5",
                         "score": 0.2,
                         "percentage": 0.57
                     }
@@ -1134,14 +1124,14 @@
                 "url": "https://twitter.com/vijaytelevision/status/1975131417165062183",
                 "promo": [
                     {
+                        "id": "9",
+                        "score": 1.0,
+                        "percentage": 2.86
+                    },
+                    {
                         "id": "8",
                         "score": 0.8,
                         "percentage": 2.29
-                    },
-                    {
-                        "id": "9",
-                        "score": 0.6,
-                        "percentage": 1.71
                     }
                 ]
             },
@@ -1153,18 +1143,18 @@
                 "promo": [
                     {
                         "id": "11",
-                        "score": 7.2,
-                        "percentage": 20.57
+                        "score": 7.4,
+                        "percentage": 21.14
                     },
                     {
                         "id": "7",
-                        "score": 2.2,
-                        "percentage": 6.29
+                        "score": 2.4,
+                        "percentage": 6.86
                     },
                     {
                         "id": "19",
-                        "score": 0.6,
-                        "percentage": 1.71
+                        "score": 0.4,
+                        "percentage": 1.14
                     },
                     {
                         "id": "9",
@@ -1181,13 +1171,8 @@
                 "promo": [
                     {
                         "id": "6",
-                        "score": 2.6,
-                        "percentage": 7.43
-                    },
-                    {
-                        "id": "16",
-                        "score": 1.2,
-                        "percentage": 3.43
+                        "score": 3.0,
+                        "percentage": 8.57
                     },
                     {
                         "id": "11",
@@ -1200,9 +1185,14 @@
                         "percentage": 2.86
                     },
                     {
+                        "id": "16",
+                        "score": 1.0,
+                        "percentage": 2.86
+                    },
+                    {
                         "id": "17",
-                        "score": 0.8,
-                        "percentage": 2.29
+                        "score": 1.0,
+                        "percentage": 2.86
                     },
                     {
                         "id": "3",
@@ -1225,11 +1215,6 @@
                         "percentage": 1.14
                     },
                     {
-                        "id": "7",
-                        "score": 0.4,
-                        "percentage": 1.14
-                    },
-                    {
                         "id": "10",
                         "score": 0.2,
                         "percentage": 0.57
@@ -1244,8 +1229,8 @@
                 "promo": [
                     {
                         "id": "17",
-                        "score": 15.8,
-                        "percentage": 81.95
+                        "score": 15.6,
+                        "percentage": 80.91
                     }
                 ]
             }
