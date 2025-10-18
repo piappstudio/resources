@@ -53,61 +53,61 @@
                 },
                 {
                     "week": 2,
-                    "totalVotes": 466267,
+                    "totalVotes": 835719,
                     "players": [
                         {
                             "id": 1,
                             "name": "Watermelon Start Diwakar",
-                            "vote": 109953,
-                            "percentage": 23.58
+                            "vote": 192490,
+                            "percentage": 23.03
                         },
                         {
                             "id": 7,
                             "name": "Sabari Nathan",
-                            "vote": 94460,
-                            "percentage": 20.26
+                            "vote": 156861,
+                            "percentage": 18.77
                         },
                         {
                             "id": 4,
                             "name": "VJ Parvathy",
-                            "vote": 52504,
-                            "percentage": 11.26
+                            "vote": 84683,
+                            "percentage": 10.13
                         },
                         {
                             "id": 19,
                             "name": "Kamarudin",
-                            "vote": 44074,
-                            "percentage": 9.45
-                        },
-                        {
-                            "id": 11,
-                            "name": "Ramya Joo",
-                            "vote": 38173,
-                            "percentage": 8.19
+                            "vote": 76124,
+                            "percentage": 9.11
                         },
                         {
                             "id": 16,
                             "name": "Apsara CJ",
-                            "vote": 32325,
-                            "percentage": 6.93
-                        },
-                        {
-                            "id": 3,
-                            "name": "FJ Adisayam",
-                            "vote": 32216,
-                            "percentage": 6.91
-                        },
-                        {
-                            "id": 9,
-                            "name": "Vyishali Kemkar",
-                            "vote": 31400,
-                            "percentage": 6.73
+                            "vote": 68294,
+                            "percentage": 8.17
                         },
                         {
                             "id": 2,
                             "name": "Aurora Sinclair",
-                            "vote": 31162,
-                            "percentage": 6.68
+                            "vote": 64642,
+                            "percentage": 7.73
+                        },
+                        {
+                            "id": 3,
+                            "name": "FJ Adisayam",
+                            "vote": 64287,
+                            "percentage": 7.69
+                        },
+                        {
+                            "id": 9,
+                            "name": "Vyishali Kemkar",
+                            "vote": 64281,
+                            "percentage": 7.69
+                        },
+                        {
+                            "id": 11,
+                            "name": "Ramya Joo",
+                            "vote": 64057,
+                            "percentage": 7.66
                         }
                     ]
                 }
