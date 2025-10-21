@@ -313,7 +313,38 @@
               "percentage": 20
             }
           ]
+        },
+        {
+          "week": 9,
+          "players": [
+            {
+              "id": 7,
+              "name": "Baseer Ali",
+              "vote": 2600,
+              "percentage": 38
+            },
+            {
+              "id": 11,
+              "name": "Pranit More",
+              "vote": 2052,
+              "percentage": 30
+            },
+            {
+              "id": 9,
+              "name": "Gaurav Khanna",
+              "vote": 1853,
+              "percentage": 27
+            },
+            {
+              "id": 19,
+              "name": "Nehal Chudasama",
+              "vote": 279,
+              "percentage": 4
+            }
+          ]
         }
+
+
       ]
     }
   ]
