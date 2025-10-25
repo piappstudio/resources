@@ -113,55 +113,55 @@
                 },
                 {
                     "week": 3,
-                    "totalVotes": 440665,
+                    "totalVotes": 657446,
                     "players": [
                         {
                             "id": 13,
                             "name": "Viyana",
-                            "vote": 150626,
-                            "percentage": 33.15
+                            "vote": 218728,
+                            "percentage": 33.27
                         },
                         {
                             "id": 14,
                             "name": "Praveen Rajdev",
-                            "vote": 58952,
-                            "percentage": 12.97
+                            "vote": 89125,
+                            "percentage": 13.56
                         },
                         {
                             "id": 15,
                             "name": "Subiksha Kumar",
-                            "vote": 53173,
-                            "percentage": 11.7
+                            "vote": 73165,
+                            "percentage": 11.13
                         },
                         {
                             "id": 5,
                             "name": "Tushaar",
-                            "vote": 46692,
-                            "percentage": 10.28
+                            "vote": 67751,
+                            "percentage": 10.31
                         },
                         {
                             "id": 20,
                             "name": "Kalaiyarasan",
-                            "vote": 46540,
-                            "percentage": 10.24
+                            "vote": 61231,
+                            "percentage": 9.31
                         },
                         {
                             "id": 11,
                             "name": "Ramya Joo",
-                            "vote": 34988,
-                            "percentage": 7.7
+                            "vote": 51415,
+                            "percentage": 7.82
                         },
                         {
                             "id": 2,
                             "name": "Aurora Sinclair",
-                            "vote": 32669,
-                            "percentage": 7.19
+                            "vote": 49943,
+                            "percentage": 7.6
                         },
                         {
                             "id": 10,
                             "name": "Aadhirai",
-                            "vote": 30727,
-                            "percentage": 6.76
+                            "vote": 46088,
+                            "percentage": 7.0
                         }
                     ]
                 }
