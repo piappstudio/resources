@@ -34,7 +34,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/ashnoor_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/ashnoor.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
@@ -43,13 +43,20 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 2,
           "categories": [],
           "nominates": [
             16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Chose Amaal on Round 5"
+            }
           ]
         },
         {
@@ -57,7 +64,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -67,6 +75,16 @@
           "nominates": [
             9,
             3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -74,26 +92,42 @@
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -105,7 +139,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/zeeshan_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/zeeshan.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": "2025-10-12",
@@ -119,6 +153,16 @@
           "nominates": [
             11,
             15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -126,6 +170,12 @@
           "categories": [],
           "nominates": [
             4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Chose Awez from Red Triangle"
+            }
           ]
         },
         {
@@ -133,7 +183,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -141,6 +192,16 @@
           "nominates": [
             3,
             17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -148,7 +209,8 @@
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
@@ -156,7 +218,8 @@
             "NOM",
             "EVI"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -168,11 +231,11 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -182,6 +245,16 @@
           "nominates": [
             9,
             1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -191,6 +264,12 @@
           ],
           "nominates": [
             14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Chose Mridul from Red Triangle on Round 2"
+            }
           ]
         },
         {
@@ -198,7 +277,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -206,29 +286,57 @@
           "nominates": [
             12,
             2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "2nsd nomination"
+            }
           ]
         },
         {
           "week": 5,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -240,7 +348,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/awez_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/awez.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": "2025-09-27",
@@ -252,6 +360,16 @@
           "nominates": [
             9,
             12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -261,6 +379,12 @@
           ],
           "nominates": [
             15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Chose Kunickaa on Round 3"
+            }
           ]
         },
         {
@@ -268,7 +392,8 @@
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -276,6 +401,16 @@
           "nominates": [
             11,
             14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -284,7 +419,8 @@
             "NOM",
             "EVI"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -296,7 +432,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nagma_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nagma.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": "2025-09-14",
@@ -308,6 +444,16 @@
           "nominates": [
             10,
             12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -315,6 +461,12 @@
           "categories": [],
           "nominates": [
             16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Chose Amaal on Round 5"
+            }
           ]
         },
         {
@@ -323,7 +475,8 @@
             "NOM",
             "EVI"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -335,10 +488,10 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nehal_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/nehal.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2025-10-26",
       "isNominated": false,
       "history": [
         {
@@ -347,6 +500,16 @@
           "nominates": [
             3,
             12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -354,6 +517,12 @@
           "categories": [],
           "nominates": [
             16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Chose Amaal on Round 5"
+            }
           ]
         },
         {
@@ -362,7 +531,8 @@
             "NTG",
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -372,6 +542,16 @@
           "nominates": [
             13,
             17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -379,29 +559,35 @@
           "categories": [
             "SR"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "NOM"
           ],
-          "nominates": []
-        },
-        {
-          "week": 7,
-          "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [
             "Captain"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "7",
@@ -411,10 +597,10 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/baseer_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/baseer.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2025-10-26",
       "isNominated": false,
       "history": [
         {
@@ -423,6 +609,16 @@
           "nominates": [
             8,
             12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -430,6 +626,12 @@
           "categories": [],
           "nominates": [
             3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Chose Tanya on Round 4"
+            }
           ]
         },
         {
@@ -439,7 +641,8 @@
             "Captain",
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -449,29 +652,34 @@
           "nominates": [
             12,
             2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "2nd nomination"
+            }
           ]
-        },
-        {
-          "week": 5,
-          "categories": [],
-          "nominates": []
-        },
-        {
-          "week": 6,
-          "categories": [],
-          "nominates": []
         },
         {
           "week": 7,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
-          "week": 8,
-          "categories": [],
-          "nominates": []
+          "week": 9,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -483,7 +691,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/abhishek_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/abhishek.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
@@ -497,6 +705,16 @@
           "nominates": [
             11,
             3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -505,6 +723,16 @@
           "nominates": [
             4,
             15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Chose Awez from Red Triangle"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Chose Kunickaa on Round 3"
+            }
           ]
         },
         {
@@ -512,7 +740,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -522,6 +751,16 @@
           "nominates": [
             1,
             4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 4,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -529,22 +768,38 @@
           "categories": [
             "Captain"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -556,7 +811,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
@@ -570,6 +825,16 @@
           "nominates": [
             12,
             3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -577,6 +842,12 @@
           "categories": [],
           "nominates": [
             3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Chose Tanya on Round 4"
+            }
           ]
         },
         {
@@ -585,7 +856,8 @@
             "NTG",
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -593,6 +865,16 @@
           "nominates": [
             14,
             12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -600,24 +882,44 @@
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -629,7 +931,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/natalia_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/natalia.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": "2025-09-14",
@@ -643,6 +945,16 @@
           "nominates": [
             5,
             12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -650,7 +962,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 3,
@@ -658,7 +971,8 @@
             "NOM",
             "EVI"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -670,11 +984,11 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -684,6 +998,16 @@
           "nominates": [
             3,
             8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -691,6 +1015,12 @@
           "categories": [],
           "nominates": [
             14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Chose Mridul from Red Triangle on Round 2"
+            }
           ]
         },
         {
@@ -699,40 +1029,62 @@
             "NTG",
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 5,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -744,7 +1096,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/neelam_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/neelam.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
@@ -758,6 +1110,16 @@
           "nominates": [
             9,
             10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -765,14 +1127,16 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 3,
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -780,6 +1144,16 @@
           "nominates": [
             3,
             15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -787,28 +1161,46 @@
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -820,11 +1212,11 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -833,13 +1225,20 @@
             "SR",
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 2,
           "categories": [],
           "nominates": [
             3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Chose Tanya on Round 4"
+            }
           ]
         },
         {
@@ -847,7 +1246,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -855,31 +1255,59 @@
           "nominates": [
             6,
             9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
           "week": 5,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "Captain"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [
             "Captain"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -891,81 +1319,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/mridul_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/mridul.png",
-      "order_id": null,
-      "re_entry_date": null,
-      "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
-      "history": [
-        {
-          "week": 1,
-          "categories": [],
-          "nominates": [
-            2,
-            3
-          ]
-        },
-        {
-          "week": 2,
-          "categories": [
-            "NOM"
-          ],
-          "nominates": [
-            15
-          ]
-        },
-        {
-          "week": 3,
-          "categories": [
-            "NOM"
-          ],
-          "nominates": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [
-            12,
-            4
-          ]
-        },
-        {
-          "week": 5,
-          "categories": [
-            "NOM"
-          ],
-          "nominates": []
-        },
-        {
-          "week": 6,
-          "categories": [],
-          "nominates": []
-        },
-        {
-          "week": 7,
-          "categories": [
-            "NOM"
-          ],
-          "nominates": []
-        },
-        {
-          "week": 8,
-          "categories": [
-            "NOM"
-          ],
-          "nominates": []
-        }
-      ]
-    },
-    {
-      "id": "15",
-      "name": "Kunickaa Sadanand",
-      "dial_number": "",
-      "title": null,
-      "start_date": "2025-08-24",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa_pp.png",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
@@ -975,8 +1329,138 @@
           "week": 1,
           "categories": [],
           "nominates": [
+            2,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Chose Kunickaa on Round 3"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            12,
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 4,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ],
+      "isCaptain": true
+    },
+    {
+      "id": "15",
+      "name": "Kunickaa Sadanand",
+      "dial_number": "",
+      "title": null,
+      "start_date": "2025-08-24",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/kunickaa.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": true,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
             8,
             2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -986,6 +1470,12 @@
           ],
           "nominates": [
             14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Chose Mridul from Red Triangle on Round 2"
+            }
           ]
         },
         {
@@ -993,7 +1483,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -1001,29 +1492,57 @@
           "nominates": [
             12,
             17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
           "week": 5,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1035,11 +1554,11 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1047,6 +1566,16 @@
           "nominates": [
             12,
             14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
@@ -1056,6 +1585,12 @@
           ],
           "nominates": [
             4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Chose Awez from Red Triangle"
+            }
           ]
         },
         {
@@ -1063,7 +1598,8 @@
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -1073,29 +1609,57 @@
           "nominates": [
             12,
             2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
           "week": 5,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1107,7 +1671,7 @@
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/shehbaz.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": "2025-09-07",
       "re_evicted_date": null,
       "eliminated_date": "2025-08-24",
@@ -1116,19 +1680,22 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 2,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 3,
           "categories": [
             "NTG"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
@@ -1136,27 +1703,56 @@
           "nominates": [
             2,
             15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "2nd nomination"
+            }
           ]
         },
         {
           "week": 5,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM",
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1168,7 +1764,7 @@
       "start_date": "2025-10-05",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/malti_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/malti.png",
-      "order_id": null,
+      "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
@@ -1177,44 +1773,66 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 2,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 3,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 4,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 5,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 6,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 7,
           "categories": [],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
         },
         {
           "week": 8,
           "categories": [
             "NOM"
           ],
-          "nominates": []
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     }

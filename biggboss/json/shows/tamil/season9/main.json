@@ -21,7 +21,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/diwakar_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/diwakar.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -35,6 +35,16 @@
                     "nominates": [
                         14,
                         9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Attention creation and targeting the people"
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "Not much honest"
+                        }
                     ]
                 },
                 {
@@ -46,6 +56,16 @@
                     "nominates": [
                         19,
                         11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Physical attack, bad words"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Not understanding anything"
+                        }
                     ]
                 },
                 {
@@ -57,6 +77,36 @@
                     "nominates": [
                         11,
                         14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Creating unnecessary choas"
+                        },
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Doing groupism during the game"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "BSD"
+                    ],
+                    "nominates": [
+                        19,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Tharaikkkuraivana vaarthaikalai use panrar"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Proviking, koluthi pootu, vaayai punga try panrar"
+                        }
                     ]
                 }
             ]
@@ -69,7 +119,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sinclair_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sinclair.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -83,6 +133,16 @@
                     "nominates": [
                         20,
                         1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not involed with people"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not able to handle basic conversation"
+                        }
                     ]
                 },
                 {
@@ -94,6 +154,16 @@
                     "nominates": [
                         4,
                         1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Attitude of interrupting"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Shadow with parvathy"
+                        }
                     ]
                 },
                 {
@@ -104,6 +174,36 @@
                     "nominates": [
                         20,
                         15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Quite and not opening up"
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Pretending good girl"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        20
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Thala valikuthu avanga behavior"
+                        },
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Quite, using bad words frequently"
+                        }
                     ]
                 }
             ]
@@ -116,7 +216,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/fj_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/fj.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -128,6 +228,16 @@
                     "nominates": [
                         20,
                         8
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Less involvement, not speaking with anyone"
+                        },
+                        {
+                            "nominate_part_id": 8,
+                            "comments": "Always placing his point first"
+                        }
                     ]
                 },
                 {
@@ -138,6 +248,16 @@
                     "nominates": [
                         4,
                         1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Double game, twisting"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Just listening only to parvathy"
+                        }
                     ]
                 },
                 {
@@ -149,6 +269,37 @@
                     "nominates": [
                         15,
                         13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Making fake friendship with Vikram for playing safe game"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Portrait as good soul, but doing evil work"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "BSD",
+                        "NF"
+                    ],
+                    "nominates": [
+                        4,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not listening to anybody"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Summavey parvathukku support panraru"
+                        }
                     ]
                 }
             ]
@@ -161,11 +312,11 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/parvathy_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/parvathy.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -173,6 +324,16 @@
                     "nominates": [
                         8,
                         6
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 8,
+                            "comments": "Oppposite content"
+                        },
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "Veg or Non-Veg.. Judging me"
+                        }
                     ]
                 },
                 {
@@ -184,14 +345,51 @@
                     "nominates": [
                         3,
                         9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Personal vengeance"
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "Physical attack and cunning"
+                        }
                     ]
                 },
                 {
                     "week": 3,
-                    "categories": [],
+                    "categories": [
+                        "WPW"
+                    ],
                     "nominates": [
                         5,
                         14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 5,
+                            "comments": "Biased captaincy"
+                        },
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Taunting to evacuate me from BB house"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Playing behind, emotional and dirty game"
+                        }
                     ]
                 }
             ]
@@ -204,11 +402,11 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/tushaar_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/tushaar.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -219,6 +417,16 @@
                     "nominates": [
                         20,
                         16
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Too reserved"
+                        },
+                        {
+                            "nominate_part_id": 16,
+                            "comments": "Too reserved"
+                        }
                     ]
                 },
                 {
@@ -229,6 +437,16 @@
                     "nominates": [
                         1,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Following only Diwakar"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Problem creating, extra acting"
+                        }
                     ]
                 },
                 {
@@ -239,6 +457,34 @@
                     "nominates": [
                         20,
                         10
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not impact so far"
+                        },
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Super Deluxe,  not able to understand the game"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not sure why she is not following the rules"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Using hurtful words"
+                        }
                     ]
                 }
             ]
@@ -251,7 +497,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kani_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kani.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -263,6 +509,16 @@
                     "nominates": [
                         10,
                         13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "less involvement"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "less involvement"
+                        }
                     ]
                 },
                 {
@@ -273,6 +529,16 @@
                     "nominates": [
                         19,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Not understanding, not using proper languages"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Breaking the rule, not cooperating with other, attitude issue"
+                        }
                     ]
                 },
                 {
@@ -283,10 +549,40 @@
                     "nominates": [
                         13,
                         15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Not using super deluxe power"
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Not using super deluxe power"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "BSD",
+                        "NF"
+                    ],
+                    "nominates": [
+                        4,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Affecting all the person's space"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Supporting parvathy blindly"
+                        }
                     ]
                 }
-            ],
-            "isCaptain": true
+            ]
         },
         {
             "id": "7",
@@ -296,7 +592,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sabari_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sabari.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -308,6 +604,16 @@
                     "nominates": [
                         20,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not involed much"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Dominating more"
+                        }
                     ]
                 },
                 {
@@ -319,6 +625,16 @@
                     "nominates": [
                         4,
                         19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Influencing all"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Using bad words"
+                        }
                     ]
                 },
                 {
@@ -329,6 +645,37 @@
                     "nominates": [
                         13,
                         12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Not doing anything interesting for the game"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Playing projection game"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "BSD",
+                        "NF"
+                    ],
+                    "nominates": [
+                        4,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She has only the fighting strategy"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Bullying in favor of his supporting person"
+                        }
                     ]
                 }
             ]
@@ -336,12 +683,12 @@
         {
             "id": "8",
             "name": "Pravin Gandhi",
-            "dial_number": null,
+            "dial_number": "7835073311",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/pravin_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/pravin.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": "2025-10-12",
@@ -357,14 +704,16 @@
                     "nominates": [
                         1,
                         14
-                    ]
-                },
-                {
-                    "week": 3,
-                    "categories": [],
-                    "nominates": [
-                        11,
-                        10
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not listening while fighting"
+                        },
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Not listening while fighting"
+                        }
                     ]
                 }
             ]
@@ -377,7 +726,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kemy_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kemy.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -389,6 +738,16 @@
                     "nominates": [
                         1,
                         7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not flexible, always he feels he  is right"
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Doubt on acting"
+                        }
                     ]
                 },
                 {
@@ -399,6 +758,16 @@
                     "nominates": [
                         1,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "No change at all. Adamant"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Attitude issue"
+                        }
                     ]
                 },
                 {
@@ -407,6 +776,34 @@
                     "nominates": [
                         2,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Always depending on others like panda"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Two faced"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She use Kaka strategy"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "It convert to violence after certain points"
+                        }
                     ]
                 }
             ]
@@ -414,16 +811,16 @@
         {
             "id": "10",
             "name": "Aadhirai",
-            "dial_number": null,
+            "dial_number": "7835073301",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/aadhirai_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/aadhirai.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-10-26",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -433,6 +830,16 @@
                     "nominates": [
                         1,
                         20
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "He feel , he can do whatever he wants"
+                        },
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "He can do anything for content"
+                        }
                     ]
                 },
                 {
@@ -445,17 +852,38 @@
                     "nominates": [
                         4,
                         19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Irritating attitude, triggering"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Personal vengeance , using bad words"
+                        }
                     ]
                 },
                 {
                     "week": 3,
                     "categories": [
                         "NOM",
-                        "BSD"
+                        "BSD",
+                        "EVI"
                     ],
                     "nominates": [
                         15,
                         13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Playing safe game using super deluxe power"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Taking it more personal"
+                        }
                     ]
                 }
             ]
@@ -468,11 +896,11 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/ramya_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/ramya.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -483,6 +911,16 @@
                     "nominates": [
                         1,
                         10
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Making unnecessary content"
+                        },
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Not involved with anyone"
+                        }
                     ]
                 },
                 {
@@ -494,6 +932,16 @@
                     "nominates": [
                         4,
                         2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Unnecessarily talk, mootha vuttu vedikai paakkuranga"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "No improvement"
+                        }
                     ]
                 },
                 {
@@ -505,6 +953,31 @@
                     "nominates": [
                         10,
                         20
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Not playing for super deluxe house"
+                        },
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not doing anything"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "BSD"
+                    ],
+                    "nominates": [
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Rowdy thanama nanthukiranga"
+                        }
                     ]
                 }
             ]
@@ -517,11 +990,11 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vinoth_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vinoth.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -532,6 +1005,16 @@
                     "nominates": [
                         20,
                         16
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not involed much in activities, too lazy"
+                        },
+                        {
+                            "nominate_part_id": 16,
+                            "comments": "Not mingled with people"
+                        }
                     ]
                 },
                 {
@@ -543,6 +1026,16 @@
                     "nominates": [
                         3,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Only cooking"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Aaalukku etha maatheir pesuranga"
+                        }
                     ]
                 },
                 {
@@ -553,6 +1046,32 @@
                     "nominates": [
                         10,
                         9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Working for bigg boss house being in super deluxe"
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "Not playing game"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "BSD",
+                        "NOM"
+                    ],
+                    "nominates": [
+                        20
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Too much of gossiping about others"
+                        }
                     ]
                 }
             ]
@@ -565,11 +1084,11 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/viyana_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/viyana.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -581,6 +1100,16 @@
                     "nominates": [
                         20,
                         14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Very silent"
+                        },
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Wanted infront of camera"
+                        }
                     ]
                 },
                 {
@@ -592,6 +1121,16 @@
                     "nominates": [
                         4,
                         2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Dominating more"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Safe game play; not hurting anyone"
+                        }
                     ]
                 },
                 {
@@ -602,6 +1141,36 @@
                     "nominates": [
                         2,
                         10
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Pinnadi peruraga"
+                        },
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Played for BB house from Super Deluxe House"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        12,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Maathi pesuraru in the same place and event"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Last week yeah veliay pooi irukkalam."
+                        }
                     ]
                 }
             ]
@@ -614,11 +1183,11 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/praveen_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/praveen.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -628,6 +1197,16 @@
                     "nominates": [
                         20,
                         8
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Less involement"
+                        },
+                        {
+                            "nominate_part_id": 8,
+                            "comments": "He is ready to go out"
+                        }
                     ]
                 },
                 {
@@ -636,6 +1215,16 @@
                     "nominates": [
                         2,
                         1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Just close with 2 member"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Avarukkku mattum oru tharmam"
+                        }
                     ]
                 },
                 {
@@ -643,23 +1232,52 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": []
+                    "nominates": [
+                        11,
+                        10
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Supporting based on weight"
+                        },
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Bringing personal issue"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": [
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "No intention for the changes"
+                        }
+                    ]
                 }
-            ]
+            ],
+            "isCaptain": true
         },
         {
             "id": "15",
             "name": "Subiksha Kumar",
-            "dial_number": null,
+            "dial_number": "7835073315",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/subiksha_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/subiksha.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -670,6 +1288,16 @@
                     "nominates": [
                         13,
                         20
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Not involved with work"
+                        },
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not involved with work"
+                        }
                     ]
                 },
                 {
@@ -680,6 +1308,16 @@
                     "nominates": [
                         4,
                         16
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "No change at all. Unnecessary argument"
+                        },
+                        {
+                            "nominate_part_id": 16,
+                            "comments": "Safe Zone"
+                        }
                     ]
                 },
                 {
@@ -691,6 +1329,34 @@
                     "nominates": [
                         20,
                         5
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "So quite, seeing only at kitchen for sometime"
+                        },
+                        {
+                            "nominate_part_id": 5,
+                            "comments": "Comfort zone.. Only attached with Aurora & Kamarudin"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [
+                        19,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Adikadi kai oonguraanga"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Mocking, bullying, body shaming, words vidurathu"
+                        }
                     ]
                 }
             ]
@@ -703,7 +1369,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/apsara_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/apsara.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": "2025-10-19",
@@ -717,6 +1383,16 @@
                     "nominates": [
                         20,
                         2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not involed much"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Not involed much"
+                        }
                     ]
                 },
                 {
@@ -728,6 +1404,16 @@
                     "nominates": [
                         1,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Only depending on Parvathy"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Taking it very personal"
+                        }
                     ]
                 }
             ]
@@ -740,7 +1426,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vikram_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vikram.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -752,6 +1438,16 @@
                     "nominates": [
                         8,
                         20
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 8,
+                            "comments": "He already gave up"
+                        },
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not much involvement"
+                        }
                     ]
                 },
                 {
@@ -760,6 +1456,16 @@
                     "nominates": [
                         19,
                         4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Not performing water task properly"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Madai naagarigam ellai"
+                        }
                     ]
                 },
                 {
@@ -768,6 +1474,34 @@
                     "nominates": [
                         20,
                         2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "I don't see him last week"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Not knowing how to make content"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Tatics are repeative  and boring"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Estathukku vaarthaiyai vidurar"
+                        }
                     ]
                 }
             ]
@@ -780,7 +1514,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/nandhini_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/nandhini.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": "2025-10-10",
@@ -794,6 +1528,16 @@
                     "nominates": [
                         20,
                         13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Not involved much; safe play"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Not played any game so far"
+                        }
                     ]
                 }
             ]
@@ -806,11 +1550,11 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kamarudin_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kamarudin.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -820,6 +1564,16 @@
                     "nominates": [
                         1,
                         16
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not listening, insecured personality"
+                        },
+                        {
+                            "nominate_part_id": 16,
+                            "comments": "Not involved with people"
+                        }
                     ]
                 },
                 {
@@ -831,14 +1585,56 @@
                     "nominates": [
                         4,
                         1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Just supporting Diwar for famous"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Triggering other people to get a content out of it"
+                        }
                     ]
                 },
                 {
                     "week": 3,
-                    "categories": [],
+                    "categories": [
+                        "WPW"
+                    ],
                     "nominates": [
                         10,
                         2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Disrespectful behind the scenes"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Making fools, double game"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        2,
+                        20
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Playing emotional game"
+                        },
+                        {
+                            "nominate_part_id": 20,
+                            "comments": "Opposite ha pesuraru"
+                        }
                     ]
                 }
             ]
@@ -851,7 +1647,7 @@
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kalaiyaran_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kalaiyaran.png",
-            "order_id": null,
+            "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
@@ -865,6 +1661,16 @@
                     "nominates": [
                         1,
                         10
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Keep fighting"
+                        },
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Wanted involvement , doing favor"
+                        }
                     ]
                 },
                 {
@@ -873,6 +1679,16 @@
                     "nominates": [
                         1,
                         7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "All were content, he thinks, he always right"
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Smart play, not revealing his original face"
+                        }
                     ]
                 },
                 {
@@ -883,6 +1699,37 @@
                     "nominates": [
                         13,
                         11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Not using her power, not knowing what she is capable of it"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Using health issue drama"
+                        }
+                    ]
+                },
+                {
+                    "week": 4,
+                    "categories": [
+                        "BSD",
+                        "NOM"
+                    ],
+                    "nominates": [
+                        19,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Not following any rules"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Thiramai mattum poothathu, ozhukkamum vendum"
+                        }
                     ]
                 }
             ]
