@@ -167,37 +167,37 @@
                 },
                 {
                     "week": 4,
-                    "totalVotes": 96722,
+                    "totalVotes": 359329,
                     "players": [
                         {
                             "id": 12,
                             "name": "Gana Vinoth",
-                            "vote": 36059,
-                            "percentage": 37.28
-                        },
-                        {
-                            "id": 2,
-                            "name": "Aurora Sinclair",
-                            "vote": 16036,
-                            "percentage": 16.58
+                            "vote": 138816,
+                            "percentage": 38.63
                         },
                         {
                             "id": 19,
                             "name": "Kamarudin",
-                            "vote": 15843,
-                            "percentage": 16.38
+                            "vote": 57988,
+                            "percentage": 16.14
                         },
                         {
                             "id": 4,
                             "name": "VJ Parvathy",
-                            "vote": 15790,
-                            "percentage": 16.33
+                            "vote": 55883,
+                            "percentage": 15.55
+                        },
+                        {
+                            "id": 2,
+                            "name": "Aurora Sinclair",
+                            "vote": 55515,
+                            "percentage": 15.45
                         },
                         {
                             "id": 20,
                             "name": "Kalaiyarasan",
-                            "vote": 12994,
-                            "percentage": 13.43
+                            "vote": 51127,
+                            "percentage": 14.23
                         }
                     ]
                 }
