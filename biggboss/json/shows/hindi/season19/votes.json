@@ -344,66 +344,65 @@
           ]
         },
         {
-  "week": 10,
-  "total_votes": 240932,
-  "players": [
-    {
-      "id": 11,
-      "name": "Pranit More",
-      "vote": 47032,
-      "percentage": 20
-    },
-    {
-      "id": 13,
-      "name": "Farhana Bhatt",
-      "vote": 46962,
-      "percentage": 19
-    },
-    {
-      "id": 9,
-      "name": "Gaurav Khanna",
-      "vote": 42009,
-      "percentage": 17
-    },
-    {
-      "id": 16,
-      "name": "Amaal Malik",
-      "vote": 20205,
-      "percentage": 8
-    },
-    {
-      "id": 3,
-      "name": "Tanya Mittal",
-      "vote": 19448,
-      "percentage": 8
-    },
-    {
-      "id": 18,
-      "name": "Malti Chahar",
-      "vote": 19377,
-      "percentage": 8
-    },
-    {
-      "id": 17,
-      "name": "Shehbaz Badesha",
-      "vote": 18806,
-      "percentage": 8
-    },
-    {
-      "id": 12,
-      "name": "Neelam Giri",
-      "vote": 17977,
-      "percentage": 7
-    },
-    {
-      "id": 15,
-      "name": "Kunickaa Sadanand",
-      "vote": 9116,
-      "percentage": 4
-    }
-  ]
-}
-
+          "week": 10,
+          "total_votes": 878020,
+          "players": [
+            {
+              "id": 11,
+              "name": "Pranit More",
+              "vote": 168274,
+              "percentage": 19
+            },
+            {
+              "id": 17,
+              "name": "Shehbaz Badesha",
+              "vote": 167847,
+              "percentage": 19
+            },
+            {
+              "id": 13,
+              "name": "Farhana Bhatt",
+              "vote": 127589,
+              "percentage": 15
+            },
+            {
+              "id": 9,
+              "name": "Gaurav Khanna",
+              "vote": 116056,
+              "percentage": 13
+            },
+            {
+              "id": 16,
+              "name": "Amaal Malik",
+              "vote": 66489,
+              "percentage": 8
+            },
+            {
+              "id": 18,
+              "name": "Malti Chahar",
+              "vote": 64791,
+              "percentage": 7
+            },
+            {
+              "id": 3,
+              "name": "Tanya Mittal",
+              "vote": 64701,
+              "percentage": 7
+            },
+            {
+              "id": 12,
+              "name": "Neelam Giri",
+              "vote": 63999,
+              "percentage": 7
+            },
+            {
+              "id": 15,
+              "name": "Kunickaa Sadanand",
+              "vote": 38274,
+              "percentage": 4
+            }
+          ]
+        }
       ]
     }
   ]

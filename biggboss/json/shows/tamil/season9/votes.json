@@ -167,37 +167,37 @@
                 },
                 {
                     "week": 4,
-                    "totalVotes": 359329,
+                    "totalVotes": 696821,
                     "players": [
                         {
                             "id": 12,
                             "name": "Gana Vinoth",
-                            "vote": 138816,
-                            "percentage": 38.63
+                            "vote": 271970,
+                            "percentage": 39.03
                         },
                         {
                             "id": 19,
                             "name": "Kamarudin",
-                            "vote": 57988,
-                            "percentage": 16.14
+                            "vote": 108418,
+                            "percentage": 15.56
                         },
                         {
                             "id": 4,
                             "name": "VJ Parvathy",
-                            "vote": 55883,
-                            "percentage": 15.55
+                            "vote": 108080,
+                            "percentage": 15.51
                         },
                         {
                             "id": 2,
                             "name": "Aurora Sinclair",
-                            "vote": 55515,
-                            "percentage": 15.45
+                            "vote": 105170,
+                            "percentage": 15.09
                         },
                         {
                             "id": 20,
                             "name": "Kalaiyarasan",
-                            "vote": 51127,
-                            "percentage": 14.23
+                            "vote": 103183,
+                            "percentage": 14.81
                         }
                     ]
                 }

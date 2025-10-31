@@ -20,10 +20,10 @@ def generate_sql_insert(participants):
     for participant in participants:
         # Extract data
         part_id = participant.get('id', '')
-        show_id = '3'  # Assuming a constant value for this example
+        show_id = '2'  # Assuming a constant value for this example
         name = participant.get('name', '')
         dial_number = participant.get('dial_number', '')
-        entry_date = '2025-08-24'  # Placeholder value, adjust as needed
+        entry_date = '2024-10-06'  # Placeholder value, adjust as needed
         #evicted_date = participant.get('eliminated_date', '')
         image = participant.get('image', '')
         full_image = participant.get('full_image', '')
@@ -52,7 +52,7 @@ def generate_sql_insert(participants):
 
 # Main function to read JSON from file and generate SQL
 def main():
-    input_file = 'shows/hindi/season19/main.json'  # Replace with your JSON file path
+    input_file = 'shows/tamil/season8/tamil_session_8.json'  # Replace with your JSON file path
     output_file = 'insert_statements.sql'  # File to save the SQL statements
 
     # Read JSON data from file
