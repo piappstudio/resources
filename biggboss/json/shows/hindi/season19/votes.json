@@ -345,60 +345,60 @@
         },
         {
           "week": 10,
-          "total_votes": 878020,
+          "total_votes": 990775,
           "players": [
             {
               "id": 11,
               "name": "Pranit More",
-              "vote": 168274,
-              "percentage": 19
+              "vote": 231339,
+              "percentage": 23
             },
             {
               "id": 17,
               "name": "Shehbaz Badesha",
-              "vote": 167847,
-              "percentage": 19
+              "vote": 173377,
+              "percentage": 17
             },
             {
               "id": 13,
               "name": "Farhana Bhatt",
-              "vote": 127589,
-              "percentage": 15
+              "vote": 137219,
+              "percentage": 14
             },
             {
               "id": 9,
               "name": "Gaurav Khanna",
-              "vote": 116056,
+              "vote": 131716,
               "percentage": 13
             },
             {
               "id": 16,
               "name": "Amaal Malik",
-              "vote": 66489,
-              "percentage": 8
-            },
-            {
-              "id": 18,
-              "name": "Malti Chahar",
-              "vote": 64791,
+              "vote": 70707,
               "percentage": 7
             },
             {
               "id": 3,
               "name": "Tanya Mittal",
-              "vote": 64701,
+              "vote": 69444,
               "percentage": 7
             },
             {
               "id": 12,
               "name": "Neelam Giri",
-              "vote": 63999,
+              "vote": 69235,
+              "percentage": 7
+            },
+            {
+              "id": 18,
+              "name": "Malti Chahar",
+              "vote": 68769,
               "percentage": 7
             },
             {
               "id": 15,
               "name": "Kunickaa Sadanand",
-              "vote": 38274,
+              "vote": 38968,
               "percentage": 4
             }
           ]

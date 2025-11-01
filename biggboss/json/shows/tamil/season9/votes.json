@@ -166,38 +166,38 @@
                     ]
                 },
                 {
-                    "week": 4,
-                    "totalVotes": 696821,
+                    "week": 5,
+                    "totalVotes": 838499,
                     "players": [
                         {
                             "id": 12,
                             "name": "Gana Vinoth",
-                            "vote": 271970,
-                            "percentage": 39.03
-                        },
-                        {
-                            "id": 19,
-                            "name": "Kamarudin",
-                            "vote": 108418,
-                            "percentage": 15.56
-                        },
-                        {
-                            "id": 4,
-                            "name": "VJ Parvathy",
-                            "vote": 108080,
-                            "percentage": 15.51
+                            "vote": 358738,
+                            "percentage": 38.22
                         },
                         {
                             "id": 2,
                             "name": "Aurora Sinclair",
-                            "vote": 105170,
-                            "percentage": 15.09
+                            "vote": 145186,
+                            "percentage": 15.47
+                        },
+                        {
+                            "id": 19,
+                            "name": "Kamarudin",
+                            "vote": 145170,
+                            "percentage": 15.47
+                        },
+                        {
+                            "id": 4,
+                            "name": "VJ Parvathy",
+                            "vote": 145013,
+                            "percentage": 15.45
                         },
                         {
                             "id": 20,
                             "name": "Kalaiyarasan",
-                            "vote": 103183,
-                            "percentage": 14.81
+                            "vote": 144392,
+                            "percentage": 15.39
                         }
                     ]
                 }
