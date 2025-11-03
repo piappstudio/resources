@@ -166,7 +166,7 @@
                     ]
                 },
                 {
-                    "week": 5,
+                    "week": 4,
                     "totalVotes": 838499,
                     "players": [
                         {
@@ -198,6 +198,84 @@
                             "name": "Kalaiyarasan",
                             "vote": 144392,
                             "percentage": 15.39
+                        }
+                    ]
+                },
+                {
+                    "week": 5,
+                    "totalVotes": 150646,
+                    "players": [
+                        {
+                            "id": 12,
+                            "name": "Gana Vinoth",
+                            "vote": 30349,
+                            "percentage": 20.15
+                        },
+                        {
+                            "id": 13,
+                            "name": "Viyana",
+                            "vote": 19117,
+                            "percentage": 12.69
+                        },
+                        {
+                            "id": 1,
+                            "name": "Watermelon Start Diwakar",
+                            "vote": 17219,
+                            "percentage": 11.43
+                        },
+                        {
+                            "id": 19,
+                            "name": "Kamarudin",
+                            "vote": 16039,
+                            "percentage": 10.65
+                        },
+                        {
+                            "id": 4,
+                            "name": "VJ Parvathy",
+                            "vote": 15635,
+                            "percentage": 10.38
+                        },
+                        {
+                            "id": 17,
+                            "name": "Vikkals Vikram",
+                            "vote": 14943,
+                            "percentage": 9.92
+                        },
+                        {
+                            "id": 7,
+                            "name": "Sabari Nathan",
+                            "vote": 13983,
+                            "percentage": 9.28
+                        },
+                        {
+                            "id": 9,
+                            "name": "Vyishali Kemkar",
+                            "vote": 5828,
+                            "percentage": 3.87
+                        },
+                        {
+                            "id": 5,
+                            "name": "Tushaar",
+                            "vote": 4830,
+                            "percentage": 3.21
+                        },
+                        {
+                            "id": 11,
+                            "name": "Ramya Joo",
+                            "vote": 4800,
+                            "percentage": 3.19
+                        },
+                        {
+                            "id": 3,
+                            "name": "FJ Adisayam",
+                            "vote": 4744,
+                            "percentage": 3.15
+                        },
+                        {
+                            "id": 14,
+                            "name": "Praveen Rajdev",
+                            "vote": 3159,
+                            "percentage": 2.08
                         }
                     ]
                 }
