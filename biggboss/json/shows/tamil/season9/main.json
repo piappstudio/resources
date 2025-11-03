@@ -25,7 +25,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -108,13 +108,33 @@
                             "comments": "Proviking, koluthi pootu, vaayai punga try panrar"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Using unparliamentary words"
+                        }
+                    ]
                 }
             ]
         },
         {
             "id": "2",
             "name": "Aurora Sinclair",
-            "dial_number": null,
+            "dial_number": "7835073303",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sinclair_pp.png",
@@ -123,7 +143,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -205,6 +225,24 @@
                             "comments": "Quite, using bad words frequently"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
                 }
             ]
         },
@@ -220,7 +258,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -299,6 +337,26 @@
                         {
                             "nominate_part_id": 19,
                             "comments": "Summavey parvathukku support panraru"
+                        }
+                    ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        1,
+                        13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Viyana showing attitude in her own way. But, not mocking."
                         }
                     ]
                 }
@@ -391,6 +449,26 @@
                             "comments": "Playing behind, emotional and dirty game"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        17,
+                        9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "Sirchikiteah ella kaarithaium panniduraanga"
+                        }
+                    ]
                 }
             ]
         },
@@ -406,7 +484,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -484,6 +562,26 @@
                         {
                             "nominate_part_id": 19,
                             "comments": "Using hurtful words"
+                        }
+                    ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        14,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Done so many things around diwakar as a thala."
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Body shaming like 6 packs. Very harsh"
                         }
                     ]
                 }
@@ -581,6 +679,26 @@
                             "comments": "Supporting parvathy blindly"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "For making kuchal, kuzhappam."
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
                 }
             ]
         },
@@ -596,7 +714,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -677,6 +795,26 @@
                             "comments": "Bullying in favor of his supporting person"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        1,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "For using twisting words;"
+                        }
+                    ]
                 }
             ]
         },
@@ -730,7 +868,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -803,6 +941,26 @@
                         {
                             "nominate_part_id": 19,
                             "comments": "It convert to violence after certain points"
+                        }
+                    ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
                         }
                     ]
                 }
@@ -900,7 +1058,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -979,13 +1137,33 @@
                             "comments": "Rowdy thanama nanthukiranga"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        1,
+                        5
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 5,
+                            "comments": "Very silent,very comfort zone"
+                        }
+                    ]
                 }
             ]
         },
         {
             "id": "12",
             "name": "Gana Vinoth",
-            "dial_number": null,
+            "dial_number": "7835073305",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vinoth_pp.png",
@@ -1073,6 +1251,26 @@
                             "comments": "Too much of gossiping about others"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
                 }
             ]
         },
@@ -1088,7 +1286,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1172,6 +1370,26 @@
                             "comments": "Last week yeah veliay pooi irukkalam."
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Using word like rascals"
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Using abusive words, not having self control"
+                        }
+                    ]
                 }
             ]
         },
@@ -1187,7 +1405,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1261,9 +1479,28 @@
                             "comments": "No intention for the changes"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
                 }
-            ],
-            "isCaptain": true
+            ]
         },
         {
             "id": "15",
@@ -1358,6 +1595,24 @@
                             "comments": "Mocking, bullying, body shaming, words vidurathu"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
                 }
             ]
         },
@@ -1430,7 +1685,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1501,6 +1756,26 @@
                         {
                             "nominate_part_id": 19,
                             "comments": "Estathukku vaarthaiyai vidurar"
+                        }
+                    ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
                         }
                     ]
                 }
@@ -1636,13 +1911,33 @@
                             "comments": "Opposite ha pesuraru"
                         }
                     ]
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        17,
+                        9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "For maintaining good name with all. Less involvement"
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
                 }
             ]
         },
         {
             "id": "20",
             "name": "Kalaiyarasan",
-            "dial_number": null,
+            "dial_number": "7835073309",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kalaiyaran_pp.png",
@@ -1650,8 +1945,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-11-01",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1715,7 +2010,8 @@
                     "week": 4,
                     "categories": [
                         "BSD",
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [
                         19,
@@ -1729,6 +2025,241 @@
                         {
                             "nominate_part_id": 12,
                             "comments": "Thiramai mattum poothathu, ozhukkamum vendum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "name": "Prajin Padmanabhan",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2025-11-02",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/prajin_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/prajin.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 3,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 5,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Can do reel outside like other people, he don't need this place"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "name": "Sandra Amy",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2025-11-02",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 3,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 5,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "name": "Divya Ganesh",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2025-11-02",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 3,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                }
+            ],
+            "isCaptain": true
+        },
+        {
+            "id": "24",
+            "name": "Amit Bhargav",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2025-11-02",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/amit_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/amit.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 3,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 5,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Not telecasted in 1Hr show"
                         }
                     ]
                 }
