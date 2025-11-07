@@ -405,36 +405,35 @@
         },
         {
           "week": 11,
-          "total_votes": 71771,
           "players": [
             {
               "id": 9,
               "name": "Gaurav Khanna",
-              "vote": 26540,
-              "percentage": 37
+              "vote": 47005,
+              "percentage": 35
             },
             {
               "id": 13,
               "name": "Farhana Bhatt",
-              "vote": 17782,
-              "percentage": 25
+              "vote": 34369,
+              "percentage": 26
             },
             {
               "id": 12,
               "name": "Neelam Giri",
-              "vote": 10958,
-              "percentage": 15
-            },
-            {
-              "id": 1,
-              "name": "Ashnoor Kaur",
-              "vote": 8398,
-              "percentage": 12
+              "vote": 21367,
+              "percentage": 16
             },
             {
               "id": 8,
               "name": "Abhishek Bajaj",
-              "vote": 8093,
+              "vote": 15426,
+              "percentage": 12
+            },
+            {
+              "id": 1,
+              "name": "Ashnoor Kaur",
+              "vote": 15203,
               "percentage": 11
             }
           ]
