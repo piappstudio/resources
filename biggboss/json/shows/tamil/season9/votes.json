@@ -281,67 +281,67 @@
                 },
                 {
                     "week": 6,
-                    "totalVotes": 111947,
+                    "totalVotes": 405049,
                     "players": [
                         {
                             "id": 22,
                             "name": "Sandra",
-                            "vote": 21580,
-                            "percentage": 19.28
+                            "vote": 70314,
+                            "percentage": 17.34
                         },
                         {
                             "id": 23,
                             "name": "Divya",
-                            "vote": 18462,
-                            "percentage": 16.49
-                        },
-                        {
-                            "id": 4,
-                            "name": "VJ Parvathy",
-                            "vote": 17155,
-                            "percentage": 15.32
+                            "vote": 66941,
+                            "percentage": 16.51
                         },
                         {
                             "id": 17,
                             "name": "Vikkals Vikram",
-                            "vote": 15706,
-                            "percentage": 14.03
+                            "vote": 59651,
+                            "percentage": 14.71
+                        },
+                        {
+                            "id": 4,
+                            "name": "VJ Parvathy",
+                            "vote": 59507,
+                            "percentage": 14.67
                         },
                         {
                             "id": 1,
                             "name": "Watermelon Start Diwakar",
-                            "vote": 9022,
-                            "percentage": 8.06
+                            "vote": 32278,
+                            "percentage": 7.96
                         },
                         {
                             "id": 13,
                             "name": "Viyana",
-                            "vote": 8109,
-                            "percentage": 7.24
+                            "vote": 28253,
+                            "percentage": 6.97
                         },
                         {
                             "id": 2,
                             "name": "Aurora",
-                            "vote": 6387,
-                            "percentage": 5.71
-                        },
-                        {
-                            "id": 6,
-                            "name": "Kani",
-                            "vote": 5984,
-                            "percentage": 5.35
+                            "vote": 23785,
+                            "percentage": 5.86
                         },
                         {
                             "id": 15,
                             "name": "Subiksha",
-                            "vote": 5593,
-                            "percentage": 5
+                            "vote": 22389,
+                            "percentage": 5.52
+                        },
+                        {
+                            "id": 6,
+                            "name": "Kani",
+                            "vote": 21745,
+                            "percentage": 5.36
                         },
                         {
                             "id": 11,
                             "name": "Ramya Joo",
-                            "vote": 3949,
-                            "percentage": 3.52
+                            "vote": 20706,
+                            "percentage": 5.10
                         }
                     ]
                 }
