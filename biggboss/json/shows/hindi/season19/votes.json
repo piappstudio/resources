@@ -442,58 +442,58 @@
           "week": 12,
           "players": [
             {
-              "id": 13,
-              "name": "Farhana Bhatt",
-              "vote": 5953,
-              "percentage": 27
+              "id": 11,
+              "name": "Pranit More",
+              "vote": 65952,
+              "percentage": 25
             },
             {
               "id": 9,
               "name": "Gaurav Khanna",
-              "vote": 5931,
-              "percentage": 27
+              "vote": 64500,
+              "percentage": 25
             },
             {
-              "id": 11,
-              "name": "Pranit More",
-              "vote": 2349,
-              "percentage": 11
-            },
-            {
-              "id": 3,
-              "name": "Tanya Mittal",
-              "vote": 1964,
-              "percentage": 9
+              "id": 13,
+              "name": "Farhana Bhatt",
+              "vote": 51746,
+              "percentage": 20
             },
             {
               "id": 1,
               "name": "Ashnoor Kaur",
-              "vote": 1805,
+              "vote": 27347,
+              "percentage": 10
+            },
+            {
+              "id": 3,
+              "name": "Tanya Mittal",
+              "vote": 20761,
               "percentage": 8
-            },
-            {
-              "id": 18,
-              "name": "Malti Chahar",
-              "vote": 1162,
-              "percentage": 5
-            },
-            {
-              "id": 15,
-              "name": "Kunickaa Sadanand",
-              "vote": 1150,
-              "percentage": 5
-            },
-            {
-              "id": 17,
-              "name": "Shehbaz Badesha",
-              "vote": 990,
-              "percentage": 4
             },
             {
               "id": 16,
               "name": "Amaal Malik",
-              "vote": 728,
+              "vote": 10797,
+              "percentage": 4
+            },
+            {
+              "id": 18,
+              "name": "Malti Chahar",
+              "vote": 8388,
               "percentage": 3
+            },
+            {
+              "id": 17,
+              "name": "Shehbaz Badesha",
+              "vote": 8072,
+              "percentage": 3
+            },
+            {
+              "id": 15,
+              "name": "Kunickaa Sadanand",
+              "vote": 3626,
+              "percentage": 1
             }
           ]
         }

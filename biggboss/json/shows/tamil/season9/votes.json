@@ -281,67 +281,67 @@
                 },
                 {
                     "week": 6,
-                    "totalVotes": 405049,
+                    "totalVotes": 1186821,
                     "players": [
-                        {
-                            "id": 22,
-                            "name": "Sandra",
-                            "vote": 70314,
-                            "percentage": 17.34
-                        },
                         {
                             "id": 23,
                             "name": "Divya",
-                            "vote": 66941,
-                            "percentage": 16.51
+                            "vote": 176771,
+                            "percentage": 14.89
+                        },
+                        {
+                            "id": 22,
+                            "name": "Sandra",
+                            "vote": 166529,
+                            "percentage": 14.03
                         },
                         {
                             "id": 17,
                             "name": "Vikkals Vikram",
-                            "vote": 59651,
-                            "percentage": 14.71
+                            "vote": 158365,
+                            "percentage": 13.34
                         },
                         {
                             "id": 4,
                             "name": "VJ Parvathy",
-                            "vote": 59507,
-                            "percentage": 14.67
-                        },
-                        {
-                            "id": 1,
-                            "name": "Watermelon Start Diwakar",
-                            "vote": 32278,
-                            "percentage": 7.96
-                        },
-                        {
-                            "id": 13,
-                            "name": "Viyana",
-                            "vote": 28253,
-                            "percentage": 6.97
+                            "vote": 146294,
+                            "percentage": 12.33
                         },
                         {
                             "id": 2,
                             "name": "Aurora",
-                            "vote": 23785,
-                            "percentage": 5.86
+                            "vote": 90632,
+                            "percentage": 7.64
                         },
                         {
-                            "id": 15,
-                            "name": "Subiksha",
-                            "vote": 22389,
-                            "percentage": 5.52
-                        },
-                        {
-                            "id": 6,
-                            "name": "Kani",
-                            "vote": 21745,
-                            "percentage": 5.36
+                            "id": 13,
+                            "name": "Viyana",
+                            "vote": 90155,
+                            "percentage": 7.6
                         },
                         {
                             "id": 11,
                             "name": "Ramya Joo",
-                            "vote": 20706,
-                            "percentage": 5.10
+                            "vote": 89652,
+                            "percentage": 7.55
+                        },
+                        {
+                            "id": 15,
+                            "name": "Subiksha",
+                            "vote": 89505,
+                            "percentage": 7.54
+                        },
+                        {
+                            "id": 6,
+                            "name": "Kani",
+                            "vote": 89504,
+                            "percentage": 7.54
+                        },
+                        {
+                            "id": 1,
+                            "name": "Watermelon Start Diwakar",
+                            "vote": 89414,
+                            "percentage": 7.53
                         }
                     ]
                 }
