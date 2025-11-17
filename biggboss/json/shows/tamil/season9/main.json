@@ -15,7 +15,7 @@
     "participants": [
         {
             "id": "1",
-            "name": "Watermelon Start Diwakar",
+            "name": "Watermelon Star Diwakar",
             "dial_number": "7835073320",
             "title": null,
             "start_date": "2025-10-05",
@@ -24,8 +24,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-11-16",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -128,6 +128,28 @@
                             "comments": "Using unparliamentary words"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM",
+                        "WPW",
+                        "EVI"
+                    ],
+                    "nominates": [
+                        11,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Groupism sharing opportunities within the group not giving opportunities to others \"suyanalam\" ah irukkanga"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "keep doing body shaming even though the person who not interested"
+                        }
+                    ]
                 }
             ]
         },
@@ -143,7 +165,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -243,6 +265,46 @@
                             "comments": "Not telecasted in 1Hr show"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        22,
+                        24
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "She put more effort to the secret task but she openly confused her husband is best player. i feel that’s not right"
+                        },
+                        {
+                            "nominate_part_id": 24,
+                            "comments": null
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "last week enkitta play panna game enakkku suththama pudikkala. Prachana nu vantha kuda irukravangala she throw them under the bus nu enakku thonichi."
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "last week kozhappangal vanthuchi, sariya vilayadala nu thonuchi."
+                        }
+                    ]
                 }
             ]
         },
@@ -258,7 +320,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -343,7 +405,8 @@
                 {
                     "week": 5,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         1,
@@ -359,8 +422,49 @@
                             "comments": "Viyana showing attitude in her own way. But, not mocking."
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "BPW"
+                    ],
+                    "nominates": [
+                        1,
+                        13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "we are in more than 4 weeks but still he is not playing individual game. he need someone and plying behind someone."
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "she is talking about groupism but she is plying with Subiksha and Vikram groupism game and also emotional game it weak vikram"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": [
+                        24,
+                        15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "Enna kathatha nu sollittu avar kathitu irukkaru, sulrathu onnu seirathu onnu mari irukku"
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Avangalukku opposite ah sonna depression ayittu emotional ah eduthukittu silet ah ayidranga, and also self-centered an play panranga"
+                        }
+                    ]
                 }
-            ]
+            ],
+            "isCaptain": true
         },
         {
             "id": "4",
@@ -453,7 +557,8 @@
                 {
                     "week": 5,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BPW"
                     ],
                     "nominates": [
                         17,
@@ -469,13 +574,53 @@
                             "comments": "Sirchikiteah ella kaarithaium panniduraanga"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        6,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "Cunning ah sweet ah kamchikittu oru proper group game play panranga"
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "he was playing diplomatic but now he do some strategies to escape from the nomination."
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        2,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "kalai ah prof panra week ah eduthukkkama thirumba thirumba vara vazhakka mun vachi athula prachana varathukku reason ah irukrathey last week ponathukku one of the reason ah irunthanga"
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "\"antha antha nu pesi Dhivaka ah anupchitta la\" nu oru point sonnathu \"mocking tone\" man handling panni irukkalamey"
+                        }
+                    ]
                 }
             ]
         },
         {
             "id": "5",
             "name": "Tushaar",
-            "dial_number": null,
+            "dial_number": "7835073316",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/tushaar_pp.png",
@@ -483,8 +628,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-11-08",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -568,7 +713,8 @@
                 {
                     "week": 5,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [
                         14,
@@ -590,7 +736,7 @@
         {
             "id": "6",
             "name": "Kani Thiru",
-            "dial_number": null,
+            "dial_number": "7835073307",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kani_pp.png",
@@ -599,7 +745,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -697,6 +843,47 @@
                         {
                             "nominate_part_id": 1,
                             "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM",
+                        "WPW"
+                    ],
+                    "nominates": [
+                        22,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "I feel She is not treating Prajan as a co-contestant instead treating as a husband. this might be  a bad example"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "alla pathu kovapadranga athukku oru level vachirukkanga. Naanthanu avangala mun niruthikranga"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "they are not playing as a co contestants still they are sit together and not to stop telling they are husband and wife and ethu thavarana mun utharanam ah irukkum"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "they are not playing as a co contestants still they are sit together and not to stop telling they are husband and wife and ethu thavarana mun utharanam ah irukkum"
                         }
                     ]
                 }
@@ -815,6 +1002,46 @@
                             "comments": "For using twisting words;"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": [
+                        13,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Rommba fake ah irukku"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "china china prachanym elevate panni trigger panra mari irukku"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        13,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "ethachum prachana mudinjathu nra perla cute ah solratha ketukranga But athu cute ah irukra mari theriyala"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Influence panra illana influence aayidra"
+                        }
+                    ]
                 }
             ]
         },
@@ -859,7 +1086,7 @@
         {
             "id": "9",
             "name": "Vyishali Kemkar",
-            "dial_number": null,
+            "dial_number": "7835073308",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/kemy_pp.png",
@@ -961,6 +1188,44 @@
                         {
                             "nominate_part_id": 1,
                             "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [],
+                    "nominates": [
+                        11,
+                        6
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "she is not ready to do other than work"
+                        },
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "she got a place to be kind, care. but, I feel she misusing that power."
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        23,
+                        15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Raja rani task la secret task nu enkitta sollala"
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "raja rani task appo food la play panathu pudikkala"
                         }
                     ]
                 }
@@ -1157,6 +1422,46 @@
                             "comments": "Very silent,very comfort zone"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        2,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "ennala aada mudiyala, emotional al ennala kuththa mudiyala nu solranga"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Secret task assigned for her for that she played selfishly with others game"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "Husband and wife are not playing as a co-contestant, supporting each other"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Arora va aabasama pesranga nu solli character assistant pannanga"
+                        }
+                    ]
                 }
             ]
         },
@@ -1172,7 +1477,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1269,6 +1574,44 @@
                         {
                             "nominate_part_id": 1,
                             "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "BPW"
+                    ],
+                    "nominates": [
+                        1,
+                        13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "ethaiyum purinjikka matukraru, nama onnu sonna avar veramari purinjikraru"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Nallathukku sonnalum veramari purunjikittu prachana panranga"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": [
+                        23,
+                        13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Avanga solratha than kekanum nama solratha kekka kudathu ndra mari kathunanga ketathukkku \"karmo\" nu sonnathu hurt ayiduchi enakku."
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Chinna visayatha simple ah solve panlam ana ayuthay sempati create panni kariyatha sathikalam nu nenaikranga"
                         }
                     ]
                 }
@@ -1390,6 +1733,46 @@
                             "comments": "Using abusive words, not having self control"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        6,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "safe ah comfort zone la play panranga, I feel certain group of peple not even allowed her in nomination"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Strong player, other than that no one has like as she have a family emotional support from her husband. Husband and wife  both together make them more strong"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "last week romba quit ah irunthnga, team la prachana vanthappa as a \"thalai\" ah antha problem ah solve pannama vedikkai pathamari irunthathu"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "ippo than game a start pannirukkanaga, mathavanga already start panni rush la irukkumbothu ivanga slove va start panrathala en evangalukku innoru opportunity kodukkanum."
+                        }
+                    ]
                 }
             ]
         },
@@ -1404,8 +1787,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-11-09",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1483,7 +1866,8 @@
                 {
                     "week": 5,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [
                         4,
@@ -1514,7 +1898,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1613,6 +1997,46 @@
                             "comments": "Not telecasted in 1Hr show"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        9,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "game ah play pannama inga family bonding nu sollittu nariya peru kuda emotionally attache ayirukkanga athu intha game ku set aagathu"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "game ah play pannama inga family bonding nu sollittu nariya peru kuda emotionally attache ayirukkanga athu intha game ku set aagathu"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        11,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Intha opportunity ah use pannikala"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "play as a husband and wife"
+                        }
+                    ]
                 }
             ]
         },
@@ -1676,7 +2100,7 @@
         {
             "id": "17",
             "name": "Vikkals Vikram",
-            "dial_number": null,
+            "dial_number": "7835073317",
             "title": null,
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vikram_pp.png",
@@ -1778,6 +2202,46 @@
                             "comments": "Not telecasted in 1Hr show"
                         }
                     ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        23,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "For her personal ego she is ready to distract every ones and team \"Uzhaippu\". i dont like that game"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Second opportunity created for her but she is not utilized because of her friendship. ennala ethukkka mudiyala"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "Pair ah vanth single game play panranga, emotional support super power, unfair Intha unfair ozhiyanum nu na nominate panran"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Pair ah vanth single game play panranga, emotional support super power, unfair Intha unfair ozhiyanum nu na nominate panran"
+                        }
+                    ]
                 }
             ]
         },
@@ -1829,7 +2293,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1929,6 +2393,42 @@
                         {
                             "nominate_part_id": 9,
                             "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [],
+                    "nominates": [
+                        6,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "As a judge she has a power to stop manhandling against Parvathi but shw was not stopped it."
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "Till now he showed different shades but days going on he is showing different face it’s totally contrast."
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": [
+                        6,
+                        9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "kaal kitta Paru vanthu vizhunthanga ana vezhavey illa nu sonnanga ketta nyabaga marathi nu solranga."
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "fun task ah kemi-yavey pannanga panipen ah pannala"
                         }
                     ]
                 }
@@ -2042,123 +2542,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 2,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 3,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 4,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 5,
-                    "categories": [],
-                    "nominates": [
-                        4,
-                        1
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 4,
-                            "comments": "Not telecasted in 1Hr show"
-                        },
-                        {
-                            "nominate_part_id": 1,
-                            "comments": "Can do reel outside like other people, he don't need this place"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "22",
-            "name": "Sandra Amy",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2025-11-02",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 2,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 3,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 4,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 5,
-                    "categories": [],
-                    "nominates": [
-                        4,
-                        1
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 4,
-                            "comments": "Not telecasted in 1Hr show"
-                        },
-                        {
-                            "nominate_part_id": 1,
-                            "comments": "Not telecasted in 1Hr show"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "23",
-            "name": "Divya Ganesh",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2025-11-02",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -2187,7 +2571,7 @@
                 {
                     "week": 5,
                     "categories": [
-                        "Captain"
+                        "NF"
                     ],
                     "nominates": [
                         4,
@@ -2196,30 +2580,64 @@
                     "nomination_detail": [
                         {
                             "nominate_part_id": 4,
-                            "comments": "Not telecasted in 1Hr show"
+                            "comments": "Removing poison plants. She gets the information from us"
                         },
                         {
                             "nominate_part_id": 1,
-                            "comments": "Not telecasted in 1Hr show"
+                            "comments": "Can do reel outside like other people, he don't need this place"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Direct nomination , \"Nanaa irunthana varamari ayrukkum\" nu sonnathu enakku Threatening mari irunthathu"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        6,
+                        9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "Rules orey mari irukkkanum, Jail ku anuppama bigboss kitta pesanum nu 1.30hr delay panrathu, ethics orey mari irukkanum"
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "Mannarukkum kemi kum vakkuvatham ayipochu antha confusion la nanga prepare pani vachitha performance la push panna mudiyala"
                         }
                     ]
                 }
-            ],
-            "isCaptain": true
+            ]
         },
         {
-            "id": "24",
-            "name": "Amit Bhargav",
-            "dial_number": null,
+            "id": "22",
+            "name": "Sandra Amy",
+            "dial_number": "7835073323\n",
             "title": null,
             "start_date": "2025-11-02",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/amit_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/amit.png",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra.png",
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -2247,7 +2665,199 @@
                 },
                 {
                     "week": 5,
+                    "categories": [
+                        "NF",
+                        "WPW"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        24,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "Sappattu visayam ketathukku kathanaru"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "sappattu visayam- idiyappam pathi yarukitayavadhu sollirukkkalam"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "name": "Divya Ganesh",
+            "dial_number": "7835073324",
+            "title": null,
+            "start_date": "2025-11-02",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
                     "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 3,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "Captain",
+                        "NF"
+                    ],
+                    "nominates": [
+                        4,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Not telecasted in 1Hr show"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        17,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "one side eruntha mari therinjathu"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "vathathula irunthu apdi than irukkanga poganunu irukrathala"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        12,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Entha oru visayathaium avar kitta pesa mudiyala"
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "he is the one first read the rulebook, after 2, 3 task he came and dance infront of me i said no but\"apdi than aduvan\" nu sonaru that was new"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Amit Bhargav",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2025-11-02",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/amit_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/amit.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 2,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 3,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 5,
+                    "categories": [
+                        "NF"
+                    ],
                     "nominates": [
                         4,
                         13
@@ -2260,6 +2870,44 @@
                         {
                             "nominate_part_id": 13,
                             "comments": "Not telecasted in 1Hr show"
+                        }
+                    ]
+                },
+                {
+                    "week": 6,
+                    "categories": [],
+                    "nominates": [
+                        23,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "She is involving Sandra's task not even included her and she destructing others"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "avanga gavanam ella edathuliyum irukku, Intha game pudichirukka, veedu pudichirukka, Intha opportunity ah appreciate panrangala nu theriyala"
+                        }
+                    ]
+                },
+                {
+                    "week": 7,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "varthaigal ah thavara use panraru"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "chinna visayatha romba perusu panranga, play with her husband"
                         }
                     ]
                 }
@@ -2276,7 +2924,7 @@
             "text": "FFFFFFFF",
             "is_week": true,
             "graph": true,
-            "graphOrder": 3,
+            "graphOrder": 1,
             "created_at": "2025-10-05T09:42:13.000000Z",
             "updated_at": "2025-10-05T09:42:13.000000Z"
         },
@@ -2315,7 +2963,7 @@
             "text": "FFFFFFFF",
             "is_week": true,
             "graph": true,
-            "graphOrder": 4,
+            "graphOrder": 5,
             "created_at": "2025-10-05T09:42:13.000000Z",
             "updated_at": "2025-10-05T09:42:13.000000Z"
         },
@@ -2328,7 +2976,7 @@
             "text": "FF000000",
             "is_week": true,
             "graph": true,
-            "graphOrder": 5,
+            "graphOrder": 2,
             "created_at": "2025-10-05T09:42:13.000000Z",
             "updated_at": "2025-10-05T09:42:13.000000Z"
         },
@@ -2341,7 +2989,7 @@
             "text": "FFFFFFFF",
             "is_week": true,
             "graph": true,
-            "graphOrder": 6,
+            "graphOrder": 3,
             "created_at": "2025-10-05T09:42:13.000000Z",
             "updated_at": "2025-10-05T09:42:13.000000Z"
         },
@@ -2354,7 +3002,7 @@
             "text": "FF000000",
             "is_week": true,
             "graph": true,
-            "graphOrder": null,
+            "graphOrder": 4,
             "created_at": "2025-02-19T09:43:07.000000Z",
             "updated_at": "2025-02-19T09:43:07.000000Z"
         }
