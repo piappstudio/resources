@@ -305,6 +305,26 @@
                             "comments": "last week kozhappangal vanthuchi, sariya vilayadala nu thonuchi."
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "Sandra is strong contestant, Prajin is blocking her to explore more"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She is not addressing my issues directly with me; instead she do gossiping"
+                        }
+                    ]
                 }
             ]
         },
@@ -462,6 +482,26 @@
                             "comments": "Avangalukku opposite ah sonna depression ayittu emotional ah eduthukittu silet ah ayidranga, and also self-centered an play panranga"
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": [
+                        22,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Not obeying the rules, disturbing peace"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Always getting into others issue and create a point unnecessarily"
+                        }
+                    ]
                 }
             ],
             "isCaptain": true
@@ -612,6 +652,26 @@
                         {
                             "nominate_part_id": 17,
                             "comments": "\"antha antha nu pesi Dhivaka ah anupchitta la\" nu oru point sonnathu \"mocking tone\" man handling panni irukkalamey"
+                        }
+                    ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        3,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Escpating nomination due to groupism"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Playing feelings game"
                         }
                     ]
                 }
@@ -886,6 +946,26 @@
                             "comments": "they are not playing as a co contestants still they are sit together and not to stop telling they are husband and wife and ethu thavarana mun utharanam ah irukkum"
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        22,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "I feel, she is the primary responsible for our team loss, and she delayed jail task"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She had better improvements, but, still she is making the small issues bigger"
+                        }
+                    ]
                 }
             ]
         },
@@ -901,7 +981,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1042,6 +1122,24 @@
                             "comments": "Influence panra illana influence aayidra"
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Manipulating other, she always bringing all her previous issue whenever she gets opportunities"
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "She feels, she always rights that bring lots of problems"
+                        }
+                    ]
                 }
             ]
         },
@@ -1094,8 +1192,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-11-23",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1212,7 +1310,8 @@
                 {
                     "week": 7,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [
                         23,
@@ -1462,6 +1561,26 @@
                             "comments": "Arora va aabasama pesranga nu solli character assistant pannanga"
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        19,
+                        6
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "No contributions in the last week"
+                        },
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "We didn't know what she is doing since day 1 in this home."
+                        }
+                    ]
                 }
             ]
         },
@@ -1612,6 +1731,24 @@
                         {
                             "nominate_part_id": 13,
                             "comments": "Chinna visayatha simple ah solve panlam ana ayuthay sempati create panni kariyatha sathikalam nu nenaikranga"
+                        }
+                    ]
+                },
+                {
+                    "week": 8,
+                    "categories": [],
+                    "nominates": [
+                        23,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "She didn't listening, and she is locking during the conversation"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Too much of sentimental. Playing in favor of her husband"
                         }
                     ]
                 }
@@ -1773,6 +1910,26 @@
                             "comments": "ippo than game a start pannirukkanaga, mathavanga already start panni rush la irukkumbothu ivanga slove va start panrathala en evangalukku innoru opportunity kodukkanum."
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "No guts to talk in front. Playing together"
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Behaving like tap recorder when she had one valid point, otherwise walking out during speaking"
+                        }
+                    ]
                 }
             ]
         },
@@ -1898,7 +2055,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -2035,6 +2192,24 @@
                         {
                             "nominate_part_id": 22,
                             "comments": "play as a husband and wife"
+                        }
+                    ]
+                },
+                {
+                    "week": 8,
+                    "categories": [],
+                    "nominates": [
+                        24,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "Less involvement in game, and no exchange of thoughts"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Not accepting the feedback"
                         }
                     ]
                 }
@@ -2242,6 +2417,26 @@
                             "comments": "Pair ah vanth single game play panranga, emotional support super power, unfair Intha unfair ozhiyanum nu na nominate panran"
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        22,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Not able to understand their attitude, they are not respecting BiggBoss. So, aurkathai illai"
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Not able to understand their attitude, they are not respecting BiggBoss. So, arukathai illai"
+                        }
+                    ]
                 }
             ]
         },
@@ -2293,7 +2488,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -2429,6 +2624,26 @@
                         {
                             "nominate_part_id": 9,
                             "comments": "fun task ah kemi-yavey pannanga panipen ah pannala"
+                        }
+                    ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        23,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Not able to make normal conversation. No changes"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Playing with the small circle. Not exploring outside"
                         }
                     ]
                 }
@@ -2622,6 +2837,26 @@
                             "comments": "Mannarukkum kemi kum vakkuvatham ayipochu antha confusion la nanga prepare pani vachitha performance la push panna mudiyala"
                         }
                     ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        6,
+                        13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "Manipulating insecurity womens card against me"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "No special content from her except doing presentable makeups"
+                        }
+                    ]
                 }
             ]
         },
@@ -2695,7 +2930,8 @@
                 {
                     "week": 7,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         24,
@@ -2709,6 +2945,26 @@
                         {
                             "nominate_part_id": 11,
                             "comments": "sappattu visayam- idiyappam pathi yarukitayavadhu sollirukkkalam"
+                        }
+                    ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        3,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "He tooks milk only when we ask for it. He didn't care, when we complaint about openness of milk packets"
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "Mocking, and using inappropriate words during mocking too"
                         }
                     ]
                 }
@@ -2796,7 +3052,8 @@
                 {
                     "week": 7,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         12,
@@ -2810,6 +3067,26 @@
                         {
                             "nominate_part_id": 17,
                             "comments": "he is the one first read the rulebook, after 2, 3 task he came and dance infront of me i said no but\"apdi than aduvan\" nu sonaru that was new"
+                        }
+                    ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        17,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "Mocking in the name of comedy, taking task personally"
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Biased captainship"
                         }
                     ]
                 }
@@ -2908,6 +3185,26 @@
                         {
                             "nominate_part_id": 22,
                             "comments": "chinna visayatha romba perusu panranga, play with her husband"
+                        }
+                    ]
+                },
+                {
+                    "week": 8,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        23,
+                        21
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Shouting, not performing task. Creating unwanted energy"
+                        },
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "Loose talk, threating, and agressive behavior"
                         }
                     ]
                 }
