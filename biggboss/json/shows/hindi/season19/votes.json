@@ -553,55 +553,55 @@
         },
         {
           "week": 14,
-          "totalVotes": 36797,
+          "totalVotes": 474743,
           "players": [
             {
               "id": 11,
               "name": "Pranit More",
-              "vote": 8026,
-              "percentage": 22
-            },
-            {
-              "id": 9,
-              "name": "Gaurav Khanna",
-              "vote": 6669,
+              "vote": 86987,
               "percentage": 18
             },
             {
               "id": 3,
               "name": "Tanya Mittal",
-              "vote": 4875,
-              "percentage": 13
-            },
-            {
-              "id": 1,
-              "name": "Ashnoor Kaur",
-              "vote": 4648,
-              "percentage": 13
-            },
-            {
-              "id": 17,
-              "name": "Shehbaz Badesha",
-              "vote": 4025,
-              "percentage": 11
+              "vote": 78000,
+              "percentage": 16
             },
             {
               "id": 13,
               "name": "Farhana Bhatt",
-              "vote": 3876,
-              "percentage": 11
+              "vote": 72102,
+              "percentage": 15
             },
             {
-              "id": 18,
-              "name": "Malti Chahar",
-              "vote": 2446,
-              "percentage": 7
+              "id": 9,
+              "name": "Gaurav Khanna",
+              "vote": 67531,
+              "percentage": 14
+            },
+            {
+              "id": 17,
+              "name": "Shehbaz Badesha",
+              "vote": 65293,
+              "percentage": 14
+            },
+            {
+              "id": 1,
+              "name": "Ashnoor Kaur",
+              "vote": 40063,
+              "percentage": 8
             },
             {
               "id": 16,
               "name": "Amaal Malik",
-              "vote": 2332,
-              "percentage": 6
+              "vote": 39756,
+              "percentage": 8
+            },
+            {
+              "id": 18,
+              "name": "Malti Chahar",
+              "vote": 25011,
+              "percentage": 5
             }
           ]
         }
