@@ -553,54 +553,54 @@
         },
         {
           "week": 14,
-          "totalVotes": 474743,
+          "totalVotes": 550133,
           "players": [
             {
               "id": 11,
               "name": "Pranit More",
-              "vote": 86987,
+              "vote": 100658,
               "percentage": 18
             },
             {
               "id": 3,
               "name": "Tanya Mittal",
-              "vote": 78000,
-              "percentage": 16
+              "vote": 93404,
+              "percentage": 17
             },
             {
               "id": 13,
               "name": "Farhana Bhatt",
-              "vote": 72102,
-              "percentage": 15
+              "vote": 89157,
+              "percentage": 16
             },
             {
               "id": 9,
               "name": "Gaurav Khanna",
-              "vote": 67531,
+              "vote": 78658,
               "percentage": 14
             },
             {
               "id": 17,
               "name": "Shehbaz Badesha",
-              "vote": 65293,
-              "percentage": 14
-            },
-            {
-              "id": 1,
-              "name": "Ashnoor Kaur",
-              "vote": 40063,
-              "percentage": 8
+              "vote": 67796,
+              "percentage": 12
             },
             {
               "id": 16,
               "name": "Amaal Malik",
-              "vote": 39756,
+              "vote": 46927,
+              "percentage": 9
+            },
+            {
+              "id": 1,
+              "name": "Ashnoor Kaur",
+              "vote": 45613,
               "percentage": 8
             },
             {
               "id": 18,
               "name": "Malti Chahar",
-              "vote": 25011,
+              "vote": 27920,
               "percentage": 5
             }
           ]

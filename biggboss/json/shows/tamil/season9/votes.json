@@ -430,74 +430,74 @@
                     ]
                 },
                 {
-                    "week": 9,
-                    "totalVotes": 627509,
+                    "week": 8,
+                    "totalVotes": 1041275,
                     "players": [
                         {
                             "id": 17,
                             "name": "Vikram",
-                            "vote": 99860,
-                            "percentage": 15.91
+                            "vote": 157713,
+                            "percentage": 15.15
                         },
                         {
                             "id": 4,
                             "name": "Paru",
-                            "vote": 83681,
-                            "percentage": 13.34
-                        },
-                        {
-                            "id": 23,
-                            "name": "Divya",
-                            "vote": 73759,
-                            "percentage": 11.75
+                            "vote": 136244,
+                            "percentage": 13.08
                         },
                         {
                             "id": 19,
                             "name": "Kamrudin",
-                            "vote": 71728,
-                            "percentage": 11.43
+                            "vote": 108408,
+                            "percentage": 10.41
                         },
                         {
-                            "id": 24,
-                            "name": "Amit",
-                            "vote": 47553,
-                            "percentage": 7.58
-                        },
-                        {
-                            "id": 11,
-                            "name": "Ramya",
-                            "vote": 42781,
-                            "percentage": 6.82
-                        },
-                        {
-                            "id": 6,
-                            "name": "Kani",
-                            "vote": 42012,
-                            "percentage": 6.7
-                        },
-                        {
-                            "id": 2,
-                            "name": "Aurora",
-                            "vote": 41972,
-                            "percentage": 6.69
+                            "id": 23,
+                            "name": "Divya",
+                            "vote": 108204,
+                            "percentage": 10.39
                         },
                         {
                             "id": 13,
                             "name": "Viyana",
-                            "vote": 41799,
-                            "percentage": 6.66
+                            "vote": 76773,
+                            "percentage": 7.37
+                        },
+                        {
+                            "id": 24,
+                            "name": "Amit",
+                            "vote": 75801,
+                            "percentage": 7.28
+                        },
+                        {
+                            "id": 2,
+                            "name": "Aurora",
+                            "vote": 75794,
+                            "percentage": 7.28
                         },
                         {
                             "id": 22,
                             "name": "Sandra",
-                            "vote": 41188,
-                            "percentage": 6.56
+                            "vote": 75758,
+                            "percentage": 7.28
+                        },
+                        {
+                            "id": 11,
+                            "name": "Ramya",
+                            "vote": 75700,
+                            "percentage": 7.27
+                        },
+                        {
+                            "id": 6,
+                            "name": "Kani",
+                            "vote": 75458,
+                            "percentage": 7.25
                         },
                         {
                             "id": 21,
                             "name": "Prajin",
-                            "vote": 41176,
-                            "percentage": 6.56
+                            "vote": 75424,
+                            "percentage": 7.24
                         }
                     ]
                 }
