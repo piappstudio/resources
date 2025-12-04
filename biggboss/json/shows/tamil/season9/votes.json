@@ -503,73 +503,73 @@
                 },
                 {
                     "week": 9,
-                    "totalVotes": 103009,
+                    "totalVotes": 599601,
                     "players": [
                         {
                             "id": 12,
                             "name": "Vinoth",
-                            "vote": 25760,
-                            "percentage": 25.01
+                            "vote": 146169,
+                            "percentage": 24.37
                         },
                         {
                             "id": 4,
                             "name": "Paru",
-                            "vote": 17268,
-                            "percentage": 16.76
+                            "vote": 84728,
+                            "percentage": 14.13
                         },
                         {
                             "id": 23,
                             "name": "Divya",
-                            "vote": 10473,
-                            "percentage": 10.17
+                            "vote": 66822,
+                            "percentage": 11.14
                         },
                         {
                             "id": 17,
                             "name": "Vikram",
-                            "vote": 9585,
-                            "percentage": 9.31
+                            "vote": 52774,
+                            "percentage": 8.8
                         },
                         {
                             "id": 19,
                             "name": "Kamrudin",
-                            "vote": 9104,
-                            "percentage": 8.84
+                            "vote": 50438,
+                            "percentage": 8.41
                         },
                         {
                             "id": 22,
                             "name": "Sandra",
-                            "vote": 5956,
-                            "percentage": 5.78
+                            "vote": 35240,
+                            "percentage": 5.88
                         },
                         {
                             "id": 21,
                             "name": "Prajean",
-                            "vote": 5719,
-                            "percentage": 5.55
-                        },
-                        {
-                            "id": 6,
-                            "name": "Kani",
-                            "vote": 5493,
-                            "percentage": 5.33
+                            "vote": 34841,
+                            "percentage": 5.81
                         },
                         {
                             "id": 15,
                             "name": "Subiksha",
-                            "vote": 4750,
-                            "percentage": 4.61
+                            "vote": 32709,
+                            "percentage": 5.45
                         },
                         {
                             "id": 3,
                             "name": "Fj",
-                            "vote": 4510,
-                            "percentage": 4.38
+                            "vote": 32553,
+                            "percentage": 5.43
                         },
                         {
                             "id": 24,
                             "name": "Amit",
-                            "vote": 4391,
-                            "percentage": 4.26
+                            "vote": 31804,
+                            "percentage": 5.3
+                        },
+                        {
+                            "id": 6,
+                            "name": "Kani",
+                            "vote": 31723,
+                            "percentage": 5.28
                         }
                     ]
                 }
