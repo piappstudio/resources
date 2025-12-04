@@ -930,7 +930,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1104,7 +1104,9 @@
         },
         {
           "week": 15,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
