@@ -165,7 +165,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -325,6 +325,24 @@
                             "comments": "She is not addressing my issues directly with me; instead she do gossiping"
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "she is manipulating others to nominate my name,"
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Chinna visayatha perusa akranga"
+                        }
+                    ]
                 }
             ]
         },
@@ -340,7 +358,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -486,7 +504,8 @@
                 {
                     "week": 8,
                     "categories": [
-                        "Captain"
+                        "Captain",
+                        "WPW"
                     ],
                     "nominates": [
                         22,
@@ -502,9 +521,28 @@
                             "comments": "Always getting into others issue and create a point unnecessarily"
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She is thinking fighting is make entertaining people. so she creating fights even doing task."
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Sometimes she is good after nominations che will change. She is showing 2 faces alternately"
+                        }
+                    ]
                 }
-            ],
-            "isCaptain": true
+            ]
         },
         {
             "id": "4",
@@ -672,6 +710,26 @@
                         {
                             "nominate_part_id": 2,
                             "comments": "Playing feelings game"
+                        }
+                    ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        3,
+                        24
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Not supporting  in task , Unable to make healthy communication"
+                        },
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "Talking about \"mensural pain\" is normal"
                         }
                     ]
                 }
@@ -966,6 +1024,26 @@
                             "comments": "She had better improvements, but, still she is making the small issues bigger"
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        21
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She is manipulating stories for he convenience. Asingamana strategy"
+                        },
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "He is a stronger player that’s not good for my future in this house"
+                        }
+                    ]
                 }
             ]
         },
@@ -1138,6 +1216,24 @@
                         {
                             "nominate_part_id": 23,
                             "comments": "She feels, she always rights that bring lots of problems"
+                        }
+                    ]
+                },
+                {
+                    "week": 9,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Manipulating game for her convenience."
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Finger cut drama game play illa, he is not using"
                         }
                     ]
                 }
@@ -1339,7 +1435,7 @@
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/aadhirai_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/aadhirai.png",
             "order": null,
-            "re_entry_date": null,
+            "re_entry_date": "2025-11-30",
             "re_evicted_date": null,
             "eliminated_date": "2025-10-26",
             "isNominated": false,
@@ -1407,6 +1503,54 @@
                             "comments": "Taking it more personal"
                         }
                     ]
+                },
+                {
+                    "week": 4,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 5,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 6,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 7,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 8,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 9,
+                    "categories": [],
+                    "nominates": [
+                        3,
+                        6
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "He is using girls to his game but end of the day he talking about projection going on out side. Showing  Victim card, Men card it was ugly game."
+                        },
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "kani and FJ are friends for that reason she is not watching his mistakes"
+                        }
+                    ]
                 }
             ]
         },
@@ -1422,7 +1566,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1565,7 +1709,8 @@
                 {
                     "week": 8,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BPW"
                     ],
                     "nominates": [
                         19,
@@ -1581,8 +1726,29 @@
                             "comments": "We didn't know what she is doing since day 1 in this home."
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": [
+                        3,
+                        15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Not performing well"
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "She keep talking about her father’s achievement instead of her achievement"
+                        }
+                    ]
                 }
-            ]
+            ],
+            "isCaptain": true
         },
         {
             "id": "12",
@@ -1596,7 +1762,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1736,7 +1902,9 @@
                 },
                 {
                     "week": 8,
-                    "categories": [],
+                    "categories": [
+                        "WPW"
+                    ],
                     "nominates": [
                         23,
                         22
@@ -1749,6 +1917,26 @@
                         {
                             "nominate_part_id": 22,
                             "comments": "Too much of sentimental. Playing in favor of her husband"
+                        }
+                    ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        23,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "she is not listening others thought and ignoring"
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "We both equally playing. he may compete in the game"
                         }
                     ]
                 }
@@ -1766,7 +1954,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1930,6 +2118,24 @@
                             "comments": "Behaving like tap recorder when she had one valid point, otherwise walking out during speaking"
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [],
+                    "nominates": [
+                        17,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "He was created comfort zone IT makes Him more strong and weaken others in their team, playing Cunning game."
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "He is using others spotlight.His jokes sometimes wow but most of the time makes others uncomfortable."
+                        }
+                    ]
                 }
             ]
         },
@@ -2055,7 +2261,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -2210,6 +2416,26 @@
                         {
                             "nominate_part_id": 11,
                             "comments": "Not accepting the feedback"
+                        }
+                    ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        3,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "he is not playing well as a \"Thala\". He used Thala power lethargic"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Jolly ah picnic vantha mari irukkkkaru"
                         }
                     ]
                 }
@@ -2437,6 +2663,26 @@
                             "comments": "Not able to understand their attitude, they are not respecting BiggBoss. So, arukathai illai"
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "he is taking my ideas but not giving credit. \"Uzhaippu Surandal\"\""
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "She doesn’t have any stuff other than keep talking the same thing."
+                        }
+                    ]
                 }
             ]
         },
@@ -2646,6 +2892,26 @@
                             "comments": "Playing with the small circle. Not exploring outside"
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        23,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "not showcasing her talent."
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "not showcasing her talent."
+                        }
+                    ]
                 }
             ]
         },
@@ -2841,7 +3107,8 @@
                 {
                     "week": 8,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BPW"
                     ],
                     "nominates": [
                         6,
@@ -2855,6 +3122,26 @@
                         {
                             "nominate_part_id": 13,
                             "comments": "No special content from her except doing presentable makeups"
+                        }
+                    ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        24,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "Talking about mensural Cycle pain"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "body shame"
                         }
                     ]
                 }
@@ -2965,6 +3252,26 @@
                         {
                             "nominate_part_id": 17,
                             "comments": "Mocking, and using inappropriate words during mocking too"
+                        }
+                    ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        24,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "He is said \"Ella masamum varrathu thaney\" about  Parvati mensural pain."
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "\"Thagatha\" words talking against Divya."
                         }
                     ]
                 }
@@ -3089,6 +3396,26 @@
                             "comments": "Biased captainship"
                         }
                     ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        19,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "He is using \"Anagarigamana\" words"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "He is not taking fun for counter to his counter."
+                        }
+                    ]
                 }
             ]
         },
@@ -3205,6 +3532,26 @@
                         {
                             "nominate_part_id": 21,
                             "comments": "Loose talk, threating, and agressive behavior"
+                        }
+                    ]
+                },
+                {
+                    "week": 9,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        21,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 21,
+                            "comments": "No improvement"
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "No Improvement"
                         }
                     ]
                 }
