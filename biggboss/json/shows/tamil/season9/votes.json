@@ -503,73 +503,73 @@
                 },
                 {
                     "week": 9,
-                    "totalVotes": 599601,
+                    "totalVotes": 929641,
                     "players": [
                         {
                             "id": 12,
                             "name": "Vinoth",
-                            "vote": 146169,
-                            "percentage": 24.37
+                            "vote": 225803,
+                            "percentage": 24.29
                         },
                         {
                             "id": 4,
                             "name": "Paru",
-                            "vote": 84728,
-                            "percentage": 14.13
+                            "vote": 125000,
+                            "percentage": 13.45
                         },
                         {
                             "id": 23,
                             "name": "Divya",
-                            "vote": 66822,
-                            "percentage": 11.14
+                            "vote": 104900,
+                            "percentage": 11.28
                         },
                         {
                             "id": 17,
                             "name": "Vikram",
-                            "vote": 52774,
-                            "percentage": 8.8
+                            "vote": 84404,
+                            "percentage": 9.08
                         },
                         {
                             "id": 19,
                             "name": "Kamrudin",
-                            "vote": 50438,
-                            "percentage": 8.41
-                        },
-                        {
-                            "id": 22,
-                            "name": "Sandra",
-                            "vote": 35240,
-                            "percentage": 5.88
-                        },
-                        {
-                            "id": 21,
-                            "name": "Prajean",
-                            "vote": 34841,
-                            "percentage": 5.81
+                            "vote": 73586,
+                            "percentage": 7.92
                         },
                         {
                             "id": 15,
                             "name": "Subiksha",
-                            "vote": 32709,
-                            "percentage": 5.45
+                            "vote": 53197,
+                            "percentage": 5.72
                         },
                         {
                             "id": 3,
                             "name": "Fj",
-                            "vote": 32553,
-                            "percentage": 5.43
+                            "vote": 53127,
+                            "percentage": 5.71
                         },
                         {
                             "id": 24,
                             "name": "Amit",
-                            "vote": 31804,
-                            "percentage": 5.3
+                            "vote": 52728,
+                            "percentage": 5.67
                         },
                         {
                             "id": 6,
                             "name": "Kani",
-                            "vote": 31723,
-                            "percentage": 5.28
+                            "vote": 52623,
+                            "percentage": 5.66
+                        },
+                        {
+                            "id": 21,
+                            "name": "Prajean",
+                            "vote": 52147,
+                            "percentage": 5.61
+                        },
+                        {
+                            "id": 22,
+                            "name": "Sandra",
+                            "vote": 52126,
+                            "percentage": 5.61
                         }
                     ]
                 }

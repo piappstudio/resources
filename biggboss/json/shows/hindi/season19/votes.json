@@ -607,37 +607,37 @@
         },
         {
           "week": 15,
-          "totalVotes": 48919,
+          "totalVotes": 525406,
           "players": [
-            {
-              "id": 9,
-              "name": "Gaurav Khanna",
-              "vote": 16183,
-              "percentage": 33
-            },
-            {
-              "id": 3,
-              "name": "Tanya Mittal",
-              "vote": 15057,
-              "percentage": 31
-            },
             {
               "id": 11,
               "name": "Pranit More",
-              "vote": 9249,
-              "percentage": 19
+              "vote": 179890,
+              "percentage": 34
+            },
+            {
+              "id": 9,
+              "name": "Gaurav Khanna",
+              "vote": 142368,
+              "percentage": 27
             },
             {
               "id": 13,
               "name": "Farhana Bhatt",
-              "vote": 6206,
-              "percentage": 13
+              "vote": 105853,
+              "percentage": 20
+            },
+            {
+              "id": 3,
+              "name": "Tanya Mittal",
+              "vote": 76735,
+              "percentage": 15
             },
             {
               "id": 16,
               "name": "Amaal Malik",
-              "vote": 2224,
-              "percentage": 5
+              "vote": 20560,
+              "percentage": 4
             }
           ]
         }
