@@ -263,15 +263,15 @@
       "id": "3",
       "name": "Tanya Mittal",
       "dial_number": "",
-      "title": null,
+      "title": "4th Runner-up",
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/tanya.png",
-      "order": null,
+      "order": "4",
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2025-12-07",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -335,12 +335,6 @@
           ]
         },
         {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 6,
           "categories": [
             "NOM"
@@ -349,34 +343,10 @@
           "nomination_detail": []
         },
         {
-          "week": 7,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 8,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 9,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 10,
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 11,
-          "categories": [],
           "nominates": [],
           "nomination_detail": []
         },
@@ -444,7 +414,8 @@
         {
           "week": 15,
           "categories": [
-            "NOM"
+            "NOM",
+            "EVI"
           ],
           "nominates": [],
           "nomination_detail": []
@@ -922,15 +893,15 @@
       "id": "9",
       "name": "Gaurav Khanna",
       "dial_number": "",
-      "title": "TTF Winner",
+      "title": "Title & TTF Winner",
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/gaurav.png",
-      "order": null,
+      "order": "1",
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2025-12-07",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -997,18 +968,6 @@
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 6,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 7,
-          "categories": [],
           "nominates": [],
           "nomination_detail": []
         },
@@ -1105,7 +1064,9 @@
         {
           "week": 15,
           "categories": [
-            "NOM"
+            "NOM",
+            "NOM",
+            "EVI"
           ],
           "nominates": [],
           "nomination_detail": []
@@ -1169,13 +1130,13 @@
       "id": "11",
       "name": "Pranit More",
       "dial_number": "",
-      "title": null,
+      "title": "3rd Runner-up",
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/pranit.png",
-      "order": null,
+      "order": "3",
       "re_entry_date": "2025-11-05",
-      "re_evicted_date": null,
+      "re_evicted_date": "2025-12-07",
       "eliminated_date": "2025-11-02",
       "isNominated": false,
       "history": [
@@ -1254,12 +1215,6 @@
           "nomination_detail": []
         },
         {
-          "week": 8,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 9,
           "categories": [
             "NOM"
@@ -1273,12 +1228,6 @@
             "NOM",
             "EVI"
           ],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 11,
-          "categories": [],
           "nominates": [],
           "nomination_detail": []
         },
@@ -1331,7 +1280,8 @@
         {
           "week": 15,
           "categories": [
-            "NOM"
+            "NOM",
+            "EVI"
           ],
           "nominates": [],
           "nomination_detail": []
@@ -1461,15 +1411,15 @@
       "id": "13",
       "name": "Farhana Bhatt",
       "dial_number": "",
-      "title": null,
+      "title": "2nd Runner-up",
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/farhana.png",
-      "order": null,
+      "order": "2",
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2025-12-07",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1521,12 +1471,6 @@
           ]
         },
         {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 6,
           "categories": [
             "Captain"
@@ -1539,18 +1483,6 @@
           "categories": [
             "Captain"
           ],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 8,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 9,
-          "categories": [],
           "nominates": [],
           "nomination_detail": []
         },
@@ -1634,7 +1566,8 @@
         {
           "week": 15,
           "categories": [
-            "NOM"
+            "NOM",
+            "EVI"
           ],
           "nominates": [],
           "nomination_detail": []
@@ -1869,15 +1802,15 @@
       "id": "16",
       "name": "Amaal Malik",
       "dial_number": "",
-      "title": null,
+      "title": "5th Runner-up",
       "start_date": "2025-08-24",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/participants/amaal.png",
-      "order": null,
+      "order": "5",
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2025-12-07",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1941,12 +1874,6 @@
           ]
         },
         {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 6,
           "categories": [
             "NOM"
@@ -1955,34 +1882,10 @@
           "nomination_detail": []
         },
         {
-          "week": 7,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 8,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 9,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 10,
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 11,
-          "categories": [],
           "nominates": [],
           "nomination_detail": []
         },
@@ -2026,7 +1929,8 @@
         {
           "week": 15,
           "categories": [
-            "NOM"
+            "NOM",
+            "EVI"
           ],
           "nominates": [],
           "nomination_detail": []
