@@ -112,7 +112,8 @@
                 {
                     "week": 5,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         7,
@@ -328,7 +329,9 @@
                 },
                 {
                     "week": 9,
-                    "categories": [],
+                    "categories": [
+                        "BPW"
+                    ],
                     "nominates": [
                         4,
                         23
@@ -341,6 +344,26 @@
                         {
                             "nominate_part_id": 23,
                             "comments": "Chinna visayatha perusa akranga"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        13,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "She is telling lies, not honestly"
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "he was not nominatedfor last few weeks"
                         }
                     ]
                 }
@@ -505,7 +528,8 @@
                     "week": 8,
                     "categories": [
                         "Captain",
-                        "WPW"
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         22,
@@ -525,7 +549,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         4,
@@ -539,6 +564,26 @@
                         {
                             "nominate_part_id": 22,
                             "comments": "Sometimes she is good after nominations che will change. She is showing 2 faces alternately"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        22,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Making others mentally weak"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Misusing Thala power, playing emotional game"
                         }
                     ]
                 }
@@ -556,7 +601,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -676,7 +721,8 @@
                 {
                     "week": 7,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         2,
@@ -696,7 +742,8 @@
                 {
                     "week": 8,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         3,
@@ -716,7 +763,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         3,
@@ -730,6 +778,24 @@
                         {
                             "nominate_part_id": 24,
                             "comments": "Talking about \"mensural pain\" is normal"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [],
+                    "nominates": [
+                        7,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "He is not giving contributions and Involvement  compared to 1st week"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "Na game play pannaporan nu therinjum en mathi sonnanga nu theriyala"
                         }
                     ]
                 }
@@ -863,11 +929,13 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
-                    "categories": [],
+                    "categories": [
+                        "CT"
+                    ],
                     "nominates": [
                         10,
                         13
@@ -906,7 +974,8 @@
                 {
                     "week": 3,
                     "categories": [
-                        "Captain"
+                        "Captain",
+                        "CT"
                     ],
                     "nominates": [
                         13,
@@ -927,7 +996,8 @@
                     "week": 4,
                     "categories": [
                         "BSD",
-                        "NF"
+                        "NF",
+                        "CT"
                     ],
                     "nominates": [
                         4,
@@ -968,7 +1038,8 @@
                     "week": 6,
                     "categories": [
                         "NOM",
-                        "WPW"
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         22,
@@ -988,7 +1059,8 @@
                 {
                     "week": 7,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         21,
@@ -1028,7 +1100,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BPW"
                     ],
                     "nominates": [
                         4,
@@ -1042,6 +1115,26 @@
                         {
                             "nominate_part_id": 21,
                             "comments": "He is a stronger player that’s not good for my future in this house"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        11,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "She is using Anbu, Natpu to play manipulative game,  Biased for her team"
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Thanakku vantha blood mathavangalukka na thakkali chatini nu irukkanga"
                         }
                     ]
                 }
@@ -1059,7 +1152,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1083,7 +1176,8 @@
                     "week": 2,
                     "categories": [
                         "NOM",
-                        "BPW"
+                        "BPW",
+                        "CT"
                     ],
                     "nominates": [
                         4,
@@ -1221,7 +1315,10 @@
                 },
                 {
                     "week": 9,
-                    "categories": [],
+                    "categories": [
+                        "BPW",
+                        "CT"
+                    ],
                     "nominates": [
                         4,
                         3
@@ -1234,6 +1331,26 @@
                         {
                             "nominate_part_id": 3,
                             "comments": "Finger cut drama game play illa, he is not using"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        13,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "Fake , I didn’t see here real faces."
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "out of emotional, and it affects others and himself ."
                         }
                     ]
                 }
@@ -1312,7 +1429,8 @@
                 {
                     "week": 2,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         1,
@@ -1536,7 +1654,9 @@
                 },
                 {
                     "week": 9,
-                    "categories": [],
+                    "categories": [
+                        "WPW"
+                    ],
                     "nominates": [
                         3,
                         6
@@ -1549,6 +1669,26 @@
                         {
                             "nominate_part_id": 6,
                             "comments": "kani and FJ are friends for that reason she is not watching his mistakes"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        19,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "He was doing emotional put down, unwanted fights with Aurora."
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Victim card"
                         }
                     ]
                 }
@@ -1566,7 +1706,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1730,7 +1870,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "Captain"
+                        "Captain",
+                        "WPW"
                     ],
                     "nominates": [
                         3,
@@ -1746,9 +1887,28 @@
                             "comments": "She keep talking about her father’s achievement instead of her achievement"
                         }
                     ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        4,
+                        13
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "For her mistake every one blaming me misusing thala power"
+                        },
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "1st she told i dont know but in front of VJS she said i know. It project me wrong"
+                        }
+                    ]
                 }
-            ],
-            "isCaptain": true
+            ]
         },
         {
             "id": "12",
@@ -1845,7 +2005,8 @@
                 {
                     "week": 5,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         4,
@@ -1865,7 +2026,8 @@
                 {
                     "week": 6,
                     "categories": [
-                        "BPW"
+                        "BPW",
+                        "CT"
                     ],
                     "nominates": [
                         1,
@@ -1923,7 +2085,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         23,
@@ -1937,6 +2100,26 @@
                         {
                             "nominate_part_id": 17,
                             "comments": "We both equally playing. he may compete in the game"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "he is involving others problem and make even bigger."
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "She is not using Thala power properly"
                         }
                     ]
                 }
@@ -1954,7 +2137,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -2022,7 +2205,8 @@
                 {
                     "week": 4,
                     "categories": [
-                        "NF"
+                        "NF",
+                        "CT"
                     ],
                     "nominates": [
                         12,
@@ -2042,7 +2226,8 @@
                 {
                     "week": 5,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         7,
@@ -2082,7 +2267,8 @@
                 {
                     "week": 7,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         7,
@@ -2121,7 +2307,9 @@
                 },
                 {
                     "week": 9,
-                    "categories": [],
+                    "categories": [
+                        "WPW"
+                    ],
                     "nominates": [
                         17,
                         12
@@ -2134,6 +2322,26 @@
                         {
                             "nominate_part_id": 12,
                             "comments": "He is using others spotlight.His jokes sometimes wow but most of the time makes others uncomfortable."
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "In this house there are 2 groups of people. He want a place in both of them good books. so last 2 week he was not nominated."
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "good nu sonna anma avanga good bookla iruppom else we are her opponent. she was speaking tamil well but she keep telling puriyala i think she was literally acting."
                         }
                     ]
                 }
@@ -2156,7 +2364,8 @@
                 {
                     "week": 1,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         20,
@@ -2194,7 +2403,8 @@
                 {
                     "week": 3,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         11,
@@ -2261,7 +2471,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -2422,7 +2632,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         3,
@@ -2436,6 +2647,26 @@
                         {
                             "nominate_part_id": 19,
                             "comments": "Jolly ah picnic vantha mari irukkkkaru"
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        7,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Safe game, No involvement"
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "He know paru affects his game but still with her. In the fighting situation  Adikramari vararu"
                         }
                     ]
                 }
@@ -2510,7 +2741,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -2667,7 +2898,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BPW"
                     ],
                     "nominates": [
                         21,
@@ -2681,6 +2913,26 @@
                         {
                             "nominate_part_id": 23,
                             "comments": "She doesn’t have any stuff other than keep talking the same thing."
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        22,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Not telling sorry to Subiksh. She was not obeying game, rules."
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "She did't have enough brave to face a problem. Kozhaithanam."
                         }
                     ]
                 }
@@ -2703,7 +2955,8 @@
                 {
                     "week": 1,
                     "categories": [
-                        "EVI"
+                        "EVI",
+                        "CT"
                     ],
                     "nominates": [
                         20,
@@ -2780,7 +3033,8 @@
                 {
                     "week": 3,
                     "categories": [
-                        "WPW"
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         10,
@@ -2800,7 +3054,8 @@
                 {
                     "week": 4,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         2,
@@ -2896,7 +3151,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW"
                     ],
                     "nominates": [
                         23,
@@ -2910,6 +3166,26 @@
                         {
                             "nominate_part_id": 22,
                             "comments": "not showcasing her talent."
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "proper ah open up aagala,"
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Personal things ah avar discussion kaga use panranu"
                         }
                     ]
                 }
@@ -2970,7 +3246,8 @@
                 {
                     "week": 3,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         13,
@@ -3022,33 +3299,9 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-12-07",
+            "isNominated": false,
             "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 2,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 3,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 4,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
                 {
                     "week": 5,
                     "categories": [
@@ -3128,7 +3381,9 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BPW",
+                        "EVI"
                     ],
                     "nominates": [
                         24,
@@ -3189,7 +3444,8 @@
                     "week": 5,
                     "categories": [
                         "NF",
-                        "WPW"
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         4,
@@ -3209,7 +3465,8 @@
                 {
                     "week": 6,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [],
                     "nomination_detail": []
@@ -3218,7 +3475,8 @@
                     "week": 7,
                     "categories": [
                         "NOM",
-                        "WPW"
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         24,
@@ -3258,7 +3516,8 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "BPW"
                     ],
                     "nominates": [
                         24,
@@ -3272,6 +3531,26 @@
                         {
                             "nominate_part_id": 19,
                             "comments": "\"Thagatha\" words talking against Divya."
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        13,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 13,
+                            "comments": "She is not supporting in the task"
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "He is not involved in the task"
                         }
                     ]
                 }
@@ -3289,7 +3568,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -3360,7 +3639,8 @@
                     "week": 7,
                     "categories": [
                         "NOM",
-                        "WPW"
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         12,
@@ -3400,7 +3680,9 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         19,
@@ -3414,6 +3696,26 @@
                         {
                             "nominate_part_id": 12,
                             "comments": "He is not taking fun for counter to his counter."
+                        }
+                    ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NF"
+                    ],
+                    "nominates": [
+                        12,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "He keep making confused in this house, it destroys the peace of the house."
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "He playing game with Paru and Aurora, his words are disgusting (Anagarigam)"
                         }
                     ]
                 }
@@ -3431,7 +3733,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -3479,7 +3781,9 @@
                 },
                 {
                     "week": 6,
-                    "categories": [],
+                    "categories": [
+                        "CT"
+                    ],
                     "nominates": [
                         23,
                         2
@@ -3538,7 +3842,9 @@
                 {
                     "week": 9,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "WPW",
+                        "CT"
                     ],
                     "nominates": [
                         21,
@@ -3554,8 +3860,30 @@
                             "comments": "No Improvement"
                         }
                     ]
+                },
+                {
+                    "week": 10,
+                    "categories": [
+                        "NF",
+                        "Captain"
+                    ],
+                    "nominates": [
+                        3,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "He wasn’t performing well ."
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "For the smal reson she told \"I’m going out of this house\""
+                        }
+                    ]
                 }
-            ]
+            ],
+            "isCaptain": true
         }
     ],
     "category": [
@@ -3617,7 +3945,7 @@
             "name": "Nomination Free",
             "key": "NF",
             "color": "FF0066FF",
-            "text": "FF000000",
+            "text": "FFFFFFFF",
             "is_week": true,
             "graph": true,
             "graphOrder": 2,
@@ -3644,6 +3972,19 @@
             "key": "WPW",
             "color": "FFEFC935",
             "text": "FF000000",
+            "is_week": true,
+            "graph": true,
+            "graphOrder": 4,
+            "created_at": "2025-02-19T09:43:07.000000Z",
+            "updated_at": "2025-02-19T09:43:07.000000Z"
+        },
+        {
+            "id": 36,
+            "show_id": 4,
+            "name": "Cooking Team",
+            "key": "CT",
+            "color": "FF434E78",
+            "text": "FFFFFFFF",
             "is_week": true,
             "graph": true,
             "graphOrder": 4,
