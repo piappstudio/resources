@@ -572,6 +572,54 @@
                             "percentage": 5.64
                         }
                     ]
+                },
+                {
+                    "week": 10,
+                    "totalVotes": 117491,
+                    "players": [
+                        {
+                            "id": 12,
+                            "name": "Vinoth",
+                            "vote": 36303,
+                            "percentage": 30.9
+                        },
+                        {
+                            "id": 7,
+                            "name": "Sabari",
+                            "vote": 21807,
+                            "percentage": 18.56
+                        },
+                        {
+                            "id": 19,
+                            "name": "Kamrudin",
+                            "vote": 19823,
+                            "percentage": 16.87
+                        },
+                        {
+                            "id": 22,
+                            "name": "Sandra",
+                            "vote": 17578,
+                            "percentage": 14.96
+                        },
+                        {
+                            "id": 13,
+                            "name": "Viyana",
+                            "vote": 8175,
+                            "percentage": 6.96
+                        },
+                        {
+                            "id": 3,
+                            "name": "FJ",
+                            "vote": 7659,
+                            "percentage": 6.52
+                        },
+                        {
+                            "id": 11,
+                            "name": "Ramya",
+                            "vote": 6148,
+                            "percentage": 5.23
+                        }
+                    ]
                 }
             ]
         }
