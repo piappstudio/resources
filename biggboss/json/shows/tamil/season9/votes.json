@@ -575,49 +575,49 @@
                 },
                 {
                     "week": 10,
-                    "totalVotes": 117491,
+                    "totalVotes": 578408,
                     "players": [
                         {
                             "id": 12,
                             "name": "Vinoth",
-                            "vote": 36303,
-                            "percentage": 30.9
+                            "vote": 176797,
+                            "percentage": 30.57
                         },
                         {
                             "id": 7,
                             "name": "Sabari",
-                            "vote": 21807,
-                            "percentage": 18.56
+                            "vote": 103273,
+                            "percentage": 17.85
                         },
                         {
                             "id": 19,
                             "name": "Kamrudin",
-                            "vote": 19823,
-                            "percentage": 16.87
+                            "vote": 87908,
+                            "percentage": 15.2
                         },
                         {
                             "id": 22,
                             "name": "Sandra",
-                            "vote": 17578,
-                            "percentage": 14.96
-                        },
-                        {
-                            "id": 13,
-                            "name": "Viyana",
-                            "vote": 8175,
-                            "percentage": 6.96
+                            "vote": 78869,
+                            "percentage": 13.64
                         },
                         {
                             "id": 3,
                             "name": "FJ",
-                            "vote": 7659,
-                            "percentage": 6.52
+                            "vote": 51063,
+                            "percentage": 8.83
+                        },
+                        {
+                            "id": 13,
+                            "name": "Viyana",
+                            "vote": 44216,
+                            "percentage": 7.64
                         },
                         {
                             "id": 11,
                             "name": "Ramya",
-                            "vote": 6148,
-                            "percentage": 5.23
+                            "vote": 36282,
+                            "percentage": 6.27
                         }
                     ]
                 }
