@@ -620,6 +620,78 @@
                             "percentage": 6.27
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "totalVotes": 156006,
+                    "players": [
+                        {
+                            "id": 23,
+                            "name": "Divya",
+                            "vote": 34403,
+                            "percentage": 22.05
+                        },
+                        {
+                            "id": 19,
+                            "name": "Kamrudin",
+                            "vote": 20215,
+                            "percentage": 12.96
+                        },
+                        {
+                            "id": 4,
+                            "name": "Parvathy",
+                            "vote": 19651,
+                            "percentage": 12.63
+                        },
+                        {
+                            "id": 2,
+                            "name": "Aurora",
+                            "vote": 16760,
+                            "percentage": 10.74
+                        },
+                        {
+                            "id": 7,
+                            "name": "Sabari",
+                            "vote": 14915,
+                            "percentage": 9.56
+                        },
+                        {
+                            "id": 22,
+                            "name": "Sandra",
+                            "vote": 12257,
+                            "percentage": 7.86
+                        },
+                        {
+                            "id": 6,
+                            "name": "Kani",
+                            "vote": 8821,
+                            "percentage": 5.65
+                        },
+                        {
+                            "id": 24,
+                            "name": "Amit",
+                            "vote": 8626,
+                            "percentage": 5.53
+                        },
+                        {
+                            "id": 15,
+                            "name": "Subiksha",
+                            "vote": 8459,
+                            "percentage": 5.42
+                        },
+                        {
+                            "id": 3,
+                            "name": "FJ",
+                            "vote": 8398,
+                            "percentage": 5.38
+                        },
+                        {
+                            "id": 10,
+                            "name": "Aadhirai",
+                            "vote": 3601,
+                            "percentage": 2.31
+                        }
+                    ]
                 }
             ]
         }
