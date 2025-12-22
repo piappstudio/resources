@@ -692,6 +692,72 @@
                             "percentage": 3.95
                         }
                     ]
+                },
+                {
+                    "week": 12,
+                    "totalVotes": 51294,
+                    "players": [
+                        {
+                            "id": 12,
+                            "name": "Vinoth",
+                            "vote": 13251,
+                            "percentage": 25.83
+                        },
+                        {
+                            "id": 23,
+                            "name": "Divya",
+                            "vote": 9662,
+                            "percentage": 18.84
+                        },
+                        {
+                            "id": 4,
+                            "name": "Parvathy",
+                            "vote": 7600,
+                            "percentage": 14.82
+                        },
+                        {
+                            "id": 2,
+                            "name": "Aurora",
+                            "vote": 4121,
+                            "percentage": 8.03
+                        },
+                        {
+                            "id": 22,
+                            "name": "Sandra",
+                            "vote": 3603,
+                            "percentage": 7.02
+                        },
+                        {
+                            "id": 7,
+                            "name": "Sabari",
+                            "vote": 3280,
+                            "percentage": 6.39
+                        },
+                        {
+                            "id": 17,
+                            "name": "Vikkals Vikram",
+                            "vote": 3030,
+                            "percentage": 5.91
+                        },
+                        {
+                            "id": 6,
+                            "name": "Kani",
+                            "vote": 2734,
+                            "percentage": 5.33
+                        },
+                        {
+                            "id": 15,
+                            "name": "Subiksha",
+                            "vote": 2145,
+                            "percentage": 4.18
+                        },
+                        {
+                            "id": 24,
+                            "name": "Amit Bhargav",
+                            "vote": 1868,
+                            "percentage": 3.64
+                        }
+                    ]
                 }
             ]
         }

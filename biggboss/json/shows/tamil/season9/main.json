@@ -166,7 +166,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -366,6 +366,35 @@
                             "comments": "he was not nominatedfor last few weeks"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "CT"
+                    ],
+                    "nominates": [
+                        22,
+                        24
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Closed for her emotion, that affecting game and also she is showing anger, shouting others for no reason, not reachable to talk."
+                        },
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "Not accepting criticism."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -380,8 +409,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-12-21",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -570,7 +599,8 @@
                 {
                     "week": 10,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         22,
@@ -584,6 +614,28 @@
                         {
                             "nominate_part_id": 11,
                             "comments": "Misusing Thala power, playing emotional game"
+                        }
+                    ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "CT",
+                        "EVI"
+                    ],
+                    "nominates": [
+                        15,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Give up the captaincy task for Vikram."
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Poosi mozhuvi worst performance sonnaru"
                         }
                     ]
                 }
@@ -601,7 +653,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -798,6 +850,34 @@
                             "comments": "Na game play pannaporan nu therinjum en mathi sonnanga nu theriyala"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        6,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "last few weeks her performance and participation goes down compare to starting of this game."
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "She said \"I am Desperate\" but it’s not true. She sustained this game without doing house hold work (kitchen). Last few weeks before only she started to pick up the game."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -929,7 +1009,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -1121,7 +1201,8 @@
                 {
                     "week": 10,
                     "categories": [
-                        "NF"
+                        "NF",
+                        "CT"
                     ],
                     "nominates": [
                         11,
@@ -1137,6 +1218,35 @@
                             "comments": "Thanakku vantha blood mathavangalukka na thakkali chatini nu irukkanga"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "BPW"
+                    ],
+                    "nominates": [
+                        22,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "She feel sad but it would be prolonged. she reflect her feelings in the way of showing anger, shouting to other house mates. azhuthu anuthaba aliya sambathikranga."
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "he was used wrong words while fighting with girls. It’s a bad example."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -1353,6 +1463,34 @@
                             "comments": "out of emotional, and it affects others and himself ."
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        3,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "He need to control emotions."
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "he needs to control his emotions."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -1554,7 +1692,7 @@
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/aadhirai.png",
             "order": null,
             "re_entry_date": "2025-11-30",
-            "re_evicted_date": null,
+            "re_evicted_date": "2025-12-21",
             "eliminated_date": "2025-10-26",
             "isNominated": false,
             "history": [
@@ -1623,36 +1761,6 @@
                     ]
                 },
                 {
-                    "week": 4,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 5,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 6,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 7,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 8,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
                     "week": 9,
                     "categories": [
                         "WPW"
@@ -1691,6 +1799,28 @@
                             "comments": "Victim card"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "CT",
+                        "EVI"
+                    ],
+                    "nominates": [
+                        22,
+                        24
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Roba kovapadranga, I don’t have any problem with her but still she was not talking with me not even eye contact. I feel \"game la irukkka mudiyala.\""
+                        },
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "He couldn’t accept criticism."
+                        }
+                    ]
                 }
             ]
         },
@@ -1705,8 +1835,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-12-13",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1891,7 +2021,10 @@
                 {
                     "week": 10,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT",
+                        "WPW",
+                        "EVI"
                     ],
                     "nominates": [
                         4,
@@ -2122,6 +2255,35 @@
                             "comments": "She is not using Thala power properly"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "Captain",
+                        "WPW"
+                    ],
+                    "nominates": [
+                        22,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "She was not listing divya,  emotional, crying, i feel game play panna mudiyala ."
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She was arguing to do her work, work not done smoothly. Mic hiding issue affecting other housemates."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -2136,8 +2298,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-12-14",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -2328,7 +2490,8 @@
                 {
                     "week": 10,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [
                         7,
@@ -2471,7 +2634,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -2669,6 +2832,35 @@
                             "comments": "He know paru affects his game but still with her. In the fighting situation  Adikramari vararu"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "CT"
+                    ],
+                    "nominates": [
+                        3,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Aadhirai 10 thing’s mater, Loose temper, and words vidraru"
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Game la \"Munaippu\" illa, pesa mudiyala cutting conversations , Need to play better."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -2741,7 +2933,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -2919,7 +3111,8 @@
                 {
                     "week": 10,
                     "categories": [
-                        "NF"
+                        "NF",
+                        "CT"
                     ],
                     "nominates": [
                         22,
@@ -2935,6 +3128,32 @@
                             "comments": "She did't have enough brave to face a problem. Kozhaithanam."
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [],
+                    "nominates": [
+                        4,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Biggboss gave an opportunity to prove your but as usual missed it and focused to fight with us."
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "You Said \"I have 10 things to spoil her career\" that was wrong."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -2987,7 +3206,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -3188,8 +3407,38 @@
                             "comments": "Personal things ah avar discussion kaga use panranu"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "BPW"
+                    ],
+                    "nominates": [
+                        22,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Her feelings understandable but it goes more than a week, this game like this only but still she is not recovered. she is not capable to continue the game"
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "he was biased, for others na one niyayam, for him na \"Na pathukran\" nu solran."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "Captain"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
-            ]
+            ],
+            "isCaptain": true
         },
         {
             "id": "20",
@@ -3537,7 +3786,8 @@
                 {
                     "week": 10,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT"
                     ],
                     "nominates": [
                         13,
@@ -3553,6 +3803,35 @@
                             "comments": "He is not involved in the task"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "WPW"
+                    ],
+                    "nominates": [
+                        3,
+                        19
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "Aadhirai 10 thing’s mater."
+                        },
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Fighting with Divya. I didn’t talk at the point time now i show here."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -3568,7 +3847,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -3718,6 +3997,35 @@
                             "comments": "He playing game with Paru and Aurora, his words are disgusting (Anagarigam)"
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM",
+                        "CT"
+                    ],
+                    "nominates": [
+                        24,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "Triggering and pulling others, not accepting criticism."
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "I am emotionally getting down because of her."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -3733,7 +4041,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -3881,9 +4189,36 @@
                             "comments": "For the smal reson she told \"I’m going out of this house\""
                         }
                     ]
+                },
+                {
+                    "week": 11,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        10,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "Other than the physical game her effort is not enough."
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Unnecessary fighting with me for unnecessary things. She was not accepting cretics but she expected me to accept her criticism even though it’s unfair.."
+                        }
+                    ]
+                },
+                {
+                    "week": 12,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
-            ],
-            "isCaptain": true
+            ]
         }
     ],
     "category": [
