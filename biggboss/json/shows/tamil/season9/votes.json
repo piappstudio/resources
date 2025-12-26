@@ -695,67 +695,67 @@
                 },
                 {
                     "week": 12,
-                    "totalVotes": 51294,
+                    "totalVotes": 791069,
                     "players": [
                         {
                             "id": 12,
                             "name": "Vinoth",
-                            "vote": 13251,
-                            "percentage": 25.83
+                            "vote": 183254,
+                            "percentage": 23.17
                         },
                         {
                             "id": 23,
                             "name": "Divya",
-                            "vote": 9662,
-                            "percentage": 18.84
+                            "vote": 123658,
+                            "percentage": 15.63
                         },
                         {
                             "id": 4,
-                            "name": "Parvathy",
-                            "vote": 7600,
-                            "percentage": 14.82
-                        },
-                        {
-                            "id": 2,
-                            "name": "Aurora",
-                            "vote": 4121,
-                            "percentage": 8.03
-                        },
-                        {
-                            "id": 22,
-                            "name": "Sandra",
-                            "vote": 3603,
-                            "percentage": 7.02
-                        },
-                        {
-                            "id": 7,
-                            "name": "Sabari",
-                            "vote": 3280,
-                            "percentage": 6.39
-                        },
-                        {
-                            "id": 17,
-                            "name": "Vikkals Vikram",
-                            "vote": 3030,
-                            "percentage": 5.91
+                            "name": "Paru",
+                            "vote": 87694,
+                            "percentage": 11.09
                         },
                         {
                             "id": 6,
                             "name": "Kani",
-                            "vote": 2734,
-                            "percentage": 5.33
+                            "vote": 69143,
+                            "percentage": 8.74
+                        },
+                        {
+                            "id": 2,
+                            "name": "Aurora",
+                            "vote": 63833,
+                            "percentage": 8.07
+                        },
+                        {
+                            "id": 22,
+                            "name": "Sandra",
+                            "vote": 59014,
+                            "percentage": 7.46
+                        },
+                        {
+                            "id": 17,
+                            "name": "Vikram",
+                            "vote": 54250,
+                            "percentage": 6.86
+                        },
+                        {
+                            "id": 7,
+                            "name": "Sabari",
+                            "vote": 52787,
+                            "percentage": 6.67
+                        },
+                        {
+                            "id": 24,
+                            "name": "Amit",
+                            "vote": 51424,
+                            "percentage": 6.5
                         },
                         {
                             "id": 15,
                             "name": "Subiksha",
-                            "vote": 2145,
-                            "percentage": 4.18
-                        },
-                        {
-                            "id": 24,
-                            "name": "Amit Bhargav",
-                            "vote": 1868,
-                            "percentage": 3.64
+                            "vote": 46012,
+                            "percentage": 5.81
                         }
                     ]
                 }
