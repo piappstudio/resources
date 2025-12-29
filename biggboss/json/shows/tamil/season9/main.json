@@ -393,8 +393,40 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        22,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Emotionally closed"
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "She was finding reasons to nominate me, vengeance are inside"
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        19,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Na paruva possessive va feel panna than unnoda friend ah irunthan nu sonnathu hurt aachi. If I want to fight with paru with my points not emotional."
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Entertaining was down compared to others"
+                        }
+                    ]
                 }
             ]
         },
@@ -876,8 +908,40 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        17,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "He was making comedy with others emotions."
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "She wasn’t judging things where to show her voice."
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        19,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "Keep talking the same thing even though i asked sorry. He told \"that's affect my vote\" it’s questioning our relationship. he was played in my feelings"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Aurora & kamrudin both to gather played with my feelings."
+                        }
+                    ]
                 }
             ]
         },
@@ -1008,8 +1072,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-12-28",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1243,10 +1307,24 @@
                 {
                     "week": 12,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT",
+                        "EVI"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        22,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Last few weeks of experience this house is no feeling well because of her."
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Playing game is reduced because of kamrudhin."
+                        }
+                    ]
                 }
             ]
         },
@@ -1489,8 +1567,40 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        4,
+                        24
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Emotionally playing game with Kamrudhin, Gana Vinodh and group"
+                        },
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "In the name of Aadharavu, Adaialam he is stuck in that Parvaty group."
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        12,
+                        15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "He reduced his anger 90% but still scared needs to reduce remaining 10%  too."
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Going game slow."
+                        }
+                    ]
                 }
             ]
         },
@@ -2282,8 +2392,40 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        15,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Playing power reduced compare to beginning, Crying aften"
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "She wants everyone to listen and understand her point of explanations but she was not listening others"
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "He is not Involved in the game, playing safe game."
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "She told \"Na mattum than vanturukan\".  All are equal."
+                        }
+                    ]
                 }
             ]
         },
@@ -2859,8 +3001,40 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        2,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "She started playing well in the middle of the game. I thought this game over for her ."
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "Other than the fun, I don’t know what he is doing ."
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        12,
+                        23
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "Mathi pesitanga about \"meenava samugathula irunthu na than first vanthurukan nu sonnathuku illa nariya peru irukkanga nu sonnaru\""
+                        },
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "She wasn’t accept a point against her."
+                        }
+                    ]
                 }
             ]
         },
@@ -3152,8 +3326,40 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        22,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "I feel all of her actions are look like acting. She pulls all of them down insted of growing herself."
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Her reaction about Kamrudhin during Captaincy task is emotional, that’s not good."
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        23,
+                        22
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 23,
+                            "comments": "Niyayathuku kural kuduran perula Selfish ana fraud, Ego centric maniac, karutha kuda face panna mudiyatha kozhai."
+                        },
+                        {
+                            "nominate_part_id": 22,
+                            "comments": "Game style pudikala"
+                        }
+                    ]
                 }
             ]
         },
@@ -3206,7 +3412,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -3434,11 +3640,42 @@
                     "categories": [
                         "Captain"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        17,
+                        15
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "He always showcases he is following BB rules, not anger but last task he went race mode."
+                        },
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "In the game don’t give up to others but last game she was stuck in the relationship and gave up"
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        2,
+                        4
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "Her intentions Paru va \"veruppethra\" mari irunthathu athala nanum sambatha paturukan but I handled maturely."
+                        },
+                        {
+                            "nominate_part_id": 4,
+                            "comments": "Now she will understand \"Choice of words\" how affects people."
+                        }
+                    ]
                 }
-            ],
-            "isCaptain": true
+            ]
         },
         {
             "id": "20",
@@ -3828,10 +4065,43 @@
                 {
                     "week": 12,
                     "categories": [
+                        "NOM",
+                        "CT"
+                    ],
+                    "nominates": [
+                        17,
+                        24
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "Last week task his song disturbed me i told him to stop but he didn’t . It’s hurts me."
+                        },
+                        {
+                            "nominate_part_id": 24,
+                            "comments": "He told \"I’m overthinking him\". But it’s not true."
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        19,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 19,
+                            "comments": "I am the one told to kamrudin to short out \"Bad touch\" problem but when ever he want he could talk about it and leave it. After she said sorry also he could talk aften for his vote."
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "Talking inappropriate words against Divya."
+                        }
+                    ]
                 }
             ]
         },
@@ -4022,10 +4292,43 @@
                 {
                     "week": 12,
                     "categories": [
+                        "NOM",
+                        "CT"
+                    ],
+                    "nominates": [
+                        12,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "HIS tone, body language ARE good in certain group of people but still i can’t able to make healthy conversation."
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "He showing love to some group of people so that they voting for him to best performance"
+                        }
+                    ]
+                },
+                {
+                    "week": 13,
+                    "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        15,
+                        17
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 15,
+                            "comments": "Her name is Rules Subisha but she is Not follow rules, Not accepting cretics."
+                        },
+                        {
+                            "nominate_part_id": 17,
+                            "comments": "He thinks he is the one following all the rules, respecting Boss. but after Kani eviction he told kathanum pola appo than intha veetla iruka mudiyum ."
+                        }
+                    ]
                 }
             ]
         },
@@ -4040,33 +4343,9 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2025-12-27",
+            "isNominated": false,
             "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 2,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 3,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 4,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
                 {
                     "week": 5,
                     "categories": [
@@ -4213,10 +4492,24 @@
                 {
                     "week": 12,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "CT",
+                        "EVI"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        6,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 6,
+                            "comments": "Emotionally and physically she is strong, To reduce the competition she wants to go out."
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "She started her game in the middle of the game but also play \"Soodu pudiala\", up coming days very competitive so \"Thau pudia mudiyadu\"."
+                        }
+                    ]
                 }
             ]
         }
