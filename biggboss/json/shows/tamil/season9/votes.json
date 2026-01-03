@@ -761,61 +761,61 @@
                 },
                 {
                     "week": 13,
-                    "totalVotes": 577252,
+                    "totalVotes": 1186293,
                     "players": [
                         {
                             "id": 12,
                             "name": "Vinoth",
-                            "vote": 158354,
-                            "percentage": 27.43
+                            "vote": 291299,
+                            "percentage": 24.56
                         },
                         {
                             "id": 23,
                             "name": "Divya",
-                            "vote": 116943,
-                            "percentage": 20.26
-                        },
-                        {
-                            "id": 4,
-                            "name": "Parvathy",
-                            "vote": 65176,
-                            "percentage": 11.29
-                        },
-                        {
-                            "id": 19,
-                            "name": "Kamarudin",
-                            "vote": 54973,
-                            "percentage": 9.52
-                        },
-                        {
-                            "id": 2,
-                            "name": "Aurora",
-                            "vote": 45156,
-                            "percentage": 7.82
+                            "vote": 233274,
+                            "percentage": 19.66
                         },
                         {
                             "id": 7,
                             "name": "Sabari",
-                            "vote": 39271,
-                            "percentage": 6.8
+                            "vote": 124063,
+                            "percentage": 10.46
                         },
                         {
                             "id": 22,
                             "name": "Sandra",
-                            "vote": 38310,
-                            "percentage": 6.64
+                            "vote": 113391,
+                            "percentage": 9.56
+                        },
+                        {
+                            "id": 4,
+                            "name": "Parvathy",
+                            "vote": 106801,
+                            "percentage": 9.0
+                        },
+                        {
+                            "id": 19,
+                            "name": "Kamarudin",
+                            "vote": 96987,
+                            "percentage": 8.18
+                        },
+                        {
+                            "id": 2,
+                            "name": "Aurora",
+                            "vote": 95109,
+                            "percentage": 8.02
                         },
                         {
                             "id": 17,
                             "name": "Vikkals Vikram",
-                            "vote": 37402,
-                            "percentage": 6.48
+                            "vote": 81054,
+                            "percentage": 6.83
                         },
                         {
                             "id": 15,
                             "name": "Subiksha",
-                            "vote": 21667,
-                            "percentage": 3.75
+                            "vote": 44315,
+                            "percentage": 3.73
                         }
                     ]
                 }
