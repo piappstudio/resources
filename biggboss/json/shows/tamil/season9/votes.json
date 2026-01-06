@@ -818,6 +818,42 @@
                             "percentage": 3.73
                         }
                     ]
+                },
+                {
+                    "week": 14,
+                    "totalVotes": 145142,
+                    "players": [
+                        {
+                            "id": 12,
+                            "name": "Vinoth",
+                            "vote": 67116,
+                            "percentage": 46.24
+                        },
+                        {
+                            "id": 23,
+                            "name": "Divya",
+                            "vote": 30417,
+                            "percentage": 20.96
+                        },
+                        {
+                            "id": 7,
+                            "name": "Sabari",
+                            "vote": 23095,
+                            "percentage": 15.91
+                        },
+                        {
+                            "id": 17,
+                            "name": "Vikkals Vikram",
+                            "vote": 15005,
+                            "percentage": 10.34
+                        },
+                        {
+                            "id": 22,
+                            "name": "Sandra",
+                            "vote": 9509,
+                            "percentage": 6.55
+                        }
+                    ]
                 }
             ]
         }
