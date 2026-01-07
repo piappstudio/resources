@@ -820,38 +820,38 @@
                     ]
                 },
                 {
-                    "week": 14,
-                    "totalVotes": 145142,
+                    "week": 13,
+                    "totalVotes": 337706,
                     "players": [
                         {
                             "id": 12,
                             "name": "Vinoth",
-                            "vote": 67116,
-                            "percentage": 46.24
+                            "vote": 164301,
+                            "percentage": 48.65
                         },
                         {
                             "id": 23,
                             "name": "Divya",
-                            "vote": 30417,
-                            "percentage": 20.96
+                            "vote": 69056,
+                            "percentage": 20.45
                         },
                         {
                             "id": 7,
                             "name": "Sabari",
-                            "vote": 23095,
-                            "percentage": 15.91
+                            "vote": 51081,
+                            "percentage": 15.13
                         },
                         {
                             "id": 17,
                             "name": "Vikkals Vikram",
-                            "vote": 15005,
-                            "percentage": 10.34
+                            "vote": 32764,
+                            "percentage": 9.7
                         },
                         {
                             "id": 22,
                             "name": "Sandra",
-                            "vote": 9509,
-                            "percentage": 6.55
+                            "vote": 20504,
+                            "percentage": 6.07
                         }
                     ]
                 }
