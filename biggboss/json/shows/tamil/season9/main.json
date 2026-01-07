@@ -158,15 +158,15 @@
             "id": "2",
             "name": "Aurora Sinclair",
             "dial_number": "7835073303",
-            "title": null,
+            "title": "TTF Winner",
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sinclair_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sinclair.png",
-            "order": null,
+            "order": "1",
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": true,
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -411,7 +411,8 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-49"
                     ],
                     "nominates": [
                         19,
@@ -427,6 +428,12 @@
                             "comments": "Entertaining was down compared to others"
                         }
                     ]
+                },
+                {
+                    "week": 14,
+                    "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -684,8 +691,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-03",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -926,7 +933,10 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-45",
+                        "RC",
+                        "EVI"
                     ],
                     "nominates": [
                         19,
@@ -1585,7 +1595,8 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-45"
                     ],
                     "nominates": [
                         12,
@@ -1601,6 +1612,14 @@
                             "comments": "Going game slow."
                         }
                     ]
+                },
+                {
+                    "week": 14,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -2410,7 +2429,8 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-29"
                     ],
                     "nominates": [
                         7,
@@ -2426,6 +2446,14 @@
                             "comments": "She told \"Na mattum than vanturukan\".  All are equal."
                         }
                     ]
+                },
+                {
+                    "week": 14,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -2775,8 +2803,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-04",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -3019,7 +3047,9 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-47",
+                        "EVI"
                     ],
                     "nominates": [
                         12,
@@ -3344,7 +3374,8 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-36"
                     ],
                     "nominates": [
                         23,
@@ -3360,6 +3391,14 @@
                             "comments": "Game style pudikala"
                         }
                     ]
+                },
+                {
+                    "week": 14,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -3411,8 +3450,8 @@
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-03",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -3658,7 +3697,10 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-37",
+                        "RC",
+                        "EVI"
                     ],
                     "nominates": [
                         2,
@@ -4086,7 +4128,8 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-41"
                     ],
                     "nominates": [
                         19,
@@ -4102,6 +4145,14 @@
                             "comments": "Talking inappropriate words against Divya."
                         }
                     ]
+                },
+                {
+                    "week": 14,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -4313,7 +4364,8 @@
                 {
                     "week": 13,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "TTF-37"
                     ],
                     "nominates": [
                         15,
@@ -4329,6 +4381,14 @@
                             "comments": "He thinks he is the one following all the rules, respecting Boss. but after Kani eviction he told kathanum pola appo than intha veetla iruka mudiyum ."
                         }
                     ]
+                },
+                {
+                    "week": 14,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -4618,6 +4678,32 @@
             "graphOrder": 4,
             "created_at": "2025-02-19T09:43:07.000000Z",
             "updated_at": "2025-02-19T09:43:07.000000Z"
+        },
+        {
+            "id": 37,
+            "show_id": 4,
+            "name": "Ticket To Finale",
+            "key": "TTF",
+            "color": "FFEFC935",
+            "text": "FF000000",
+            "is_week": true,
+            "graph": true,
+            "graphOrder": 1,
+            "created_at": "2025-02-19T09:43:07.000000Z",
+            "updated_at": "2025-02-19T09:43:07.000000Z"
+        },
+        {
+            "id": 38,
+            "show_id": 4,
+            "name": "Red Card",
+            "key": "RC",
+            "color": "FF93000A",
+            "text": "FFFFFFFF",
+            "is_week": true,
+            "graph": false,
+            "graphOrder": null,
+            "created_at": "2025-02-19T09:41:46.000000Z",
+            "updated_at": "2025-02-19T09:41:46.000000Z"
         }
     ]
 }
