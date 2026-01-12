@@ -166,7 +166,7 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
+            "isNominated": true,
             "history": [
                 {
                     "week": 1,
@@ -432,6 +432,14 @@
                 {
                     "week": 14,
                     "categories": [],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 15,
+                    "categories": [
+                        "NOM"
+                    ],
                     "nominates": [],
                     "nomination_detail": []
                 }
@@ -1620,6 +1628,14 @@
                     ],
                     "nominates": [],
                     "nomination_detail": []
+                },
+                {
+                    "week": 15,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -2176,15 +2192,15 @@
             "id": "12",
             "name": "Gana Vinoth",
             "dial_number": "7835073305",
-            "title": null,
+            "title": "Cash Box ₹17,63,500",
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vinoth_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vinoth.png",
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-09",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -2450,7 +2466,8 @@
                 {
                     "week": 14,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [],
                     "nomination_detail": []
@@ -3399,6 +3416,14 @@
                     ],
                     "nominates": [],
                     "nomination_detail": []
+                },
+                {
+                    "week": 15,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
                 }
             ]
         },
@@ -3934,40 +3959,16 @@
             "id": "22",
             "name": "Sandra Amy",
             "dial_number": "7835073323\n",
-            "title": null,
+            "title": "5th Runner",
             "start_date": "2025-11-02",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra.png",
             "order": null,
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-11",
+            "isNominated": false,
             "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 2,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 3,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 4,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
                 {
                     "week": 5,
                     "categories": [
@@ -4149,7 +4150,8 @@
                 {
                     "week": 14,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [],
                     "nomination_detail": []
@@ -4384,6 +4386,14 @@
                 },
                 {
                     "week": 14,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [],
+                    "nomination_detail": []
+                },
+                {
+                    "week": 15,
                     "categories": [
                         "NOM"
                     ],
