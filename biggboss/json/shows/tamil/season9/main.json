@@ -158,15 +158,15 @@
             "id": "2",
             "name": "Aurora Sinclair",
             "dial_number": "7835073303",
-            "title": "TTF Winner",
+            "title": "TTF Winner, 3rd Runner Up",
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sinclair_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sinclair.png",
-            "order": "1",
+            "order": "4",
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-18",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -430,15 +430,10 @@
                     ]
                 },
                 {
-                    "week": 14,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
                     "week": 15,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [],
                     "nomination_detail": []
@@ -1350,15 +1345,15 @@
             "id": "7",
             "name": "Sabari Nathan",
             "dial_number": "7835073314",
-            "title": null,
+            "title": "Runner Up",
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sabari_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sabari.png",
-            "order": null,
+            "order": "2",
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-18",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -1632,7 +1627,8 @@
                 {
                     "week": 15,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [],
                     "nomination_detail": []
@@ -2192,11 +2188,11 @@
             "id": "12",
             "name": "Gana Vinoth",
             "dial_number": "7835073305",
-            "title": "Cash Box ₹17,63,500",
+            "title": "Cash Box ₹17,63,500, 4th Runner Up",
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vinoth_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vinoth.png",
-            "order": null,
+            "order": "6",
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": "2026-01-09",
@@ -3146,15 +3142,15 @@
             "id": "17",
             "name": "Vikkals Vikram",
             "dial_number": "7835073317",
-            "title": null,
+            "title": "2nd Runner Up",
             "start_date": "2025-10-05",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vikram_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/vikram.png",
-            "order": null,
+            "order": "3",
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-18",
+            "isNominated": false,
             "history": [
                 {
                     "week": 1,
@@ -3420,7 +3416,8 @@
                 {
                     "week": 15,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [],
                     "nomination_detail": []
@@ -3963,7 +3960,7 @@
             "start_date": "2025-11-02",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/sandra.png",
-            "order": null,
+            "order": "5",
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": "2026-01-11",
@@ -4162,40 +4159,16 @@
             "id": "23",
             "name": "Divya Ganesh",
             "dial_number": "7835073324",
-            "title": null,
+            "title": "Title Winner",
             "start_date": "2025-11-02",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/participants/divya.png",
-            "order": null,
+            "order": "1",
             "re_entry_date": null,
             "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
+            "eliminated_date": "2026-01-18",
+            "isNominated": false,
             "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 2,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 3,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
-                {
-                    "week": 4,
-                    "categories": [],
-                    "nominates": [],
-                    "nomination_detail": []
-                },
                 {
                     "week": 5,
                     "categories": [
@@ -4395,7 +4368,8 @@
                 {
                     "week": 15,
                     "categories": [
-                        "NOM"
+                        "NOM",
+                        "EVI"
                     ],
                     "nominates": [],
                     "nomination_detail": []
