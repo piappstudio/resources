@@ -1,13 +1,37 @@
 [
   {
-    "title": "Jio HotStar Promos",
+    "title": "X Scraped Posts",
     "items": [
       {
-        "title": "Two lives ka vardaan for all gharwale, meri jaan \n ",
-        "url": "https://twitter.com/HotstarReality/status/1970098118265085990",
-        "created_at": "Mon Sep 22 12:09:28 +0000 2025",
-        "image": "https://pbs.twimg.com/ext_tw_video_thumb/1970098028066340864/pu/img/LEGbeOBWrdXplv_k.jpg",
-        "video": "https://video.twimg.com/ext_tw_video/1970098028066340864/pu/vid/avc1/1280x720/f2K0XH0iIVy4V2mL.mp4?tag=12",
+        "title": "Double the chances, triple the drama! Tathas-two, meri jaan😉🔥\n\n#BiggBoss Starts 6th September on #JioHotstar and #ColorsTv  \n\n#BiggBoss20 #BiggBossOnJioHotstar",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2093216527688622080/img/pMRFncr7xJ3txuoc.jpg",
+        "video": "https://video.twimg.com/amplify_video/2093216527688622080/vid/avc1/1920x1080/mlq-vwMcvrerm-vD.mp4?tag=29",
+        "created_at": "2026-08-28T06:30:00.000Z",
+        "url": "https://x.com/JioHotstar/status/2093224562238578721",
+        "promo": []
+      },
+      {
+        "title": "Two lives ka vardaan for all gharwale, meri jaan \n\n#BiggBoss Starts 6th September on #JioHotstar and #ColorsTv\n\n#BiggBoss20 #BiggBossOnJioHotstar",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2087424792655966208/img/90fVJ6sct1vJj0Jr.jpg",
+        "video": "https://video.twimg.com/amplify_video/2087424792655966208/vid/avc1/1920x1080/lN0K1i0tU06L57uZ.mp4?tag=29",
+        "created_at": "2026-08-12T06:30:00.000Z",
+        "url": "https://x.com/JioHotstar/status/2087426355327627579",
+        "promo": []
+      },
+      {
+        "title": "What's the vardaan? \nGuess karo meri jaan..\n#BiggBoss Starts 6th September on #JioHotstar and #ColorsTV",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2085244307154546688/img/NwhxrZu6sGlLp809.jpg",
+        "video": "https://video.twimg.com/amplify_video/2085244307154546688/vid/avc1/1920x1080/oLZuq5wHj31rHgvT.mp4?tag=29",
+        "created_at": "2026-08-06T06:44:29.000Z",
+        "url": "https://x.com/JioHotstar/status/2085255673223528829",
+        "promo": []
+      },
+      {
+        "title": "Ek se bhale do..\n#BiggBoss Starts 6th September on #JioHotstar and #ColorsTv",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2084525941020348416/img/QFGsr6LG0x5Sa9rx.jpg",
+        "video": "https://video.twimg.com/amplify_video/2084525941020348416/vid/avc1/1920x1080/5OXx09q7xo8why7N.mp4?tag=29",
+        "created_at": "2026-08-04T06:29:10.000Z",
+        "url": "https://x.com/JioHotstar/status/2084527043312853468",
         "promo": []
       }
     ]
