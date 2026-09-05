@@ -84,7 +84,19 @@
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/main.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/trends.json",
       "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/votes.json"
-
+    },
+    {
+      "title": "BiggBoss Telugu Season 10",
+      "id": "7",
+      "host": "Nagarjuna Akkinenia",
+      "start_date": "2026-09-06",
+      "end_date": null,
+      "winner": null,
+      "runner": null,
+      "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/logo.png",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/telugu/season10/main.json",
+      "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/telugu/season10/trends.json",
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/votes.json"
     }
   ],
   "reviewers": [
