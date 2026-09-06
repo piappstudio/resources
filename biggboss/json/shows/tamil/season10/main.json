@@ -147,6 +147,21 @@
             "eliminated_date": null,
             "isNominated": false,
             "history": []
+        },
+        {
+            "id": "10",
+            "name": "Avinash Ashok",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2026-09-06",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/10_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/10.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": []
         }
 
     ],
