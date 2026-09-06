@@ -162,6 +162,36 @@
             "eliminated_date": null,
             "isNominated": false,
             "history": []
+        },
+        {
+            "id": "11",
+            "name": "Vinodh Babu",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2026-09-06",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/11_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/11.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": []
+        },
+        {
+            "id": "12",
+            "name": "Black Pandi",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2026-09-06",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/12_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/12.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": []
         }
 
     ],
