@@ -102,6 +102,21 @@
             "eliminated_date": null,
             "isNominated": false,
             "history": []
+        },
+        {
+            "id": "7",
+            "name": "Shama",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2026-09-06",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/7_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/7.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": []
         }
 
     ],
