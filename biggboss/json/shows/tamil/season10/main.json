@@ -117,6 +117,36 @@
             "eliminated_date": null,
             "isNominated": false,
             "history": []
+        },
+        {
+            "id": "8",
+            "name": "Ashmitha",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2026-09-06",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/8_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/8.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": []
+        },
+        {
+            "id": "9",
+            "name": "Muthazhagi",
+            "dial_number": null,
+            "title": null,
+            "start_date": "2026-09-06",
+            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/9_pp.png",
+            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/9.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
+            "isNominated": false,
+            "history": []
         }
 
     ],
