@@ -16,15 +16,10 @@
         {
             "id": "1",
             "name": "Kanika Mann",
-            "dial_number": null,
-            "title": null,
+            "dial_number": "",
             "start_date": "2026-09-06",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
             "isNominated": false,
             "history": []
         },
@@ -76,7 +71,7 @@
         {
             "id": "5",
             "name": "Amrapali Dubey",
-            "dial_number": null,
+            "dial_number": "",
             "title": null,
             "start_date": "2026-09-06",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/5_pp.png",
@@ -385,5 +380,6 @@
             "created_at": "2025-02-19T09:41:46.000000Z",
             "updated_at": "2025-02-19T09:41:46.000000Z"
         }
-    ]
+    ],
+    "notifications": []
 }
