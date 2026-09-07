@@ -21,7 +21,13 @@
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1.png",
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": []
+                }
+            ]
         },
         {
             "id": "2",
