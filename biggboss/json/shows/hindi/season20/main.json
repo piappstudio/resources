@@ -16,18 +16,17 @@
         {
             "id": "1",
             "name": "Kanika Mann",
-            "dial_number": "",
+            "dial_number": null,
+            "title": null,
             "start_date": "2026-09-06",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1_pp.png",
             "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1.png",
+            "order": null,
+            "re_entry_date": null,
+            "re_evicted_date": null,
+            "eliminated_date": null,
             "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": []
-                }
-            ]
+            "history": []
         },
         {
             "id": "2",
@@ -77,7 +76,7 @@
         {
             "id": "5",
             "name": "Amrapali Dubey",
-            "dial_number": "",
+            "dial_number": null,
             "title": null,
             "start_date": "2026-09-06",
             "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/5_pp.png",
@@ -257,21 +256,21 @@
     ],
     "category": [
         {
-            "id": 29,
-            "show_id": 4,
+            "id": 39,
+            "show_id": 5,
             "name": "Captain",
             "key": "Captain",
             "color": "FF2E9F49",
             "text": "FFFFFFFF",
             "is_week": true,
             "graph": true,
-            "graphOrder": 1,
-            "created_at": "2026-09-06T09:42:13.000000Z",
-            "updated_at": "2026-09-06T09:42:13.000000Z"
+            "graphOrder": 5,
+            "created_at": "2026-09-06T09:40:57.000000Z",
+            "updated_at": "2026-09-06T09:40:57.000000Z"
         },
         {
-            "id": 30,
-            "show_id": 4,
+            "id": 42,
+            "show_id": 5,
             "name": "Evicted",
             "key": "EVI",
             "color": "FFEA4839",
@@ -279,12 +278,12 @@
             "is_week": true,
             "graph": false,
             "graphOrder": null,
-            "created_at": "2026-09-06T09:42:13.000000Z",
-            "updated_at": "2026-09-06T09:42:13.000000Z"
+            "created_at": "2026-09-06T21:10:25.000000Z",
+            "updated_at": "2026-09-06T09:41:04.000000Z"
         },
         {
-            "id": 31,
-            "show_id": 4,
+            "id": 45,
+            "show_id": 5,
             "name": "Nominated",
             "key": "NOM",
             "color": "FFFCBC1F",
@@ -292,64 +291,12 @@
             "is_week": true,
             "graph": true,
             "graphOrder": 4,
-            "created_at": "2026-09-06T09:42:13.000000Z",
-            "updated_at": "2026-09-06T09:42:13.000000Z"
+            "created_at": "2026-09-06T21:11:37.000000Z",
+            "updated_at": "2026-09-06T21:11:37.000000Z"
         },
         {
-            "id": 32,
-            "show_id": 4,
-            "name": "Super Deluxe",
-            "key": "BSD",
-            "color": "FF9E7A05",
-            "text": "FFFFFFFF",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 5,
-            "created_at": "2026-09-06T09:42:13.000000Z",
-            "updated_at": "2026-09-06T09:42:13.000000Z"
-        },
-        {
-            "id": 33,
-            "show_id": 4,
-            "name": "Nomination Free",
-            "key": "NF",
-            "color": "FF0066FF",
-            "text": "FFFFFFFF",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 2,
-            "created_at": "2026-09-06T09:42:13.000000Z",
-            "updated_at": "2026-09-06T09:42:13.000000Z"
-        },
-        {
-            "id": 34,
-            "show_id": 4,
-            "name": "Best Performer",
-            "key": "BPW",
-            "color": "FF2E9F49",
-            "text": "FFFFFFFF",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 3,
-            "created_at": "2026-09-06T09:42:13.000000Z",
-            "updated_at": "2026-09-06T09:42:13.000000Z"
-        },
-        {
-            "id": 35,
-            "show_id": 4,
-            "name": "Worst Performer",
-            "key": "WPW",
-            "color": "FFEFC935",
-            "text": "FF000000",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 4,
-            "created_at": "2025-02-19T09:43:07.000000Z",
-            "updated_at": "2025-02-19T09:43:07.000000Z"
-        },
-        {
-            "id": 36,
-            "show_id": 4,
+            "id": 52,
+            "show_id": 5,
             "name": "Cooking Team",
             "key": "CT",
             "color": "FF434E78",
@@ -357,35 +304,8 @@
             "is_week": true,
             "graph": true,
             "graphOrder": 4,
-            "created_at": "2025-02-19T09:43:07.000000Z",
-            "updated_at": "2025-02-19T09:43:07.000000Z"
-        },
-        {
-            "id": 37,
-            "show_id": 4,
-            "name": "Ticket To Finale",
-            "key": "TTF",
-            "color": "FFEFC935",
-            "text": "FF000000",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 1,
-            "created_at": "2025-02-19T09:43:07.000000Z",
-            "updated_at": "2025-02-19T09:43:07.000000Z"
-        },
-        {
-            "id": 38,
-            "show_id": 4,
-            "name": "Red Card",
-            "key": "RC",
-            "color": "FF93000A",
-            "text": "FFFFFFFF",
-            "is_week": true,
-            "graph": false,
-            "graphOrder": null,
-            "created_at": "2025-02-19T09:41:46.000000Z",
-            "updated_at": "2025-02-19T09:41:46.000000Z"
+            "created_at": "2026-09-07T14:26:02.000000Z",
+            "updated_at": "2026-09-07T14:26:02.000000Z"
         }
-    ],
-    "notifications": []
+    ]
 }
