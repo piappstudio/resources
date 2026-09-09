@@ -30,8 +30,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -54,8 +61,15 @@
           "categories": [
             "Captain"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ],
       "isCaptain": true
@@ -77,8 +91,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -99,8 +120,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -121,8 +149,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -145,8 +180,15 @@
           "categories": [
             "CT"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -167,8 +209,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -189,8 +238,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -211,8 +267,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -233,8 +296,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -257,8 +327,15 @@
           "categories": [
             "LOP"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -281,8 +358,15 @@
           "categories": [
             "CT"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -303,8 +387,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -325,8 +416,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -347,8 +445,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -369,8 +474,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -391,8 +503,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -415,8 +534,15 @@
           "categories": [
             "CT"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     },
@@ -437,8 +563,15 @@
         {
           "week": 1,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Dummy"
+            }
+          ]
         }
       ]
     }

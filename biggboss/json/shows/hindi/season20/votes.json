@@ -1,4 +1,35 @@
 {
   "Poll": [
+    {
+      "name": "BiggBossVote",
+      "ios_name": "Unofficial Trending",
+      "votes": [
+        {
+          "week": 1,
+          "players": [
+            {
+              "id": 11,
+              "vote": 2438,
+              "percentage": 54.0
+            },
+            {
+              "id": 1,
+              "vote": 1191,
+              "percentage": 27.0
+            },
+            {
+              "id": 7,
+              "vote": 562,
+              "percentage": 13.0
+            },
+            {
+              "id": 14,
+              "vote": 295,
+              "percentage": 7.0
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

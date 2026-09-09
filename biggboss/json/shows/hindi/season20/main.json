@@ -25,8 +25,29 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
-            "history": []
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        11,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "2",
@@ -41,7 +62,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        1,
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "1st nomination"
+                        },
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "3",
@@ -56,7 +96,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        8,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 8,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "4",
@@ -71,7 +130,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        10,
+                        3
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 10,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 3,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "5",
@@ -86,7 +164,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        12,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "6",
@@ -101,7 +198,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        1,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "7",
@@ -115,8 +231,29 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
-            "history": []
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        12,
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "8",
@@ -131,7 +268,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        7,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "9",
@@ -146,11 +302,30 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        11,
+                        12
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 12,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "10",
-            "name": "Tanmay Singh",
+            "name": "Tanmay Scoutop Singh",
             "dial_number": null,
             "title": null,
             "start_date": "2026-09-06",
@@ -161,7 +336,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        14,
+                        11
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "11",
@@ -175,12 +369,33 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
-            "history": []
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        16,
+                        5
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 16,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 5,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "12",
-            "name": "Kushal Tanwar",
+            "name": "Kushal Gullu Tanwar",
             "dial_number": null,
             "title": null,
             "start_date": "2026-09-06",
@@ -191,7 +406,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        5,
+                        7
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 5,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "13",
@@ -206,7 +440,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        7,
+                        5
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 5,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "14",
@@ -220,8 +473,29 @@
             "re_entry_date": null,
             "re_evicted_date": null,
             "eliminated_date": null,
-            "isNominated": false,
-            "history": []
+            "isNominated": true,
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [
+                        "NOM"
+                    ],
+                    "nominates": [
+                        7,
+                        2
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 7,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 2,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "15",
@@ -236,7 +510,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        14,
+                        9
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 9,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "16",
@@ -251,7 +544,26 @@
             "re_evicted_date": null,
             "eliminated_date": null,
             "isNominated": false,
-            "history": []
+            "history": [
+                {
+                    "week": 1,
+                    "categories": [],
+                    "nominates": [
+                        11,
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 11,
+                            "comments": "1st Nomination"
+                        },
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "2nd nomination"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "category": [

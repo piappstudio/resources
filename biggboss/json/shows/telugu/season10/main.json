@@ -63,8 +63,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -87,8 +94,20 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14,
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        },
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -111,8 +130,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -135,8 +161,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -159,8 +192,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -183,8 +223,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -207,8 +254,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -231,8 +285,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -255,8 +316,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -279,8 +347,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -303,8 +378,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -327,8 +409,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -351,8 +440,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        1
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 1,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -375,8 +471,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         },
@@ -399,8 +502,15 @@
                     "categories": [
                         "NOM"
                     ],
-                    "nominates": [],
-                    "nomination_detail": []
+                    "nominates": [
+                        14
+                    ],
+                    "nomination_detail": [
+                        {
+                            "nominate_part_id": 14,
+                            "comments": "Dummy"
+                        }
+                    ]
                 }
             ]
         }

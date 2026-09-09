@@ -10,10 +10,11 @@ This skill automates the process of scraping Bigg Boss unofficial voting results
 ## 1. Show Configuration
 The skill uses the following predefined configurations for the current shows:
 
-| Show | URL | Result Button |
-| :--- | :--- | :--- |
-| **BiggBoss-Tamil-Season-10** | `https://tamilglitz.in/bigg-boss-tamil-vote/` | `View Results` |
+| Show                          | URL | Result Button |
+|:------------------------------| :--- | :--- |
+| **BiggBoss-Tamil-Season-10**  | `https://tamilglitz.in/bigg-boss-tamil-vote/` | `View Results` |
 | **BiggBoss-Telugu-Season-10** | `https://biggbossvotingtelugu.in/` | `Show results` |
+| **BiggBoss-Hindi-Season-20**  | `https://biggbossvote.in/` | `results` |
 
 ## 2. Weekly Monitoring
 1.  **Date Analysis**: The skill reads `start_date` from [shows.json](file:///Users/apple/StudioProjects/resources/biggboss/json/shows.json) to estimate the current week.
