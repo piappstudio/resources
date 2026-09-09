@@ -1,0 +1,95 @@
+{
+  "Poll": [
+    {
+      "name": "TeluguBiggbossVoting",
+      "ios_name": "Unofficial Trending",
+      "votes": [
+        {
+          "week": 1,
+          "players": [
+            {
+              "id": 15,
+              "vote": 12441,
+              "percentage": 31.68
+            },
+            {
+              "id": 16,
+              "vote": 3941,
+              "percentage": 10.04
+            },
+            {
+              "id": 7,
+              "vote": 3625,
+              "percentage": 9.23
+            },
+            {
+              "id": 5,
+              "vote": 2728,
+              "percentage": 6.95
+            },
+            {
+              "id": 12,
+              "vote": 2662,
+              "percentage": 6.78
+            },
+            {
+              "id": 3,
+              "vote": 1819,
+              "percentage": 4.63
+            },
+            {
+              "id": 1,
+              "vote": 1762,
+              "percentage": 4.49
+            },
+            {
+              "id": 2,
+              "vote": 1680,
+              "percentage": 4.28
+            },
+            {
+              "id": 11,
+              "vote": 1658,
+              "percentage": 4.22
+            },
+            {
+              "id": 9,
+              "vote": 1227,
+              "percentage": 3.12
+            },
+            {
+              "id": 8,
+              "vote": 1192,
+              "percentage": 3.04
+            },
+            {
+              "id": 13,
+              "vote": 970,
+              "percentage": 2.47
+            },
+            {
+              "id": 6,
+              "vote": 959,
+              "percentage": 2.44
+            },
+            {
+              "id": 4,
+              "vote": 939,
+              "percentage": 2.39
+            },
+            {
+              "id": 10,
+              "vote": 940,
+              "percentage": 2.39
+            },
+            {
+              "id": 14,
+              "vote": 724,
+              "percentage": 1.84
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
