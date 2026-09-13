@@ -9,23 +9,23 @@
           "players": [
             {
               "id": 11,
-              "vote": 7878,
-              "percentage": 46.0
+              "vote": 10482,
+              "percentage": 45.0
             },
             {
               "id": 1,
-              "vote": 5388,
+              "vote": 7505,
               "percentage": 32.0
             },
             {
               "id": 7,
-              "vote": 2255,
-              "percentage": 13.0
+              "vote": 3259,
+              "percentage": 14.0
             },
             {
               "id": 14,
-              "vote": 1438,
-              "percentage": 8.0
+              "vote": 2141,
+              "percentage": 9.0
             }
           ]
         }
