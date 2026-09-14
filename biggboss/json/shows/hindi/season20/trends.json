@@ -499,20 +499,31 @@
         "promo": [
           {
             "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
+            "score": 8.8,
+            "percentage": 29.33
           },
           {
-            "id": "15",
+            "id": "9",
             "score": 0.4,
             "percentage": 1.33
           },
           {
-            "id": "9",
+            "id": "13",
+            "score": 0.2,
+            "percentage": 0.67
+          },
+          {
+            "id": "15",
+            "score": 0.2,
+            "percentage": 0.67
+          },
+          {
+            "id": "7",
             "score": 0.2,
             "percentage": 0.67
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Reel Mary Kom ka Real Mary Kom ke liye ek special message! ♥️\n\nDekhiye #BiggBoss20 ka kal raat ka episode #JioHotstar par.\n\n#BiggBossOnJioHotstar #BB20OnJioHotstar",
@@ -520,23 +531,8 @@
         "video": "blob:https://x.com/eac76d3a-bf47-4f1c-98f6-9043a629da62",
         "created_at": "2026-09-06T18:35:08.000Z",
         "url": "https://x.com/HotstarReality/status/2096668540531314963",
-        "promo": [
-          {
-            "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
-          },
-          {
-            "id": "15",
-            "score": 0.4,
-            "percentage": 1.33
-          },
-          {
-            "id": "9",
-            "score": 0.2,
-            "percentage": 0.67
-          }
-        ]
+        "promo": [],
+        "analysis_done": true
       },
       {
         "title": "Grand Premiere khatam, lekin entertainment 24x7 on hai! 🔥\n\nWatch the #24HrsChannel of #BiggBoss20, now streaming exclusively on the #JioHotstar App.\n\n#BiggBossOnJioHotstar #BB20OnJioHotstar #24HrsChannel",
@@ -544,23 +540,8 @@
         "video": "blob:https://x.com/9122e329-1867-4019-8698-07a90b8892ee",
         "created_at": "2026-09-06T17:24:12.000Z",
         "url": "https://x.com/HotstarReality/status/2096650686499037493",
-        "promo": [
-          {
-            "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
-          },
-          {
-            "id": "15",
-            "score": 0.4,
-            "percentage": 1.33
-          },
-          {
-            "id": "9",
-            "score": 0.2,
-            "percentage": 0.67
-          }
-        ]
+        "promo": [],
+        "analysis_done": true
       },
       {
         "title": "Bholi si surat, aankhon mein masti; game mein tadka lagane aayi hai #MahiVij ✨\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -571,10 +552,11 @@
         "promo": [
           {
             "id": "16",
-            "score": 12.0,
-            "percentage": 50.0
+            "score": 14.2,
+            "percentage": 59.17
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Rinkiya ke papa ki beti is here! Ab #RhitiTiwari ka swag karega rock! 🤘✨\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -585,10 +567,11 @@
         "promo": [
           {
             "id": "15",
-            "score": 6.0,
-            "percentage": 24.27
+            "score": 8.0,
+            "percentage": 32.36
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Jahan #Uditi hogi, wahan nazrein toh rukengi hi! 😍\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -599,10 +582,11 @@
         "promo": [
           {
             "id": "14",
-            "score": 14.4,
-            "percentage": 54.96
+            "score": 15.4,
+            "percentage": 58.78
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Ab rishton ke roop nahi, game badalne aaye hai #AmanGandhi! Welcome to Bigg Boss 😎\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -613,10 +597,11 @@
         "promo": [
           {
             "id": "13",
-            "score": 4.8,
-            "percentage": 21.78
+            "score": 10.0,
+            "percentage": 45.37
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Sab hoga ‘Kushal’ mangal jab #Gullu hoga ghar ke andar ❤️‍🔥\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -627,10 +612,11 @@
         "promo": [
           {
             "id": "12",
-            "score": 14.0,
-            "percentage": 54.97
+            "score": 15.17,
+            "percentage": 59.55
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Social media ki star, ab Bigg Boss mein #ArishfaKhan karegi vaar! 👑🔥\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -641,10 +627,11 @@
         "promo": [
           {
             "id": "11",
-            "score": 15.6,
-            "percentage": 67.94
+            "score": 15.4,
+            "percentage": 67.07
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Game toh bahut khele, ab Bigg Boss ka game khelne ki baari! Welcome #ScoutOP🔥\n\nDekhiye #BiggBoss20GrandPremiere now streaming on \n@jiohotstar\n aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -655,10 +642,11 @@
         "promo": [
           {
             "id": "10",
-            "score": 17.0,
-            "percentage": 72.44
+            "score": 17.33,
+            "percentage": 73.86
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Stage pe rap, ab ghar mein game! #YungDSA ready hai to bring the flame! 🔥\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar  aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -669,10 +657,11 @@
         "promo": [
           {
             "id": "8",
-            "score": 1.2,
-            "percentage": 5.61
+            "score": 5.8,
+            "percentage": 27.1
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Pardesi #RohedKhan par vibe poori desi! Are you excited? 🔥\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -683,10 +672,11 @@
         "promo": [
           {
             "id": "6",
-            "score": 3.6,
-            "percentage": 14.8
+            "score": 10.6,
+            "percentage": 43.59
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Bhojpuri superstar, ab ready hai dikhane apna new avatar! 🔥\n\nDekhiye #BiggBoss20GrandPremiere now streaming on #JioHotstar aur raat 10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -697,10 +687,11 @@
         "promo": [
           {
             "id": "5",
-            "score": 7.0,
-            "percentage": 30.09
+            "score": 16.83,
+            "percentage": 72.35
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "#AasifKhan really said \"Gajab entry hai yaar\"\n\nDekhiye #BiggBoss20GrandPremiere now streaming on @JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -714,7 +705,8 @@
             "score": 11.0,
             "percentage": 43.48
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Acting ka hunar aur style ka jalwa, ab Bigg Boss mein dikhega Isha ka asli andaaz! \n\nDekhiye #BiggBoss20GrandPremiere now streaming on #JioHotstar aur raat 10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -725,10 +717,11 @@
         "promo": [
           {
             "id": "4",
-            "score": 6.0,
-            "percentage": 27.68
+            "score": 8.4,
+            "percentage": 38.75
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "Jeet ki aadat hai puraani, and now he is here to write apni nayi kahani #QaziTouqeer 🎶❤️ \n\nDekhiye #BiggBoss20GrandPremiere now streaming on #JioHotstar aur raat 10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -739,10 +732,11 @@
         "promo": [
           {
             "id": "3",
-            "score": 16.0,
-            "percentage": 64.26
+            "score": 16.67,
+            "percentage": 66.93
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "TV pe kayi kirdaar ke baad, ab baari hai asli #KanikaMann ko dekhne ki! 🐍\n\nDekhiye #BiggBoss20GrandPremiere now streaming on #JioHotstar aur raat  10:30PM baje #ColorsTv par\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -753,20 +747,11 @@
         "promo": [
           {
             "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
-          },
-          {
-            "id": "15",
-            "score": 0.4,
-            "percentage": 1.33
-          },
-          {
-            "id": "9",
-            "score": 0.2,
-            "percentage": 0.67
+            "score": 0.5,
+            "percentage": 35.71
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "A true Bigg Boss fan - we feel you!\n\n#BiggBoss starts streaming tonight on @JioHotstar at 9PM and #ColorsTv at 10:30PM\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -774,23 +759,8 @@
         "video": "blob:https://x.com/5cd72354-cdd1-4c67-acb5-a7fa266f9ad4",
         "created_at": "2026-09-06T15:26:07.000Z",
         "url": "https://x.com/HotstarReality/status/2096620969666445808",
-        "promo": [
-          {
-            "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
-          },
-          {
-            "id": "15",
-            "score": 0.4,
-            "percentage": 1.33
-          },
-          {
-            "id": "9",
-            "score": 0.2,
-            "percentage": 0.67
-          }
-        ]
+        "promo": [],
+        "analysis_done": true
       },
       {
         "title": "Manifesting more such moments iss season mein 🙇\n\n#BiggBoss starts streaming tonight on @JioHotstar at 9PM and #ColorsTv at 10:30PM \n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -800,21 +770,12 @@
         "url": "https://x.com/HotstarReality/status/2096488680999567620",
         "promo": [
           {
-            "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
-          },
-          {
-            "id": "15",
-            "score": 0.4,
-            "percentage": 1.33
-          },
-          {
-            "id": "9",
+            "id": "11",
             "score": 0.2,
-            "percentage": 0.67
+            "percentage": 1.45
           }
-        ]
+        ],
+        "analysis_done": true
       },
       {
         "title": "New season, new house but old you 🫂\n\n#BiggBoss starts streaming tonight on @JioHotstar at 9PM and #ColorsTv at 10:30PM \n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -822,23 +783,8 @@
         "video": "https://video.twimg.com/tweet_video/HRiGN6hbUAAtfz2.mp4",
         "created_at": "2026-09-06T04:16:38.000Z",
         "url": "https://x.com/HotstarReality/status/2096452490837508456",
-        "promo": [
-          {
-            "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
-          },
-          {
-            "id": "15",
-            "score": 0.4,
-            "percentage": 1.33
-          },
-          {
-            "id": "9",
-            "score": 0.2,
-            "percentage": 0.67
-          }
-        ]
+        "promo": [],
+        "analysis_done": true
       },
       {
         "title": "Agla hangout spot? Mil gaya, meri jaan! 😎✨\n \n#BiggBoss starts 6th September on #JioHotstar at 9pm and #ColorsTV at 10:30pm\n\n#BiggBoss20 #BiggBossOnJioHotstar",
@@ -846,23 +792,8 @@
         "video": "blob:https://x.com/83ddb1f6-5de5-44f8-babb-04814da6445d",
         "created_at": "2026-09-03T14:14:35.000Z",
         "url": "https://x.com/HotstarReality/status/2095515804699910247",
-        "promo": [
-          {
-            "id": "1",
-            "score": 7.6,
-            "percentage": 25.33
-          },
-          {
-            "id": "15",
-            "score": 0.4,
-            "percentage": 1.33
-          },
-          {
-            "id": "9",
-            "score": 0.2,
-            "percentage": 0.67
-          }
-        ]
+        "promo": [],
+        "analysis_done": true
       }
     ]
   }
