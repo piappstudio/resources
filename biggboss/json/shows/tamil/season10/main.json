@@ -25,20 +25,31 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "NOM-2",
+            "RP"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less participants"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -59,20 +70,66 @@
         {
           "week": 1,
           "categories": [
-            "Captain"
+            "Captain",
+            "RP"
           ],
           "nominates": [
-            14
+            6,
+            17,
+            14,
+            13,
+            11,
+            15,
+            1,
+            4,
+            1
           ],
           "nomination_detail": [
             {
+              "nominate_part_id": 6,
+              "comments": "Day 3 of night star task"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Day 3 of night star task"
+            },
+            {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Day 1 of night star task"
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "Day 1 of night star task"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Night star task"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Night star taskk"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Day 4 of night star task"
+            },
+            {
+              "nominate_part_id": 4,
+              "comments": "Day 4 of night star task"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "For night star task"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "3",
@@ -86,20 +143,35 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "RP"
+          ],
           "nominates": [
+            20,
             14
           ],
           "nomination_detail": [
             {
+              "nominate_part_id": 20,
+              "comments": "Swap himself using his power"
+            },
+            {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less participaton"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -115,20 +187,31 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "NOM",
+            "OP"
+          ],
           "nominates": [
-            14
+            6
           ],
           "nomination_detail": [
             {
-              "nominate_part_id": 14,
-              "comments": "Dummy"
+              "nominate_part_id": 6,
+              "comments": "Less participation and seriousnes"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -144,20 +227,31 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "OP",
+            "LOP"
+          ],
           "nominates": [
-            14
+            6
           ],
           "nomination_detail": [
             {
-              "nominate_part_id": 14,
-              "comments": "Dummy"
+              "nominate_part_id": 6,
+              "comments": "Not understanding rules. Guts enough to vote for her"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -178,7 +272,12 @@
         {
           "week": 1,
           "categories": [
-            "CT"
+            "CT",
+            "NOM",
+            "RP",
+            "CEL",
+            "JAIL",
+            "WPW"
           ],
           "nominates": [
             14
@@ -186,9 +285,15 @@
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Being quite"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -208,16 +313,24 @@
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "OP"
+          ],
           "nominates": [
-            14
+            6
           ],
           "nomination_detail": [
             {
-              "nominate_part_id": 14,
-              "comments": "Dummy"
+              "nominate_part_id": 6,
+              "comments": "Taken is for granted"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -233,20 +346,31 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "OP",
+            "WPW"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less enthusiastic"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -266,16 +390,24 @@
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "RP"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less participation"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -291,20 +423,30 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "RP"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Only active in her task"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -320,22 +462,43 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
           "categories": [
-            "LOP"
+            "LOP",
+            "NOM",
+            "OP",
+            "Captain"
           ],
           "nominates": [
-            14
+            6,
+            14,
+            17
           ],
           "nomination_detail": [
             {
+              "nominate_part_id": 6,
+              "comments": "Less contribution"
+            },
+            {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less entertaining"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Chosing this or that"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -350,23 +513,18 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-09-09",
       "isNominated": false,
       "history": [
         {
           "week": 1,
           "categories": [
-            "CT"
+            "CT",
+            "RP",
+            "EVI"
           ],
-          "nominates": [
-            14
-          ],
-          "nomination_detail": [
-            {
-              "nominate_part_id": 14,
-              "comments": "Dummy"
-            }
-          ]
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -386,16 +544,31 @@
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "NOM",
+            "OP",
+            "CEL"
+          ],
           "nominates": [
+            17,
             14
           ],
           "nomination_detail": [
             {
+              "nominate_part_id": 17,
+              "comments": "Performing only her Task"
+            },
+            {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Not powerful"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -410,19 +583,24 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-09-11",
       "isNominated": false,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "NOM",
+            "OP",
+            "CEL",
+            "EVI"
+          ],
           "nominates": [
-            1
+            17
           ],
           "nomination_detail": [
             {
-              "nominate_part_id": 1,
-              "comments": "Dummy"
+              "nominate_part_id": 17,
+              "comments": "Less competitive"
             }
           ]
         }
@@ -440,20 +618,31 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "NOM",
+            "RP"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Justic to other contestant"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -469,20 +658,30 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "RP"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less efforts"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -498,20 +697,32 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "NOM",
+            "RP",
+            "CEL"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less content"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -532,7 +743,8 @@
         {
           "week": 1,
           "categories": [
-            "CT"
+            "CT",
+            "RP"
           ],
           "nominates": [
             14
@@ -540,9 +752,15 @@
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "Less presences"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -562,16 +780,91 @@
       "history": [
         {
           "week": 1,
-          "categories": [],
+          "categories": [
+            "RP"
+          ],
           "nominates": [
             14
           ],
           "nomination_detail": [
             {
               "nominate_part_id": 14,
-              "comments": "Dummy"
+              "comments": "No confident"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Manivannan",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-10",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/20_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/20.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": true,
+      "history": [
+        {
+          "week": 1,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Not proving herself"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Anandhi Ajay",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-14",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/21_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/21.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     }
@@ -654,6 +947,71 @@
       "graphOrder": 4,
       "created_at": "2026-09-07T14:26:02.000000Z",
       "updated_at": "2026-09-07T14:26:02.000000Z"
+    },
+    {
+      "id": 53,
+      "show_id": 6,
+      "name": "Ruling Party",
+      "key": "RP",
+      "color": "FF7ebb77",
+      "text": "FF000000",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-07T14:26:02.000000Z",
+      "updated_at": "2026-09-07T14:26:02.000000Z"
+    },
+    {
+      "id": 54,
+      "show_id": 6,
+      "name": "Opposite Party",
+      "key": "OP",
+      "color": "FFDF2B4F",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-07T14:26:02.000000Z",
+      "updated_at": "2026-09-07T14:26:02.000000Z"
+    },
+    {
+      "id": 55,
+      "show_id": 6,
+      "name": "Captain Exit List",
+      "key": "CEL",
+      "color": "FFd18803",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-09T22:35:42.000000Z",
+      "updated_at": "2026-09-09T22:35:42.000000Z"
+    },
+    {
+      "id": 56,
+      "show_id": 6,
+      "name": "Jail",
+      "key": "JAIL",
+      "color": "FF741b48",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-09T22:35:42.000000Z",
+      "updated_at": "2026-09-09T22:35:42.000000Z"
+    },
+    {
+      "id": 57,
+      "show_id": 6,
+      "name": "Worst Performer",
+      "key": "WPW",
+      "color": "FFEFC935",
+      "text": "FF000000",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-09T22:35:42.000000Z",
+      "updated_at": "2026-09-09T22:35:42.000000Z"
     }
   ]
 }
