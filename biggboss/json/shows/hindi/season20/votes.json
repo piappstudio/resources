@@ -28,6 +28,26 @@
               "percentage": 9.0
             }
           ]
+        },
+        {
+          "week": 2,
+          "players": [
+            {
+              "id": 10,
+              "vote": 18000,
+              "percentage": 60.0
+            },
+            {
+              "id": 2,
+              "vote": 7500,
+              "percentage": 25.0
+            },
+            {
+              "id": 6,
+              "vote": 4500,
+              "percentage": 15.0
+            }
+          ]
         }
       ]
     }
