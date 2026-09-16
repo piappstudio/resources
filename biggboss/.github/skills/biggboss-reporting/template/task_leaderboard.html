@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bigg Boss Task Leaderboard</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap');
+
+        :root {
+            --primary: #6366f1;
+            --primary-glow: rgba(99, 102, 241, 0.4);
+            --bg: #030712;
+            --card-bg: rgba(17, 24, 39, 0.7);
+            --text-main: #f9fafb;
+            --text-dim: #9ca3af;
+            --gold: #f59e0b;
+            --silver: #94a3b8;
+            --bronze: #b45309;
+            --danger: #ef4444;
+            --success: #10b981;
+            --surface: rgba(255, 255, 255, 0.03);
+        }
+
+        * {
+            box-sizing: border-box;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            margin: 0;
+            padding: 40px 20px;
+            background-image:
+                radial-gradient(circle at 20% 0%, rgba(99, 102, 241, 0.15) 0%, transparent 40%),
+                radial-gradient(circle at 80% 100%, rgba(168, 85, 247, 0.1) 0%, transparent 40%);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            animation: fadeIn 0.8s ease-out;
+            padding-bottom: 60px;
+        }
+
+        .last-updated {
+            font-size: 0.7rem;
+            color: var(--text-dim);
+            margin-top: 8px;
+            opacity: 0.6;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .live-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--success);
+            padding: 6px 12px;
+            border-radius: 100px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 16px;
+            border: 1px solid rgba(16, 185, 129, 0.2);
+        }
+
+        .pulse {
+            width: 8px;
+            height: 8px;
+            background: var(--success);
+            border-radius: 50%;
+            box-shadow: 0 0 0 rgba(16, 185, 129, 0.4);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+            70% { box-shadow: 0 0 0 10px rgba(16, 185, 129, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+        }
+
+        .show-selector select {
+            background: var(--surface);
+            color: var(--text-main);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 10px 20px;
+            border-radius: 16px;
+            font-family: inherit;
+            font-weight: 600;
+            cursor: pointer;
+            backdrop-filter: blur(20px);
+            margin-bottom: 24px;
+        }
+
+        .show-selector select:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: var(--primary);
+        }
+
+        h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            margin: 0;
+            letter-spacing: -2px;
+            background: linear-gradient(to bottom right, #fff 30%, #6366f1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: var(--text-dim);
+            font-size: 1.25rem;
+            margin-top: 12px;
+            font-weight: 500;
+        }
+
+        /* Podium UI */
+        .podium {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 24px;
+            margin: 80px 0 100px;
+            perspective: 1000px;
+        }
+
+        .podium-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 280px;
+            position: relative;
+        }
+
+        .podium-card {
+            background: linear-gradient(135deg, var(--card-bg), rgba(255,255,255,0.02));
+            backdrop-filter: blur(40px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 32px;
+            padding: 40px 20px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+
+        .podium-item.rank-1 .podium-card { height: 420px; border-color: rgba(245, 158, 11, 0.3); }
+        .podium-item.rank-2 .podium-card { height: 360px; border-color: rgba(148, 163, 184, 0.3); }
+        .podium-item.rank-3 .podium-card { height: 320px; border-color: rgba(180, 83, 9, 0.3); }
+
+        .rank-medal {
+            position: absolute;
+            top: -24px;
+            font-size: 3rem;
+            filter: drop-shadow(0 0 10px rgba(255,255,255,0.2));
+            z-index: 5;
+        }
+
+        .podium-avatar {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            margin: 0 auto;
+            margin-bottom: 24px;
+            padding: 4px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .rank-1 .podium-avatar { width: 150px; height: 150px; border-color: var(--gold); }
+
+        .podium-avatar img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .podium-name {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--text-main);
+            margin-bottom: 8px;
+        }
+
+        .podium-wins {
+            font-size: 3.5rem;
+            font-weight: 800;
+            line-height: 1;
+            color: var(--primary);
+            text-shadow: 0 0 30px var(--primary-glow);
+        }
+
+        .podium-label {
+            color: var(--text-dim);
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+        }
+
+        /* Leaderboard Table */
+        .table-container {
+            background: var(--card-bg);
+            backdrop-filter: blur(40px);
+            border-radius: 32px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 24px;
+            margin-top: 40px;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0 12px;
+            min-width: 600px;
+        }
+
+        th {
+            text-align: left;
+            padding: 16px 24px;
+            color: var(--text-dim);
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        tbody tr {
+            background: rgba(255, 255, 255, 0.02);
+            transition: all 0.2s;
+        }
+
+        tbody tr:hover {
+            background: rgba(255, 255, 255, 0.05);
+            transform: scale(1.01);
+        }
+
+        td {
+            padding: 20px 24px;
+            border-top: 1px solid rgba(255,255,255,0.03);
+            border-bottom: 1px solid rgba(255,255,255,0.03);
+        }
+
+        td:first-child { border-left: 1px solid rgba(255,255,255,0.03); border-radius: 20px 0 0 20px; font-weight: 800; color: var(--text-dim); }
+        td:last-child { border-right: 1px solid rgba(255,255,255,0.03); border-radius: 0 20px 20px 0; }
+
+        .player-cell {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .mini-avatar {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .player-name {
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        .stat-badge {
+            background: rgba(255,255,255,0.05);
+            padding: 6px 12px;
+            border-radius: 10px;
+            font-weight: 700;
+            font-size: 0.9rem;
+        }
+
+        .form-dots {
+            display: flex;
+            gap: 6px;
+        }
+
+        .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 4px;
+            background: #374151;
+        }
+        .dot.win { background: var(--success); box-shadow: 0 0 10px rgba(16, 185, 129, 0.3); }
+        .dot.loss { background: var(--danger); }
+
+        .trend-up { color: var(--success); text-shadow: 0 0 10px rgba(16, 185, 129, 0.3); }
+        .trend-down { color: var(--danger); }
+
+        @media (max-width: 900px) {
+            .podium { flex-direction: column; align-items: center; gap: 60px; }
+            .podium-item { width: 100%; max-width: 400px; }
+            .podium-card { height: auto !important; padding: 60px 20px; }
+            h1 { font-size: 2.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <div class="live-indicator">
+            <div class="pulse"></div>
+            Live Performance Tracking
+        </div>
+        <div class="show-selector">
+            <label for="showDropdown" style="display: none;">Select Show</label>
+            <select id="showDropdown" onchange="renderShow(this.value)">
+                <option value="6" selected>Tamil Season 10</option>
+                <option value="7">Telugu Season 10</option>
+                <option value="5">Hindi Season 20</option>
+            </select>
+        </div>
+        <h1 id="displayShowName">Bigg Boss Tamil</h1>
+        <p class="subtitle">
+            <span id="displayLang">Tamil</span> | Season <span id="displaySeason">10</span> | Week <span id="displayWeek">2</span> | Task Standings
+        </p>
+        <div class="last-updated" id="lastUpdated">Last synced: Just now</div>
+    </header>
+
+    <!-- Top 3 -->
+    <div class="podium" id="podiumContainer">
+        <!-- Will be populated by JS -->
+    </div>
+
+    <!-- Main Leaderboard -->
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Participant</th>
+                    <th>Played</th>
+                    <th>Wins</th>
+                    <th>Recent Form</th>
+                    <th>Trend</th>
+                </tr>
+            </thead>
+            <tbody id="leaderboardBody">
+                <!-- Will be populated by JS -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+    <script>
+        const bbData = {
+            "6": {
+                name: "Bigg Boss Tamil",
+                lang: "Tamil",
+                season: "10",
+                week: "2",
+                participants: [
+                    { id: "18", name: "Mukesh.K", wins: 8, participation: 12, form: ["win", "win", "win"], trend: "up" },
+                    { id: "17", name: "Dhanya Pallath", wins: 7, participation: 12, form: ["win", "loss", "win"], trend: "up" },
+                    { id: "16", name: "Kumaran", wins: 6, participation: 12, form: ["win", "win", "loss"], trend: "down" },
+                    { id: "10", name: "Avinash Ashok", wins: 6, participation: 12, form: ["loss", "win", "win"], trend: "up" },
+                    { id: "13", name: "Chandini", wins: 5, participation: 12, form: ["win", "loss", "win"], trend: "up" }
+                ],
+                imgPrefix: "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/"
+            },
+            "7": {
+                name: "Bigg Boss Telugu",
+                lang: "Telugu",
+                season: "10",
+                week: "2",
+                participants: [
+                    { id: "9", name: "Vamsi", wins: 3, participation: 8, form: ["win", "win", "loss"], trend: "up" },
+                    { id: "4", name: "Sudheer", wins: 2, participation: 8, form: ["win", "win", "loss"], trend: "up" },
+                    { id: "7", name: "Ram Prasad", wins: 2, participation: 8, form: ["loss", "win", "win"], trend: "up" },
+                    { id: "8", name: "Shalini", wins: 2, participation: 8, form: ["win", "loss", "win"], trend: "stable" },
+                    { id: "15", name: "Rohit", wins: 2, participation: 8, form: ["win", "win", "loss"], trend: "down" }
+                ],
+                imgPrefix: "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/"
+            },
+            "5": {
+                name: "Bigg Boss Hindi",
+                lang: "Hindi",
+                season: "20",
+                week: "1",
+                participants: [
+                    { id: "8", name: "Yung DSA", wins: 5, participation: 5, form: ["win", "win", "win"], trend: "up" },
+                    { id: "12", name: "Kushal Gullu", wins: 4, participation: 5, form: ["win", "win", "win"], trend: "up" },
+                    { id: "2", name: "Aasif Khan", wins: 4, participation: 5, form: ["win", "win", "win"], trend: "up" },
+                    { id: "7", name: "Love Gill", wins: 3, participation: 5, form: ["win", "win", "loss"], trend: "up" },
+                    { id: "11", name: "Arishfa Khan", wins: 3, participation: 5, form: ["win", "win", "loss"], trend: "up" }
+                ],
+                imgPrefix: "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/"
+            }
+        };
+
+        function renderShow(showId) {
+            const container = document.querySelector('.container');
+            container.style.opacity = '0';
+
+            setTimeout(() => {
+                const data = bbData[showId];
+                if (!data) return;
+
+                document.getElementById('displayShowName').innerText = data.name;
+                document.getElementById('displayLang').innerText = data.lang;
+                document.getElementById('displaySeason').innerText = data.season;
+                document.getElementById('displayWeek').innerText = data.week;
+                document.getElementById('lastUpdated').innerText = `Last synced: ${new Date().toLocaleTimeString()}`;
+
+                const sorted = [...data.participants].sort((a, b) => b.wins - a.wins);
+
+            // Render Podium with Pedestals
+            const p1 = sorted[0];
+            const p2 = sorted[1];
+            const p3 = sorted[2];
+
+            const podiumHtml = `
+                <div class="podium-item rank-2">
+                    <div class="rank-medal">🥈</div>
+                    <div class="podium-card">
+                        <div class="podium-avatar"><img src="${data.imgPrefix}${p2.id}.png" alt="${p2.name}"></div>
+                        <div class="podium-name">${p2.name}</div>
+                        <div class="podium-wins">${p2.wins}</div>
+                        <div class="podium-label">Task Wins</div>
+                    </div>
+                </div>
+                <div class="podium-item rank-1">
+                    <div class="rank-medal">🥇</div>
+                    <div class="podium-card">
+                        <div class="podium-avatar"><img src="${data.imgPrefix}${p1.id}.png" alt="${p1.name}"></div>
+                        <div class="podium-name">${p1.name}</div>
+                        <div class="podium-wins">${p1.wins}</div>
+                        <div class="podium-label">Task Wins</div>
+                    </div>
+                </div>
+                <div class="podium-item rank-3">
+                    <div class="rank-medal">🥉</div>
+                    <div class="podium-card">
+                        <div class="podium-avatar"><img src="${data.imgPrefix}${p3.id}.png" alt="${p3.name}"></div>
+                        <div class="podium-name">${p3.name}</div>
+                        <div class="podium-wins">${p3.wins}</div>
+                        <div class="podium-label">Task Wins</div>
+                    </div>
+                </div>
+            `;
+            document.getElementById('podiumContainer').innerHTML = podiumHtml;
+
+            // Render Table
+            let tableHtml = '';
+            sorted.forEach((p, index) => {
+                const trendIcon = p.trend === 'up' ? '▲' : (p.trend === 'down' ? '▼' : '▬');
+                const trendClass = p.trend === 'up' ? 'trend-up' : (p.trend === 'down' ? 'trend-down' : '');
+                const formDots = p.form.map(f => `<div class="dot ${f}"></div>`).join('');
+
+                tableHtml += `
+                    <tr>
+                        <td>#${index + 1}</td>
+                        <td>
+                            <div class="player-cell">
+                                <img class="mini-avatar" src="${data.imgPrefix}${p.id}.png" alt="${p.name}">
+                                <span class="player-name">${p.name}</span>
+                            </div>
+                        </td>
+                        <td><span class="stat-badge">${p.participation}</span></td>
+                        <td><span class="stat-badge" style="color:var(--primary)">${p.wins}</span></td>
+                        <td><div class="form-dots">${formDots}</div></td>
+                        <td><span class="${trendClass}">${trendIcon}</span></td>
+                    </tr>
+                `;
+            });
+            document.getElementById('leaderboardBody').innerHTML = tableHtml;
+
+            container.style.opacity = '1';
+        }, 300);
+        }
+
+        renderShow("6");
+    </script>
+</body>
+</html>
