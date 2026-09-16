@@ -108,54 +108,54 @@
           "week": 2,
           "players": [
             {
-              "id": 1,
-              "vote": 39500,
-              "percentage": 26.0
+              "id": 16,
+              "vote": 45780,
+              "percentage": 28.15
             },
             {
-              "id": 16,
-              "vote": 31920,
-              "percentage": 21.0
+              "id": 1,
+              "vote": 34616,
+              "percentage": 21.29
             },
             {
               "id": 5,
-              "vote": 22800,
-              "percentage": 15.0
-            },
-            {
-              "id": 3,
-              "vote": 15200,
-              "percentage": 10.0
-            },
-            {
-              "id": 11,
-              "vote": 12160,
-              "percentage": 8.0
-            },
-            {
-              "id": 20,
-              "vote": 10640,
-              "percentage": 7.0
-            },
-            {
-              "id": 15,
-              "vote": 7600,
-              "percentage": 5.0
-            },
-            {
-              "id": 4,
-              "vote": 6080,
-              "percentage": 4.0
-            },
-            {
-              "id": 10,
-              "vote": 4560,
-              "percentage": 3.0
+              "vote": 18446,
+              "percentage": 11.34
             },
             {
               "id": 8,
-              "vote": 1540,
-              "percentage": 1.0
+              "vote": 14609,
+              "percentage": 8.98
+            },
+            {
+              "id": 3,
+              "vote": 9835,
+              "percentage": 6.05
+            },
+            {
+              "id": 11,
+              "vote": 8822,
+              "percentage": 5.43
+            },
+            {
+              "id": 13,
+              "vote": 8411,
+              "percentage": 5.17
+            },
+            {
+              "id": 10,
+              "vote": 7775,
+              "percentage": 4.78
+            },
+            {
+              "id": 4,
+              "vote": 7563,
+              "percentage": 4.65
+            },
+            {
+              "id": 20,
+              "vote": 6750,
+              "percentage": 4.15
             }
           ]
         }
