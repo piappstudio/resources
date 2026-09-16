@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bigg Boss - Eviction Report - Savinya</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        :root {
+            --primary: #fbbf24; /* Gold */
+            --primary-light: #fcd34d;
+            --bg-page: #000000; /* Pure Black */
+            --bg-card: #0a0a0a; /* Near Black */
+            --bg-accent: #1a1a1a;
+            --text-main: #ffffff;
+            --text-dim: #d1d5db;
+            --text-muted: #9ca3af;
+            --danger: #dc2626; /* Deep Red */
+            --success: #16a34a;
+            --border: #fbbf24; /* Gold Border */
+            --shadow: 0 0 30px rgba(251, 191, 36, 0.15);
+        }
+
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            padding: 2rem 1rem;
+            background: var(--bg-page);
+            color: var(--text-main);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.5;
+        }
+
+        .container { max-width: 850px; margin: 0 auto; }
+
+        .header { text-align: center; margin-bottom: 40px; }
+        .header h1 {
+            color: var(--primary);
+            margin: 0;
+            font-size: 32px;
+            font-weight: 800;
+            letter-spacing: -0.025em;
+        }
+        .header p { color: var(--text-dim); margin: 8px 0; font-weight: 500; font-size: 14px; text-transform: uppercase; letter-spacing: 0.05em; }
+
+        .report-card {
+            background: var(--bg-card);
+            border-radius: 32px;
+            padding: 40px;
+            box-shadow: var(--shadow);
+            position: relative;
+            border: 1px solid var(--border);
+        }
+
+        .profile-header {
+            display: flex;
+            gap: 40px;
+            align-items: flex-start;
+            margin-bottom: 40px;
+        }
+
+        .profile-img-wrapper {
+            position: relative;
+            flex-shrink: 0;
+        }
+
+        .profile-img-container {
+            width: 180px;
+            height: 180px;
+            border-radius: 24px;
+            overflow: hidden;
+            background: var(--bg-accent);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border: 4px solid var(--bg-card);
+        }
+
+        .profile-img-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .evicted-stamp {
+            position: absolute;
+            bottom: 20px;
+            right: 15px;
+            transform: rotate(-12deg);
+            border: 3px solid var(--bg-card);
+            color: var(--bg-card);
+            padding: 6px 14px;
+            font-size: 18px;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-radius: 8px;
+            background: var(--danger);
+            box-shadow: 0 4px 10px rgba(239, 68, 68, 0.2);
+            z-index: 5;
+            white-space: nowrap;
+        }
+
+        .profile-info { flex: 1; padding-top: 10px; }
+        .profile-info .show-label {
+            color: var(--primary);
+            font-weight: 700;
+            font-size: 14px;
+            margin-bottom: 4px;
+        }
+        .profile-info h2 {
+            font-size: 42px;
+            margin: 0 0 12px 0;
+            font-weight: 900;
+            letter-spacing: -0.03em;
+            color: var(--text-main);
+        }
+
+        .categories { display: flex; flex-wrap: wrap; gap: 10px; }
+        .badge {
+            padding: 6px 14px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 700;
+            background: var(--bg-accent);
+            color: var(--text-dim);
+            border: 1px solid var(--border);
+        }
+        .badge.highlight {
+            background: var(--primary);
+            color: #000;
+            border: 2px solid #000; /* Added black border for better visibility */
+            font-weight: 800;
+            box-shadow: 0 0 10px rgba(251, 191, 36, 0.5);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .stat-item {
+            background: var(--bg-accent);
+            padding: 24px 16px;
+            border-radius: 24px;
+            text-align: center;
+            transition: transform 0.2s;
+        }
+        .stat-item:hover { transform: translateY(-4px); }
+        .stat-item .label { font-size: 11px; color: var(--text-dim); text-transform: uppercase; font-weight: 700; margin-bottom: 8px; display: block; letter-spacing: 0.05em; }
+        .stat-item .value { font-size: 28px; font-weight: 800; color: var(--primary); }
+
+        .section-wrap { margin-bottom: 40px; }
+        .section-title {
+            font-size: 18px;
+            font-weight: 800;
+            color: var(--text-main);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .section-title::after { content: ""; flex: 1; height: 2px; background: var(--bg-accent); }
+
+        .vote-card {
+            background: var(--bg-accent);
+            padding: 24px;
+            border-radius: 24px;
+        }
+        .vote-row { display: flex; align-items: center; gap: 20px; margin-bottom: 16px; }
+        .vote-label { width: 70px; font-size: 13px; color: var(--text-dim); font-weight: 700; }
+        .vote-bar-container { flex: 1; height: 12px; background: var(--bg-accent); border-radius: 6px; overflow: hidden; }
+        .vote-bar-fill { height: 100%; background: var(--primary); border-radius: 6px; }
+        .vote-val { width: 60px; text-align: right; font-size: 14px; font-weight: 800; color: var(--primary); }
+
+        .relations-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+        .relation-box {
+            background: var(--bg-card);
+            padding: 24px;
+            border-radius: 24px;
+            border: 1px solid var(--border);
+        }
+        .relation-box h4 { margin: 0 0 15px; font-size: 14px; color: var(--text-dim); text-transform: uppercase; font-weight: 700; }
+        .relation-list { font-size: 14px; list-style: none; padding: 0; margin: 0; max-height: 400px; overflow-y: auto; }
+        .relation-list li { margin-bottom: 16px; position: relative; padding-left: 15px; }
+        .relation-list li::before { content: ""; position: absolute; left: 0; top: 8px; width: 6px; height: 6px; background: var(--primary-light); border-radius: 50%; }
+        .peer-name { font-weight: 700; color: var(--text-main); display: block; margin-bottom: 4px; }
+        .comment { color: var(--text-dim); font-size: 13px; line-height: 1.4; border-left: 3px solid var(--primary-light); padding-left: 12px; }
+
+        .btn-export {
+            position: absolute;
+            top: 40px;
+            right: 40px;
+            background: var(--primary);
+            color: #fff;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 14px;
+            font-weight: 700;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+            transition: all 0.2s;
+        }
+        .btn-export:hover { background: #4338ca; transform: scale(1.02); }
+
+        .app-promo {
+            margin-top: 50px;
+            padding: 40px;
+            background: linear-gradient(135deg, #1a1a1a 0%, #000000 100%);
+            border: 2px solid var(--primary);
+            border-radius: 32px;
+            text-align: center;
+            box-shadow: 0 0 40px rgba(251, 191, 36, 0.1);
+        }
+        .app-promo h4 {
+            color: var(--primary);
+            margin: 0 0 10px 0;
+            font-size: 22px;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .app-promo p {
+            color: var(--text-dim);
+            font-size: 15px;
+            margin-bottom: 30px;
+            font-weight: 500;
+        }
+        .store-badges {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .store-badge {
+            height: 45px;
+            transition: transform 0.2s;
+        }
+        .store-badge:hover { transform: scale(1.05); }
+
+        .app-qr-container {
+            display: flex;
+            justify-content: center;
+            gap: 60px;
+            margin-top: 20px;
+        }
+        .app-qr-item {
+            text-align: center;
+        }
+        .app-qr-item img {
+            width: 140px;
+            height: 140px;
+            border: 4px solid var(--primary);
+            border-radius: 20px;
+            background: #fff;
+            padding: 8px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+        }
+        .app-qr-item span {
+            display: block;
+            margin-top: 12px;
+            font-size: 13px;
+            font-weight: 800;
+            color: var(--primary);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .footer-note {
+            margin-top: 50px;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+        }
+
+        @media (max-width: 600px) {
+            .profile-header { flex-direction: column; text-align: center; align-items: center; }
+            .stats-grid { grid-template-columns: 1fr 1fr; }
+            .relations-grid { grid-template-columns: 1fr; }
+            .evicted-stamp { right: 50%; transform: translateX(50%) rotate(-10deg); bottom: 10px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <p>Bigg Boss Season Report</p>
+        <h1>CONTESTANT JOURNEY</h1>
+    </div>
+
+    <div class="report-card" id="report-content">
+        <button class="btn-export" onclick="exportReport()">Download PNG</button>
+
+        <!-- Profile Section -->
+        <div class="profile-header">
+            <div class="profile-img-wrapper">
+                <div class="profile-img-container">
+                    <img src="https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/14.png" alt="Savinya" id="pfp">
+                </div>
+                <div class="evicted-stamp">EVICTED</div>
+            </div>
+            <div class="profile-info">
+                <div class="show-label" id="show-title">Bigg Boss Tamil · Season 10</div>
+                <h2 id="contestant-name">Savinya</h2>
+                <div class="categories" id="category-badges">
+                    <span class="badge highlight">Week 1 Exit</span>
+                    <span class="badge">Nominated</span>
+                    <span class="badge">Opposite Party</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Key Metrics -->
+        <div class="stats-grid">
+            <div class="stat-item">
+                <span class="label">Stint Duration</span>
+                <span class="value" id="stat-weeks">1 Week</span>
+            </div>
+            <div class="stat-item">
+                <span class="label">Task Performance</span>
+                <span class="value" id="stat-tasks">0 Wins</span>
+            </div>
+            <div class="stat-item">
+                <span class="label">Public Support</span>
+                <span class="value" id="stat-votes" style="font-size: 20px;">1,535 (1.16%)</span>
+            </div>
+            <div class="stat-item">
+                <span class="label">Media Impact</span>
+                <span class="value" id="stat-promos">1 Promo</span>
+            </div>
+        </div>
+
+        <div class="section-wrap">
+            <h3 class="section-title">Voting Trajectory</h3>
+            <div class="vote-card">
+                <div class="vote-row">
+                    <span class="vote-label">Week 1</span>
+                    <div class="vote-bar-container"><div class="vote-bar-fill" style="width: 1.16%"></div></div>
+                    <span class="vote-val">1.16%</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="relations-grid">
+            <div class="relation-box">
+                <h4>Nomination Insights</h4>
+                <ul class="relation-list" id="nominated-by">
+                    <li>
+                        <span class="peer-name">House Record</span>
+                        <div class="comment">Received a staggering 12 nominations in a single week.</div>
+                    </li>
+                    <li>
+                        <span class="peer-name">Key Critique</span>
+                        <div class="comment">Fellow housemates cited "lack of participation" and "low visibility" as the primary reasons for eviction.</div>
+                    </li>
+                </ul>
+            </div>
+            <div class="relation-box">
+                <h4>Promo Summary</h4>
+                <div style="font-size: 15px; color: var(--text-dim); line-height: 1.6;">
+                    Savinya was featured in <strong style="color: var(--primary);">1 promo</strong> during the Grand Launch.
+                    <br><br>
+                    <strong>Launch Impact:</strong>
+                    Score: <strong style="color: var(--primary);">12.2</strong>
+                    Visibility: <strong style="color: var(--primary);">33.74%</strong>
+                    <br><br>
+                    Despite a strong introduction, her screen time significantly dropped in daily episodes, leading to a record <strong>12 nominations</strong> from fellow housemates.
+                </div>
+            </div>
+        </div>
+
+        <div class="app-promo">
+            <h4>Bigg Boss Super App</h4>
+            <p>Download Bigg Boss Super app at Play Store and App Store</p>
+
+            <div class="store-badges">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play" class="store-badge">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="App Store" class="store-badge">
+            </div>
+
+            <div class="app-qr-container">
+                <div class="app-qr-item">
+                    <img src="https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/apps/biggboss_android.png" alt="Play Store QR">
+                    <span>Scan for Android</span>
+                </div>
+                <div class="app-qr-item">
+                    <img src="https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/apps/biggboss_appstore.png" alt="App Store QR">
+                    <span>Scan for iOS</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-note">
+            Biggboss Reporting System • Data Authenticated
+        </div>
+    </div>
+</div>
+
+<script>
+    async function exportReport() {
+        const element = document.getElementById('report-content');
+        const exportBtn = element.querySelector('.btn-export');
+        exportBtn.style.visibility = 'hidden';
+
+        try {
+            const canvas = await html2canvas(element, {
+                useCORS: true,
+                backgroundColor: '#000000',
+                scale: 3,
+                logging: false,
+                borderRadius: 32
+            });
+            const link = document.createElement('a');
+            link.download = 'BB_Eviction_Report_Savinya.png';
+            link.href = canvas.toDataURL('image/png', 1.0);
+            link.click();
+        } catch (e) {
+            console.error(e);
+        } finally {
+            exportBtn.style.visibility = 'visible';
+        }
+    }
+</script>
+
+</body>
+</html>
