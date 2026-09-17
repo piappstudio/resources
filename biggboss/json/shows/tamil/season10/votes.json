@@ -109,53 +109,53 @@
           "players": [
             {
               "id": 16,
-              "vote": 48365,
-              "percentage": 27.91
+              "vote": 62071,
+              "percentage": 27.1
             },
             {
               "id": 1,
-              "vote": 36317,
-              "percentage": 20.96
+              "vote": 46328,
+              "percentage": 20.23
             },
             {
               "id": 5,
-              "vote": 20329,
-              "percentage": 11.73
+              "vote": 28314,
+              "percentage": 12.36
             },
             {
               "id": 8,
-              "vote": 15490,
-              "percentage": 8.94
+              "vote": 19986,
+              "percentage": 8.73
             },
             {
               "id": 3,
-              "vote": 10533,
-              "percentage": 6.08
-            },
-            {
-              "id": 11,
-              "vote": 9346,
-              "percentage": 5.39
-            },
-            {
-              "id": 13,
-              "vote": 8987,
-              "percentage": 5.19
-            },
-            {
-              "id": 10,
-              "vote": 8435,
-              "percentage": 4.87
+              "vote": 13804,
+              "percentage": 6.03
             },
             {
               "id": 4,
-              "vote": 8178,
-              "percentage": 4.72
+              "vote": 12306,
+              "percentage": 5.37
+            },
+            {
+              "id": 13,
+              "vote": 12147,
+              "percentage": 5.3
+            },
+            {
+              "id": 11,
+              "vote": 12088,
+              "percentage": 5.28
+            },
+            {
+              "id": 10,
+              "vote": 11688,
+              "percentage": 5.1
             },
             {
               "id": 20,
-              "vote": 7324,
-              "percentage": 4.21
+              "vote": 10291,
+              "percentage": 4.49
             }
           ]
         }
