@@ -109,53 +109,53 @@
           "players": [
             {
               "id": 16,
-              "vote": 62071,
-              "percentage": 27.1
+              "vote": 71040,
+              "percentage": 31.56
             },
             {
               "id": 1,
-              "vote": 46328,
-              "percentage": 20.23
+              "vote": 48120,
+              "percentage": 21.38
             },
             {
               "id": 5,
-              "vote": 28314,
-              "percentage": 12.36
-            },
-            {
-              "id": 8,
-              "vote": 19986,
-              "percentage": 8.73
-            },
-            {
-              "id": 3,
-              "vote": 13804,
-              "percentage": 6.03
+              "vote": 18336,
+              "percentage": 8.15
             },
             {
               "id": 4,
-              "vote": 12306,
-              "percentage": 5.37
+              "vote": 16428,
+              "percentage": 7.3
             },
             {
-              "id": 13,
-              "vote": 12147,
-              "percentage": 5.3
-            },
-            {
-              "id": 11,
-              "vote": 12088,
-              "percentage": 5.28
-            },
-            {
-              "id": 10,
-              "vote": 11688,
-              "percentage": 5.1
+              "id": 15,
+              "vote": 16314,
+              "percentage": 7.25
             },
             {
               "id": 20,
-              "vote": 10291,
-              "percentage": 4.49
+              "vote": 13800,
+              "percentage": 6.13
+            },
+            {
+              "id": 11,
+              "vote": 11964,
+              "percentage": 5.32
+            },
+            {
+              "id": 8,
+              "vote": 9966,
+              "percentage": 4.43
+            },
+            {
+              "id": 3,
+              "vote": 9894,
+              "percentage": 4.4
+            },
+            {
+              "id": 10,
+              "vote": 9234,
+              "percentage": 4.1
             }
           ]
         }
