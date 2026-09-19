@@ -34,18 +34,18 @@
           "players": [
             {
               "id": 10,
-              "vote": 28199,
-              "percentage": 79.0
+              "vote": 25801,
+              "percentage": 79.8
             },
             {
               "id": 2,
-              "vote": 3810,
-              "percentage": 11.0
+              "vote": 3362,
+              "percentage": 10.4
             },
             {
               "id": 6,
-              "vote": 3682,
-              "percentage": 10.0
+              "vote": 3174,
+              "percentage": 9.8
             }
           ]
         }

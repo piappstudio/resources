@@ -109,53 +109,53 @@
           "players": [
             {
               "id": 16,
-              "vote": 71040,
-              "percentage": 31.56
+              "vote": 24500,
+              "percentage": 25.8
             },
             {
               "id": 1,
-              "vote": 48120,
-              "percentage": 21.38
-            },
-            {
-              "id": 5,
-              "vote": 18336,
-              "percentage": 8.15
-            },
-            {
-              "id": 4,
-              "vote": 16428,
-              "percentage": 7.3
-            },
-            {
-              "id": 15,
-              "vote": 16314,
-              "percentage": 7.25
-            },
-            {
-              "id": 20,
-              "vote": 13800,
-              "percentage": 6.13
-            },
-            {
-              "id": 11,
-              "vote": 11964,
-              "percentage": 5.32
+              "vote": 21003,
+              "percentage": 22.1
             },
             {
               "id": 8,
-              "vote": 9966,
-              "percentage": 4.43
+              "vote": 8500,
+              "percentage": 9.0
+            },
+            {
+              "id": 5,
+              "vote": 8001,
+              "percentage": 8.5
+            },
+            {
+              "id": 4,
+              "vote": 7172,
+              "percentage": 7.6
+            },
+            {
+              "id": 15,
+              "vote": 7121,
+              "percentage": 7.5
+            },
+            {
+              "id": 11,
+              "vote": 5224,
+              "percentage": 5.5
+            },
+            {
+              "id": 20,
+              "vote": 4800,
+              "percentage": 5.1
             },
             {
               "id": 3,
-              "vote": 9894,
-              "percentage": 4.4
+              "vote": 4323,
+              "percentage": 4.6
             },
             {
               "id": 10,
-              "vote": 9234,
-              "percentage": 4.1
+              "vote": 4030,
+              "percentage": 4.3
             }
           ]
         }
