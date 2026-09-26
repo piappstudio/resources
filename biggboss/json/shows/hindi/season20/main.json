@@ -1,623 +1,1217 @@
 {
-    "voting_options": {
-        "official_vote": [
-            {
-                "name": "Disney-HOTSTAR- BIGG BOSS 8 App",
-                "ios_name": "Jio HotStar",
-                "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-                "ios_link": "https://apps.apple.com/us/app/disney/id1446075923",
-                "enable_ios": true
-            }
-        ],
-        "unofficial_voting": [],
-        "polls": []
-    },
-    "participants": [
-        {
-            "id": "1",
-            "name": "Kanika Mann",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [
-                        "NOM"
-                    ],
-                    "nominates": [
-                        11,
-                        7
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 11,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 7,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "2",
-            "name": "Aasif Khan",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/2_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/2.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        1,
-                        14
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 1,
-                            "comments": "1st nomination"
-                        },
-                        {
-                            "nominate_part_id": 14,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "3",
-            "name": "Qazi Touqeer",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/3_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/3.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        8,
-                        1
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 8,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 1,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "4",
-            "name": "Isha Rikhi",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/4_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/4.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        10,
-                        3
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 10,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 3,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": "Amrapali Dubey",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/5_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/5.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        12,
-                        1
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 12,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 1,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "6",
-            "name": "Rohed Khan",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/6_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/6.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        1,
-                        7
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 1,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 7,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "7",
-            "name": "Love Gill",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/7_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/7.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [
-                        "NOM"
-                    ],
-                    "nominates": [
-                        12,
-                        1
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 12,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 1,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "8",
-            "name": "Yung DSA",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/8_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/8.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        7,
-                        11
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 7,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 11,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "9",
-            "name": "MC Mary Kom",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/9_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/9.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        11,
-                        12
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 11,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 12,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "10",
-            "name": "Tanmay Scoutop Singh",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/10_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/10.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        14,
-                        11
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 14,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 11,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "11",
-            "name": "Arishfa Khan",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/11_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/11.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [
-                        "NOM"
-                    ],
-                    "nominates": [
-                        16,
-                        5
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 16,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 5,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "12",
-            "name": "Kushal Gullu Tanwar",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/12_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/12.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        5,
-                        7
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 5,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 7,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "13",
-            "name": "Aman Gandhi",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/13_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/13.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        7,
-                        5
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 7,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 5,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "14",
-            "name": "Uditi Singh",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/14_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/14.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": true,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [
-                        "NOM"
-                    ],
-                    "nominates": [
-                        7,
-                        2
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 7,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 2,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "15",
-            "name": "Rhiti Tiwari",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/15_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/15.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        14,
-                        9
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 14,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 9,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "16",
-            "name": "Mahhi Vij",
-            "dial_number": null,
-            "title": null,
-            "start_date": "2026-09-06",
-            "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/16_pp.png",
-            "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/16.png",
-            "order": null,
-            "re_entry_date": null,
-            "re_evicted_date": null,
-            "eliminated_date": null,
-            "isNominated": false,
-            "history": [
-                {
-                    "week": 1,
-                    "categories": [],
-                    "nominates": [
-                        11,
-                        14
-                    ],
-                    "nomination_detail": [
-                        {
-                            "nominate_part_id": 11,
-                            "comments": "1st Nomination"
-                        },
-                        {
-                            "nominate_part_id": 14,
-                            "comments": "2nd nomination"
-                        }
-                    ]
-                }
-            ]
-        }
+  "voting_options": {
+    "official_vote": [
+      {
+        "name": "Disney-HOTSTAR- BIGG BOSS 8 App",
+        "ios_name": "Jio HotStar",
+        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+        "ios_link": "https://apps.apple.com/us/app/disney/id1446075923",
+        "enable_ios": true
+      }
     ],
-    "category": [
+    "unofficial_voting": [],
+    "polls": []
+  },
+  "participants": [
+    {
+      "id": "1",
+      "name": "Kanika Mann",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/1.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
         {
-            "id": 39,
-            "show_id": 5,
-            "name": "Captain",
-            "key": "Captain",
-            "color": "FF2E9F49",
-            "text": "FFFFFFFF",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 5,
-            "created_at": "2026-09-06T09:40:57.000000Z",
-            "updated_at": "2026-09-06T09:40:57.000000Z"
+          "week": 1,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "2nd nomination"
+            }
+          ]
         },
         {
-            "id": 42,
-            "show_id": 5,
-            "name": "Evicted",
-            "key": "EVI",
-            "color": "FFEA4839",
-            "text": "FFFFFFFF",
-            "is_week": true,
-            "graph": false,
-            "graphOrder": null,
-            "created_at": "2026-09-06T21:10:25.000000Z",
-            "updated_at": "2026-09-06T09:41:04.000000Z"
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            14,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Too sensitive for this game"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "You sitll in the gaming zone"
+            }
+          ]
         },
         {
-            "id": 45,
-            "show_id": 5,
-            "name": "Nominated",
-            "key": "NOM",
-            "color": "FFFCBC1F",
-            "text": "FF000000",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 4,
-            "created_at": "2026-09-06T21:11:37.000000Z",
-            "updated_at": "2026-09-06T21:11:37.000000Z"
-        },
-        {
-            "id": 52,
-            "show_id": 5,
-            "name": "Cooking Team",
-            "key": "CT",
-            "color": "FF434E78",
-            "text": "FFFFFFFF",
-            "is_week": true,
-            "graph": true,
-            "graphOrder": 4,
-            "created_at": "2026-09-07T14:26:02.000000Z",
-            "updated_at": "2026-09-07T14:26:02.000000Z"
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            9,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Earlier she played safe game, now she changed a lot and I had good relationship with her now. So, saving her"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "For doing prank in the show"
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Aasif Khan",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/2_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/2.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            1,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "1st nomination"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM",
+            "DNM"
+          ],
+          "nominates": [
+            13,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "He is not mindful on his word"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "She is not visble, not confident"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            10,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "He couldn't communicate in proper manner, people often misunderstanding him . Saving him"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Less entertainment factor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Qazi Touqeer",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/3_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/3.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            8,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            5,
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Irritating and makes no sense to me"
+            },
+            {
+              "nominate_part_id": 4,
+              "comments": "Not able to connect"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            11,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "I love her attitude"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "We are very close and we had good rapo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Isha Rikhi",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/4_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/4.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": true,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            10,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            14,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Boundaries are so high, not able to reach"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "I cannot connect with him"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            1,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "She is my friend. Wanted to save her"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "She is well deserving"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Amrapali Dubey",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/5_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/5.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            12,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            11,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Due to her Superiority complex"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Not understand her vibe"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            7,
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Saving love"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Nominating her soft target"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Rohed Khan",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/6_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/6.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": "2026-09-20",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            1,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM",
+            "DNM",
+            "EVI"
+          ],
+          "nominates": [
+            13,
+            12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "Abusive twice"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "I see the people is different from you see the people"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Love Gill",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/7_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/7.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            12,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            16,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not able to understand me"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "She is not giving time for me to correct it and work on it"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            2,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "Not well entertaining"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "She acting equally with all housemates and she run home well"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Yung DSA",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/8_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/8.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": true,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            7,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            13,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "He is trying to visible, yelling all the times. Interrupt all the times"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Nothing personal, need more conversation"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "No contribution or no entertainment. But she showed me lots of love. So , I would to save her"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Entertainment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "MC Mary Kom",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/9_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/9.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            11,
+            12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            6,
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "Weired how sibling sharing the things each other"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Weired how sibling sharing the things each other"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            5,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Saving her for doing lots of kitchen work"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "She is such a feel warm person"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Tanmay Scoutop Singh",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/10_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/10.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            14,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            14,
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Could handle the things in matured way"
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "Quite fight, unnecessary fighting"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            7,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "We had good bond, she helping me. He saved her"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Has different interpretation, and he is negative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Arishfa Khan",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/11_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/11.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            5,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "She said bad things, not listening"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "She very irritating when I try console here"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            3,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Everyone is targeting him. So, wanted to save him"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "I want her to be saved her"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Kushal Gullu Tanwar",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/12_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/12.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            5,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [
+            "DNM"
+          ],
+          "nominates": [
+            10,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "I don't see his own game. Following crow"
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "Stuck with promises & relationships"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ],
+      "isCaptain": true
+    },
+    {
+      "id": "13",
+      "name": "Aman Gandhi",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/13_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/13.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            7,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            2,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "Very dude, made simple things more"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Simplistic expresswise. No love"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            14,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Wanted to split them up"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "He already has negative perspective on him. So wanted to use it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Uditi Singh",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/14_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/14.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [
+            "NOM",
+            "EVI",
+            "LL"
+          ],
+          "nominates": [
+            7,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            2,
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "Any conversation with him is sensitive"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Their opinion is double stand"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            3,
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Saving him for being good."
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "Everyone is try to target him"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Rhiti Tiwari",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/15_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/15.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            14,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            3,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Show up his things own"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "She is not happy here and difficult for her too"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            5,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "I feel more comfortable with her in this house"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "She is very open and getting into the game now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Mahhi Vij",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-06",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/16_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/16.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [
+            11,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "1st Nomination"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "2nd nomination"
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [
+            5,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Not understand her vibe. She  used me"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Not understand her vibe"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [
+            11,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Saving for giving different level of energy"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "He is cornering us, and it is very difficult to handle him"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": [
+    {
+      "id": 39,
+      "show_id": 5,
+      "name": "Captain",
+      "key": "Captain",
+      "color": "FF2E9F49",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 5,
+      "created_at": "2026-09-06T09:40:57.000000Z",
+      "updated_at": "2026-09-06T09:40:57.000000Z"
+    },
+    {
+      "id": 42,
+      "show_id": 5,
+      "name": "Evicted",
+      "key": "EVI",
+      "color": "FFEA4839",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": false,
+      "graphOrder": null,
+      "created_at": "2026-09-06T21:10:25.000000Z",
+      "updated_at": "2026-09-06T09:41:04.000000Z"
+    },
+    {
+      "id": 45,
+      "show_id": 5,
+      "name": "Nominated",
+      "key": "NOM",
+      "color": "FFFCBC1F",
+      "text": "FF000000",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-06T21:11:37.000000Z",
+      "updated_at": "2026-09-06T21:11:37.000000Z"
+    },
+    {
+      "id": 52,
+      "show_id": 5,
+      "name": "Cooking Team",
+      "key": "CT",
+      "color": "FF434E78",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-07T14:26:02.000000Z",
+      "updated_at": "2026-09-07T14:26:02.000000Z"
+    },
+    {
+      "id": 59,
+      "show_id": 5,
+      "name": "Life Line",
+      "key": "LL",
+      "color": "FFFF0000",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": null,
+      "created_at": "2026-09-06T21:10:25.000000Z",
+      "updated_at": "2026-09-06T09:41:04.000000Z"
+    },
+    {
+      "id": 60,
+      "show_id": 5,
+      "name": "Direct Nomination",
+      "key": "DNM",
+      "color": "FFFF0000",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": null,
+      "created_at": "2026-09-06T21:10:25.000000Z",
+      "updated_at": "2026-09-06T09:41:04.000000Z"
+    }
+  ]
 }

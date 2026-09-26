@@ -16,7 +16,7 @@
     {
       "id": "1",
       "name": "LakshmiPriya",
-      "dial_number": null,
+      "dial_number": "7669908410",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/1_pp.png",
@@ -24,8 +24,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-09-25",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -46,17 +46,56 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "RP-2",
+            "CT-2",
+            "NOM",
+            "DNM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            16,
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Voice is not out."
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "Doing tic and tac for whatever I do"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM",
+            "OP",
+            "CEL",
+            "EVI",
+            "EVH"
+          ],
+          "nominates": [
+            21,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Telling lies"
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "Unnecessarily triggers others and plays mind games, while acting innocent to project a soft image and plan bigger moves."
+            }
+          ]
         }
       ]
     },
     {
       "id": "2",
       "name": "Shathiga",
-      "dial_number": null,
+      "dial_number": "7669908418",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/2_pp.png",
@@ -71,7 +110,8 @@
           "week": 1,
           "categories": [
             "Captain",
-            "RP"
+            "RP",
+            "LEAD"
           ],
           "nominates": [
             6,
@@ -125,16 +165,50 @@
         },
         {
           "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "RP-2"
+          ],
+          "nominates": [
+            20,
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 20,
+              "comments": "Not understand the line between fun vs serious"
+            },
+            {
+              "nominate_part_id": 4,
+              "comments": "Not accepting the situation as it is"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "OP"
+          ],
+          "nominates": [
+            21,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Flipping statements"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Playing carelessly"
+            }
+          ]
         }
       ]
     },
     {
       "id": "3",
       "name": "Prithivi",
-      "dial_number": null,
+      "dial_number": "7669908414",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/3_pp.png",
@@ -143,7 +217,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -168,17 +242,54 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "OP",
+            "NOM",
+            "CT",
+            "RP",
+            "NF"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            17,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "Not very serious about the game"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "Not understanding democracy yet"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "OP",
+            "BPW"
+          ],
+          "nominates": [
+            6,
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "Playing a double game."
+            },
+            {
+              "nominate_part_id": 21,
+              "comments": "Playing the victim card."
+            }
+          ]
         }
       ]
     },
     {
       "id": "4",
       "name": "Javeed Sheriff",
-      "dial_number": null,
+      "dial_number": "7669908408",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/4_pp.png",
@@ -186,8 +297,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-09-18",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -208,17 +319,33 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "OP-2",
+            "NOM",
+            "CEL-2",
+            "EVI",
+            "EVH"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            16,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "No initiation, very silient"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Just speaking for sake"
+            }
+          ]
         }
       ]
     },
     {
       "id": "5",
       "name": "Jason Kaushi",
-      "dial_number": null,
+      "dial_number": "7669908407",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/5_pp.png",
@@ -227,7 +354,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -248,17 +375,51 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "RP-2",
+            "NOM",
+            "CEL"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            16,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not acceptance , not still in the game"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Conflicts, speaking about me personally"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "RP"
+          ],
+          "nominates": [
+            1,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Sathiga and Lakshmipriya games are so similar that it feels like they might have pre-planned their strategy together."
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Sathiga and Lakshmipriya games are so similar that it feels like they might have pre-planned their strategy together."
+            }
+          ]
         }
       ]
     },
     {
       "id": "6",
       "name": "Muniyammal",
-      "dial_number": null,
+      "dial_number": "7669908412",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/6_pp.png",
@@ -267,7 +428,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -291,16 +452,54 @@
         },
         {
           "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "RP-2",
+            "JAIL-2",
+            "WPW"
+          ],
+          "nominates": [
+            8,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Doing something for camera"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "Taking everything for personal"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM",
+            "RP",
+            "CEL"
+          ],
+          "nominates": [
+            21,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Creating drama and forcing unnecessary conversations."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "She puts on a lovely persona for the cameras, but her actual behavior is very different."
+            }
+          ]
         }
       ]
     },
     {
       "id": "7",
       "name": "Shama",
-      "dial_number": null,
+      "dial_number": "7669908417",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/7_pp.png",
@@ -309,7 +508,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -328,16 +527,54 @@
         },
         {
           "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "Captain",
+            "CT",
+            "RP",
+            "CEL"
+          ],
+          "nominates": [
+            4,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Sleeping face, very down"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Very silent"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM",
+            "RP"
+          ],
+          "nominates": [
+            5,
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "He takes things personally, and his behavior in the Cheese house game makes me feel helpless."
+            },
+            {
+              "nominate_part_id": 19,
+              "comments": "I didn't see any powerful activity or performance from him in the LOP role."
+            }
+          ]
         }
       ]
     },
     {
       "id": "8",
       "name": "Ashmitha",
-      "dial_number": null,
+      "dial_number": "7669908402",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/8_pp.png",
@@ -346,7 +583,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -367,17 +604,51 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "OP-2",
+            "NOM",
+            "CEL-2"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            5,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Body lanugage is not good"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Not taking my points during last tenure"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "RP"
+          ],
+          "nominates": [
+            19,
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "he making fun of my personal and physically. That's not fair."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "First Preference to his friends circle."
+            }
+          ]
         }
       ]
     },
     {
       "id": "9",
       "name": "Muthazhagi",
-      "dial_number": null,
+      "dial_number": "7669908413",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/9_pp.png",
@@ -405,16 +676,53 @@
         },
         {
           "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "RP-2",
+            "CT-2",
+            "NF"
+          ],
+          "nominates": [
+            10,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Not still come into the game"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Just doing something for sake"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "OP",
+            "CEL"
+          ],
+          "nominates": [
+            21,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Lack of sportsmanship, one-sided speaker, and low acceptance level."
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Low contribution and lacks visibility in the game."
+            }
+          ]
         }
       ]
     },
     {
       "id": "10",
       "name": "Avinash Ashok",
-      "dial_number": null,
+      "dial_number": "7669908403",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/10_pp.png",
@@ -423,7 +731,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -443,17 +751,54 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "RP",
+            "CT",
+            "NOM",
+            "LOP",
+            "OP"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            16,
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not come out yet"
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "Just being for there. No activities"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "LEAD",
+            "RP"
+          ],
+          "nominates": [
+            21,
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Creating unwanted problems and conflict."
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "Lacks performance compared to others."
+            }
+          ]
         }
       ]
     },
     {
       "id": "11",
       "name": "Vinodh Babu",
-      "dial_number": null,
+      "dial_number": "7669908419",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/11_pp.png",
@@ -462,7 +807,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -495,17 +840,52 @@
         {
           "week": 2,
           "categories": [
+            "RP-2",
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            10,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Not participating in night star task"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Working with same group"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "RP",
+            "CT",
+            "WPW"
+          ],
+          "nominates": [
+            21,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Blaming others, playing the victim card, and expecting more."
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "She is in the group, and performance is low."
+            }
+          ]
         }
       ]
     },
     {
       "id": "12",
       "name": "Black Pandi",
-      "dial_number": null,
+      "dial_number": "7669908404",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/12_pp.png",
@@ -531,7 +911,7 @@
     {
       "id": "13",
       "name": "Chandini",
-      "dial_number": null,
+      "dial_number": "7669908405",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/13_pp.png",
@@ -540,7 +920,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -566,16 +946,53 @@
         },
         {
           "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "RP",
+            "NOM",
+            "OP"
+          ],
+          "nominates": [
+            20,
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 20,
+              "comments": "Not active participants"
+            },
+            {
+              "nominate_part_id": 19,
+              "comments": "His comedy is hurting and doing body shaming"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM",
+            "OP"
+          ],
+          "nominates": [
+            1,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Behaving rudely and didn't apologize to me after the kitchen conflict."
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Doesn't understand the game, lacks focus, and frequently makes small mistakes."
+            }
+          ]
         }
       ]
     },
     {
       "id": "14",
       "name": "Savinya",
-      "dial_number": null,
+      "dial_number": "7669908420",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/14_pp.png",
@@ -592,7 +1009,8 @@
             "NOM",
             "OP",
             "CEL",
-            "EVI"
+            "EVI",
+            "EVH"
           ],
           "nominates": [
             17
@@ -609,7 +1027,7 @@
     {
       "id": "15",
       "name": "Raaghav",
-      "dial_number": null,
+      "dial_number": "7669908415",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/15_pp.png",
@@ -639,17 +1057,53 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "RP-2",
+            "DNM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            18,
+            20
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 18,
+              "comments": "Not doing anything"
+            },
+            {
+              "nominate_part_id": 20,
+              "comments": "Creating so many confusions"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM",
+            "LOP",
+            "OP",
+            "BPW"
+          ],
+          "nominates": [
+            21,
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Refuses to accept her flaws or mistakes."
+            },
+            {
+              "nominate_part_id": 19,
+              "comments": "He takes things too personally whenever he feels emotionally hurt."
+            }
+          ]
         }
       ]
     },
     {
       "id": "16",
       "name": "Kumaran",
-      "dial_number": null,
+      "dial_number": "7669908409",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/16_pp.png",
@@ -658,7 +1112,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -678,17 +1132,51 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "OP-2",
+            "NOM",
+            "CEL"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            10,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Not voicing out during conflicts"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Easily influecing"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "RP"
+          ],
+          "nominates": [
+            21,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "approching and taking negatively in any situation"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Influencing others."
+            }
+          ]
         }
       ]
     },
     {
       "id": "17",
       "name": "Dhanya Pallath",
-      "dial_number": null,
+      "dial_number": "7669908406",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/17_pp.png",
@@ -719,17 +1207,50 @@
         {
           "week": 2,
           "categories": [
-            "NOM"
+            "OP-2"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            11,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Being good for everyone"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "No fair game play"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM",
+            "OP"
+          ],
+          "nominates": [
+            16,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Lacks visibility and stays hidden in the game."
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Stubborn and refuses to change her decisions."
+            }
+          ]
         }
       ]
     },
     {
       "id": "18",
       "name": "Mukesh.K",
-      "dial_number": null,
+      "dial_number": "7669908411",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/18_pp.png",
@@ -758,16 +1279,55 @@
         },
         {
           "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "OP",
+            "LEAD",
+            "RP",
+            "NF"
+          ],
+          "nominates": [
+            13,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "Seems like just starting the game"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Not doing anything"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "RP",
+            "CT",
+            "CEL"
+          ],
+          "nominates": [
+            7,
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Misusing leader authority."
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "Lacks visibility in the game."
+            }
+          ]
         }
       ]
     },
     {
       "id": "19",
       "name": "Adavadi Ansar",
-      "dial_number": null,
+      "dial_number": "7669908401",
       "title": null,
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/19_pp.png",
@@ -776,7 +1336,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -795,16 +1355,54 @@
         },
         {
           "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "OP",
+            "LOP",
+            "RP"
+          ],
+          "nominates": [
+            2,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "Double decision during leadership"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "No skill or indivuality"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [
+            "NOM",
+            "RP",
+            "CT"
+          ],
+          "nominates": [
+            21,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "She is looking for ways to make small issues into big arguments."
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "\"Even after a heated argument about misusing her leader power, she continues to justify her actions and acts like she did nothing wrong.\""
+            }
+          ]
         }
       ]
     },
     {
       "id": "20",
       "name": "Manivannan",
-      "dial_number": null,
+      "dial_number": "7669908421",
       "title": null,
       "start_date": "2026-09-10",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/20_pp.png",
@@ -812,8 +1410,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-09-20",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -833,17 +1431,30 @@
         {
           "week": 2,
           "categories": [
+            "OP-2",
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            16,
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "very silent"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "No arguments, not valid points"
+            }
+          ]
         }
       ]
     },
     {
       "id": "21",
       "name": "Anandhi Ajay",
-      "dial_number": null,
+      "dial_number": "7669908422",
       "title": null,
       "start_date": "2026-09-14",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/21_pp.png",
@@ -851,20 +1462,55 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-09-26",
       "isNominated": false,
       "history": [
         {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "week": 2,
+          "categories": [
+            "RP",
+            "CT",
+            "OP",
+            "JAIL-2",
+            "WPW"
+          ],
+          "nominates": [
+            9,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Taking own decisions . Not discussing with anyone"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Not doing anything"
+            }
+          ]
         },
         {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "week": 3,
+          "categories": [
+            "NOM",
+            "RP",
+            "CEL",
+            "EVI"
+          ],
+          "nominates": [
+            17,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "She wastes her time and causes main issues in the kitchen."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Rapport didn't work out, and her tone feels harsh."
+            }
+          ]
         }
       ]
     }
@@ -1012,6 +1658,58 @@
       "graphOrder": 4,
       "created_at": "2026-09-09T22:35:42.000000Z",
       "updated_at": "2026-09-09T22:35:42.000000Z"
+    },
+    {
+      "id": 61,
+      "show_id": 6,
+      "name": "Direct Nomination",
+      "key": "DNM",
+      "color": "FFFF0000",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": null,
+      "created_at": "2026-09-06T21:10:25.000000Z",
+      "updated_at": "2026-09-06T09:41:04.000000Z"
+    },
+    {
+      "id": 63,
+      "show_id": 6,
+      "name": "Nomination Free",
+      "key": "NF",
+      "color": "FF0066FF",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 2,
+      "created_at": "2026-09-18T23:15:54.000000Z",
+      "updated_at": "2025-10-05T09:42:13.000000Z"
+    },
+    {
+      "id": 64,
+      "show_id": 6,
+      "name": "Best Performer",
+      "key": "BPW",
+      "color": "FF2E9F49",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 3,
+      "created_at": "2026-09-22T23:37:40.000000Z",
+      "updated_at": "2025-10-05T09:42:13.000000Z"
+    },
+    {
+      "id": 65,
+      "show_id": 6,
+      "name": "Evicted By Housemates",
+      "key": "EVH",
+      "color": "FF741b48",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 4,
+      "created_at": "2026-09-26T12:54:00.000000Z",
+      "updated_at": "2026-09-26T12:54:00.000000Z"
     }
   ]
 }
