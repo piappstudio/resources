@@ -51,17 +51,17 @@
         },
         {
           "week": 3,
-          "totalVotes": 48364,
+          "totalVotes": 84218,
           "players": [
             {
               "id": 8,
-              "vote": 41028,
-              "percentage": 84.8
+              "vote": 70260,
+              "percentage": 83.4
             },
             {
               "id": 4,
-              "vote": 7336,
-              "percentage": 15.2
+              "vote": 13958,
+              "percentage": 16.6
             }
           ]
         }
