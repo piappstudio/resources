@@ -896,6 +896,34 @@
           ]
         }
       ]
+    },
+    {
+      "id": "17",
+      "name": "Mithilesh",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-10-25",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/17_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/17.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": true
+    },
+    {
+      "id": "18",
+      "name": "Apoorva",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-09-25",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/18_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/18.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": true
     }
   ],
   "category": [
