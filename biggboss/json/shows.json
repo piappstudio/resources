@@ -70,7 +70,9 @@
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/logo.png",
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season20/main.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season20/trends.json",
-      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season20/votes.json"
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season20/votes.json",
+      "timeline": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season20/timeline.json"
+
     },
     {
       "title": "BiggBoss Tamil Season 10",
@@ -83,7 +85,8 @@
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/logo.png",
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/main.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/trends.json",
-      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/votes.json"
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/votes.json",
+      "timeline": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season10/timeline.json"
     },
     {
       "title": "BiggBoss Telugu Season 10",
@@ -96,7 +99,8 @@
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/logo.png",
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/telugu/season10/main.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/telugu/season10/trends.json",
-      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/telugu/season10/votes.json"
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/telugu/season10/votes.json",
+      "timeline": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/telugu/season10/timeline.json"
     }
   ],
   "reviewers": [
