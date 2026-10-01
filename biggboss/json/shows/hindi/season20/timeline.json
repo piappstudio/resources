@@ -95,5 +95,17 @@
       "title": "Bigg Boss 20 Grand Premiere",
       "message": "Salman Khan hosts Season 20 (Tathas-two / Tathastu) on JioHotstar at 9 PM and Colors TV at 10:30 PM. Chess metaphor for strategy. He performs hit songs. Theme: two lives, Extra Jeevan Daan, hidden Room 20. Digital-first 20th-anniversary season launched with other language editions the same weekend."
     }
+  ],
+  "colors": [
+    { "tag": "Eviction", "color": "#F44336", "filter": ["evict", "evictions"] },
+    { "tag": "Nomination", "color": "#E91E63", "filter": ["nominat"] },
+    { "tag": "Task", "color": "#2196F3", "filter": ["task", "vote", "perform"] },
+    { "tag": "Captain", "color": "#FF9800", "filter": ["captain"] },
+    { "tag": "Twist", "color": "#4CAF50", "filter": ["twist", "restore", "lifeline"] },
+    { "tag": "Entry", "color": "#9C27B0", "filter": ["entry", "comeback", "wildcard"] },
+    { "tag": "Conflict", "color": "#FF5722", "filter": ["fight", "clash", "argue", "explode", "tension"] },
+    { "tag": "Premiere", "color": "#3F51B5", "filter": ["premiere", "launch"] },
+    { "tag": "WeekendKaVaar", "color": "#673AB7", "filter": ["weekend", "salman", "guest", "promote"] },
+    { "tag": "Update", "color": "#2196F3", "filter": [] }
   ]
 }

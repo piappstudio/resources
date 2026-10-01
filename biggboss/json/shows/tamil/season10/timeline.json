@@ -130,5 +130,17 @@
       "title": "Season 10 Grand Premiere",
       "message": "Bigg Boss Tamil 10 (Carnivizha) launches on Star Vijay and JioHotstar with host Vijay Sethupathi. Theme is a 10-year carnival. House features a gender-neutral bedroom, captain bedroom, Common Man mural, central courtyard dining table, and a new Democracy Room for leader vs opposition."
     }
+  ],
+  "colors": [
+    { "tag": "Eviction", "color": "#F44336", "filter": ["evict", "evictions"] },
+    { "tag": "Nomination", "color": "#E91E63", "filter": ["nominat"] },
+    { "tag": "Task", "color": "#2196F3", "filter": ["task", "vote", "perform"] },
+    { "tag": "Captain", "color": "#FF9800", "filter": ["captain"] },
+    { "tag": "Twist", "color": "#4CAF50", "filter": ["twist", "restore", "lifeline"] },
+    { "tag": "Entry", "color": "#9C27B0", "filter": ["entry", "comeback", "wildcard"] },
+    { "tag": "Conflict", "color": "#FF5722", "filter": ["fight", "clash", "argue", "explode", "tension"] },
+    { "tag": "Premiere", "color": "#3F51B5", "filter": ["premiere", "launch"] },
+    { "tag": "Host", "color": "#673AB7", "filter": ["weekend", "host", "review", "vijay", "sethupathi"] },
+    { "tag": "Update", "color": "#2196F3", "filter": [] }
   ]
 }

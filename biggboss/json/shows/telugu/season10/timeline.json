@@ -90,5 +90,17 @@
       "title": "Bigg Boss Telugu 10 Premiere",
       "message": "Dasavatharam / Dhasavatharam season launches 7 PM on Star Maa and JioHotstar. Nagarjuna hosts again. 24x7 live on JioHotstar. Pre-show Agnipariksha 2 sent commoners into the main house. Jhansi won a golden ticket."
     }
+  ],
+  "colors": [
+    { "tag": "Eviction", "color": "#F44336", "filter": ["evict", "evictions"] },
+    { "tag": "Nomination", "color": "#E91E63", "filter": ["nominat"] },
+    { "tag": "Task", "color": "#2196F3", "filter": ["task", "vote", "perform"] },
+    { "tag": "Captain", "color": "#FF9800", "filter": ["captain"] },
+    { "tag": "Twist", "color": "#4CAF50", "filter": ["twist", "restore", "lifeline"] },
+    { "tag": "Entry", "color": "#9C27B0", "filter": ["entry", "comeback", "wildcard"] },
+    { "tag": "Conflict", "color": "#FF5722", "filter": ["fight", "clash", "argue", "explode", "tension"] },
+    { "tag": "Premiere", "color": "#3F51B5", "filter": ["premiere", "launch"] },
+    { "tag": "Host", "color": "#673AB7", "filter": ["weekend", "host", "review", "nagarjuna"] },
+    { "tag": "Update", "color": "#2196F3", "filter": [] }
   ]
 }
