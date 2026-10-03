@@ -12,7 +12,8 @@
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/logo.png",
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7_trends.json",
-      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season7/votes.json"
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season7/votes.json",
+      "timeline": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season7/timeline.json"
     },
     {
       "title": "BiggBoss Tamil Season8",
@@ -26,8 +27,8 @@
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/logo.png",
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/tamil_session_8.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/tamil_session_8_trends.json",
-      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/votes.json"
-
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/votes.json",
+      "timeline": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/timeline.json"
     },
     {
       "title": "BiggBoss Hindi Season 19",
@@ -41,8 +42,8 @@
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season19/logo.png",
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/main.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/trends.json",
-      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/votes.json"
-
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/votes.json",
+      "timeline": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/hindi/season19/timeline.json"
     },
      {
       "title": "BiggBoss Tamil Season 9",
@@ -56,8 +57,8 @@
       "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season9/logo.png",
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/main.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/trends.json",
-      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/votes.json"
-
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/votes.json",
+      "timeline": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season9/timeline.json"
     },
     {
       "title": "BiggBoss Hindi Season 20",
