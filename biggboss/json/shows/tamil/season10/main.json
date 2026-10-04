@@ -1864,6 +1864,48 @@
           ]
         }
       ]
+    },
+    {
+      "id": "22",
+      "name": "TTF Vasan",
+      "dial_number": "",
+      "title": null,
+      "start_date": "2026-10-04",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/22_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/22.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false
+    },
+    {
+      "id": "23",
+      "name": "Karishma",
+      "dial_number": "",
+      "title": null,
+      "start_date": "2026-10-04",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/23_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/23.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false
+    },
+    {
+      "id": "24",
+      "name": "Akshitha Ashok",
+      "dial_number": "",
+      "title": null,
+      "start_date": "2026-10-04",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/24_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/24.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false
     }
   ],
   "category": [
