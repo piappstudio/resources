@@ -25,7 +25,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -80,6 +80,21 @@
             {
               "nominate_part_id": 3,
               "comments": "For doing prank in the show"
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
             }
           ]
         }
@@ -155,6 +170,19 @@
               "comments": "Less entertainment factor"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Scout OP chose to sacrifice his safety to save Aasif Khan, resulting in Scout OP getting nominated while Aasif stayed safe."
+            }
+          ]
         }
       ]
     },
@@ -170,7 +198,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -225,6 +253,21 @@
               "comments": "We are very close and we had good rapo"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
         }
       ]
     },
@@ -239,8 +282,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-09-27",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -281,7 +324,8 @@
         {
           "week": 3,
           "categories": [
-            "NOM"
+            "NOM",
+            "EVI"
           ],
           "nominates": [
             1,
@@ -312,7 +356,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -365,6 +409,21 @@
             {
               "nominate_part_id": 15,
               "comments": "Nominating her soft target"
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
             }
           ]
         }
@@ -438,7 +497,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -493,6 +552,26 @@
             {
               "nominate_part_id": 5,
               "comments": "She acting equally with all housemates and she run home well"
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            8,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
             }
           ]
         }
@@ -569,6 +648,26 @@
               "comments": "Entertainment"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
+            }
+          ]
         }
       ]
     },
@@ -584,7 +683,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -639,6 +738,26 @@
               "comments": "She is such a feel warm person"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            8,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
+            }
+          ]
         }
       ]
     },
@@ -654,7 +773,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -711,6 +830,14 @@
               "comments": "Has different interpretation, and he is negative"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -783,6 +910,19 @@
               "comments": "I want her to be saved her"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Mahhi sacrificed her own safety to save Arishfa Khan, leaving Mahhi nominated and Arishfa safe."
+            }
+          ]
         }
       ]
     },
@@ -845,6 +985,14 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [
+            "Captain-2"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ],
       "isCaptain": true
@@ -861,7 +1009,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -916,6 +1064,21 @@
               "comments": "He already has negative perspective on him. So wanted to use it"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
         }
       ]
     },
@@ -931,7 +1094,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -990,6 +1153,21 @@
               "comments": "Everyone is try to target him"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
         }
       ]
     },
@@ -1004,7 +1182,7 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-10-01",
       "isNominated": false,
       "history": [
         {
@@ -1060,6 +1238,22 @@
               "comments": "She is very open and getting into the game now"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
         }
       ]
     },
@@ -1075,7 +1269,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1130,6 +1324,14 @@
               "comments": "He is cornering us, and it is very difficult to handle him"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     }

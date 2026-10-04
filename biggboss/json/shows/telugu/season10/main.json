@@ -25,7 +25,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -70,6 +70,14 @@
               "comments": "Triggering, provoking and stealing coffee. Entered my personal space"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -129,6 +137,14 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -144,7 +160,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -182,9 +198,16 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "4",
@@ -260,6 +283,14 @@
               "comments": "No coordination & balance"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -275,7 +306,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -313,6 +344,14 @@
         {
           "week": 3,
           "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -363,7 +402,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -401,6 +440,14 @@
               "comments": "Raising too much of voice for small issues"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -460,6 +507,14 @@
               "comments": "Balloon task partiality judgment"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -503,7 +558,7 @@
           "nomination_detail": [
             {
               "nominate_part_id": 1,
-              "comments": "She said one peep word that hurts me. I don\u2019t know she know the meaning or not"
+              "comments": "She said one peep word that hurts me. I don’t know she know the meaning or not"
             },
             {
               "nominate_part_id": 16,
@@ -513,6 +568,14 @@
         },
         {
           "week": 3,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
           "categories": [
             "NOM"
           ],
@@ -533,7 +596,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -577,6 +640,12 @@
               "comments": "Used me for his own benefit"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -624,6 +693,12 @@
         },
         {
           "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
           "categories": [],
           "nominates": [],
           "nomination_detail": []
@@ -679,6 +754,12 @@
               "comments": "Using background sympathy"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -774,6 +855,14 @@
               "comments": "Faking the personality and your personality will not work in biggboss"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -840,6 +929,14 @@
               "comments": "Behaving like Varshini's remote control"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -894,27 +991,36 @@
               "comments": "taking game lightly. Targeting Thrigun."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
     {
       "id": "17",
       "name": "Mithilesh",
-      "dial_number": null,
-      "title": null,
-      "start_date": "2026-10-25",
+      "dial_number": "",
+      "title": "15L Cashbox",
+      "start_date": "2026-09-25",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/17_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/17.png",
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true
+      "eliminated_date": "2026-09-27",
+      "isNominated": false,
+      "history": []
     },
     {
       "id": "18",
       "name": "Apoorva",
-      "dial_number": null,
+      "dial_number": "",
       "title": null,
       "start_date": "2026-09-25",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/18_pp.png",
@@ -923,7 +1029,36 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ],
+      "isCaptain": true
     }
   ],
   "category": [

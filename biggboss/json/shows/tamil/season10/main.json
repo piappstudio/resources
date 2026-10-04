@@ -22,7 +22,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/1_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/1.png",
       "order": null,
-      "re_entry_date": null,
+      "re_entry_date": "2026-09-27",
       "re_evicted_date": null,
       "eliminated_date": "2026-09-25",
       "isNominated": false,
@@ -87,6 +87,26 @@
             {
               "nominate_part_id": 6,
               "comments": "Unnecessarily triggers others and plays mind games, while acting innocent to project a soft image and plan bigger moves."
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            10,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "One side captaincy, unfair game"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Not taking any steps to create space"
             }
           ]
         }
@@ -202,6 +222,26 @@
               "comments": "Playing carelessly"
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "CT"
+          ],
+          "nominates": [
+            10,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "For not picking right contestants in exit board"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Have capabilities, but not shown well"
+            }
+          ]
         }
       ]
     },
@@ -283,6 +323,24 @@
               "comments": "Playing the victim card."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            16,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Less efforts comparatively"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Taking very emotionally"
+            }
+          ]
         }
       ]
     },
@@ -295,7 +353,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/4_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/4.png",
       "order": null,
-      "re_entry_date": null,
+      "re_entry_date": "2026-09-27",
       "re_evicted_date": null,
       "eliminated_date": "2026-09-18",
       "isNominated": false,
@@ -337,6 +395,33 @@
             {
               "nominate_part_id": 8,
               "comments": "Just speaking for sake"
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM",
+            "CT"
+          ],
+          "nominates": [
+            7,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "In culture behavior of splitting, and in favor game"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "Not doing anything in Rabbit task"
             }
           ]
         }
@@ -413,6 +498,24 @@
               "comments": "Sathiga and Lakshmipriya games are so similar that it feels like they might have pre-planned their strategy together."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            7,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Unfair and undeserve in this house"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Not having clarity, just manipulating the system"
+            }
+          ]
         }
       ]
     },
@@ -428,7 +531,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -493,6 +596,24 @@
               "comments": "She puts on a lovely persona for the cameras, but her actual behavior is very different."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            7,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Not speaking face to face"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Bone issue,  she doing it for camera, otherwise no valid points"
+            }
+          ]
         }
       ]
     },
@@ -508,7 +629,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -568,6 +689,24 @@
               "comments": "I didn't see any powerful activity or performance from him in the LOP role."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            16,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Getting over chances though not doing well"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Playing others weaknesses"
+            }
+          ]
         }
       ]
     },
@@ -583,7 +722,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -640,6 +779,27 @@
             {
               "nominate_part_id": 18,
               "comments": "First Preference to his friends circle."
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM",
+            "WPW"
+          ],
+          "nominates": [
+            5,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "For manipulating, using other's word for the same"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "Can be better leadership"
             }
           ]
         }
@@ -716,6 +876,24 @@
               "comments": "Low contribution and lacks visibility in the game."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            15,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Not voicing out as opposition leader"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "Reasons are not enough in exist board"
+            }
+          ]
         }
       ]
     },
@@ -790,6 +968,26 @@
             {
               "nominate_part_id": 13,
               "comments": "Lacks performance compared to others."
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "CT"
+          ],
+          "nominates": [
+            15,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Behind someone mirror"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Pointless talking, just for sake"
             }
           ]
         }
@@ -879,6 +1077,24 @@
               "comments": "She is in the group, and performance is low."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            17,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "Influencing the leader"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Can go any extent for game. Not fair enough"
+            }
+          ]
         }
       ]
     },
@@ -920,7 +1136,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -986,6 +1202,12 @@
               "comments": "Doesn't understand the game, lacks focus, and frequently makes small mistakes."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -998,7 +1220,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/14_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/14.png",
       "order": null,
-      "re_entry_date": null,
+      "re_entry_date": "2026-09-27",
       "re_evicted_date": null,
       "eliminated_date": "2026-09-11",
       "isNominated": false,
@@ -1021,6 +1243,39 @@
               "comments": "Less competitive"
             }
           ]
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM",
+            "WPW"
+          ],
+          "nominates": [
+            16,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not active"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Already prepare to leave"
+            }
+          ]
         }
       ]
     },
@@ -1036,7 +1291,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1097,6 +1352,24 @@
               "comments": "He takes things too personally whenever he feels emotionally hurt."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            10,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Unfair & very bad captaincy"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Getting breakdown for everything"
+            }
+          ]
         }
       ]
     },
@@ -1104,14 +1377,14 @@
       "id": "16",
       "name": "Kumaran",
       "dial_number": "7669908409",
-      "title": null,
+      "title": "5L Cashbox",
       "start_date": "2026-09-06",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/16_pp.png",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/16.png",
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-09-30",
       "isNominated": false,
       "history": [
         {
@@ -1168,6 +1441,27 @@
             {
               "nominate_part_id": 1,
               "comments": "Influencing others."
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            7,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Using situation in her favor instead of asking sorry for splitting"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Speaking with assumptions without any clarity"
             }
           ]
         }
@@ -1242,6 +1536,27 @@
             {
               "nominate_part_id": 7,
               "comments": "Stubborn and refuses to change her decisions."
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [
+            "NOM",
+            "CT"
+          ],
+          "nominates": [
+            16,
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not enough scenes"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Failed as opposition leader"
             }
           ]
         }
@@ -1321,6 +1636,24 @@
               "comments": "Lacks visibility in the game."
             }
           ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            15,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Not using opposition leader opportunities"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Not shown enough"
+            }
+          ]
         }
       ]
     },
@@ -1336,7 +1669,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1394,6 +1727,24 @@
             {
               "nominate_part_id": 7,
               "comments": "\"Even after a heated argument about misusing her leader power, she continues to justify her actions and acts like she did nothing wrong.\""
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [
+            7,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "For splitting in task"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Waiting for weekends instead of addressing the issues"
             }
           ]
         }
