@@ -4,15 +4,57 @@
 
     {
       "date": "2026-10-08",
-      "title": "TTF Vasan & Chandini evicted 2nd in Magic brick task",
-      "message": "TTF Vasan & Chandini lost 10 life line and got evicted 2nd from magic bricks task",
+      "title": "Vasan and Chandini Out of Magic Potion",
+      "message": "Magic Potion task, not a house eviction. TTF Vasan and Chandini are the second pair knocked out after all 10 life bottles are filled. Round 2 adds a B6 weapon: six blue bricks can pause another team. Prithvi and Asmitha say they will use it on Avinash and Akshitha.",
       "tag": "Task"
     },
     {
       "date": "2026-10-08",
-      "title": "Dhanya & Karishama evicted first in Magic brick task",
-      "message": "Dhanya & Karishma lost 10 life line and got evicted first from magic bricks task",
+      "title": "Dhanya and Karishma Out of Magic Potion",
+      "message": "Dhanya and Karishma are the first pair out of the Magic Potion task after their 10 life bottles are filled. They are still in the house. During the task Asmitha tells Dhanya she will finish her and send her out.",
       "tag": "Task"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Jason and Avinash Clash",
+      "message": "Magic Potion day. Jason and Avinash fight during the task and the house splits on where gameplay ends. Muniyammal plays it with Muthazhagi and tells Bigg Boss that six of their bottles are still alive.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Magic Potion Task Starts",
+      "message": "Pairs collect blue, green and red bricks to fill rival life bottles. A pair drops out of the task when all 10 bottles are filled. The first pair out faces a heavy punishment. Jason and Mukesh hold their station the longest until Ansar fills one bottle. TTF Vasan’s remarks about captain Akshitha anger Jason. Opposition leader Muniyammal backs Vasan.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Vasan and Jason Fight Over Slippers",
+      "message": "Jason tells Dhanya that slippers left in one area will be thrown out. TTF Vasan objects. The argument turns aggressive and the house pulls them apart.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Week 5 Nominations",
+      "message": "New wildcards TTF Vasan and Karishma cannot be nominated. Captain Akshitha is also safe. Nominated: Avinash, Chandini, Dhanya, Jason, Lakshmi Priya, Muthazhagi, Raaghav and Shama.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Akshitha Wins Captaincy",
+      "message": "Week 5 captaincy is only among the new wildcards. Housemates drop balls for their pick: Akshitha 271, Karishma 40, TTF Vasan 16. Akshitha becomes captain. Opposition, led by Muniyammal: Ansar, Mukesh, Shathiga, Dhanya, TTF Vasan and Karishma. Lakshmi Priya heads the kitchen with Asmitha and Chandini. Jason is Akshitha’s advisor. The ruling side’s rule that they eat first is rejected by the opposition.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "TTF Vasan, Karishma and Akshitha Enter",
+      "message": "Vijay TV wildcard night. YouTuber TTF Vasan, commoner Karishma and TV actor Akshitha Ashok enter. In the entry task Vasan says Jason is playing the game wrong, and Karishma calls him an empty bin who targets a different girl every week. Dhanya and Shama clap. Akshitha, Avinash’s sister, hugs him and tells him that talking will not win.",
+      "tag": "Entry"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Javeed and Savinya Evicted Again",
+      "message": "Rope twist ends. Savinya is voted out for the second time. Javeed is out again after the rope disconnects near the pool, a task rule break. Kumaran had already taken the ₹5 lakh and left. Lakshmi Priya, Dhanya and Asmitha stay from the rope group.",
+      "tag": "Eviction"
     },
     {
       "date": "2026-10-01",

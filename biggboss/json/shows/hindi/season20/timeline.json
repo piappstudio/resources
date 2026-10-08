@@ -1,15 +1,81 @@
 {
   "timelines": [
     {
+      "date": "2026-10-08",
+      "title": "Kanika’s Birthday in the House",
+      "message": "JioHotstar 24-hour feed: the house marks Kanika Mann’s birthday. Gullu gives her a ‘Sweet 16’ compliment. Mahhi and Qazi question whether the ration is being split equally. No new captain or eviction is announced.",
+      "tag": "Update"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Seven Captaincy Contenders",
+      "message": "Aasif hosts a three-round debate. Kanika, Love, Uditi, Arishfa, Yung and Scout win rounds and enter the captaincy race. Aasif also qualifies for running the task. Qazi and Scout’s round becomes a fight: Scout pushes Qazi and alleges that Qazi spat. Aman is pulled in. Amrapali says she never got a debate slot.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Gullu Brings Up Uditi’s Ex",
+      "message": "Kitchen-duty fight. Uditi calls Gullu a thief. Gullu answers with a comment about her ex. Uditi breaks down. He apologises. She refuses to accept it and ignores him.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Week 5 Nominations",
+      "message": "Mary Kom punches the nominated photos. Nominated: Qazi, Mahhi, Kanika, Aman, Love, Arishfa, Mary Kom and Gullu. Captain Uditi uses her direct nomination on Mary, saying she looks lost in the game. Safe: Uditi, Yung, Scout, Aasif and Amrapali. Yung says the house is sidelining him. Uditi and Qazi win the Style Icon promo task.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Uditi Breaks From Mahhi",
+      "message": "Day 28. A fly on Qazi’s plate turns into a kitchen fight. Uditi says she will cook separately and change her group. Mahhi says she expected the break and regrets saving Arishfa. Arishfa tells her to nominate her next time. Scout tells Yung that Love feels like a sister, then that those feelings are changing and that Gullu’s closeness to her bothers him. Yung tells him to keep distance. Bigg Boss stops them talking in signs.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Mary Kom Loses a Lifeline",
+      "message": "Weekend Ka Vaar, after Rhiti’s mid-week exit. Salman says the rest are not safe and warns Yung and Scout that they are on one life. Mary Kom has the fewest public votes and loses a lifeline. She stays. No second eviction this weekend.",
+      "tag": "Twist"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Udta Teer Weekend",
+      "message": "Mika Singh opens Weekend Ka Vaar and runs a Chup-sticker task. Guests: Veer Pariya, Aafiya Sayed and Nikhil Vijay for Prem Kitanu; Asha Negi and Abhay Mahajan for Ali Baba Aur 40 Bhoot; Ayushmann Khurrana and Sara Ali Khan for Udta Teer. Sara’s praise for Qazi irritates Kanika. The teams name an ‘Udta Teer’ in each group.",
+      "tag": "WeekendKaVaar"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Salman Confronts the House",
+      "message": "Weekend Ka Vaar. Salman tells Qazi he should have stopped the lollipop talk once Kanika was uncomfortable. He says the house goes quiet only before Weekend Ka Vaar and denies favouring Qazi. He corrects Arishfa for judging Mahhi by her eyes. He teases a Rhiti return, then sends the housemates back without her. Mahhi and Arishfa clash again after he leaves.",
+      "tag": "WeekendKaVaar"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Rhiti Tiwari Evicted",
+      "message": "First mid-week eviction. Yung, Mahhi and Uditi take Rhiti’s last lifeline and Bigg Boss asks her to leave. She says she showed her real personality. Amrapali regrets nominating her. The other Week 4 nominees stay up for the public vote. House is down to 13.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Uditi Becomes Captain",
+      "message": "Captaincy task with Aasif as dictator. Uditi picks Aman, Yung picks Scout, Mahhi picks Qazi. They balance a ball on sticks while the house interferes. Uditi wins. Gullu starts cooking sweets from her ration to annoy her. Mary calls the new captain over-smart.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Uditi Calls Love’s Game Fake",
+      "message": "Uditi tells Scout and Yung that Love’s closeness to Gullu is cringe and that Love’s game is fake. Love confronts her. The argument splits the groups further. Amrapali asks Scout why he still sits with people who mock their side.",
+      "tag": "Conflict"
+    },
+    {
       "date": "2026-10-02",
       "title": "Aman Wins Boss Meter",
-      "message": "JioHotstar Boss Meter: Aman Gandhi is this week’s Boss, ahead of Gullu. This is a Boss Meter title, not house captaincy. The captaincy race is still open. Tonight’s promo is Love Gill vs Uditi Singh. Weekend Ka Vaar brings Ali Baba Aur 40 Bhoot guests. No new eviction result yet.",
+      "message": "JioHotstar Boss Meter: Aman Gandhi is this week’s Boss, ahead of Gullu. This is a Boss Meter title, not house captaincy. Tonight’s promo is Love Gill vs Uditi Singh. Weekend Ka Vaar promos bring Ali Baba Aur 40 Bhoot guests.",
       "tag": "Update"
     },
     {
       "date": "2026-10-01",
       "title": "Rhiti Dropped From Captaincy Race",
-      "message": "Dolly Doll captaincy task. Mary Kom is dictator. Love Gill runs multiple rounds, makes Qazi break his own miniature, asks Gullu to propose to her, and saves Yung DSA. Yung, Mahhi and Uditi then vote Rhiti Tiwari out of the captaincy race. She is not shown as evicted from the house.",
+      "message": "Dolly Doll captaincy task. Mary Kom is dictator. Love Gill runs multiple rounds, makes Qazi break his own miniature, asks Gullu to propose to her, and saves Yung DSA. Yung, Mahhi and Uditi then vote Rhiti Tiwari out of the captaincy race. She had already lost one life.",
       "tag": "Captain"
     },
     {
