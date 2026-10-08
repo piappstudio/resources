@@ -13,11 +13,11 @@ This skill automates tracking and updating daily timeline events (`timeline.json
 
 Active shows are dynamically identified from [shows.json](file:///Users/apple/AndroidStudioProjects/resources/biggboss/json/shows.json) where `"end_date": null`.
 
-| Show Name                     | Language / Season | Data Directory                         | Wikipedia Link                                                                                 | Official X Handles                  | Hashtags            |
-|:------------------------------|:------------------|:---------------------------------------|:-----------------------------------------------------------------------------------------------|:------------------------------------|:--------------------|
-| **BiggBoss Tamil Season 10**  | `tamil/season10`  | `biggboss/json/shows/tamil/season10/`  | [BB Tamil 10 Wikipedia](https://en.wikipedia.org/wiki/Bigg_Boss_(Tamil_TV_series)_season_10)   | `@VijayTelevision`, `@DisneyPlusHS` | `#BiggBossTamil10`  |
-| **BiggBoss Telugu Season 10** | `telugu/season10` | `biggboss/json/shows/telugu/season10/` | [BB Telugu 10 Wikipedia](https://en.wikipedia.org/wiki/Bigg_Boss_(Telugu_TV_series)_season_10) | `@StarMaa`, `@DisneyPlusHSTel`      | `#BiggBossTelugu10` |
-| **BiggBoss Hindi Season 20**  | `hindi/season20`  | `biggboss/json/shows/hindi/season20/`  | [BB Hindi 20 Wikipedia](https://en.wikipedia.org/wiki/Bigg_Boss_(Hindi_TV_series)_season_20)   | `@ColorsTV`, `@JioCinema`           | `#BiggBoss20`       |
+| Show Name                     | Language / Season | Data Directory                         | Wikipedia Link                                                                                 | Official X Handles | Hashtags                 |
+|:------------------------------|:------------------|:---------------------------------------|:-----------------------------------------------------------------------------------------------|:-------------------|:-------------------------|
+| **BiggBoss Tamil Season 10**  | `tamil/season10`  | `biggboss/json/shows/tamil/season10/`  | [BB Tamil 10 Wikipedia](https://en.wikipedia.org/wiki/Bigg_Boss_(Tamil_TV_series)_season_10)   | `@vijaytelevision` | `#BiggBossTamilSeason10` |
+| **BiggBoss Telugu Season 10** | `telugu/season10` | `biggboss/json/shows/telugu/season10/` | [BB Telugu 10 Wikipedia](https://en.wikipedia.org/wiki/Bigg_Boss_(Telugu_TV_series)_season_10) | `@StarMaa`,        | `#BiggBossSeason10`      |
+| **BiggBoss Hindi Season 20**  | `hindi/season20`  | `biggboss/json/shows/hindi/season20/`  | [BB Hindi 20 Wikipedia](https://en.wikipedia.org/wiki/Bigg_Boss_(Hindi_TV_series)_season_20)   | `@HotstarReality`  | `#BiggBoss20`            |
 
 ---
 
@@ -41,7 +41,7 @@ Active shows are dynamically identified from [shows.json](file:///Users/apple/An
    - Look for recent episode summaries, daily log tables, weekly nomination/eviction tables, or wildcard entry announcements occurring after `last_date`.
 
 2. **Official X (Twitter) Handles & Promos**:
-   - Check official handles (`@VijayTelevision`, `@StarMaa`, `@ColorsTV`, `@DisneyPlusHS`, `@JioCinema`) for:
+   - Check official handles (`@vijaytelevision` with `#BiggBossTamilSeason10`, `@StarMaa` with `#BiggBossSeason10`, `@HotstarReality` with `#BiggBoss20`) for:
      - Daily morning & afternoon promo titles/descriptions.
      - Captaincy task winners and contender announcements.
      - Eviction alerts, walkouts, or cash-box exits.
