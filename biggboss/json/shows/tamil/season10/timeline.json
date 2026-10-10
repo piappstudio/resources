@@ -2,20 +2,32 @@
   "timelines": [
 
     {
+      "date": "2026-10-09",
+      "title": "Vinoth & Shama Out of Magic Potion (5th Exit)",
+      "message": "Ansar & Shathiga filled last life line of Vinoth & Shama",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Avinash & Akshitha Out of Magic Potion (4th Exit)",
+      "message": "Ansar & Shathiga, Prithivi & Ashmitha filled last life line of Avinash & Akshitha",
+      "tag": "Task"
+    },
+    {
       "date": "2026-10-08",
-      "title": "Jason and Mukesh Out of Magic Potion",
+      "title": "Jason and Mukesh Out of Magic Potion (3rd Exit)",
       "message": "Lakshmipriya & Vintoh filled last life line of Jason & Mukesh",
       "tag": "Task"
     },
     {
       "date": "2026-10-07",
-      "title": "Vasan and Chandini Out of Magic Potion",
+      "title": "Vasan and Chandini Out of Magic Potion (2nd Exit)",
       "message": "Magic Potion task, not a house eviction. TTF Vasan and Chandini are the second pair knocked out after all 10 life bottles are filled. Round 2 adds a B6 weapon: six blue bricks can pause another team. Prithvi and Asmitha say they will use it on Avinash and Akshitha.",
       "tag": "Task"
     },
     {
       "date": "2026-10-07",
-      "title": "Dhanya and Karishma Out of Magic Potion",
+      "title": "Dhanya and Karishma Out of Magic Potion (1st Exit)",
       "message": "Dhanya and Karishma are the first pair out of the Magic Potion task after their 10 life bottles are filled. They are still in the house. During the task Asmitha tells Dhanya she will finish her and send her out.",
       "tag": "Task"
     },
