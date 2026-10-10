@@ -62,12 +62,16 @@ def get_voting_results(url, button_text, participants=None):
                     button.click()
                     print(f"Clicked '{button_text}' in iframe {index}.")
                     found_button = True
+                    driver.switch_to.default_content()
                     break # Stop once found
                 except:
                     driver.switch_to.default_content()
 
         if found_button:
             time.sleep(5) # Wait for results to render
+
+        # Ensure we are in default content before extracting
+        driver.switch_to.default_content()
 
         # 2. Extract Data (Check main and then iframes)
         def extract_names(d, p_list):
@@ -111,7 +115,9 @@ def get_voting_results(url, button_text, participants=None):
             
             # If not found in main, check iframes
             if all(v == "Not found" for v in mapped_results.values()):
-                for index, iframe in enumerate(iframes):
+                driver.switch_to.default_content()
+                current_iframes = driver.find_elements(By.TAG_NAME, "iframe")
+                for index, iframe in enumerate(current_iframes):
                     try:
                         driver.switch_to.frame(iframe)
                         iframe_res = extract_names(driver, participants)
@@ -119,7 +125,7 @@ def get_voting_results(url, button_text, participants=None):
                             mapped_results = iframe_res
                             print(f"Found participant data in iframe {index}.")
                             break
-                    except:
+                    except Exception as e:
                         pass
                     finally:
                         driver.switch_to.default_content()
