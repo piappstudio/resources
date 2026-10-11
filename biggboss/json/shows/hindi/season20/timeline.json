@@ -1,6 +1,36 @@
 {
   "timelines": [
     {
+      "date": "2026-10-10",
+      "title": "Manish Goel Enters",
+      "message": "Weekend Ka Vaar. Salman brings TV actor Manish Goel on stage as if he is promoting a project, then tells the house he is staying. He is the first wildcard. Housemates welcome him. The Sunday promo teases a second wildcard. The name is not out.",
+      "tag": "Entry"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Qazi Wins ₹5 Lakh Style Icon",
+      "message": "Salman gives Qazi Touqeer the Flipkart Style Icon award and ₹5 lakh. Kanika says she is jealous. Wamiqa Gabbi had already singled him out as the housemate she enjoys. No eviction this Saturday.",
+      "tag": "Update"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Salman Reviews Uditi and Gullu Splashes Water",
+      "message": "Weekend Ka Vaar. Salman says the house finally showed its real side, tells Aasif and Gullu to open up, and wishes Kanika on her birthday. He questions Yung DSA and Scout. On Uditi’s captaincy, Gullu, Kanika, Mahhi and Qazi call it ‘Dimaag Ka Dahi’; Scout, Yung, Amrapali and Love call it right. Gullu is told to pour water on people he dislikes and hits Amrapali, Yung and Arishfa. Amrapali objects after her clothes get soaked. Earlier Arishfa cried after a hygiene fight and called Gullu a bully. Guests: Rannvijay Singha, Neha Dhupia, Abhishek Malhan and Prince Narula for Roadies Rebirth; Rajkummar Rao and Wamiqa Gabbi for Prahaar.",
+      "tag": "WeekendKaVaar"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Aasif Becomes Captain",
+      "message": "Love Gill ranks the captaincy contenders after winning the ration task. She puts herself first, Yung second, Scout third, Arishfa fourth, Aasif fifth, Uditi sixth and Kanika last. Bigg Boss offers 35% ration if she picks Kanika and 25% if she picks Aasif. Choosing herself restores nothing. She picks Aasif. He becomes captain and the house gets 25% ration.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Kanika and Love Clash Over the Ration Pick",
+      "message": "Love and Kanika fight again after Love ranks Kanika last and gives up extra ration. Love says she wanted a captain who finds everyone beautiful. Amrapali says people who judge faces should not be captain. Qazi, feeling left out, carries a tiger statue he names Taskar. Aman, Arishfa and Uditi hide it after lights out. Love says the noise is targeting her and breaks down. Yung and Scout argue again.",
+      "tag": "Conflict"
+    },
+    {
       "date": "2026-10-08",
       "title": "Kanika’s Birthday in the House",
       "message": "JioHotstar 24-hour feed: the house marks Kanika Mann’s birthday. Gullu gives her a ‘Sweet 16’ compliment. Mahhi and Qazi question whether the ration is being split equally. No new captain or eviction is announced.",
@@ -212,15 +242,45 @@
     }
   ],
   "colors": [
-    { "tag": "Eviction", "color": "#F44336" },
-    { "tag": "Nomination", "color": "#E91E63" },
-    { "tag": "Task", "color": "#2196F3" },
-    { "tag": "Captain", "color": "#FF9800" },
-    { "tag": "Twist", "color": "#4CAF50" },
-    { "tag": "Entry", "color": "#9C27B0" },
-    { "tag": "Conflict", "color": "#FF5722" },
-    { "tag": "Premiere", "color": "#3F51B5" },
-    { "tag": "WeekendKaVaar", "color": "#673AB7" },
-    { "tag": "Update", "color": "#2196F3" }
+    {
+      "tag": "Eviction",
+      "color": "#F44336"
+    },
+    {
+      "tag": "Nomination",
+      "color": "#E91E63"
+    },
+    {
+      "tag": "Task",
+      "color": "#2196F3"
+    },
+    {
+      "tag": "Captain",
+      "color": "#FF9800"
+    },
+    {
+      "tag": "Twist",
+      "color": "#4CAF50"
+    },
+    {
+      "tag": "Entry",
+      "color": "#9C27B0"
+    },
+    {
+      "tag": "Conflict",
+      "color": "#FF5722"
+    },
+    {
+      "tag": "Premiere",
+      "color": "#3F51B5"
+    },
+    {
+      "tag": "WeekendKaVaar",
+      "color": "#673AB7"
+    },
+    {
+      "tag": "Update",
+      "color": "#2196F3"
+    }
   ]
 }

@@ -1,6 +1,36 @@
 {
   "timelines": [
     {
+      "date": "2026-10-11",
+      "title": "Apoorva Evicted as Wildfire Begins",
+      "message": "Star Maa confirms Apoorva is out. She has the fewest public votes in week 5 and leaves after less than three weeks, captaincy included. The next stretch is Wildfire. New housemates are teased. Names are not out. No second eviction is confirmed.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Nagarjuna’s Reality Check",
+      "message": "Weekend with Nagarjuna. He plays footage of Shalini planning nominations with Agnipariksha housemates, of Apoorva shouting at Vamsi, and of Aman using abusive language about Mukesh’s mother. Jhansi breaks down after a task-rule warning and apologises. Housemates mark who should not stay: Rohit gets five votes and Charan three. Rohit still rates his game 9 out of 10. Nagarjuna answers with Sudheer’s line, ‘Meluko Raja Meluko’. Thrigun and Apoorva apologise over the family comment and the Mickey Mouse remark. Nagarjuna says family talk is out of line.",
+      "tag": "Host"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Sudheer Becomes Captain",
+      "message": "Road to Reload captaincy. Outgoing captain Varshini is kept out. The eligible housemates also drop Aman. Shalini asks Sudheer to withdraw over his health. The task is to assemble a ship, with Aman and Jhansi supporting. Sudheer wins and takes the captain’s medal.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Jhansi Uses Her Eviction-Free Power",
+      "message": "Bottom pairs must send only one person to play for safety. Jhansi gives her slot to Mukesh, then uses her power key and comes off the nomination list. Rohit stays in danger so Shalini can play. Ram Prasad and Naresh win the fun task; Ram Prasad takes the safe spot. Naresh’s mosquito act carries the round. In one tile round the house votes Apoorva out of the game.",
+      "tag": "Twist"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Thrigun and Aman Top Road to Reload",
+      "message": "Road to Reload continues. After the rounds, Thrigun–Aman lead and are safe from the nomination cut. Ram Prasad–Naresh are second, Charan–Apoorva third, Mukesh–Jhansi fourth, Rohit–Shalini last. In Step Roll Goal the points are 100, 80, 60, 40 and 20 in that order. Rohit asks Apoorva to give him privacy. Shalini steps in and she and Apoorva fight again.",
+      "tag": "Task"
+    },
+    {
       "date": "2026-10-07",
       "title": "Newcomers Threatened as Pairs Task Starts",
       "message": "Road to Reload. Bigg Boss says new contestants are coming and that their entry can cost current housemates a place. Names are not out. First pairs task for 100 points: Charan–Apoorva first, Aman–Thrigun second, Mukesh–Jhansi third, Ram Prasad–Naresh fourth, Rohit–Shalini last. Rohit refuses to pair with Apoorva and picks Shalini. Apoorva and Shalini fight again. Varshini tells Thrigun she grew up without an emotionally supportive father and links that to her pull toward Mukesh.",
@@ -164,15 +194,45 @@
     }
   ],
   "colors": [
-    { "tag": "Eviction", "color": "#F44336" },
-    { "tag": "Nomination", "color": "#E91E63" },
-    { "tag": "Task", "color": "#2196F3" },
-    { "tag": "Captain", "color": "#FF9800" },
-    { "tag": "Twist", "color": "#4CAF50" },
-    { "tag": "Entry", "color": "#9C27B0" },
-    { "tag": "Conflict", "color": "#FF5722" },
-    { "tag": "Premiere", "color": "#3F51B5" },
-    { "tag": "Host", "color": "#673AB7" },
-    { "tag": "Update", "color": "#2196F3" }
+    {
+      "tag": "Eviction",
+      "color": "#F44336"
+    },
+    {
+      "tag": "Nomination",
+      "color": "#E91E63"
+    },
+    {
+      "tag": "Task",
+      "color": "#2196F3"
+    },
+    {
+      "tag": "Captain",
+      "color": "#FF9800"
+    },
+    {
+      "tag": "Twist",
+      "color": "#4CAF50"
+    },
+    {
+      "tag": "Entry",
+      "color": "#9C27B0"
+    },
+    {
+      "tag": "Conflict",
+      "color": "#FF5722"
+    },
+    {
+      "tag": "Premiere",
+      "color": "#3F51B5"
+    },
+    {
+      "tag": "Host",
+      "color": "#673AB7"
+    },
+    {
+      "tag": "Update",
+      "color": "#2196F3"
+    }
   ]
 }
