@@ -1,9 +1,45 @@
 {
   "timelines": [
     {
+      "date": "2026-10-13",
+      "title": "Week 6 Nominees Named",
+      "message": "Road Block closes. Nominated: Vamsi, Varshini, Rohit, Shalini and Aman. Captain Sudheer must also send Ram Prasad or Jhansi, who lost their tasks. He picks Ram Prasad. Thrigun nominates Rohit for losing the patience he showed in Agnipariksha. Naresh asks why Rohit saved Shalini over Charan. Vamsi nominates Shalini for wasting food and for what she said about Apoorva.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Rohit Warns Shalini After Thrigun",
+      "message": "Thrigun rests a hand on Shalini’s shoulder. Rohit warns her that his reaction would have been worse outside the house. Shalini apologises more than once. Dakkshi keeps Shalini’s nomination and Shalini says the wildcards are targeting her. Shiva says her own game is barely visible.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Road Block Nominations Open",
+      "message": "Each wildcard picks two original housemates. The winner names two people and the wildcard keeps only one. Shiva picks Thrigun and Rohit. Rohit wins, names Vamsi and Jhansi, and Shiva keeps Vamsi. Swetha picks Mukesh and Aman. Mukesh wins, names Aman and Shalini, and Swetha keeps Aman. Neethu picks Varshini and Shalini. Shalini wins and nominates Debjani. The list is not closed.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Rohit Fights Over Leftover Food",
+      "message": "Thrigun, on ration, tells Shalini to eat the food kept for her or it will be shared. A wildcard takes the untouched portion. Rohit confronts Thrigun and captain Sudheer and asks who they are to decide. Neethu tells Shalini to let Rohit answer for himself. Shalini snaps at her.",
+      "tag": "Conflict"
+    },
+    {
       "date": "2026-10-11",
       "title": "Apoorva Evicted as Wildfire Begins",
-      "message": "Star Maa confirms Apoorva is out. She has the fewest public votes in week 5 and leaves after less than three weeks, captaincy included. The next stretch is Wildfire. New housemates are teased. Names are not out. No second eviction is confirmed.",
+      "message": "Star Maa confirms Apoorva is out. She has the fewest public votes in week 5 and leaves after less than three weeks, captaincy included. Before she goes she tells Rohit to drop the arrogance, calls Ram Prasad cunning, says Shalini has lost her game, calls Sudheer still innocent, and tells Aman to stop blaming others. She and Jhansi hug on the way out. Wildfire follows the same night.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Five Wildcards Enter",
+      "message": "Wildfire brings in Shiva, Dakkshi, Neethu, Swetha and Rama Krishna. Each plays one challenger for a power and hands out safety badges. Shiva loses a pyramid task to Thrigun, and the ₹2 lakh he brought goes to the prize. Dakkshi loses to Naresh and badges Rohit and Mukesh. Neethu beats Thrigun and badges Naresh and Rohit. Swetha loses to Vamsi and badges Rohit and Naresh. Rama Krishna loses to Ram Prasad and badges Naresh and Rohit. Much of the criticism is aimed at Shalini and Rohit.",
+      "tag": "Entry"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Charan Evicted by the House",
+      "message": "After the wildcard badges, Rohit, Naresh and Mukesh are safe. Shalini and Charan are left. Nagarjuna hands the vote to the house. Only Aman saves Charan. Everyone else saves Shalini. Charan is out for the second time. On the way out he criticises Jhansi, Sudheer and Thrigun. Star Maa posts that he is out.",
       "tag": "Eviction"
     },
     {
