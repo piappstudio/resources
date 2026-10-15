@@ -97,6 +97,61 @@
               "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
             }
           ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            3,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Doing so many drama in serious conversation (323)"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Not having any understanding of the game (490)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            13,
+            7,
+            14,
+            11,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "Had confusions  & selective"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "I don’t like her"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Not sure why you are here"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Hash tag bullying , selfish"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Nominating him for sake"
+            }
+          ]
         }
       ]
     },
@@ -183,8 +238,42 @@
               "comments": "Scout OP chose to sacrifice his safety to save Aasif Khan, resulting in Scout OP getting nominated while Aasif stayed safe."
             }
           ]
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [
+            7,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Very sensitive (129)"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Less vibe and contributions (102)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Very difficult to get a job done from her. Promoting 4-5 times for each task"
+            }
+          ]
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "3",
@@ -266,6 +355,56 @@
             {
               "nominate_part_id": 14,
               "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Not perpect in dolly task (105)"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Not working out relationship wise (105)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            10,
+            14,
+            11,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Never told the reason"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "For laughing at me during serious discussion"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Very emotional"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "No separate stand, no guts"
             }
           ]
         }
@@ -356,7 +495,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -424,6 +563,44 @@
             {
               "nominate_part_id": 15,
               "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [
+            13,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "Return to favor 265"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Below the belt behavior in captaincy task (279)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "CT"
+          ],
+          "nominates": [
+            1,
+            12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Hypocrite behavior"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Discussing nominations, not professional enough"
             }
           ]
         }
@@ -574,6 +751,42 @@
               "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
             }
           ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            13,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "So mean in the task (324)"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Targetting me intentionally (310)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM",
+            "CT"
+          ],
+          "nominates": [
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Selfish"
+            }
+          ]
         }
       ]
     },
@@ -668,6 +881,49 @@
               "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
             }
           ]
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [
+            12,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "He does flip so often (323)"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Looks very fake (470)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            1,
+            14,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Nothing personal"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Not doing any work"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Very Aggressive"
+            }
+          ]
         }
       ]
     },
@@ -758,6 +1014,34 @@
               "comments": "Grouped together in a trio, none sacrificed their safety, leaving all three nominated."
             }
           ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Getting lots of arugment and fights  300"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "For doing prank in this house & very irritating (101)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -838,6 +1122,39 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [
+            3,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Not seeing real person in it (279)"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Defending Qazi"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Just doing time pass"
+            }
+          ]
         }
       ]
     },
@@ -853,7 +1170,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -923,6 +1240,58 @@
               "comments": "Mahhi sacrificed her own safety to save Arishfa Khan, leaving Mahhi nominated and Arishfa safe."
             }
           ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM",
+            "CT-2"
+          ],
+          "nominates": [
+            12,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "So rude, mocking me and bullying me ("
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "No opionon , less contribution in task (265)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM",
+            "CT"
+          ],
+          "nominates": [
+            1,
+            12,
+            3,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Feeling special in this house"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Mahhan bully , spineless"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Not realizing, irritating, cheap personality"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Not doing anything special"
+            }
+          ]
         }
       ]
     },
@@ -938,7 +1307,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -993,9 +1362,44 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM",
+            "CT-2"
+          ],
+          "nominates": [
+            8,
+            13
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Not speaking well (577)"
+            },
+            {
+              "nominate_part_id": 13,
+              "comments": "He give me red rouse (232)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Behaving like kids, no understand"
+            }
+          ]
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "13",
@@ -1077,6 +1481,41 @@
             {
               "nominate_part_id": 1,
               "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            3,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Humiliating and disappoint (251)"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Overacting, her show is done (252)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Justify the wrong actions"
             }
           ]
         }
@@ -1166,6 +1605,46 @@
             {
               "nominate_part_id": 3,
               "comments": "Neither was willing to sacrifice their safety for the other, so both ended up nominated."
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Very respectful , but not fit for this game (275)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            10,
+            9,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Sensitive, behaving boss"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Zero interaction"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Not agreeing with the question you asked about my captaincy"
             }
           ]
         }
@@ -1332,6 +1811,94 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM",
+            "CT-2"
+          ],
+          "nominates": [
+            13,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 13,
+              "comments": "Disappointed and hurt (468)"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Misunderstanding, she reacted a lot(275)"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Rude behavior"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Nakul Dhull",
+      "dial_number": null,
+      "title": null,
+      "start_date": "2026-10-11",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/18_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/18.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
+      "eliminated_date": null,
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1347,21 +1914,45 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true
-    },
-    {
-      "id": "18",
-      "name": "Nakul Dhull",
-      "dial_number": null,
-      "title": null,
-      "start_date": "2026-10-11",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/18_pp.png",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/hindi/season20/participants/18.png",
-      "order": null,
-      "re_entry_date": null,
-      "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true
+      "isNominated": false,
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ]
     }
   ],
   "category": [

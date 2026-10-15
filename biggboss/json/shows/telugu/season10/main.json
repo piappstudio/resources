@@ -25,7 +25,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -78,6 +78,32 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Who is a good guy, but the three things make overshadow aggression, violence, and arrogance. Screen space content."
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "High energy but lacks focus, concentration, and listening skills, confusion during tasks, and gets easily influenced."
+            }
+          ]
         }
       ]
     },
@@ -122,7 +148,7 @@
           "nomination_detail": [
             {
               "nominate_part_id": 4,
-              "comments": "Sudheer discussed about Srishti hight is matching with him."
+              "comments": "Sudheer discussed about Srishti night is matching with him."
             },
             {
               "nominate_part_id": 15,
@@ -145,6 +171,41 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            18,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 18,
+              "comments": "Talking about my look, and breaking rules by telling what she see before entered bb house"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Aggressive game"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Acts as the strategic mastermind of his team, constantly triggering and provoking others, and crossing lines by dragging family into the game."
+            }
+          ]
         }
       ]
     },
@@ -206,6 +267,34 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            15,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Interfering others conversation, mocking others"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Taking to someone like “pilla bacha”"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -221,7 +310,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -291,8 +380,42 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [
+            15,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Not respecting other, showing heroism , provoking other."
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Loved the high-energy start! Things have slowed down a bit lately, so pick up the pace and bring that spark back to your game."
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Directly nominated Ramprasad during the captaincy choice over Jhansi despite other options."
+            }
+          ]
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "5",
@@ -354,6 +477,36 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not a fair judge"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Not straightforward, constantly provoking others, and playing a back-step game."
+            }
+          ]
         }
       ]
     },
@@ -448,6 +601,34 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Played aggressive game"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "You are my hero, but you degrade yourself with aggressive game against rohit"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -515,6 +696,36 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "For mocking others, and dominating more"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Lack of empathy and humanity, challenging others with statements such as 'Dham undha', playing a sympathy card, and displaying inappropriate, biased behavior."
+            }
+          ]
         }
       ]
     },
@@ -581,6 +792,27 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Using unacceptable language like 'cheap personality' and disrespectful remarks toward others."
+            }
+          ]
         }
       ]
     },
@@ -595,7 +827,7 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-10-04",
       "isNominated": false,
       "history": [
         {
@@ -642,8 +874,11 @@
           ]
         },
         {
-          "week": 4,
-          "categories": [],
+          "week": 5,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -702,6 +937,34 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "You played 4 weeks what impression you made in the game. Do something for the people who voted for you"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 15,
+              "comments": "Last week's nomination process unfairly compared me to Charan despite my strong performance in tasks, whereas this week's comparison choices show a noticeable drop in gameplay strength."
+            }
+          ]
         }
       ]
     },
@@ -715,7 +978,7 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/12.png",
       "order": null,
       "re_entry_date": "2026-09-17",
-      "re_evicted_date": null,
+      "re_evicted_date": "2026-10-11",
       "eliminated_date": "2026-09-10",
       "isNominated": false,
       "history": [
@@ -737,12 +1000,6 @@
           ]
         },
         {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 3,
           "categories": [],
           "nominates": [
@@ -756,10 +1013,20 @@
           ]
         },
         {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "week": 5,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Gets triggered easily and needs to mind their words. It’s unfair to give up captaincy just to save someone else from nominations—that choice belongs to the audience, not you!"
+            }
+          ]
         }
       ]
     },
@@ -863,6 +1130,39 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            18,
+            15,
+            15
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 18,
+              "comments": "Energy graph went down in a week, disaster captaincy"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Your reaction make me down when I was in low mentally"
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Give respect to others, breaking the rules."
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -937,6 +1237,41 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Unfair judgment, in drum task. Asking Charan what you did in the last four weeks that makes him lower confident."
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Serious less in the game, to treat everyone equally"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "During last week's task, proper reasoning and a fair chance to explain my point were not provided, and the overall decision-making process fell short of expectations."
+            }
+          ]
         }
       ]
     },
@@ -999,6 +1334,36 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 18,
+              "comments": "Biased capatin, disaster captaincy"
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Received yellow card from the host highlights serious concerns, including repeated foul language, loss of control"
+            }
+          ]
         }
       ]
     },
@@ -1028,6 +1393,51 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
+      "eliminated_date": "2026-10-11",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 4,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            16,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Character association, he think he gave me the captaincy in his head."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "You are discussed about red team decision with blue team Mukesh that’s not fair"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Shiva",
+      "dial_number": "",
+      "title": null,
+      "start_date": "2026-10-11",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/19_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/19.png",
+      "order": null,
+      "re_entry_date": null,
+      "re_evicted_date": null,
       "eliminated_date": null,
       "isNominated": false,
       "history": [
@@ -1051,29 +1461,23 @@
         },
         {
           "week": 4,
-          "categories": [
-            "Captain"
-          ],
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
           "nominates": [],
           "nomination_detail": []
         }
-      ],
-      "isCaptain": true
-    },
-    {
-      "id": "19",
-      "name": "Shiva",
-      "dial_number": "",
-      "title": null,
-      "start_date": "2026-10-11",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/19_pp.png",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/telugu/season10/participants/19.png",
-      "order": null,
-      "re_entry_date": null,
-      "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": false,
-      "history": []
+      ]
     },
     {
       "id": "20",
@@ -1088,7 +1492,44 @@
       "re_evicted_date": null,
       "eliminated_date": null,
       "isNominated": false,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ]
     },
     {
       "id": "21",
@@ -1103,7 +1544,44 @@
       "re_evicted_date": null,
       "eliminated_date": null,
       "isNominated": false,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ]
     },
     {
       "id": "22",
@@ -1118,7 +1596,44 @@
       "re_evicted_date": null,
       "eliminated_date": null,
       "isNominated": false,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ]
     },
     {
       "id": "23",
@@ -1133,7 +1648,44 @@
       "re_evicted_date": null,
       "eliminated_date": null,
       "isNominated": false,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 2,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 3,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 4,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 5,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        }
+      ]
     }
   ],
   "category": [
