@@ -174,62 +174,62 @@
         },
         {
           "week": 6,
-          "totalVotes": 41231,
+          "totalVotes": 90586,
           "players": [
             {
               "id": 3,
-              "vote": 13189,
-              "percentage": 31.99
-            },
-            {
-              "id": 8,
-              "vote": 10722,
-              "percentage": 26.0
+              "vote": 27461,
+              "percentage": 30.3
             },
             {
               "id": 10,
-              "vote": 9338,
-              "percentage": 22.65
+              "vote": 23478,
+              "percentage": 25.9
+            },
+            {
+              "id": 8,
+              "vote": 23320,
+              "percentage": 25.7
             },
             {
               "id": 12,
-              "vote": 2615,
-              "percentage": 6.34
+              "vote": 5726,
+              "percentage": 6.3
             },
             {
               "id": 7,
-              "vote": 1128,
-              "percentage": 2.74
-            },
-            {
-              "id": 1,
-              "vote": 905,
-              "percentage": 2.19
+              "vote": 2204,
+              "percentage": 2.4
             },
             {
               "id": 16,
-              "vote": 879,
-              "percentage": 2.13
+              "vote": 1975,
+              "percentage": 2.2
+            },
+            {
+              "id": 1,
+              "vote": 1740,
+              "percentage": 1.9
             },
             {
               "id": 11,
-              "vote": 838,
-              "percentage": 2.03
+              "vote": 1628,
+              "percentage": 1.8
             },
             {
               "id": 9,
-              "vote": 610,
-              "percentage": 1.48
+              "vote": 1159,
+              "percentage": 1.3
             },
             {
               "id": 14,
-              "vote": 591,
-              "percentage": 1.43
+              "vote": 998,
+              "percentage": 1.1
             },
             {
               "id": 13,
-              "vote": 416,
-              "percentage": 1.01
+              "vote": 897,
+              "percentage": 1.0
             }
           ]
         }
