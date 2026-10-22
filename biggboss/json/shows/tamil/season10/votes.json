@@ -340,52 +340,52 @@
         },
         {
           "week": 7,
-          "totalVotes": 146032,
+          "totalVotes": 460143,
           "players": [
             {
               "id": 22,
-              "vote": 103111,
-              "percentage": 70.6
+              "vote": 317895,
+              "percentage": 69.1
             },
             {
               "id": 5,
-              "vote": 13838,
-              "percentage": 9.5
+              "vote": 38914,
+              "percentage": 8.5
             },
             {
               "id": 1,
-              "vote": 10622,
-              "percentage": 7.3
-            },
-            {
-              "id": 24,
-              "vote": 3600,
-              "percentage": 2.5
-            },
-            {
-              "id": 19,
-              "vote": 3364,
-              "percentage": 2.3
-            },
-            {
-              "id": 3,
-              "vote": 3241,
-              "percentage": 2.2
+              "vote": 28129,
+              "percentage": 6.1
             },
             {
               "id": 7,
-              "vote": 3078,
-              "percentage": 2.1
+              "vote": 13373,
+              "percentage": 2.9
+            },
+            {
+              "id": 24,
+              "vote": 13247,
+              "percentage": 2.9
+            },
+            {
+              "id": 3,
+              "vote": 12967,
+              "percentage": 2.8
             },
             {
               "id": 9,
-              "vote": 2835,
-              "percentage": 1.9
+              "vote": 12938,
+              "percentage": 2.8
+            },
+            {
+              "id": 19,
+              "vote": 11389,
+              "percentage": 2.5
             },
             {
               "id": 8,
-              "vote": 2343,
-              "percentage": 1.6
+              "vote": 11291,
+              "percentage": 2.4
             }
           ]
         }
