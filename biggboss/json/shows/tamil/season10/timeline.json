@@ -1,6 +1,30 @@
 {
   "timelines": [
     {
+      "date": "2026-10-21",
+      "title": "Blue Team Blocks the Kitchen",
+      "message": "Day 45 Survival Battle. Red and Blue finish level. Blue wins the tie-breaker and stops Red from using the kitchen.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Jason Moves to the Blue Team",
+      "message": "Day 45. Jason, TTF Vasan and Avinash fight over property damage. Muniyammal laughs and Lakshmi Priya questions her. Jason says he will not take Avinash's lead on the Red team and moves to Blue. TTF Vasan asks him why. Avinash turns on him. The others pull them apart.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Survival Battle Splits the House",
+      "message": "Day 43. Week 7 Survival Battle. The house splits into Red and Blue. Each side guards a stack of stones and tries to knock the other down. Red: Avinash, Muniyammal, Akshitha, Muthazhagi, Prithivi, Karishma, TTF Vasan and Jason. Blue: Shathiga, Shama, Ashmitha, Dhanya, Lakshmi Priya, Vinoth, Mukesh and Ansar.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "TTF Vasan and Mukesh Clash",
+      "message": "Day 43. TTF Vasan cannot knock the Blue stones down. Mukesh insults him. The row goes on after Vasan leaves the task area. Jason and the others step in and calm him.",
+      "tag": "Conflict"
+    },
+    {
       "date": "2026-10-18",
       "title": "Chandini Evicted",
       "message": "Day 42. Weekend episode. Vijay Sethupathi sends Chandini out on audience votes. She leaves the house.",
