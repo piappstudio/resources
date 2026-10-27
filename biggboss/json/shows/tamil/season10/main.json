@@ -150,6 +150,46 @@
               "comments": "For creating a choas without clear picture on Shama & LP deal"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            22,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 22,
+              "comments": "I feel unsafe with him in the house"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Very rude, insensitive,  and manipulative"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "After what Jason revealed, I couldn't defend my leader anymore, which completely shattered my trust in his leadership."
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Don't dismiss genuine feedback as silly."
+            }
+          ]
         }
       ]
     },
@@ -322,6 +362,44 @@
               "comments": "Not able to convey any simple matters with him, lots of conflicts"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            9,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "No individual performance as a leader and low performance last week"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Not contributing outside physical task"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            9,
+            23
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Lack of effort and struggles with self-doubt in the game."
+            },
+            {
+              "nominate_part_id": 23,
+              "comments": "She's losing her individual fire in the game"
+            }
+          ]
         }
       ]
     },
@@ -337,7 +415,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -460,6 +538,46 @@
               "comments": "Still not understanding the game..Still needs to gear up, current speed is not good enough"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            1,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "No intention or participation after returning"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Repeatedly speaking without proper reason"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            24,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 24,
+              "comments": "Contributions fade out."
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "playing likke My way high way. Breaking team dynamics."
+            }
+          ]
         }
       ]
     },
@@ -553,7 +671,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -634,7 +752,8 @@
         {
           "week": 5,
           "categories": [
-            "NOM"
+            "NOM",
+            "NF"
           ],
           "nominates": [
             7,
@@ -671,6 +790,46 @@
               "comments": "Doing body shaming on Ashmitha. He also doing manipulating"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            7,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Approach to the game is unfair and unkind"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Playing other's game instead of playing her individual game"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "He accused me of emotional manipulation, but he is the one actually doing it."
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "He expects everyone to follow his gameplay, yet he's the one emotionally manipulating others."
+            }
+          ]
         }
       ]
     },
@@ -686,7 +845,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -795,7 +954,8 @@
         {
           "week": 6,
           "categories": [
-            "OP"
+            "OP",
+            "JAIL"
           ],
           "nominates": [
             23,
@@ -809,6 +969,44 @@
             {
               "nominate_part_id": 22,
               "comments": "Not understanding the game, showing no interest in the game"
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            1,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Hypocrisy over the food issue"
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "Aggressive behavior that made us very scared"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            2,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "ou need to accept the criticism about Mukesh and yourself, and completely change your gameplay."
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "your questions and points are only to clarify to yourself not for others."
             }
           ]
         }
@@ -825,8 +1023,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-10-25",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -947,6 +1145,27 @@
               "comments": "Not sportive enough , backstabbing"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2",
+            "EVI"
+          ],
+          "nominates": [
+            5,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Emotional manipulation game"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Jason's puppet"
+            }
+          ]
         }
       ]
     },
@@ -962,7 +1181,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1082,6 +1301,46 @@
               "comments": "Not well clarity,  need more sharpness"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            9,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "A puppet and not a good opposition leader"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Very low acceptance and carelessness towards rules"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            9,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "She only talks to select people and gives fake smiles, especially toward me."
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "Uses hurtful words toward others and lack of empathy."
+            }
+          ]
         }
       ]
     },
@@ -1097,7 +1356,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1214,6 +1473,46 @@
             {
               "nominate_part_id": 22,
               "comments": "Very careless,  less responsibilities"
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            8,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Deliberately creating issues and talking about them"
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "Physical aggression"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            18,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 18,
+              "comments": "Voice out for others not for him, Showing Partiality."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Dependent to others."
             }
           ]
         }
@@ -1354,6 +1653,44 @@
               "comments": "Very slow learning"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            19,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Leadership felt one sided"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Low performance last week"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            23,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 23,
+              "comments": "Needs to voice out as an individual."
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Her voice gets lost in the crowd. She needs to speak up individually!"
+            }
+          ]
         }
       ]
     },
@@ -1369,7 +1706,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1499,6 +1836,54 @@
               "comments": "Not performing the task good enough"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            9,
+            3,
+            9,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Failed as opposition leader"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Inconsistent performance; good only in physical task"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Lake of LOP contribution; completely overshadowed."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Lacks consistency, struggle to choose the character and holding that character."
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "He has broken my trust and loyalty for the second time."
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "elect who has the larger fan base and follow these modes in sequence: Target, Friend, Attack, Aggression, Defense, and Manithaba Mode gameplay."
+            }
+          ]
         }
       ]
     },
@@ -1539,8 +1924,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-10-18",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1608,12 +1993,6 @@
           ]
         },
         {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 5,
           "categories": [
             "CT",
@@ -1638,7 +2017,8 @@
           "week": 6,
           "categories": [
             "NOM",
-            "OP"
+            "OP",
+            "EVI"
           ],
           "nominates": [
             23,
@@ -1725,7 +2105,7 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-10-18",
       "isNominated": false,
       "history": [
         {
@@ -1832,7 +2212,8 @@
           "week": 6,
           "categories": [
             "RP",
-            "CT"
+            "CT",
+            "EVI"
           ],
           "nominates": [
             22,
@@ -1957,7 +2338,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -2075,6 +2456,44 @@
             {
               "nominate_part_id": 13,
               "comments": "Not seeing after her game is over"
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            9,
+            24
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "A puppet of Jason as opposition leader"
+            },
+            {
+              "nominate_part_id": 24,
+              "comments": "Playing it safe within a group ans staying comfortable under Avinash's protection"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            19,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Dominating others."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Their performance and gameplay dropped significantly after re-entering the house.\""
             }
           ]
         }
@@ -2211,6 +2630,44 @@
               "comments": "Makes no difference after wildcard entire, and not taking a bigg boss rules seriously"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            9,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Failed as an opposition leader"
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "Very aggressive,  doesn't even consider it when girls comes in between. Not suitable for this house"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            22,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 22,
+              "comments": "Displays unnecessary aggression in the game and influences others to break the rules."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Lack of voicing out and failing to showcase an individual game."
+            }
+          ]
         }
       ]
     },
@@ -2226,7 +2683,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -2343,9 +2800,48 @@
               "comments": "Shouting at dining table, very aggressive and changing his style after wild card entries"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            9,
+            24
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Not making her presence felt in this house. A bad opposition leader"
+            },
+            {
+              "nominate_part_id": 24,
+              "comments": "Not performing and always striking with her brother Avinash for comfort"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            3,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Just another face in the crowd."
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Not creating any memorable impact or adding anything interesting to the show."
+            }
+          ]
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "20",
@@ -2465,7 +2961,7 @@
     {
       "id": "22",
       "name": "TTF Vasan",
-      "dial_number": "",
+      "dial_number": "7669908425",
       "title": null,
       "start_date": "2026-10-04",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/22_pp.png",
@@ -2503,7 +2999,8 @@
         {
           "week": 5,
           "categories": [
-            "WPW-2"
+            "WPW-2",
+            "JAIL"
           ],
           "nominates": [
             13,
@@ -2524,7 +3021,8 @@
           "week": 6,
           "categories": [
             "NOM",
-            "OP"
+            "OP",
+            "NF"
           ],
           "nominates": [
             7,
@@ -2538,6 +3036,46 @@
             {
               "nominate_part_id": 24,
               "comments": "Her game play would impact Avinash game play"
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            7,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Speaks in a way that feels personally hurtful"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Questioned whether Raghav was pretending about his injury"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Sometimes worst behavior"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "Uncontrolled aggression is never a good look."
             }
           ]
         }
@@ -2584,7 +3122,8 @@
         {
           "week": 5,
           "categories": [
-            "WPW-2"
+            "WPW-2",
+            "JAIL"
           ],
           "nominates": [
             13,
@@ -2619,6 +3158,44 @@
             {
               "nominate_part_id": 13,
               "comments": "Not able to see her except task, she just spoke only with specific groups"
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            9,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "No individual gameplay"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Very low involvement in tasks"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            18,
+            24
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 18,
+              "comments": "Being voice of others. Play individual game not others game."
+            },
+            {
+              "nominate_part_id": 24,
+              "comments": "Sweet to everyone. Supporting Avinash.  She forget to play her own game."
             }
           ]
         }
@@ -2701,6 +3278,46 @@
             {
               "nominate_part_id": 22,
               "comments": "Slow learning,  not taking any inputs"
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            1,
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Low performance for some reason and not actively playing the game"
+            },
+            {
+              "nominate_part_id": 19,
+              "comments": "Hurting others in the name of comedy"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            19,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Hard to connect with him. He's just holding onto old criticisms and putting others down."
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Lacks an independent voice or a strong individual stance in the game."
             }
           ]
         }
