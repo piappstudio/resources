@@ -273,6 +273,42 @@
               "percentage": 5.4
             }
           ]
+        },
+        {
+          "week": 8,
+          "totalVotes": 18058,
+          "players": [
+            {
+              "id": 10,
+              "vote": 7639,
+              "percentage": 42.0
+            },
+            {
+              "id": 12,
+              "vote": 2916,
+              "percentage": 16.0
+            },
+            {
+              "id": 7,
+              "vote": 2644,
+              "percentage": 15.0
+            },
+            {
+              "id": 1,
+              "vote": 1697,
+              "percentage": 9.0
+            },
+            {
+              "id": 5,
+              "vote": 1690,
+              "percentage": 9.0
+            },
+            {
+              "id": 2,
+              "vote": 1472,
+              "percentage": 8.0
+            }
+          ]
         }
       ]
     }
