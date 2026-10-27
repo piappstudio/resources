@@ -104,6 +104,25 @@
               "comments": "High energy but lacks focus, concentration, and listening skills, confusion during tasks, and gets easily influenced."
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Not playing individual game in \"Bone game\"."
+            }
+          ]
         }
       ]
     },
@@ -119,7 +138,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -148,7 +167,7 @@
           "nomination_detail": [
             {
               "nominate_part_id": 4,
-              "comments": "Sudheer discussed about Srishti night is matching with him."
+              "comments": "Sudheer discussed about Srishti hight is matching with him."
             },
             {
               "nominate_part_id": 15,
@@ -204,6 +223,39 @@
             {
               "nominate_part_id": 15,
               "comments": "Acts as the strategic mastermind of his team, constantly triggering and provoking others, and crossing lines by dragging family into the game."
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            15,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Linear captaincy. he did't show up."
+            },
+            {
+              "nominate_part_id": 15,
+              "comments": "Not giving repect to others. Arguments between Thrigun and Rohit"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Come out of comfort zone and talk to everyone."
             }
           ]
         }
@@ -295,6 +347,22 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -310,7 +378,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -413,9 +481,24 @@
               "comments": "Directly nominated Ramprasad during the captaincy choice over Jhansi despite other options."
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "5",
@@ -429,7 +512,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -505,6 +588,28 @@
             {
               "nominate_part_id": 14,
               "comments": "Not straightforward, constantly provoking others, and playing a back-step game."
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM",
+            "DNM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Shadow Sudheer, silent killer, slipping master."
             }
           ]
         }
@@ -629,6 +734,29 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Direct nomination by Captain Ram Prasad"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -643,8 +771,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-10-25",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -726,6 +854,14 @@
               "comments": "Lack of empathy and humanity, challenging others with statements such as 'Dham undha', playing a sympathy card, and displaying inappropriate, biased behavior."
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "EVI"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -741,7 +877,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -813,6 +949,20 @@
               "comments": "Using unacceptable language like 'cheap personality' and disrespectful remarks toward others."
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -965,6 +1115,18 @@
               "comments": "Last week's nomination process unfairly compared me to Charan despite my strong performance in tasks, whereas this week's comparison choices show a noticeable drop in gameplay strength."
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1163,6 +1325,22 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1272,6 +1450,22 @@
               "comments": "During last week's task, proper reasoning and a fair chance to explain my point were not provided, and the overall decision-making process fell short of expectations."
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1287,7 +1481,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1362,6 +1556,25 @@
             {
               "nominate_part_id": 5,
               "comments": "Received yellow card from the host highlights serious concerns, including repeated foul language, loss of control"
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [
+            23
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 23,
+              "comments": "Ever since you came, you've been like a doll. You don't feel like a real person."
             }
           ]
         }
@@ -1476,6 +1689,20 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1490,42 +1717,15 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-10-24",
       "isNominated": false,
       "history": [
         {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 3,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 6,
-          "categories": [],
+          "week": 7,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -1580,6 +1780,27 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Own identity missed."
+            }
+          ]
         }
       ]
     },
@@ -1632,6 +1853,20 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1647,7 +1882,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1681,6 +1916,20 @@
         },
         {
           "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 8,
           "categories": [],
           "nominates": [],
           "nomination_detail": []

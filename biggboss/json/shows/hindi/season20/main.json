@@ -25,7 +25,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -152,6 +152,30 @@
               "comments": "Nominating him for sake"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            5,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Very weak & boring"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser because she use words like bully to take victim card"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -271,9 +295,32 @@
               "comments": "Very difficult to get a job done from her. Promoting 4-5 times for each task"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            3,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Doesn’t understand the meaning of entertainment"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser because no acceptance"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "3",
@@ -287,7 +334,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -407,6 +454,30 @@
               "comments": "No separate stand, no guts"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            5,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "You just waiting for issue to pop up. No initiative, very boring"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser, No father, daughter here"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -603,6 +674,32 @@
               "comments": "Discussing nominations, not professional enough"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            17,
+            12
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "He entered 6th week after seeing Bigg boss, but not doing anything"
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Blaming someone for understanding his position sore looser"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -674,7 +771,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -787,6 +884,32 @@
               "comments": "Selfish"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            17,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "Not even talking to me, very boring"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser because she using us especially weekend episodes"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -802,7 +925,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -924,6 +1047,30 @@
               "comments": "Very Aggressive"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            17,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "Boring, just revealing whatever he say outside"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser for not taking feedback"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -938,8 +1085,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-10-24",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1042,6 +1189,28 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM",
+            "CT",
+            "EVI"
+          ],
+          "nominates": [
+            11,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "For me , she is very boring"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser because she continues the attitude"
+            }
+          ]
         }
       ]
     },
@@ -1057,7 +1226,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1155,6 +1324,27 @@
               "comments": "Just doing time pass"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Bring instant conditions, weird"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1170,7 +1360,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1292,6 +1482,32 @@
               "comments": "Not doing anything special"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            17,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "No fun elements, not entertaining anyone here"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Sore looser because doing cheating in ration task"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1307,7 +1523,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1398,6 +1614,37 @@
               "comments": "Behaving like kids, no understand"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            9,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Doesn’t understanding anything , she talking her language which we don’t understand"
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Not speaking well"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Just talking someone as bully form her fault sore looser"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1412,8 +1659,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-10-18",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1507,7 +1754,8 @@
         {
           "week": 6,
           "categories": [
-            "NOM"
+            "NOM",
+            "EVI"
           ],
           "nominates": [
             10
@@ -1533,7 +1781,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1647,6 +1895,28 @@
               "comments": "Not agreeing with the question you asked about my captaincy"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM",
+            "CT"
+          ],
+          "nominates": [
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Sore looser because she getting triggered whenever nominating her"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1748,7 +2018,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1847,8 +2117,35 @@
               "comments": "Rude behavior"
             }
           ]
+        },
+        {
+          "week": 7,
+          "categories": [],
+          "nominates": [
+            5,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "No jokes, not excited while talking to her"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser"
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "18",
@@ -1861,42 +2158,14 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-10-14",
       "isNominated": false,
       "history": [
         {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 3,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
           "week": 6,
-          "categories": [],
+          "categories": [
+            "EVI"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -1948,6 +2217,32 @@
         },
         {
           "week": 6,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 7,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Not coming forward, very boring"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Sore looser for going into loop & talking same things"
+            }
+          ]
+        },
+        {
+          "week": 8,
           "categories": [],
           "nominates": [],
           "nomination_detail": []
