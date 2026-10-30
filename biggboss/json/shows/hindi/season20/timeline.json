@@ -1,6 +1,72 @@
 {
   "timelines": [
     {
+      "date": "2026-10-29",
+      "title": "Kanika Becomes Captain",
+      "message": "Geometry captaincy task. Mahhi runs it. Uditi and Scout go out in the first round. Mahhi then strikes Manish and Qazi out. Arishfa and Amrapali go out in the fourth round. Kanika is the last one left and becomes captain.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Gullu and Yung Fight",
+      "message": "During the captaincy task Gullu charges at Yung and they fight. Qazi tells Gullu not to raise a hand and says Nakul was sent out for that. Manish feels unwell and Bigg Boss calls him to the medical room. Afterwards Yung tells Scout, Amrapali and Love not to call him a friend. He says he will play alone.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Mahhi Loses the Captaincy",
+      "message": "Bigg Boss asks the house if Mahhi should stay captain. Amrapali, Kanika, Arishfa, Aasif, Love and Manish vote against her. Yung, Uditi, Scout, Gullu and Qazi vote for her. Bigg Boss says her captaincy has failed.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Six Nominated in the Board Game",
+      "message": "The board-game nomination task ends. Love, Amrapali, Aasif, Gullu, Kanika and Scout are nominated.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Qazi and Amrapali Clash",
+      "message": "During nominations Qazi tells Yung that Amrapali would sell herself for two scoops of ghee. Amrapali challenges him to say it aloud. Qazi and Yung fight.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Scout Nominates Love",
+      "message": "Mahhi runs a board-game nomination task. She must spin the wheel 11 times, and six housemates will be nominated. She puts Amrapali, Aasif, Manish, Love, Kanika and Arishfa in the red box, and Yung, Scout, Qazi, Uditi and Gullu in the green box. Scout nominates Love. Yung nominates Gullu and they clash.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Gullu and Arishfa Fight Over Schooling",
+      "message": "After the morning alarm Arishfa names Aasif, Scout, Kanika and Gullu for sleeping. Gullu brings up Arishfa's schooling. She breaks down and swears at him. Mahhi and Uditi back Gullu. Arishfa tells the house to stay away from her.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Scout Tells Love to Play Alone",
+      "message": "After Kashvi's visit Scout pulls back from Love. Love asks why she was blamed and says he has ruined her career. She keeps asking what he wrote on the grass. Scout tells her to repair it by playing an individual game. They argue. Amrapali, Aasif and Yung ask her to let it go.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Kashvi Confronts Scout and Love",
+      "message": "Weekend Ka Vaar. Rohit Shetty brings in Kashvi. She asks Love if she asks her brothers for a massage. Love says she sees nothing wrong in it. Kashvi tells Scout to cut Love out and play for the trophy. Scout says Kashvi matters more to him than the show and that he would leave if he had to. Rohit asks Amrapali to help him see how serious it is.",
+      "tag": "WeekendKaVaar"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Mary Evicted",
+      "message": "Weekend Ka Vaar. Rohit Shetty hosts in Salman's place. Mary loses both lives and leaves the house. Manish loses one life and stays.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Rohit Shetty Hosts Weekend Ka Vaar",
+      "message": "Salman asks Rohit Shetty to host. Rohit tells Aasif he was wrong to stand over Qazi in their fight. He tells Yung to play on his own after the ration loss. He tells Scout and Love that the massages can look wrong. Love says she will be more careful. He tells Amrapali and Mahhi to be seen on their own.",
+      "tag": "WeekendKaVaar"
+    },
+    {
       "date": "2026-10-23",
       "title": "Musical Chairs Captaincy Task",
       "message": "In the final round of the Musical Chairs Captaincy Task, Qazi Touqeer won and appointed Mahhi Vij as the new House Captain.",

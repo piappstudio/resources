@@ -1,6 +1,72 @@
 {
   "timelines": [
     {
+      "date": "2026-10-29",
+      "title": "Ram Prasad and Varshini Enter the Green Zone",
+      "message": "BB Hotel ends. Vamsi earns the most money and Rohit is next. Ram Prasad collects the most stars and Varshini is second. Bigg Boss sends both Ram Prasad and Varshini to the Green Zone, so they are safe from eviction this week. Vamsi moves from Red to Yellow. He can still face audience votes, but not a sudden exit. Swetha, Sudheer, Rama Krishna, Rohit and Jhansi stay in Red.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "BB Hotel Opens",
+      "message": "Red Zone housemates work in the hotel, Yellow Zone housemates play the owners, and Green Zone housemates enter as guests. Workers earn money. Owners collect stars. The top earner in Red moves to Yellow. The owner with the most stars moves to Green. Anyone left in Red can face audience votes and a sudden exit. Varshini and Rohit win the first charades round against Naresh and Jhansi. The task continues.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Eight Nominated",
+      "message": "GOAT winners judge the next nomination rounds. The danger zone is Rohit, Jhansi, Sudheer, Vamsi, Shiva, Ram Prasad, Rama Krishna and Varshini. The GOATs pick Vamsi over Naresh and Swetha. Thrigun backs that call.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Thrigun and Varshini Fall Out",
+      "message": "Varshini asks Thrigun if Mukesh was right that they had a deal not to nominate each other. Mukesh denies it. Thrigun apologises for hurting her. She asks if he is still the person she knew before the house.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "GOATs Open the Nominations",
+      "message": "Only GOAT winners can nominate housemates who do not hold the title. Thrigun takes the two spare slips and nominates Ram Prasad, Rohit and Varshini. Neethu and Debjani nominate Jhansi. Mukesh nominates Rama Krishna and calls him a fool. Aman nominates Sudheer. Varshini breaks down and says Thrigun was her best friend. Rohit drags Thrigun's family into the row.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Shalini Evicted by the GOATs",
+      "message": "Shiva saves Swetha, Varshini saves Sudheer, Ram Prasad saves Jhansi and Naresh saves Vamsi. Rohit, Shalini and Rama Krishna are left. Debjani and Neethu vote Shalini out. Mukesh and Aman vote Rama Krishna out. Thrigun breaks the tie and sends Shalini out. Nagarjuna calls her back, then confirms she has left. He tells Shiva to send Thrigun to jail.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Dakkshi Evicted",
+      "message": "Weekend episode. Nominated housemates open boxes. Dakkshi gets the black confetti and is evicted. She says she expected it and leaves on good terms.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Rohit Gets a Black Badge",
+      "message": "Weekend episode. Nagarjuna plays Rohit's body-shaming of Mukesh, his language at Dakkshi, and nomination talk after a yellow card. He bans Rohit from captaincy tasks for the season. Rohit kneels and asks for another chance. Ten housemates ask for a lighter punishment. Nagarjuna cuts it to two weeks.",
+      "tag": "Twist"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Thrigun Is Ordered to Jail",
+      "message": "Nagarjuna praises Thrigun for holding 36 kg, then condemns his remarks about Rohit. Thrigun offers to give up his GOAT title. Nagarjuna orders him to jail instead.",
+      "tag": "Host"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Shalini Asks to Leave, Then Stays",
+      "message": "Ram Prasad tells Nagarjuna he is unhappy that Shalini is back after the viewers voted her out. She breaks down and says she never asked to return. Nagarjuna plays her rows with Dakkshi. She says she will leave if the house does not want her. Nagarjuna tells Bigg Boss to open the gates. Rohit talks her out of it and she stays.",
+      "tag": "Host"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "No Single Captain Next Week",
+      "message": "Bigg Boss takes Ram Prasad's captain badge. There is no single captain next week. The Green Zone GOATs share the captaincy. Nagarjuna gives the captain's room to Naresh after Mukesh offers it to Rohit and Debjani and Thrigun object.",
+      "tag": "Captain"
+    },
+    {
       "date": "2026-10-23",
       "title": "G.O.A.T Of Speed & Common Sense Tasks",
       "message": "Housemates engaged in the G.O.A.T Of Speed (Guards vs Dongalu) task where Thrigun & Shiva won, alongside the G.O.A.T Of Common Sense task won by Mukesh.",
