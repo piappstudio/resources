@@ -1,6 +1,37 @@
 {
   "timelines": [
     {
+      "date": "2026-11-01",
+      "title": "Karishma Evicted on Public Votes",
+      "message": "After TTF Vasan used his Eviction-Free Pass to save Mukesh, host Vijay Sethupathi announced wildcard contestant Karishma as the evicted housemate based on public votes.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "TTF Vasan Uses Eviction-Free Pass to Save Mukesh K",
+      "message": "Mukesh K was placed in the hot seat alongside Karishma and Muthazhagi. TTF Vasan exercised his Eviction-Free Pass to save Mukesh. Host Vijay Sethupathi specifically highlighted that Mukesh was saved solely due to TTF Vasan's intervention.",
+      "tag": "Twist"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Vijay Sethupathi Questions Akshitha and Shows Two Kurumpadams Over TTF Vasan Incident",
+      "message": "Vijay Sethupathi questioned Akshitha about the incident, but she consistently refused to accept her mistake and demanded a Kurumpadam. Even after two Kurumpadams were shown, she remained adamant. Her brother Avinash noted that the action resembled hitting. Later, TTF Vasan intervened and rescued Akshitha from a potential Red Card eviction.",
+      "tag": "Host"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Akshitha Loses Consciousness During Pizza Card Task",
+      "message": "Akshitha was pushed by Avinash during the Pizza Card task, lost consciousness, and was taken to a doctor for medical treatment.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Akshitha Hits TTF Vasan with a Pan",
+      "message": "Akshitha hit TTF Vasan with a pan during the Quick Gun Cowboys raid, but she consistently refused to accept responsibility. Social media erupted with outrage, demanding a Red Card eviction for Akshitha.",
+      "tag": "Conflict"
+    },
+
+    {
       "date": "2026-10-27",
       "title": "Quick Gun CowBoys vs Mine Mafia Weekly Task",
       "message": "Quick Gun CowBoys: Ansar, TTF Vasan, Sathiga, LakshmiPriya, Muthazhagi, Avinash,Mukesh. Mine Mafia: Vinoth, Jason, Muniyammal, Dhanya, Karishma, Ashmitha, Prithivi, Akshitha",
