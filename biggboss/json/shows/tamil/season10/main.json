@@ -30,7 +30,7 @@
         {
           "week": 1,
           "categories": [
-            "NOM",
+            "NOM-2",
             "RP"
           ],
           "nominates": [
@@ -154,7 +154,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             22,
@@ -190,8 +190,30 @@
               "comments": "Don't dismiss genuine feedback as silly."
             }
           ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "LEAD",
+            "Captain"
+          ],
+          "nominates": [
+            6,
+            24
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "No team coordination ."
+            },
+            {
+              "nominate_part_id": 24,
+              "comments": "Brother sister bond affecting her game ."
+            }
+          ]
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "2",
@@ -205,7 +227,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -400,6 +422,24 @@
               "comments": "She's losing her individual fire in the game"
             }
           ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            10,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Don’t have listening hears. He thinks he is always Right."
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "Not accepting her own mistakes."
+            }
+          ]
         }
       ]
     },
@@ -542,7 +582,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             1,
@@ -576,6 +616,26 @@
             {
               "nominate_part_id": 22,
               "comments": "playing likke My way high way. Breaking team dynamics."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            9,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Running out of fuel."
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "He was aggressive and holding personal grudges."
             }
           ]
         }
@@ -794,7 +854,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             7,
@@ -828,6 +888,26 @@
             {
               "nominate_part_id": 10,
               "comments": "He expects everyone to follow his gameplay, yet he's the one emotionally manipulating others."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            8,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Not visible individual game. Interesting to elevate others game."
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Collapsing the game. Back stop."
             }
           ]
         }
@@ -993,7 +1073,8 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM",
+            "CT"
           ],
           "nominates": [
             2,
@@ -1007,6 +1088,27 @@
             {
               "nominate_part_id": 8,
               "comments": "your questions and points are only to clarify to yourself not for others."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM",
+            "CT"
+          ],
+          "nominates": [
+            24,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 24,
+              "comments": "she was not accepting her mistakes ."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "He Projecting others in wrong way."
             }
           ]
         }
@@ -1149,7 +1251,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM",
+            "NOM-2",
             "EVI"
           ],
           "nominates": [
@@ -1305,7 +1407,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             9,
@@ -1339,6 +1441,27 @@
             {
               "nominate_part_id": 6,
               "comments": "Uses hurtful words toward others and lack of empathy."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM",
+            "CT"
+          ],
+          "nominates": [
+            9,
+            24
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "She was not playing individual game."
+            },
+            {
+              "nominate_part_id": 24,
+              "comments": "She was not playing individual game. Playing in group to survive ."
             }
           ]
         }
@@ -1479,7 +1602,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             8,
@@ -1513,6 +1636,26 @@
             {
               "nominate_part_id": 1,
               "comments": "Dependent to others."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11,
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Favoritism and  partiality ."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "the way of handling people looks different ."
             }
           ]
         }
@@ -1689,6 +1832,26 @@
             {
               "nominate_part_id": 2,
               "comments": "Her voice gets lost in the crowd. She needs to speak up individually!"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            8,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "She was not voice out anywhere ."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Unnecessary talking in irrelevant places."
             }
           ]
         }
@@ -1882,6 +2045,26 @@
             {
               "nominate_part_id": 6,
               "comments": "elect who has the larger fan base and follow these modes in sequence: Target, Friend, Attack, Aggression, Defense, and Manithaba Mode gameplay."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            2,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "She blindly believe and follow Jason. playing with group."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Emotional black mailing people with aggression who against to him. leading some group of people that scare me."
             }
           ]
         }
@@ -2338,7 +2521,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -2480,7 +2663,9 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM",
+            "WPW",
+            "JAIL"
           ],
           "nominates": [
             19,
@@ -2494,6 +2679,24 @@
             {
               "nominate_part_id": 1,
               "comments": "Their performance and gameplay dropped significantly after re-entering the house.\""
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            24,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 24,
+              "comments": "not playing well, not accepting criticism."
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "He was doing for promo content."
             }
           ]
         }
@@ -2511,7 +2714,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -2652,7 +2855,8 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM",
+            "BPW"
           ],
           "nominates": [
             22,
@@ -2666,6 +2870,24 @@
             {
               "nominate_part_id": 3,
               "comments": "Lack of voicing out and failing to showcase an individual game."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            8,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Sill she carried hesitation so not deserving."
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "Double faced, not accepting criticism."
             }
           ]
         }
@@ -2683,7 +2905,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -2804,7 +3026,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             9,
@@ -2824,7 +3046,8 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM",
+            "BPW"
           ],
           "nominates": [
             3,
@@ -2838,6 +3061,24 @@
             {
               "nominate_part_id": 8,
               "comments": "Not creating any memorable impact or adding anything interesting to the show."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            9,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "With or without her existence not impact, and not affects  anyone’s game."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "He lost his game because of group .."
             }
           ]
         }
@@ -2970,7 +3211,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -3042,7 +3283,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             7,
@@ -3078,6 +3319,24 @@
               "comments": "Uncontrolled aggression is never a good look."
             }
           ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            6,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "She was pointing out others mistakes but not changing or correcting he own mistakes ."
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "he was not correcting his mistakes ."
+            }
+          ]
         }
       ]
     },
@@ -3092,33 +3351,9 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-11-01",
+      "isNominated": false,
       "history": [
-        {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 3,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
         {
           "week": 5,
           "categories": [
@@ -3182,7 +3417,11 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM",
+            "CT",
+            "WPW",
+            "JAIL",
+            "EVI"
           ],
           "nominates": [
             18,
@@ -3284,7 +3523,7 @@
         {
           "week": 7,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
           "nominates": [
             1,
@@ -3318,6 +3557,26 @@
             {
               "nominate_part_id": 17,
               "comments": "Lacks an independent voice or a strong individual stance in the game."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            6,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "No involvement in team work ."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Not visible."
             }
           ]
         }

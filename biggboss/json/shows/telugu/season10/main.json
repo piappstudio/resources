@@ -123,6 +123,12 @@
               "comments": "Not playing individual game in \"Bone game\"."
             }
           ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -237,7 +243,7 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "Captain"
           ],
           "nominates": [
             7,
@@ -251,13 +257,19 @@
             },
             {
               "nominate_part_id": 15,
-              "comments": "Not giving repect to others. Arguments between Thrigun and Rohit"
+              "comments": "Not giving repect to Biggboss and Housemates. Lack of behavior, performance.  "
             },
             {
               "nominate_part_id": 14,
-              "comments": "Come out of comfort zone and talk to everyone."
+              "comments": "As a friend you are not understanding me in that game. Come out of comfort zone and talk to everyone."
             }
           ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -272,8 +284,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-10-31",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -359,10 +371,18 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM-2",
+            "EVI"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Captaincy Contender task, he lost against the Thrigun, but he had other chance to beat him in the G.O.A.T task, but he didn’t put that much effort. Judge is not considered this nomination."
+            }
+          ]
         }
       ]
     },
@@ -378,7 +398,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -493,8 +513,14 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
           "nominates": [],
           "nomination_detail": []
         }
@@ -609,9 +635,15 @@
           "nomination_detail": [
             {
               "nominate_part_id": 4,
-              "comments": "Shadow Sudheer, silent killer, slipping master."
+              "comments": "Shadow Sudheer, silent killer, flipping master."
             }
           ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -660,7 +692,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -753,8 +785,31 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
+          "nominates": [
+            19,
+            22,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Not clear and confused in game. Flipping depends on the situation."
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "Last week Debjani nomination issues. Judges not accepting this nomination."
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "Last week Debjani nomination issues. Judges not accepting this nomination."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
           "nominates": [],
           "nomination_detail": []
         }
@@ -960,9 +1015,30 @@
         },
         {
           "week": 8,
-          "categories": [],
+          "categories": [
+            "NOM",
+            "DNM"
+          ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            16,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Rules not followed in the drawing game. Gratitude, you are not discussed with Jhansi about nomination free pass. That pass may helped her. Using unparliamentary words."
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Night time discussion disturbs others, talking about personality, but you are not nominating Mukesh."
+            }
+          ]
         }
       ]
     },
@@ -1125,8 +1201,43 @@
         {
           "week": 8,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14,
+            3,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "I asked, 'If you took Ramprasad in your team, are you sure you will win?' but you never answered it."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Strong player, but crying for a small issues. Sympathy card. Judge is not accepting this nomination reason."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Strong player, but crying for a small issues. Sympathy card. Judge is not accepting this nomination reason."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            5,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Unfair star given in the BB hotel task. It hurts me."
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "In ultimate G.O.A.T task why you said to the supporter, “why you are placing my picture”"
+            }
+          ]
         }
       ]
     },
@@ -1244,7 +1355,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1337,8 +1448,14 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM-2"
           ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [],
           "nominates": [],
           "nomination_detail": []
         }
@@ -1355,8 +1472,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-11-01",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1462,10 +1579,18 @@
         {
           "week": 8,
           "categories": [
-            "NOM"
+            "NOM-2",
+            "EVI"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "He is strong player but need to change under estimating by himself."
+            }
+          ]
         }
       ]
     },
@@ -1575,6 +1700,24 @@
             {
               "nominate_part_id": 23,
               "comments": "Ever since you came, you've been like a doll. You don't feel like a real person."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            9,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Temper Vamsi, task zero, entertainment zero, gratitude zero."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "If you have any concern about me, you’re supposed to talk to me not to others."
             }
           ]
         }
@@ -1700,6 +1843,31 @@
         },
         {
           "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            4,
+            9,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Mr.back foot."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "He was not stands for him. He lost his game so that he hurt by himself that’s not good. Just not accepting this nomination."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "He was not stands for him. He lost his game so that he hurt by himself that’s not good. Just not accepting this nomination."
+            }
+          ]
+        },
+        {
+          "week": 9,
           "categories": [],
           "nominates": [],
           "nomination_detail": []
@@ -1801,6 +1969,24 @@
               "comments": "Own identity missed."
             }
           ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            14,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Got the star because of Sister and brother bond."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Temper Vamsi in task, normal Vamsi in kitchen."
+            }
+          ]
         }
       ]
     },
@@ -1865,8 +2051,33 @@
         {
           "week": 8,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "She affected my game, Foul game."
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
+          "nominates": [
+            16,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "In the ultimate G.O.AT you are not convincing the supporters why they want to support you. Getting angry when supporters lose the game."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "He gave a star delay so no use of that."
+            }
+          ]
         }
       ]
     },
@@ -1882,7 +2093,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1930,9 +2141,36 @@
         },
         {
           "week": 8,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "She gave just 10% effort in game."
+            }
+          ]
+        },
+        {
+          "week": 9,
           "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            16,
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Alcohol is injuries to health, likewise expectation is injurious to Health."
+            },
+            {
+              "nominate_part_id": 21,
+              "comments": "Lack of ration manager role, and judge role. Emotionally weak."
+            }
+          ]
         }
       ]
     }

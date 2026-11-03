@@ -173,11 +173,22 @@
         },
         {
           "week": 8,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [
+            "Captain"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "2",
@@ -190,7 +201,7 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-11-01",
       "isNominated": false,
       "history": [
         {
@@ -316,9 +327,29 @@
         },
         {
           "week": 8,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            3,
+            14,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Exterme Sensitive"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Safe game play"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Too much reaction"
+            }
+          ]
         }
       ]
     },
@@ -476,6 +507,24 @@
         {
           "week": 8,
           "categories": [],
+          "nominates": [
+            2,
+            8
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "Very boring, fake and shit kind of person"
+            },
+            {
+              "nominate_part_id": 8,
+              "comments": "Regarding what he said in rohit sir"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
           "nominates": [],
           "nomination_detail": []
         }
@@ -566,7 +615,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -697,7 +746,17 @@
         },
         {
           "week": 8,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -907,6 +966,14 @@
         },
         {
           "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 9,
           "categories": [],
           "nominates": [],
           "nomination_detail": []
@@ -1069,6 +1136,34 @@
         {
           "week": 8,
           "categories": [],
+          "nominates": [
+            12,
+            3,
+            11,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "For reason of Nakkul eviction"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Very rude, no real personality"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "For talking behind the scene"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "For supporting love to nominate you"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [],
           "nominates": [],
           "nomination_detail": []
         }
@@ -1226,7 +1321,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1342,7 +1437,34 @@
         },
         {
           "week": 8,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            17,
+            11,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "Behaving really weird"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Not genuine since day 1"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Wanted to start fresh"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -1360,7 +1482,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1506,6 +1628,26 @@
         {
           "week": 8,
           "categories": [],
+          "nominates": [
+            5,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Talking like peache bhi, saamne bhi"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "For crying"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -1642,6 +1784,26 @@
         },
         {
           "week": 8,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "For making lot's noises on me"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Not having guts to nominate someone"
+            }
+          ]
+        },
+        {
+          "week": 9,
           "categories": [],
           "nominates": [],
           "nomination_detail": []
@@ -1781,7 +1943,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1915,6 +2077,26 @@
         {
           "week": 8,
           "categories": [],
+          "nominates": [
+            2,
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "For not saying valid reason"
+            },
+            {
+              "nominate_part_id": 10,
+              "comments": "For disrespecting the contestant during conversation"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -2018,7 +2200,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -2141,11 +2323,50 @@
           "categories": [
             "Captain"
           ],
+          "nominates": [
+            5,
+            7,
+            17,
+            2,
+            1,
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Lots of aggressive fights and not understanding the situation well"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "For not ending the weekend conspiracy"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Miss fit in the house"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Not behaving appropriately in Gullu, Asif fight"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "For saying Kiss math to Udihi"
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "For unnecessary noises"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "18",
@@ -2183,7 +2404,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -2244,6 +2465,21 @@
         {
           "week": 8,
           "categories": [],
+          "nominates": [
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Not handling the situation maturly,  mocking a person"
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "categories": [
+            "NOM"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
