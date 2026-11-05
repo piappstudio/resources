@@ -452,57 +452,57 @@
         },
         {
           "week": 9,
-          "totalVotes": 469,
+          "totalVotes": 7107,
           "players": [
             {
               "id": 16,
-              "vote": 193,
-              "percentage": 41.15
+              "vote": 2575,
+              "percentage": 36.23
             },
             {
               "id": 9,
-              "vote": 61,
-              "percentage": 13.01
+              "vote": 714,
+              "percentage": 10.05
             },
             {
               "id": 21,
-              "vote": 39,
-              "percentage": 8.32
-            },
-            {
-              "id": 5,
-              "vote": 35,
-              "percentage": 7.46
-            },
-            {
-              "id": 14,
-              "vote": 35,
-              "percentage": 7.46
+              "vote": 622,
+              "percentage": 8.75
             },
             {
               "id": 4,
-              "vote": 32,
-              "percentage": 6.82
+              "vote": 562,
+              "percentage": 7.91
             },
             {
-              "id": 1,
-              "vote": 22,
-              "percentage": 4.69
+              "id": 14,
+              "vote": 539,
+              "percentage": 7.58
             },
             {
               "id": 11,
-              "vote": 20,
-              "percentage": 4.26
+              "vote": 452,
+              "percentage": 6.36
+            },
+            {
+              "id": 5,
+              "vote": 449,
+              "percentage": 6.32
             },
             {
               "id": 7,
-              "vote": 17,
-              "percentage": 3.62
+              "vote": 432,
+              "percentage": 6.08
+            },
+            {
+              "id": 1,
+              "vote": 419,
+              "percentage": 5.9
             },
             {
               "id": 19,
-              "vote": 15,
-              "percentage": 3.2
+              "vote": 343,
+              "percentage": 4.83
             }
           ]
         }
