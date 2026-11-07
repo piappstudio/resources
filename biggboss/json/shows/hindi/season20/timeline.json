@@ -1,22 +1,64 @@
 {
   "timelines": [
     {
-      "date": "2026-11-03",
-      "title": "Mahhi Destroys Arishfa's Cassette",
-      "message": "Mahhi Vij receives Arishfa Khan's cassette and chooses to destroy it to earn an extra lifeline for her child. Arishfa is left as the only housemate without a message from home, leaving her heartbroken and souring her equation with Mahhi.",
+      "date": "2026-11-06",
+      "title": "Arishfa Becomes Captain",
+      "message": "As a Diwali special gift, Bigg Boss offers Arishfa the captaincy if the majority of housemates support her. Almost everyone presses the green button, making Arishfa the new house captain.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Love and Arishfa Clash Over Duties",
+      "message": "During Diwali preparations and household work, Love Gill and Arishfa get into repeated heated arguments over kitchen duties, food (including kesar), cleaning, and respect. Mahhi also gets emotionally involved in the kitchen conflicts.",
       "tag": "Conflict"
     },
     {
-      "date": "2026-11-03",
-      "title": "Family Cassette Task ('Sandeshein Aate Hain')",
-      "message": "Housemates play the audio cassette task ('Sandeshein Aate Hain') choosing between game and emotion: play a family message for a peer by sacrificing a lifeline, or destroy it to earn an extra lifeline. Manish plays Qazi's message; Gullu plays Kanika's; Yung plays Uditi's; Uditi plays Manish's; Scout plays Love's; and Arishfa plays Amrapali's.",
+      "date": "2026-11-05",
+      "title": "Love Sacrifices Lifeline for Scout",
+      "message": "Love Gill sacrifices her lifeline so ScoutOP can hear his family message. Scout’s family advises him to play more solo, further complicating the ongoing Scout-Love dynamics linked to Kaashvi.",
       "tag": "Task"
     },
     {
+      "date": "2026-11-04",
+      "title": "Scout and Yung Sacrifice Lifelines",
+      "message": "Yung sacrifices his remaining lifeline so Uditi can hear her family message. Scout sacrifices his lifeline for Love Gill’s message. Uditi later sacrifices for Manish and Kanika sacrifices for Yung.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Love's Mother Calls Out Mahhi",
+      "message": "Love Gill’s mother, in her audio message, calls out Mahhi over past remarks about exposing Love if Scout was not involved. Mahhi denies the comments, becomes emotional, blames the makers, and threatens to quit the show.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Mahhi Destroys Arishfa's Cassette",
+      "message": "Mahhi Vij receives Arishfa Khan's cassette and chooses to destroy it to protect her own lifeline for her child. Arishfa is left as the only housemate without a message from home, leaving her heartbroken and souring her equation with Mahhi.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Yung Admits Cheating on Girlfriend",
+      "message": "After hearing his family’s messages, Yung DSA becomes emotional and later admits to Scout and others that he has cheated on his girlfriend multiple times, drawing strong reactions both inside and outside the house.",
+      "tag": "Update"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Family Message Task Begins",
+      "message": "Bigg Boss announces the Sandeshein Aate Hain cassette task. Housemates must choose between playing another contestant’s family message or protecting a lifeline. Manish sacrifices for Qazi’s message and Gullu sacrifices for Kanika’s message.",
+      "tag": "Task"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Arishfa Clashes with Amrapali and Yung",
+      "message": "Arishfa’s earlier remark about Amrapali and kitchen issues (eggs/salt) escalate into heated arguments. Scout and Yung also get involved in personal digs, adding to the existing group tensions in the house.",
+      "tag": "Conflict"
+    },
+    {
       "date": "2026-11-02",
-      "title": "Manish choose to not continue the chain of reaction",
-      "message": "Manish decided to not continue the chain of reaction after his nomination. Hence, nomination was stopped it",
-      "tag": "Twist"
+      "title": "Chain Reaction Nomination Task",
+      "message": "Captain Kanika Mann starts the chain by nominating Mahhi Vij. Mahhi nominates Amrapali Dubey, Amrapali nominates Arishfa Khan, Arishfa nominates ScoutOP, ScoutOP nominates Uditi Singh, and Uditi nominates Manish Goel, who ends the chain. Six housemates enter the danger zone for the week.",
+      "tag": "Nomination"
     },
     {
       "date": "2026-11-01",
