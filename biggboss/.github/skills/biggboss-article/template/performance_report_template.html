@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{SHOW_TITLE}} Week {{WEEK_NUMBER}} Report: {{HEADLINE}}</title>
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --cnn-red: #cc0000;
+            --cnn-dark-red: #990000;
+            --text-primary: #121212;
+            --text-secondary: #555555;
+            --text-light: #767676;
+            --bg-article: #ffffff;
+            --bg-muted: #f7f7f7;
+            --border-light: #e6e6e6;
+            --border-dark: #121212;
+            --font-headline: "Georgia", "Times New Roman", Times, serif;
+            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            --accent-emerald: #059669;
+            --accent-amber: #d97706;
+            --accent-blue: #2563eb;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            background-color: #f4f4f4;
+            color: var(--text-primary);
+            line-height: 1.75;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Top Brand Header (CNN / Newsroom Style) */
+        .newsroom-bar {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 10px 20px;
+            font-size: 0.8rem;
+            font-weight: 800;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 3px solid var(--cnn-red);
+        }
+
+        .newsroom-bar span.brand {
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .newsroom-bar span.brand::before {
+            content: '';
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background-color: var(--cnn-red);
+            border-radius: 2px;
+        }
+
+        /* Main Editorial Layout Container */
+        .article-wrapper {
+            max-width: 980px;
+            margin: 0 auto;
+            background-color: var(--bg-article);
+            padding: 40px 48px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            border-left: 1px solid var(--border-light);
+            border-right: 1px solid var(--border-light);
+        }
+
+        /* Category Header */
+        .category-tag {
+            color: var(--cnn-red);
+            font-size: 0.85rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            margin-bottom: 12px;
+        }
+
+        /* Headline & Deck */
+        .article-headline {
+            font-family: var(--font-headline);
+            font-size: 2.5rem;
+            font-weight: 700;
+            line-height: 1.18;
+            color: var(--text-primary);
+            margin-bottom: 16px;
+            letter-spacing: -0.5px;
+        }
+
+        .article-deck {
+            font-family: var(--font-headline);
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            line-height: 1.45;
+            margin-bottom: 24px;
+            font-weight: 400;
+        }
+
+        /* Byline & Dateline */
+        .byline-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px 0;
+            border-top: 1px solid var(--border-light);
+            border-bottom: 1px solid var(--border-light);
+            margin-bottom: 24px;
+            font-size: 0.85rem;
+            color: var(--text-light);
+        }
+
+        .byline-author {
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        /* App Download Banner (Newsroom Callout Style) */
+        .app-download-banner {
+            background: linear-gradient(135deg, #111827 0%, #1f2937 100%);
+            color: #ffffff;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin-bottom: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .app-info h4 {
+            font-size: 1.05rem;
+            font-weight: 800;
+            color: #f59e0b;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
+        }
+
+        .app-info p {
+            font-size: 0.88rem;
+            color: #d1d5db;
+            line-height: 1.4;
+            margin: 0;
+        }
+
+        .app-store-buttons {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-shrink: 0;
+        }
+
+        .store-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: #000000;
+            color: #ffffff;
+            border: 1px solid #374151;
+            padding: 8px 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.82rem;
+            font-weight: 700;
+            transition: background-color 0.2s, border-color 0.2s;
+        }
+
+        .store-btn:hover {
+            background-color: #1f2937;
+            border-color: #f59e0b;
+        }
+
+        .store-btn img {
+            height: 20px;
+            width: auto;
+        }
+
+        /* Key Takeaways Box (CNN "What You Need to Know") */
+        .key-takeaways {
+            background-color: var(--bg-muted);
+            border-left: 4px solid var(--cnn-red);
+            padding: 20px 24px;
+            margin-bottom: 36px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .key-takeaways h3 {
+            font-size: 0.95rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--cnn-red);
+            margin-bottom: 12px;
+        }
+
+        .key-takeaways ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        .key-takeaways li {
+            font-size: 0.98rem;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+
+        /* Editorial Body Text */
+        .article-body p {
+            font-size: 1.1rem;
+            color: #222222;
+            margin-bottom: 24px;
+            line-height: 1.8;
+        }
+
+        .article-body p.lede {
+            font-size: 1.2rem;
+            font-weight: 400;
+            color: #111111;
+        }
+
+        .article-body h2 {
+            font-family: var(--font-headline);
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin: 40px 0 16px;
+            border-top: 2px solid var(--border-dark);
+            padding-top: 16px;
+        }
+
+        /* Inline Embedded Chart Container */
+        .embedded-figure {
+            margin: 36px 0;
+            background-color: #ffffff;
+            border: 1px solid var(--border-light);
+            border-radius: 8px;
+            padding: 24px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+        }
+
+        .figure-header {
+            margin-bottom: 16px;
+        }
+
+        .figure-title {
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: var(--text-primary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .figure-subtitle {
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 360px;
+            width: 100%;
+        }
+
+        .figure-source {
+            font-size: 0.78rem;
+            color: var(--text-light);
+            margin-top: 12px;
+            text-align: right;
+            border-top: 1px solid #f0f0f0;
+            padding-top: 8px;
+        }
+
+        /* Pull Quote Component */
+        .pull-quote {
+            font-family: var(--font-headline);
+            font-size: 1.4rem;
+            font-style: italic;
+            color: var(--cnn-red);
+            border-top: 2px solid var(--cnn-red);
+            border-bottom: 2px solid var(--cnn-red);
+            padding: 20px 10px;
+            margin: 36px 0;
+            text-align: center;
+            line-height: 1.4;
+        }
+
+        /* Newsroom Data Table */
+        .editorial-table-container {
+            margin: 32px 0;
+            overflow-x: auto;
+        }
+
+        .editorial-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.92rem;
+            text-align: left;
+        }
+
+        .editorial-table th {
+            background-color: var(--bg-muted);
+            color: var(--text-primary);
+            font-weight: 800;
+            text-transform: uppercase;
+            font-size: 0.78rem;
+            letter-spacing: 0.5px;
+            padding: 12px 14px;
+            border-bottom: 2px solid var(--border-dark);
+        }
+
+        .editorial-table td {
+            padding: 12px 14px;
+            border-bottom: 1px solid var(--border-light);
+            color: var(--text-primary);
+        }
+
+        /* Status Pills inside Table */
+        .status-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .status-tag.leader { background-color: #dbeafe; color: #1e40af; }
+        .status-tag.success { background-color: #d1fae5; color: #065f46; }
+        .status-tag.danger { background-color: #fee2e2; color: #991b1b; }
+        .status-tag.neutral { background-color: #f3f4f6; color: #374151; }
+
+        /* Timeline Component */
+        .news-timeline {
+            border-left: 3px solid var(--cnn-red);
+            padding-left: 20px;
+            margin: 28px 0;
+        }
+
+        .timeline-event {
+            margin-bottom: 20px;
+        }
+
+        .event-date {
+            font-size: 0.8rem;
+            font-weight: 800;
+            color: var(--cnn-red);
+            text-transform: uppercase;
+        }
+
+        .event-title {
+            font-size: 1.05rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin: 2px 0 4px;
+        }
+
+        .event-desc {
+            font-size: 0.92rem;
+            color: var(--text-secondary);
+        }
+
+        /* Methodology Box */
+        .methodology-box {
+            background-color: var(--bg-muted);
+            border: 1px solid var(--border-light);
+            padding: 24px;
+            border-radius: 8px;
+            margin-top: 48px;
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+        }
+
+        .methodology-box h4 {
+            font-size: 0.95rem;
+            font-weight: 800;
+            color: var(--text-primary);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .app-download-footer {
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border-light);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            font-size: 0.82rem;
+            color: var(--text-light);
+            border-top: 1px solid var(--border-light);
+            margin-top: 40px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .article-wrapper { padding: 24px 20px; }
+            .article-headline { font-size: 2rem; }
+            .article-deck { font-size: 1.1rem; }
+            .app-download-banner { flex-direction: column; align-items: flex-start; }
+            .app-store-buttons { width: 100%; justify-content: flex-start; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Brand Header -->
+    <div class="newsroom-bar">
+        <span class="brand">PiAppStudio Data Center</span>
+        <span>SPECIAL PERFORMANCE REPORT • WEEK {{WEEK_NUMBER}}</span>
+    </div>
+
+    <!-- Article Main Wrapper -->
+    <div class="article-wrapper">
+
+        <!-- Category & Headline -->
+        <div class="category-tag">ENTERTAINMENT & DATA JOURNALISM</div>
+        <h1 class="article-headline">{{HEADLINE}}</h1>
+        <div class="article-deck">{{DECK}}</div>
+
+        <!-- Byline & Dateline -->
+        <div class="byline-container">
+            <div>By <span class="byline-author">PiAppStudio Data Center</span></div>
+            <div>Published {{PUBLISHED_DATE}} • 5 min read</div>
+        </div>
+
+        <!-- App Download Callout Banner -->
+        <div class="app-download-banner">
+            <div class="app-info">
+                <h4>📱 Get Real-Time Live Voting Insights & Trends</h4>
+                <p>All voting data, task analytics, and live contestant trends in this report are derived directly from the <strong>Bigg Boss Voting Insights</strong> mobile app by <strong>PiAppStudio</strong>.</p>
+            </div>
+            <div class="app-store-buttons">
+                <a href="https://play.google.com/store/apps/details?id=com.piappstudio.biggboss" target="_blank" class="store-btn">
+                    <img src="https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/apps/biggboss_android.png" alt="Google Play">
+                    <span>Google Play</span>
+                </a>
+                <a href="https://apps.apple.com/us/app/bigg-boss-voting-insights/id6738048588" target="_blank" class="store-btn">
+                    <img src="https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/apps/biggboss_appstore.png" alt="App Store">
+                    <span>App Store</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Key Takeaways Box -->
+        <div class="key-takeaways">
+            <h3>What You Need to Know</h3>
+            <ul>
+                <!-- {{KEY_TAKEAWAYS_LIST}} -->
+            </ul>
+        </div>
+
+        <!-- Article Body & Embedded Visualizations -->
+        <div class="article-body">
+            <!-- {{ARTICLE_BODY_CONTENT}} -->
+        </div>
+
+        <!-- Methodology & Source Attribution -->
+        <div class="methodology-box">
+            <h4>Data Methodology & Source Attribution</h4>
+            <p>
+                All live voting counts, performance analytics, task records, and promo trends in this report are derived directly from the official <strong>Bigg Boss Voting Insights</strong> app developed by <strong>PiAppStudio</strong>.
+            </p>
+            <div class="app-download-footer">
+                <strong style="color:var(--text-primary);">Download Bigg Boss Voting Insights App:</strong>
+                <div class="app-store-buttons">
+                    <a href="https://play.google.com/store/apps/details?id=com.piappstudio.biggboss" target="_blank" class="store-btn">
+                        <img src="https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/apps/biggboss_android.png" alt="Google Play">
+                        <span>Google Play</span>
+                    </a>
+                    <a href="https://apps.apple.com/us/app/bigg-boss-voting-insights/id6738048588" target="_blank" class="store-btn">
+                        <img src="https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/apps/biggboss_appstore.png" alt="App Store">
+                        <span>App Store</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <p>© 2026 PiAppStudio • Published for Educational & Analytical Journalism Purposes</p>
+        </footer>
+
+    </div>
+
+    <!-- Chart.js Setup Scripts -->
+    <script>
+        // {{CHART_JS_SCRIPTS}}
+    </script>
+
+</body>
+</html>
