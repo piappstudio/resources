@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-11-03",
+      "title": "Multiple Contestants Sacrifice Lifelines (Family Task)",
+      "message": "During the 'Sandese Aate Hain' family message task (spanning early November), Gullu, Uditi Singh, Kanika Mann, Aamrapali Dubey, Love Gill, Qazi Touqeer and others voluntarily give up a lifeline (or chance at an extra one) so another housemate can hear a family message.",
+      "tag": "Lifeline Loss"
+    },
+    {
+      "date": "2026-11-03",
       "title": "Arishfa Clashes with Amrapali and Yung",
       "message": "Arishfa’s earlier remark about Amrapali and kitchen issues (eggs/salt) escalate into heated arguments. Scout and Yung also get involved in personal digs, adding to the existing group tensions in the house.",
       "tag": "Conflict"
@@ -64,6 +70,12 @@
       "date": "2026-11-01",
       "title": "Aasif Khan Evicted",
       "message": "Weekend Ka Vaar episode. Host Rohit Shetty announces Aasif Khan as the evicted contestant based on public votes.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Aasif Khan Loses 2nd Lifeline & Evicted",
+      "message": "Aasif Khan finishes with the lowest public votes and loses his second lifeline, resulting in eviction after eight weeks.",
       "tag": "Eviction"
     },
     {
@@ -125,6 +137,18 @@
       "title": "Mary Evicted",
       "message": "Weekend Ka Vaar. Rohit Shetty hosts in Salman's place. Mary loses both lives and leaves the house. Manish loses one life and stays.",
       "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Mary Kom Loses 2nd Lifeline & Evicted",
+      "message": "Mary Kom receives the lowest public votes and loses her second lifeline. Guest host Rohit Shetty announces her eviction.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Manish Goel Loses 1st Lifeline",
+      "message": "Wildcard entrant Manish Goel loses his first lifeline on the same Weekend Ka Vaar night as Mary Kom’s eviction but survives.",
+      "tag": "Lifeline Loss"
     },
     {
       "date": "2026-10-24",
@@ -200,6 +224,12 @@
     },
     {
       "date": "2026-10-18",
+      "title": "Aman Gandhi Loses 2nd Lifeline & Evicted",
+      "message": "Aman Gandhi finishes with the lowest public votes and loses his second lifeline, resulting in eviction.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-18",
       "title": "Housemates Name Who Lacks a Spine",
       "message": "Weekend Ka Vaar. In the X-Ray task the house names who will not take a stand. Aman is named by Uditi, Mahhi, Kanika and Mary. Qazi is named by Arishfa, Scout, Yung and Aasif. Most of the house say Arishfa needs to use her head. Uditi names Kanika instead. Salman tells Arishfa to work on herself, and she agrees. Kanika says she will listen before she answers Arishfa. In the obsession round Mahhi gets the most tags.",
       "tag": "WeekendKaVaar"
@@ -227,6 +257,12 @@
       "title": "Arishfa Loses a Life",
       "message": "Day 40 ration task. The house has 20 minutes to agree whose life to take, and the longer they argue the more ration they lose. Arishfa gets seven votes for starting fights without a reason. She loses one life. The house gets 55 percent of the ration. She stays.",
       "tag": "Twist"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Arishfa Khan Loses 1st Lifeline",
+      "message": "Majority of housemates (6/13) vote to take away Arishfa Khan’s first lifeline in exchange for weekly ration.",
+      "tag": "Lifeline Loss"
     },
     {
       "date": "2026-10-15",
@@ -287,6 +323,12 @@
       "title": "Aman Loses a Life and Stays",
       "message": "Salman says Mary is safe, then that Aman has the fewest votes. JioHotstar says one life is gone and the Jeevandan twist saves him. Aman stays in the house. No one leaves this weekend.",
       "tag": "Twist"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Aman Gandhi Loses 1st Lifeline",
+      "message": "Aman Gandhi receives the lowest public votes in Week 5 Weekend Ka Vaar and loses his first lifeline (no eviction that week).",
+      "tag": "Lifeline Loss"
     },
     {
       "date": "2026-10-11",
@@ -362,6 +404,12 @@
     },
     {
       "date": "2026-10-04",
+      "title": "Mary Kom Loses 1st Lifeline",
+      "message": "Mary Kom receives the lowest public votes in Week 4 Weekend Ka Vaar and loses her first lifeline.",
+      "tag": "Lifeline Loss"
+    },
+    {
+      "date": "2026-10-04",
       "title": "Udta Teer Weekend",
       "message": "Mika Singh opens Weekend Ka Vaar and runs a Chup-sticker task. Guests: Veer Pariya, Aafiya Sayed and Nikhil Vijay for Prem Kitanu; Asha Negi and Abhay Mahajan for Ali Baba Aur 40 Bhoot; Ayushmann Khurrana and Sara Ali Khan for Udta Teer. Sara’s praise for Qazi irritates Kanika. The teams name an ‘Udta Teer’ in each group.",
       "tag": "WeekendKaVaar"
@@ -376,6 +424,12 @@
       "date": "2026-10-02",
       "title": "Rhiti Tiwari Evicted",
       "message": "First mid-week eviction. Yung, Mahhi and Uditi take Rhiti’s last lifeline and Bigg Boss asks her to leave. She says she showed her real personality. Amrapali regrets nominating her. The other Week 4 nominees stay up for the public vote. House is down to 13.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Rhiti Tiwari Loses 2nd Lifeline & Evicted",
+      "message": "Rhiti Tiwari is eliminated mid-week by captaincy contenders Mahhi Vij, Uditi Singh and Yung DSA, losing her second lifeline.",
       "tag": "Eviction"
     },
     {
@@ -446,6 +500,12 @@
     },
     {
       "date": "2026-09-27",
+      "title": "Isha Rikhi Loses 2nd Lifeline & Evicted",
+      "message": "Isha Rikhi receives the lowest public votes and loses her second lifeline, resulting in eviction.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-09-27",
       "title": "Star-Studded Weekend Ka Vaar",
       "message": "Ajay Devgn and Jaideep Ahlawat promote Drishyam: The Conclusion. Fatima Sana Shaikh, Raghubir Yadav and Mohammed Zeeshan Ayyub promote Hunkkaar. Salman slams paparazzi and AI deepfake video creators. Rhiti Tiwari breaks down; Mahhi and Kanika console her.",
       "tag": "WeekendKaVaar"
@@ -463,10 +523,34 @@
       "tag": "Captain"
     },
     {
+      "date": "2026-09-22",
+      "title": "Isha Rikhi & Rhiti Tiwari Lose 1st Lifelines",
+      "message": "Isha Rikhi and Rhiti Tiwari finish in the bottom two of a ranking task among housemates with two lifelines and each lose their first lifeline.",
+      "tag": "Lifeline Loss"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Yung DSA Loses 1st Lifeline",
+      "message": "Aman Gandhi takes Yung DSA’s first lifeline to avail luxury ration for himself.",
+      "tag": "Lifeline Loss"
+    },
+    {
       "date": "2026-09-20",
       "title": "Rohed Khan Evicted",
       "message": "First full walk-out of the season. Rohed, Aasif and Scout were directly nominated after discussing nominations with Yung. Public votes send Rohed out on Day 14. Aasif and Scout survive.",
       "tag": "Eviction"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Rohed Khan Loses 2nd Lifeline & Evicted",
+      "message": "Rohed Khan finishes with the lowest public votes and loses his second lifeline, resulting in eviction.",
+      "tag": "Eviction"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Aasif Khan, Rohed Khan & ScoutOP Lose 1st Lifelines",
+      "message": "In the Week 2 captaincy task, Aasif Khan, Rohed Khan and Tanmay 'ScoutOP' Singh lose their first lifelines (taken by Mahhi, Kanika and Gullu respectively).",
+      "tag": "Lifeline Loss"
     },
     {
       "date": "2026-09-16",
@@ -485,6 +569,12 @@
       "title": "Uditi Loses a Lifeline, Not the House",
       "message": "First Weekend Ka Vaar. Uditi Singh gets the fewest votes among Kanika, Arishfa, Love and Uditi. Tathas-two twist: she is not evicted; she burns one of two lives. Salman tells her the show is not for staying quiet. Amrapali–Arishfa clash continues on stage.",
       "tag": "Twist"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Uditi Singh Loses 1st Lifeline",
+      "message": "Uditi Singh receives the lowest public votes in Week 1 Weekend Ka Vaar and loses her first lifeline.",
+      "tag": "Lifeline Loss"
     },
     {
       "date": "2026-09-10",
@@ -575,6 +665,14 @@
     {
       "tag": "Update",
       "color": "#2196F3"
+    },
+    {
+      "tag": "LifeLine",
+      "color": "#00BCD4"
+    },
+    {
+      "tag": "Lifeline Loss",
+      "color": "#00BCD4"
     }
   ]
 }
