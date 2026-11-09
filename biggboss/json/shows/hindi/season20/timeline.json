@@ -44,15 +44,9 @@
     },
     {
       "date": "2026-11-03",
-      "title": "Family Message Task Begins",
-      "message": "Bigg Boss announces the Sandeshein Aate Hain cassette task. Housemates must choose between playing another contestant’s family message or protecting a lifeline. Manish sacrifices for Qazi’s message and Gullu sacrifices for Kanika’s message.",
+      "title": "Family Message Task Begins & Lifeline Sacrifices",
+      "message": "Bigg Boss announces the Sandeshein Aate Hain cassette task. Housemates choose between playing a family message or protecting a lifeline. Multiple contestants (Gullu, Uditi, Kanika, Amrapali, Love, Qazi, Manish) voluntarily sacrifice lifelines so fellow housemates can hear messages from home.",
       "tag": "Task"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Multiple Contestants Sacrifice Lifelines (Family Task)",
-      "message": "During the 'Sandese Aate Hain' family message task (spanning early November), Gullu, Uditi Singh, Kanika Mann, Aamrapali Dubey, Love Gill, Qazi Touqeer and others voluntarily give up a lifeline (or chance at an extra one) so another housemate can hear a family message.",
-      "tag": "Lifeline Loss"
     },
     {
       "date": "2026-11-03",
@@ -68,14 +62,8 @@
     },
     {
       "date": "2026-11-01",
-      "title": "Aasif Khan Evicted",
-      "message": "Weekend Ka Vaar episode. Host Rohit Shetty announces Aasif Khan as the evicted contestant based on public votes.",
-      "tag": "Eviction"
-    },
-    {
-      "date": "2026-11-01",
       "title": "Aasif Khan Loses 2nd Lifeline & Evicted",
-      "message": "Aasif Khan finishes with the lowest public votes and loses his second lifeline, resulting in eviction after eight weeks.",
+      "message": "Weekend Ka Vaar episode. Host Rohit Shetty announces Aasif Khan as the evicted contestant after finishing with the lowest public votes and losing his second lifeline after eight weeks.",
       "tag": "Eviction"
     },
     {
@@ -134,21 +122,9 @@
     },
     {
       "date": "2026-10-24",
-      "title": "Mary Evicted",
-      "message": "Weekend Ka Vaar. Rohit Shetty hosts in Salman's place. Mary loses both lives and leaves the house. Manish loses one life and stays.",
+      "title": "Mary Kom Evicted; Manish Goel Loses 1st Lifeline",
+      "message": "Weekend Ka Vaar hosted by guest host Rohit Shetty. Mary Kom receives the lowest public votes, loses her second lifeline, and is evicted. Wildcard entrant Manish Goel loses his first lifeline on the same night but survives.",
       "tag": "Eviction"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Mary Kom Loses 2nd Lifeline & Evicted",
-      "message": "Mary Kom receives the lowest public votes and loses her second lifeline. Guest host Rohit Shetty announces her eviction.",
-      "tag": "Eviction"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Manish Goel Loses 1st Lifeline",
-      "message": "Wildcard entrant Manish Goel loses his first lifeline on the same Weekend Ka Vaar night as Mary Kom’s eviction but survives.",
-      "tag": "Lifeline Loss"
     },
     {
       "date": "2026-10-24",
@@ -218,14 +194,8 @@
     },
     {
       "date": "2026-10-18",
-      "title": "Aman Gandhi Evicted",
-      "message": "Weekend Ka Vaar. Aman, Uditi and Mary are the bottom three. Aman has one life left. Salman says he has the fewest votes and sends him out. Arishfa breaks down. Salman says Rohit Shetty will host the next Weekend Ka Vaar.",
-      "tag": "Eviction"
-    },
-    {
-      "date": "2026-10-18",
       "title": "Aman Gandhi Loses 2nd Lifeline & Evicted",
-      "message": "Aman Gandhi finishes with the lowest public votes and loses his second lifeline, resulting in eviction.",
+      "message": "Weekend Ka Vaar. Aman Gandhi finishes with the lowest public votes among the bottom three (Aman, Uditi, Mary) and loses his second lifeline, resulting in eviction. Arishfa breaks down. Salman announces Rohit Shetty will host the next Weekend Ka Vaar.",
       "tag": "Eviction"
     },
     {
@@ -254,14 +224,8 @@
     },
     {
       "date": "2026-10-16",
-      "title": "Arishfa Loses a Life",
-      "message": "Day 40 ration task. The house has 20 minutes to agree whose life to take, and the longer they argue the more ration they lose. Arishfa gets seven votes for starting fights without a reason. She loses one life. The house gets 55 percent of the ration. She stays.",
-      "tag": "Twist"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Arishfa Khan Loses 1st Lifeline",
-      "message": "Majority of housemates (6/13) vote to take away Arishfa Khan’s first lifeline in exchange for weekly ration.",
+      "title": "Arishfa Khan Loses 1st Lifeline for Ration",
+      "message": "Day 40 ration task. A majority of housemates vote to take away Arishfa Khan's first lifeline in exchange for 55% weekly ration after a 20-minute discussion. She stays in the house.",
       "tag": "Lifeline Loss"
     },
     {
@@ -320,14 +284,8 @@
     },
     {
       "date": "2026-10-11",
-      "title": "Aman Loses a Life and Stays",
-      "message": "Salman says Mary is safe, then that Aman has the fewest votes. JioHotstar says one life is gone and the Jeevandan twist saves him. Aman stays in the house. No one leaves this weekend.",
-      "tag": "Twist"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Aman Gandhi Loses 1st Lifeline",
-      "message": "Aman Gandhi receives the lowest public votes in Week 5 Weekend Ka Vaar and loses his first lifeline (no eviction that week).",
+      "title": "Aman Gandhi Loses 1st Lifeline (Saved by Jeevandan)",
+      "message": "Weekend Ka Vaar. Aman Gandhi receives the lowest public votes in Week 5. The Extra Jeevandan twist saves him as he loses his first lifeline and stays in the house, resulting in no eviction that week.",
       "tag": "Lifeline Loss"
     },
     {
@@ -398,14 +356,8 @@
     },
     {
       "date": "2026-10-04",
-      "title": "Mary Kom Loses a Lifeline",
-      "message": "Weekend Ka Vaar, after Rhiti’s mid-week exit. Salman says the rest are not safe and warns Yung and Scout that they are on one life. Mary Kom has the fewest public votes and loses a lifeline. She stays. No second eviction this weekend.",
-      "tag": "Twist"
-    },
-    {
-      "date": "2026-10-04",
       "title": "Mary Kom Loses 1st Lifeline",
-      "message": "Mary Kom receives the lowest public votes in Week 4 Weekend Ka Vaar and loses her first lifeline.",
+      "message": "Weekend Ka Vaar (Week 4). Mary Kom receives the lowest public votes and loses her first lifeline. Salman warns Yung and Scout that they are on one life. Mary stays and there is no second eviction this weekend.",
       "tag": "Lifeline Loss"
     },
     {
@@ -422,14 +374,8 @@
     },
     {
       "date": "2026-10-02",
-      "title": "Rhiti Tiwari Evicted",
-      "message": "First mid-week eviction. Yung, Mahhi and Uditi take Rhiti’s last lifeline and Bigg Boss asks her to leave. She says she showed her real personality. Amrapali regrets nominating her. The other Week 4 nominees stay up for the public vote. House is down to 13.",
-      "tag": "Eviction"
-    },
-    {
-      "date": "2026-10-02",
       "title": "Rhiti Tiwari Loses 2nd Lifeline & Evicted",
-      "message": "Rhiti Tiwari is eliminated mid-week by captaincy contenders Mahhi Vij, Uditi Singh and Yung DSA, losing her second lifeline.",
+      "message": "First mid-week eviction. Captaincy contenders Mahhi Vij, Uditi Singh and Yung DSA take Rhiti Tiwari’s second and final lifeline, eliminating her from the house. House is down to 13 contestants.",
       "tag": "Eviction"
     },
     {
@@ -494,14 +440,8 @@
     },
     {
       "date": "2026-09-27",
-      "title": "Isha Rikhi Evicted",
-      "message": "Weekend Ka Vaar Day 21. Isha and Yung DSA were Week 3 nominees. Salman teases Yung’s exit, then reveals Isha got fewer public votes. Second full eviction after Rohed. Salman: ‘Well played, Isha. You kept your dignity.’ House now at 14.",
-      "tag": "Eviction"
-    },
-    {
-      "date": "2026-09-27",
       "title": "Isha Rikhi Loses 2nd Lifeline & Evicted",
-      "message": "Isha Rikhi receives the lowest public votes and loses her second lifeline, resulting in eviction.",
+      "message": "Weekend Ka Vaar Day 21. Isha Rikhi receives the lowest public votes among Week 3 nominees (Isha and Yung DSA) and loses her second lifeline, resulting in her eviction from the house. House now at 14.",
       "tag": "Eviction"
     },
     {
@@ -536,14 +476,8 @@
     },
     {
       "date": "2026-09-20",
-      "title": "Rohed Khan Evicted",
-      "message": "First full walk-out of the season. Rohed, Aasif and Scout were directly nominated after discussing nominations with Yung. Public votes send Rohed out on Day 14. Aasif and Scout survive.",
-      "tag": "Eviction"
-    },
-    {
-      "date": "2026-09-20",
       "title": "Rohed Khan Loses 2nd Lifeline & Evicted",
-      "message": "Rohed Khan finishes with the lowest public votes and loses his second lifeline, resulting in eviction.",
+      "message": "Rohed Khan finishes with the lowest public votes among the directly nominated contestants (Rohed, Aasif, Scout) and loses his second lifeline, resulting in the season's first full eviction on Day 14. Aasif and Scout survive.",
       "tag": "Eviction"
     },
     {
@@ -566,14 +500,8 @@
     },
     {
       "date": "2026-09-13",
-      "title": "Uditi Loses a Lifeline, Not the House",
-      "message": "First Weekend Ka Vaar. Uditi Singh gets the fewest votes among Kanika, Arishfa, Love and Uditi. Tathas-two twist: she is not evicted; she burns one of two lives. Salman tells her the show is not for staying quiet. Amrapali–Arishfa clash continues on stage.",
-      "tag": "Twist"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Uditi Singh Loses 1st Lifeline",
-      "message": "Uditi Singh receives the lowest public votes in Week 1 Weekend Ka Vaar and loses her first lifeline.",
+      "title": "Uditi Singh Loses 1st Lifeline (Tathas-two Twist)",
+      "message": "First Weekend Ka Vaar. Uditi Singh receives the lowest public votes among Week 1 nominees. Under the Tathas-two twist, she is not evicted but loses her first lifeline. Salman tells her the show is not for staying quiet.",
       "tag": "Lifeline Loss"
     },
     {
