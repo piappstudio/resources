@@ -345,6 +345,62 @@
               "percentage": 4.28
             }
           ]
+        },
+        {
+          "week": 10,
+          "totalVotes": 6404,
+          "players": [
+            {
+              "id": 3,
+              "vote": 2288,
+              "percentage": 35.73
+            },
+            {
+              "id": 8,
+              "vote": 1103,
+              "percentage": 17.22
+            },
+            {
+              "id": 14,
+              "vote": 914,
+              "percentage": 14.27
+            },
+            {
+              "id": 10,
+              "vote": 804,
+              "percentage": 12.55
+            },
+            {
+              "id": 12,
+              "vote": 492,
+              "percentage": 7.68
+            },
+            {
+              "id": 5,
+              "vote": 251,
+              "percentage": 3.92
+            },
+            {
+              "id": 7,
+              "vote": 234,
+              "percentage": 3.65
+            },
+            {
+              "id": 1,
+              "vote": 128,
+              "percentage": 2.0
+            },
+            {
+              "id": 16,
+              "vote": 107,
+              "percentage": 1.67
+            },
+            {
+              "id": 17,
+              "vote": 83,
+              "percentage": 1.3
+            }
+          ]
         }
       ]
     }
