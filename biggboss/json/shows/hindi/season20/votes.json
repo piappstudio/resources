@@ -348,57 +348,57 @@
         },
         {
           "week": 10,
-          "totalVotes": 32597,
+          "totalVotes": 188720,
           "players": [
             {
               "id": 3,
-              "vote": 10737,
-              "percentage": 32.94
+              "vote": 57230,
+              "percentage": 30.33
             },
             {
               "id": 8,
-              "vote": 5916,
-              "percentage": 18.15
-            },
-            {
-              "id": 14,
-              "vote": 5124,
-              "percentage": 15.72
+              "vote": 50020,
+              "percentage": 26.5
             },
             {
               "id": 10,
-              "vote": 3658,
-              "percentage": 11.22
+              "vote": 28890,
+              "percentage": 15.31
             },
             {
-              "id": 12,
-              "vote": 2646,
-              "percentage": 8.12
+              "id": 14,
+              "vote": 14505,
+              "percentage": 7.69
             },
             {
               "id": 5,
-              "vote": 1295,
-              "percentage": 3.97
+              "vote": 8242,
+              "percentage": 4.37
             },
             {
-              "id": 7,
-              "vote": 952,
-              "percentage": 2.92
-            },
-            {
-              "id": 16,
-              "vote": 786,
-              "percentage": 2.41
-            },
-            {
-              "id": 1,
-              "vote": 765,
-              "percentage": 2.35
+              "id": 12,
+              "vote": 7533,
+              "percentage": 3.99
             },
             {
               "id": 17,
-              "vote": 718,
-              "percentage": 2.2
+              "vote": 5622,
+              "percentage": 2.98
+            },
+            {
+              "id": 16,
+              "vote": 5601,
+              "percentage": 2.97
+            },
+            {
+              "id": 1,
+              "vote": 5601,
+              "percentage": 2.97
+            },
+            {
+              "id": 7,
+              "vote": 5476,
+              "percentage": 2.9
             }
           ]
         }
