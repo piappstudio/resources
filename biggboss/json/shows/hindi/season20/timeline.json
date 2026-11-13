@@ -1,10 +1,58 @@
 {
   "timelines": [
     {
+      "date": "2026-11-12",
+      "title": "Scout Gets Four Punishments",
+      "message": "Bigg Boss reviews the footage and holds ScoutOP at fault for pushing Yung DSA. He cancels the reaction task, keeps Scout nominated for the rest of the season, bars him from captaincy, and takes away his chance to revive a lifeline. Scout is not evicted.",
+      "tag": "Twist"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Scout Pushes Yung",
+      "message": "ScoutOP tells Yung DSA to shut up and then pushes him. Qazi Touqeer, Gullu, Kanika Mann and Love Gill confront Scout, and Qazi reminds him what the show means for him and his daughter Kashvi. Yung refuses the apology and says one of them will leave the house. Bigg Boss sends Scout to the bedroom and Yung to the garden.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Scout and Love Clash Over Her Character",
+      "message": "ScoutOP comments on Love Gill's character. She objects and refuses his apology.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Nine Nominated as Arishfa Stays Safe",
+      "message": "Yung DSA nominates Qazi Touqeer, Love Gill and Gullu. Bigg Boss names ScoutOP, Mahhi Vij, Amrapali Dubey, Uditi Singh, Qazi, Love, Kanika Mann, Gullu and Manish Goel as nominated. Arishfa Khan stays safe.",
+      "tag": "Nomination"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Arishfa Removed as Captain",
+      "message": "Bigg Boss cuts the ration to 25% for broken house rules, removes Arishfa Khan as captain, and bars her from the next captaincy task. Gullu, ScoutOP, Love Gill and Kanika Mann are named for sleeping on purpose. Arishfa, Scout and Love argue.",
+      "tag": "Captain"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Love Confronts Scout Over His Silence",
+      "message": "Love Gill confronts ScoutOP for staying silent when Mahhi Vij called her a home breaker. Mahhi and Amrapali Dubey clash over the remark, and Mahhi warns the house not to discuss her divorce. Scout apologises, but Love does not accept it.",
+      "tag": "Conflict"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Robotic Captaincy Task Begins",
+      "message": "The house splits into two teams that must not react while the other side provokes them. Mahhi Vij, Manish Goel, ScoutOP, Love Gill and Amrapali Dubey face Gullu, Kanika Mann, Uditi Singh, Qazi Touqeer and Yung DSA. Mahhi holds back tears and Uditi stays calm. Scout and Yung argue when Yung and Gullu interrupt Scout.",
+      "tag": "Captain"
+    },
+    {
       "date": "2026-11-10",
       "title": "Arishfa Throws Love Gill's Food in Kitchen Fight",
       "message": "An ugly argument erupts over kitchen cleaning, utensils, and cooking duties, culminating in Arishfa Khan throwing Love Gill's food.",
       "tag": "Conflict"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Card Nomination Task",
+      "message": "Arishfa Khan chooses to nominate ScoutOP. Mahhi Vij nominates Uditi Singh and Amrapali Dubey. Scout nominates Uditi and Amrapali. Love Gill nominates Yung DSA, Mahhi and Uditi. Manish Goel nominates Qazi Touqeer. Gullu nominates Amrapali and Mahhi. Qazi nominates Manish. Kanika Mann nominates Qazi, Mahhi and Amrapali. Amrapali nominates Gullu and Mahhi. Uditi nominates Love.",
+      "tag": "Nomination"
     },
     {
       "date": "2026-11-09",
