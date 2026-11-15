@@ -348,57 +348,57 @@
         },
         {
           "week": 10,
-          "totalVotes": 188720,
+          "totalVotes": 279267,
           "players": [
             {
-              "id": 3,
-              "vote": 57230,
-              "percentage": 30.33
+              "id": 8,
+              "vote": 82215,
+              "percentage": 29.44
             },
             {
-              "id": 8,
-              "vote": 50020,
-              "percentage": 26.5
+              "id": 3,
+              "vote": 81343,
+              "percentage": 29.13
             },
             {
               "id": 10,
-              "vote": 28890,
-              "percentage": 15.31
+              "vote": 42573,
+              "percentage": 15.24
             },
             {
               "id": 14,
-              "vote": 14505,
-              "percentage": 7.69
+              "vote": 18328,
+              "percentage": 6.56
             },
             {
               "id": 5,
-              "vote": 8242,
-              "percentage": 4.37
+              "vote": 12642,
+              "percentage": 4.53
             },
             {
               "id": 12,
-              "vote": 7533,
-              "percentage": 3.99
-            },
-            {
-              "id": 17,
-              "vote": 5622,
-              "percentage": 2.98
+              "vote": 9703,
+              "percentage": 3.47
             },
             {
               "id": 16,
-              "vote": 5601,
-              "percentage": 2.97
+              "vote": 8321,
+              "percentage": 2.98
             },
             {
               "id": 1,
-              "vote": 5601,
-              "percentage": 2.97
+              "vote": 8190,
+              "percentage": 2.93
+            },
+            {
+              "id": 17,
+              "vote": 8164,
+              "percentage": 2.92
             },
             {
               "id": 7,
-              "vote": 5476,
-              "percentage": 2.9
+              "vote": 7788,
+              "percentage": 2.79
             }
           ]
         }
