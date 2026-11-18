@@ -1,6 +1,72 @@
 {
   "timelines": [
     {
+      "date": "2026-11-17",
+      "title": "Ticket to Finale Task 1: Bus Rescue Task Results Announced",
+      "message": "In TTF Task 1 ('Bus Rescue Task'), rescuers decide the order to rescue housemates from the bus. Rescuing in the declared order earns points from 9 down to 1 based on position, whereas order failures yield 0 points. Muniyammal tops Task 1 with 43 points, followed by Vinoth Babu (42 pts). Mukesh, Lakshmi Priya, Ansar, and Danya tie at 33 pts.",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Muniyammal Timeline & Performance (43 Pts - 1st Rank)",
+      "message": "As Rescuer, Muniyammal rescued Vinoth Babu (1st/9p), Ansar (2nd/8p), Prithvi (3rd/7p), Mukesh (4th/6p), Danya (5th/5p), and Shathiga (6th/4p), leaving Lakshmi Priya, Jason Kaushi, and TTF Vasan in the bus (0p). When rescued by others: Prithvi (1st/9p), TTF Vasan (1st/9p), Ansar (2nd/8p), Vinoth Babu (4th/6p), Danya (4th/4p), Jason Kaushi (6th/4p), Shathiga (7th/3p), LP (0p), Mukesh (0p). Total Score: 43 points (1st Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Vinoth Babu Timeline & Performance (42 Pts - 2nd Rank)",
+      "message": "As Rescuer, Vinoth Babu rescued Ansar (3rd/7p), Muniyammal (4th/6p), Jason Kaushi (5th/5p), Lakshmi Priya (7th/3p), and Danya (8th/2p). Order failed for Mukesh, Prithvi, Shathiga, TTF Vasan (0p). When rescued by others: Muniyammal (1st/9p), Shathiga (1st/9p), Jason Kaushi (2nd/8p), Ansar (3rd/7p), Danya (5th/5p), TTF Vasan (6th/4p), Prithvi (0p), Mukesh (0p), LP (0p). Total Score: 42 points (2nd Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Mukesh Timeline & Performance (33 Pts - Tied 3rd Rank)",
+      "message": "As Rescuer, Mukesh's declared order failed completely, awarding 0 points to all 9 housemates. When rescued by others: Ansar (1st/9p), Shathiga (2nd/8p), Jason Kaushi (3rd/7p), Muniyammal (4th/6p), Danya (7th/3p), Prithvi (0p), Vinoth (0p), TTF Vasan (0p), LP (0p). Total Score: 33 points (Tied 3rd Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Lakshmi Priya Timeline & Performance (33 Pts - Tied 3rd Rank)",
+      "message": "As Rescuer, Lakshmi Priya rescued Prithvi (3rd/7p), Danya (4th/6p), TTF Vasan (5th/5p), Ansar (6th/4p), and Shathiga (7th/3p), with order failure for Muniyammal (0p) and Jason Kaushi (0p). When rescued by others: Danya (2nd/8p), TTF Vasan (3rd/7p), Prithvi (4th/6p), Shathiga (6th/4p), Ansar (6th/4p), Vinoth (7th/3p), Jason Kaushi (9th/1p), Muniyammal (0p), Mukesh (0p). Total Score: 33 points (Tied 3rd Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Adavadi Ansar Timeline & Performance (33 Pts - Tied 3rd Rank)",
+      "message": "As Rescuer, Ansar rescued Mukesh (1st/9p), Muniyammal (2nd/8p), Vinoth (3rd/7p), Jason Kaushi (4th/6p), TTF Vasan (5th/5p), Lakshmi Priya (6th/4p), and Danya (7th/3p). Left Prithvi and Shathiga in bus. When rescued by others: Muniyammal (2nd/8p), Vinoth (3rd/7p), Jason Kaushi (4th/6p), Danya (4th/6p), LP (6th/4p), Prithvi (8th/2p), Shathiga (0p), TTF Vasan (0p), Mukesh (0p). Total Score: 33 points (Tied 3rd Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Danya Timeline & Performance (33 Pts - Tied 3rd Rank)",
+      "message": "As Rescuer, Danya rescued TTF Vasan (1st/9p), Lakshmi Priya (2nd/8p), Prithvi (3rd/7p), Ansar (4th/6p), Vinoth (5th/5p), Muniyammal (6th/4p), Mukesh (7th/3p), and Shathiga (8th/2p). Left Jason Kaushi in bus. When rescued by others: TTF Vasan (2nd/8p), LP (4th/6p), Muniyammal (5th/5p), Prithvi (5th/5p), Ansar (7th/3p), Jason Kaushi (8th/2p), Vinoth (8th/2p), Shathiga (8th/2p), Mukesh (0p). Total Score: 33 points (Tied 3rd Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Prithvi Timeline & Performance (32 Pts - 7th Rank)",
+      "message": "As Rescuer, Prithvi rescued Muniyammal (1st/9p), Lakshmi Priya (4th/6p), Danya (5th/5p), TTF Vasan (6th/4p), Ansar (8th/2p), and Jason Kaushi (9th/1p). Order failed for Mukesh, Vinoth, Shathiga (0p). When rescued by others: Muniyammal (3rd/7p), LP (3rd/7p), Danya (3rd/7p), Shathiga (4th/6p), Jason Kaushi (5th/5p), Vinoth (0p), TTF Vasan (0p), Mukesh (0p), Ansar (0p). Total Score: 32 points (7th Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: TTF Vasan Timeline & Performance (31 Pts - 8th Rank)",
+      "message": "As Rescuer, TTF Vasan rescued Muniyammal (1st/9p), Danya (2nd/8p), Lakshmi Priya (3rd/7p), Shathiga (5th/5p), and Vinoth Babu (6th/4p). Order failed for Mukesh, Jason, Prithvi, Ansar (0p). When rescued by others: Danya (1st/9p), LP (5th/5p), Shathiga (5th/5p), Ansar (5th/5p), Prithvi (6th/4p), Jason Kaushi (7th/3p), Vinoth (0p), Mukesh (0p), Muniyammal (0p). Total Score: 31 points (8th Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Shathiga Timeline & Performance (23 Pts - 9th Rank)",
+      "message": "As Rescuer, Shathiga rescued Vinoth Babu (1st/9p), Mukesh (2nd/8p), Jason Kaushi (3rd/7p), Prithvi (4th/6p), TTF Vasan (5th/5p), Lakshmi Priya (6th/4p), Muniyammal (7th/3p), and Danya (8th/2p). Left Ansar in bus. When rescued by others: Jason Kaushi (1st/9p), TTF Vasan (5th/5p), Muniyammal (6th/4p), LP (7th/3p), Danya (8th/2p), Prithvi (0p), Vinoth (0p), Mukesh (0p), Ansar (0p). Total Score: 23 points (9th Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "TTF Task 1: Jason Kaushi Timeline & Performance (19 Pts - 10th Rank)",
+      "message": "As Rescuer, Jason Kaushi achieved a perfect 9-person rescue order: Shathiga (1st/9p), Vinoth (2nd/8p), Mukesh (3rd/7p), Ansar (4th/6p), Prithvi (5th/5p), Muniyammal (6th/4p), TTF Vasan (7th/3p), Danya (8th/2p), LP (9th/1p). When rescued by others: Shathiga (3rd/7p), Ansar (4th/6p), Vinoth (5th/5p), Prithvi (9th/1p), LP (0p), TTF Vasan (0p), Mukesh (0p), Muniyammal (0p), Danya (0p). Total Score: 19 points (10th Rank).",
+      "tag": "TTF Build Up Task"
+    },
+    {
       "date": "2026-11-13",
       "title": "Junior Bigg Boss Task Concludes; Adavadi Ansar Secures Nomination-Free Pass",
       "message": "The Week 10 'Junior Bigg Boss' task comes to an end. Having served as the third and final Junior Bigg Boss, Adavadi Ansar secures a Nomination-Free Pass through Week 13.",
@@ -630,6 +696,10 @@
     {
       "tag": "Update",
       "color": "#2196F3"
+    },
+    {
+      "tag": "TTF Build Up Task",
+      "color": "#00BCD4"
     }
   ]
 }
