@@ -4,19 +4,19 @@
       "date": "2026-11-17",
       "title": "Week 11 Nominations Finalised by Dictators",
       "message": "The Dictator nomination process concludes. Eight contestants are nominated for Week 11: Trigun, Varshini, Mukesh, Debjani, Ramprasad, Shiva, Neetu Master and Sudhir. Captain Naresh remains safe. Heated arguments continue inside the house.",
-      "tag": "Nominations"
+      "tag": "Nomination"
     },
     {
       "date": "2026-11-16",
       "title": "Swetha Eliminated & Dictators Enter for Nominations",
       "message": "Swetha Naidu is eliminated. Bigg Boss brings back eliminated contestants as ‘Dictators’ who get the power to nominate. Apoorva delivers a fiery roast of Varshini, calling her dependent on Mukesh (‘Mabbu’ cloud and ‘Varsham’ rain). Multiple old scores are settled.",
-      "tag": "Eviction + Twist"
+      "tag": "Eviction"
     },
     {
       "date": "2026-11-15",
       "title": "Naresh Becomes Captain & Varshini’s Mother Enters",
       "message": "Naresh wins the captaincy with Trigun’s deciding vote and also gets the White Gold Medal. Varshini’s mother is allowed to enter the house after a housemate vote, while RK can only speak to his mother from outside. Varshini is banned from future captaincy.",
-      "tag": "Captaincy"
+      "tag": "Captain"
     },
     {
       "date": "2026-11-14",
@@ -521,6 +521,14 @@
     {
       "tag": "Update",
       "color": "#2196F3"
+    },
+    {
+      "tag": "Family Week",
+      "color": "#EC407A"
+    },
+    {
+      "tag": "Emotional",
+      "color": "#AB47BC"
     }
   ]
 }
