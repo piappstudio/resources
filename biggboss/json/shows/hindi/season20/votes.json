@@ -404,57 +404,57 @@
         },
         {
           "week": 11,
-          "totalVotes": 8472,
+          "totalVotes": 45038,
           "players": [
             {
               "id": 3,
-              "vote": 3106,
-              "percentage": 37.0
+              "vote": 14999,
+              "percentage": 33.3
             },
             {
               "id": 8,
-              "vote": 2224,
-              "percentage": 26.0
+              "vote": 12062,
+              "percentage": 26.78
             },
             {
               "id": 10,
-              "vote": 1158,
-              "percentage": 14.0
+              "vote": 6948,
+              "percentage": 15.43
             },
             {
               "id": 11,
-              "vote": 467,
-              "percentage": 6.0
-            },
-            {
-              "id": 12,
-              "vote": 338,
-              "percentage": 4.0
+              "vote": 2229,
+              "percentage": 4.95
             },
             {
               "id": 5,
-              "vote": 336,
-              "percentage": 4.0
+              "vote": 2131,
+              "percentage": 4.73
+            },
+            {
+              "id": 12,
+              "vote": 1871,
+              "percentage": 4.15
             },
             {
               "id": 7,
-              "vote": 246,
-              "percentage": 3.0
-            },
-            {
-              "id": 1,
-              "vote": 208,
-              "percentage": 2.0
+              "vote": 1454,
+              "percentage": 3.23
             },
             {
               "id": 16,
-              "vote": 206,
-              "percentage": 2.0
+              "vote": 1146,
+              "percentage": 2.54
             },
             {
               "id": 17,
-              "vote": 183,
-              "percentage": 2.0
+              "vote": 1137,
+              "percentage": 2.52
+            },
+            {
+              "id": 1,
+              "vote": 1061,
+              "percentage": 2.36
             }
           ]
         }
