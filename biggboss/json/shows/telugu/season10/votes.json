@@ -574,57 +574,57 @@
         },
         {
           "week": 11,
-          "totalVotes": 5328,
+          "totalVotes": 8753,
           "players": [
             {
-              "id": 16,
-              "vote": 1851,
-              "percentage": 34.74
+              "id": 2,
+              "vote": 4000,
+              "percentage": 45.7
             },
             {
-              "id": 2,
-              "vote": 1579,
-              "percentage": 29.64
+              "id": 16,
+              "vote": 2328,
+              "percentage": 26.6
             },
             {
               "id": 4,
-              "vote": 288,
-              "percentage": 5.41
+              "vote": 358,
+              "percentage": 4.09
             },
             {
               "id": 14,
-              "vote": 285,
-              "percentage": 5.35
-            },
-            {
-              "id": 21,
-              "vote": 264,
-              "percentage": 4.95
+              "vote": 352,
+              "percentage": 4.02
             },
             {
               "id": 7,
-              "vote": 255,
-              "percentage": 4.79
+              "vote": 333,
+              "percentage": 3.8
             },
             {
-              "id": 5,
-              "vote": 235,
-              "percentage": 4.41
+              "id": 21,
+              "vote": 330,
+              "percentage": 3.77
             },
             {
               "id": 9,
-              "vote": 232,
-              "percentage": 4.35
+              "vote": 321,
+              "percentage": 3.67
+            },
+            {
+              "id": 5,
+              "vote": 299,
+              "percentage": 3.42
             },
             {
               "id": 1,
-              "vote": 227,
-              "percentage": 4.26
+              "vote": 284,
+              "percentage": 3.24
             },
             {
               "id": 19,
-              "vote": 112,
-              "percentage": 2.1
+              "vote": 148,
+              "percentage": 1.69
             }
           ]
         }

@@ -404,57 +404,57 @@
         },
         {
           "week": 11,
-          "totalVotes": 45038,
+          "totalVotes": 136486,
           "players": [
             {
               "id": 3,
-              "vote": 14999,
-              "percentage": 33.3
+              "vote": 40358,
+              "percentage": 30.0
             },
             {
               "id": 8,
-              "vote": 12062,
-              "percentage": 26.78
+              "vote": 38773,
+              "percentage": 28.0
             },
             {
               "id": 10,
-              "vote": 6948,
-              "percentage": 15.43
-            },
-            {
-              "id": 11,
-              "vote": 2229,
-              "percentage": 4.95
+              "vote": 21499,
+              "percentage": 16.0
             },
             {
               "id": 5,
-              "vote": 2131,
-              "percentage": 4.73
+              "vote": 7099,
+              "percentage": 5.0
             },
             {
               "id": 12,
-              "vote": 1871,
-              "percentage": 4.15
+              "vote": 6748,
+              "percentage": 5.0
+            },
+            {
+              "id": 11,
+              "vote": 5757,
+              "percentage": 4.0
             },
             {
               "id": 7,
-              "vote": 1454,
-              "percentage": 3.23
+              "vote": 4889,
+              "percentage": 4.0
             },
             {
               "id": 16,
-              "vote": 1146,
-              "percentage": 2.54
+              "vote": 3907,
+              "percentage": 3.0
             },
             {
               "id": 17,
-              "vote": 1137,
-              "percentage": 2.52
+              "vote": 3781,
+              "percentage": 3.0
             },
             {
               "id": 1,
-              "vote": 1061,
-              "percentage": 2.36
+              "vote": 3675,
+              "percentage": 3.0
             }
           ]
         }

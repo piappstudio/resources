@@ -559,42 +559,42 @@
         },
         {
           "week": 11,
-          "totalVotes": 837848,
+          "totalVotes": 1108943,
           "players": [
             {
               "id": 22,
-              "vote": 591692,
-              "percentage": 70.62
+              "vote": 792158,
+              "percentage": 71.43
             },
             {
               "id": 1,
-              "vote": 80762,
-              "percentage": 9.64
+              "vote": 108210,
+              "percentage": 9.76
             },
             {
               "id": 5,
-              "vote": 70455,
-              "percentage": 8.41
+              "vote": 86854,
+              "percentage": 7.83
             },
             {
               "id": 6,
-              "vote": 35110,
-              "percentage": 4.19
+              "vote": 43029,
+              "percentage": 3.88
             },
             {
               "id": 3,
-              "vote": 24591,
+              "vote": 32582,
               "percentage": 2.94
             },
             {
               "id": 18,
-              "vote": 18078,
-              "percentage": 2.16
+              "vote": 23285,
+              "percentage": 2.1
             },
             {
               "id": 2,
-              "vote": 17160,
-              "percentage": 2.05
+              "vote": 22825,
+              "percentage": 2.06
             }
           ]
         }
