@@ -1,69 +1,123 @@
 {
   "timelines": [
     {
+      "date": "2026-11-20",
+      "title": "Overall Ticket to Finale Consolidated Standings After 3 Tasks",
+      "message": "Bigg Boss consolidates all 3 TTF task scores into overall standings: 1st Place: Danya (26 pts - Secret), 2nd Place: Muniyammal (20 pts - Secret), Tied 6th Place: Mukesh (19 pts), Lakshmi Priya (19 pts), Vinoth Babu (19 pts), Shathiga (19 pts), 7th Place: Adavadi Ansar (16 pts), 8th Place: Prithvi (15 pts), 9th Place: TTF Vasan (13 pts), 10th Place: Jason Kaushi (6 pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "TTF Task 3: Muniyammal Completes Contract on Danya (4 Coins)",
+      "message": "Hired by contractor Prithvi for 4 coins, Muniyammal successfully assassinates target Danya in the TTF Task 3 'Contract Killadi' challenge, earning 4 gold coins (Task 3 Total: 9 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "TTF Task 3: Muniyammal Completes Contract on TTF Vasan (1 Coin)",
+      "message": "Hired by contractor Shathiga for 1 coin, Muniyammal successfully assassinates target TTF Vasan in the TTF Task 3 'Contract Killadi' challenge, earning 1 gold coin (Task 3 Total: 9 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "TTF Task 3: TTF Vasan's Contract Fails",
+      "message": "Hired by contractor Prithvi for 7 coins to target Shathiga, TTF Vasan's contract failed after TTF Vasan eliminated contractor Prithvi instead (8 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "TTF Task 3: 'Contract Killadi' Gold Coin Challenge Underway",
+      "message": "In TTF Task 3 ('Contract Killadi with Gold Coin'), contractors hire secret assassins to eliminate target housemates for 10 gold coins. Ansar (hired by Vinoth Babu) assassinates Mukesh for 10 coins (2 Task Pts); Danya (hired by TTF Vasan) assassinates Jason Kaushi for 10 coins (10 Task Pts); Vinoth Babu (hired by Lakshmi Priya) assassinates Ansar for 10 coins (4 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "TTF Task 3: Ansar Completes Contract on Mukesh (10 Coins)",
+      "message": "Hired by contractor Vinoth Babu, Adavadi Ansar successfully assassinates target Mukesh in the TTF Task 3 'Contract Killadi' challenge, earning 10 gold coins (2 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "TTF Task 3: Danya Completes Contract on Jason Kaushi (10 Coins)",
+      "message": "Hired by contractor TTF Vasan, Danya successfully assassinates target Jason Kaushi in the TTF Task 3 'Contract Killadi' challenge, earning 10 gold coins (1st Rank - 10 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "TTF Task 3: Vinoth Babu Completes Contract on Ansar (10 Coins)",
+      "message": "Hired by contractor Lakshmi Priya, Vinoth Babu successfully assassinates target Adavadi Ansar in the TTF Task 3 'Contract Killadi' challenge, earning 10 gold coins (4 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "TTF Task 3: Mukesh's Contract Fails",
+      "message": "Assigned as assassin by contractor Muniyammal, Mukesh's contract attempt failed as he was eliminated first, rendering the contract invalid (2 Task Pts).",
+      "tag": "TTF Build Up Task"
+    },
+    {
       "date": "2026-11-19",
       "title": "Ticket to Finale Task 2: 'Kadavul Paathi, Mirugam Paathi' Task Results",
-      "message": "In TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), housemates answer hotline calls to respond to critical questions from fellow housemates, who rate their responses out of 5 points. Mukesh tops Task 2 with 40 points, followed by Danya (32 pts) and Shathiga (31 pts). Adavadi Ansar scores 28 pts, Lakshmi Priya and Vinoth Babu tie at 26 pts, Prithvi scores 24 pts, Jason Kaushi scores 22 pts, TTF Vasan scores 21 pts, and Muniyammal did not attempt.",
+      "message": "In TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), housemates answer hotline calls to respond to critical questions from fellow housemates, who rate their responses out of 5 points. Mukesh tops Task 2 with 40 points (10 Task Pts), followed by Danya with 32 pts (9 Task Pts) and Shathiga with 31 pts (8 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-19",
       "title": "TTF Task 2: Danya Timeline & Performance (32 Pts - 2nd Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Danya answered criticism from housemates and scored 32 points out of 45: Mukesh (4/5), Muniyammal (4/5), Lakshmi Priya (3/5), Jason Kaushi (3/5), Prithvi (3/5), Vinoth Babu (4/5), Shathiga (3/5), TTF Vasan (4/5), and Ansar (4/5). Total Score: 32 points (2nd Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Danya answered criticism from housemates and scored 32 points out of 45: Mukesh (4/5), Muniyammal (4/5), Lakshmi Priya (3/5), Jason Kaushi (3/5), Prithvi (3/5), Vinoth Babu (4/5), Shathiga (3/5), TTF Vasan (4/5), and Ansar (4/5). Total Score: 32 points (2nd Rank - 9 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-19",
       "title": "TTF Task 2: Adavadi Ansar Timeline & Performance (28 Pts - 4th Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Ansar answered criticism from housemates and scored 28 points out of 45: Mukesh (4/5), Muniyammal (3/5), Lakshmi Priya (3/5), Jason Kaushi (3/5), Prithvi (3/5), Vinoth Babu (3/5), Shathiga (3/5), TTF Vasan (3/5), and Danya (3/5). Total Score: 28 points (4th Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Ansar answered criticism from housemates and scored 28 points out of 45: Mukesh (4/5), Muniyammal (3/5), Lakshmi Priya (3/5), Jason Kaushi (3/5), Prithvi (3/5), Vinoth Babu (3/5), Shathiga (3/5), TTF Vasan (3/5), and Danya (3/5). Total Score: 28 points (4th Rank - 7 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-19",
       "title": "TTF Task 2: Lakshmi Priya Timeline & Performance (26 Pts - Tied 5th Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Lakshmi Priya answered criticism from housemates and scored 26 points out of 45: Mukesh (2/5), Muniyammal (2/5), Jason Kaushi (1/5), Prithvi (3/5), Vinoth Babu (3/5), Shathiga (3/5), TTF Vasan (5/5), Ansar (3/5), and Danya (4/5). Total Score: 26 points (Tied 5th Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Lakshmi Priya answered criticism from housemates and scored 26 points out of 45: Mukesh (2/5), Muniyammal (2/5), Jason Kaushi (1/5), Prithvi (3/5), Vinoth Babu (3/5), Shathiga (3/5), TTF Vasan (5/5), Ansar (3/5), and Danya (4/5). Total Score: 26 points (Tied 5th Rank - 6 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-19",
       "title": "TTF Task 2: Prithvi Timeline & Performance (24 Pts - 7th Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Prithvi answered criticism from housemates and scored 24 points out of 45: Mukesh (3/5), Muniyammal (2/5), Lakshmi Priya (3/5), Jason Kaushi (3/5), Vinoth Babu (2/5), Shathiga (2/5), TTF Vasan (4/5), Ansar (2/5), and Danya (3/5). Total Score: 24 points (7th Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Prithvi answered criticism from housemates and scored 24 points out of 45: Mukesh (3/5), Muniyammal (2/5), Lakshmi Priya (3/5), Jason Kaushi (3/5), Vinoth Babu (2/5), Shathiga (2/5), TTF Vasan (4/5), Ansar (2/5), and Danya (3/5). Total Score: 24 points (7th Rank - 4 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-18",
       "title": "TTF Task 2: Mukesh Timeline & Performance (40 Pts - 1st Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Mukesh answered criticism from housemates and scored 40 points out of 45: Muniyammal (5/5), Lakshmi Priya (4/5), Jason Kaushi (5/5), Prithvi (5/5), Vinoth Babu (3/5), Shathiga (5/5), TTF Vasan (5/5), Ansar (4/5), and Danya (4/5). Total Score: 40 points (1st Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Mukesh answered criticism from housemates and scored 40 points out of 45: Muniyammal (5/5), Lakshmi Priya (4/5), Jason Kaushi (5/5), Prithvi (5/5), Vinoth Babu (3/5), Shathiga (5/5), TTF Vasan (5/5), Ansar (4/5), and Danya (4/5). Total Score: 40 points (1st Rank - 10 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-18",
       "title": "TTF Task 2: Shathiga Timeline & Performance (31 Pts - 3rd Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Shathiga answered criticism from housemates and scored 31 points out of 45: Mukesh (4/5), Muniyammal (3/5), Lakshmi Priya (4/5), Jason Kaushi (3/5), Prithvi (3/5), Vinoth Babu (3/5), TTF Vasan (3/5), Ansar (4/5), and Danya (4/5). Total Score: 31 points (3rd Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Shathiga answered criticism from housemates and scored 31 points out of 45: Mukesh (4/5), Muniyammal (3/5), Lakshmi Priya (4/5), Jason Kaushi (3/5), Prithvi (3/5), Vinoth Babu (3/5), TTF Vasan (3/5), Ansar (4/5), and Danya (4/5). Total Score: 31 points (3rd Rank - 8 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-18",
       "title": "TTF Task 2: Vinoth Babu Timeline & Performance (26 Pts - Tied 5th Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Vinoth Babu answered criticism from housemates and scored 26 points out of 45: Mukesh (3/5), Muniyammal (3/5), Lakshmi Priya (3/5), Jason Kaushi (2/5), Prithvi (3/5), Shathiga (2/5), TTF Vasan (3/5), Ansar (3/5), and Danya (4/5). Total Score: 26 points (Tied 5th Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Vinoth Babu answered criticism from housemates and scored 26 points out of 45: Mukesh (3/5), Muniyammal (3/5), Lakshmi Priya (3/5), Jason Kaushi (2/5), Prithvi (3/5), Shathiga (2/5), TTF Vasan (3/5), Ansar (3/5), and Danya (4/5). Total Score: 26 points (Tied 5th Rank - 6 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-18",
       "title": "TTF Task 2: Jason Kaushi Timeline & Performance (22 Pts - 8th Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Jason Kaushi answered criticism from housemates and scored 22 points out of 45: Mukesh (3/5), Muniyammal (3/5), Lakshmi Priya (1/5), Prithvi (3/5), Vinoth Babu (2/5), Shathiga (3/5), TTF Vasan (2/5), Ansar (3/5), and Danya (2/5). Total Score: 22 points (8th Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Jason Kaushi answered criticism from housemates and scored 22 points out of 45: Mukesh (3/5), Muniyammal (3/5), Lakshmi Priya (1/5), Prithvi (3/5), Vinoth Babu (2/5), Shathiga (3/5), TTF Vasan (2/5), Ansar (3/5), and Danya (2/5). Total Score: 22 points (8th Rank - 3 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-18",
       "title": "TTF Task 2: TTF Vasan Timeline & Performance (21 Pts - 9th Rank)",
-      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), TTF Vasan answered criticism from housemates and scored 21 points out of 45: Mukesh (3/5), Muniyammal (2/5), Lakshmi Priya (2/5), Jason Kaushi (2/5), Prithvi (2/5), Vinoth Babu (2/5), Shathiga (2/5), Ansar (3/5), and Danya (3/5). Total Score: 21 points (9th Rank).",
+      "message": "As call receiver in TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), TTF Vasan answered criticism from housemates and scored 21 points out of 45: Mukesh (3/5), Muniyammal (2/5), Lakshmi Priya (2/5), Jason Kaushi (2/5), Prithvi (2/5), Vinoth Babu (2/5), Shathiga (2/5), Ansar (3/5), and Danya (3/5). Total Score: 21 points (9th Rank - 2 Task Pts).",
       "tag": "TTF Build Up Task"
     },
     {
       "date": "2026-11-18",
       "title": "TTF Task 2: Muniyammal Timeline & Performance (0 Pts - 10th Rank)",
-      "message": "In TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Muniyammal did not attempt her phone call session, receiving 0 points (10th Rank).",
+      "message": "In TTF Task 2 ('Kadavul Paathi, Mirugam Paathi'), Muniyammal did not attempt her phone call session, receiving 0 points (10th Rank - 1 Task Pt).",
       "tag": "TTF Build Up Task"
     },
     {
