@@ -211,9 +211,61 @@
               "comments": "Brother sister bond affecting her game ."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            22,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 22,
+              "comments": "Last week lack of performance."
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "Some points Sensible but lot wast."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "CT-2",
+            "TTFBU-19"
+          ],
+          "nominates": [
+            2,
+            18,
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "Last week in JB she affected others game."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "Afraid of nomination, and cornering who nominates him."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "Afraid of nomination, and cornering who nominates him."
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "2",
@@ -226,7 +278,7 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-11-22",
       "isNominated": false,
       "history": [
         {
@@ -425,7 +477,9 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "BPW"
+          ],
           "nominates": [
             10,
             6
@@ -438,6 +492,49 @@
             {
               "nominate_part_id": 6,
               "comments": "Not accepting her own mistakes."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "LEAD"
+          ],
+          "nominates": [
+            17,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "Last week poor performance."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Invisible performance."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "CT-2",
+            "TTFBU-19",
+            "EVI"
+          ],
+          "nominates": [
+            6,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "She’s waiting for a chance to attack the people who criticized her."
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "I’m not like this gameplay. Lack of understanding the game."
             }
           ]
         }
@@ -455,7 +552,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -638,6 +735,52 @@
               "comments": "He was aggressive and holding personal grudges."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [],
+          "nominates": [
+            9,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Most of the week she was in danger zoon but still lack of effort."
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "Lack of performance."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "CT-2",
+            "TTFBU-15"
+          ],
+          "nominates": [
+            6,
+            22
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "She was not used well her opportunity in the junior JP task."
+            },
+            {
+              "nominate_part_id": 22,
+              "comments": "Not serious in the game."
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -731,7 +874,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -910,6 +1053,56 @@
               "comments": "Collapsing the game. Back stop."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "LEAD",
+            "Captain"
+          ],
+          "nominates": [
+            6,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 6,
+              "comments": "Wantedly triggering me."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "She taked about food related issue. That affects me."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "TTFBU-6",
+            "WPW",
+            "JAIL"
+          ],
+          "nominates": [
+            11,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Personally targeting me"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Least performance"
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -925,7 +1118,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1111,6 +1304,53 @@
               "comments": "He Projecting others in wrong way."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            17,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "In food, she told me selfish but she also doing the same."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "In food, She expect to receive food. But fail to give others in the same way."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "TTFBU-20"
+          ],
+          "nominates": [
+            1,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Muniyammal to LP"
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Last week game spoiler, Invisible group"
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1282,8 +1522,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-11-08",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1448,7 +1688,8 @@
           "week": 9,
           "categories": [
             "NOM",
-            "CT"
+            "CT",
+            "EVI"
           ],
           "nominates": [
             9,
@@ -1478,8 +1719,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-11-15",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1658,6 +1899,27 @@
               "comments": "the way of handling people looks different ."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            3,
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "He missed his own identity in the group."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "Partiality."
+            }
+          ]
         }
       ]
     },
@@ -1672,8 +1934,8 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-11-15",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1838,7 +2100,8 @@
         {
           "week": 9,
           "categories": [
-            "NOM"
+            "NOM",
+            "BPW"
           ],
           "nominates": [
             8,
@@ -1852,6 +2115,28 @@
             {
               "nominate_part_id": 3,
               "comments": "Unnecessary talking in irrelevant places."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "CT",
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            22,
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 22,
+              "comments": "Lack of performance."
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Last week lack of performance."
             }
           ]
         }
@@ -1869,7 +2154,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -2067,6 +2352,38 @@
               "comments": "Emotional black mailing people with aggression who against to him. leading some group of people that scare me."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 11,
+          "categories": [
+            "TTFBU-19"
+          ],
+          "nominates": [
+            3,
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Less performance. I think he lost his game."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "He’s not visible and he’s in the group."
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -2684,7 +3001,10 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "WPW",
+            "JAIL"
+          ],
           "nominates": [
             24,
             10
@@ -2699,6 +3019,54 @@
               "comments": "He was doing for promo content."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            10,
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Intentionally making small things to big issue."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "Reacting based on the people."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "LEAD-2",
+            "Captain",
+            "TTFBU-26"
+          ],
+          "nominates": [
+            3,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Playing in the group. Not visible individual gameplay.."
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Playing Silent trigger game. Flip Flopping her words. Fake."
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -2713,7 +3081,7 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-11-22",
       "isNominated": false,
       "history": [
         {
@@ -2888,6 +3256,50 @@
             {
               "nominate_part_id": 6,
               "comments": "Double faced, not accepting criticism."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "CT",
+            "NOM"
+          ],
+          "nominates": [
+            1,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Lack of effort."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Not improving she game."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "CT-2",
+            "TTFBU-19",
+            "EVI"
+          ],
+          "nominates": [
+            3,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Less performance."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "He said, “walked out from the show”."
             }
           ]
         }
@@ -3081,8 +3493,60 @@
               "comments": "He lost his game because of group .."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "CT"
+          ],
+          "nominates": [
+            1,
+            9
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 1,
+              "comments": "Still no memorable moments."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Fails to showcase her full capabilities."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "CT-2",
+            "TTFBU-16",
+            "WPW",
+            "JAIL"
+          ],
+          "nominates": [
+            5,
+            18
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Not owning his leadership."
+            },
+            {
+              "nominate_part_id": 18,
+              "comments": "He’s in group, he is reacting in a particular events."
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "20",
@@ -3322,7 +3786,10 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "WPW",
+            "JAIL"
+          ],
           "nominates": [
             6,
             10
@@ -3337,6 +3804,53 @@
               "comments": "he was not correcting his mistakes ."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            10,
+            6
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "Lack of acceptance ."
+            },
+            {
+              "nominate_part_id": 6,
+              "comments": "Not accepting."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "TTFBU-13"
+          ],
+          "nominates": [
+            5,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "He flip flopping the word."
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Spoiled game in Changing JB"
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "categories": [],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -3443,7 +3957,7 @@
     {
       "id": "24",
       "name": "Akshitha Ashok",
-      "dial_number": "",
+      "dial_number": "7669908423",
       "title": null,
       "start_date": "2026-10-04",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season10/participants/24_pp.png",
@@ -3451,33 +3965,9 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-11-08",
+      "isNominated": false,
       "history": [
-        {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 3,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
         {
           "week": 5,
           "categories": [
@@ -3563,7 +4053,8 @@
         {
           "week": 9,
           "categories": [
-            "NOM"
+            "NOM",
+            "EVI"
           ],
           "nominates": [
             6,
@@ -3593,7 +4084,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 5,
+      "graphOrder": 7,
       "created_at": "2026-09-06T09:40:57.000000Z",
       "updated_at": "2026-09-06T09:40:57.000000Z"
     },
@@ -3619,7 +4110,7 @@
       "text": "FF000000",
       "is_week": true,
       "graph": true,
-      "graphOrder": 4,
+      "graphOrder": 2,
       "created_at": "2026-09-06T21:12:14.000000Z",
       "updated_at": "2026-09-06T21:12:14.000000Z"
     },
@@ -3632,7 +4123,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 1,
+      "graphOrder": 12,
       "created_at": "2026-09-07T21:12:14.000000Z",
       "updated_at": "2026-09-06T21:12:14.000000Z"
     },
@@ -3645,7 +4136,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 2,
+      "graphOrder": 14,
       "created_at": "2026-09-07T21:12:14.000000Z",
       "updated_at": "2026-09-06T21:12:14.000000Z"
     },
@@ -3658,7 +4149,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 4,
+      "graphOrder": 5,
       "created_at": "2026-09-07T14:26:02.000000Z",
       "updated_at": "2026-09-07T14:26:02.000000Z"
     },
@@ -3671,7 +4162,7 @@
       "text": "FF000000",
       "is_week": true,
       "graph": true,
-      "graphOrder": 4,
+      "graphOrder": 13,
       "created_at": "2026-09-07T14:26:02.000000Z",
       "updated_at": "2026-09-07T14:26:02.000000Z"
     },
@@ -3684,7 +4175,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 4,
+      "graphOrder": 11,
       "created_at": "2026-09-07T14:26:02.000000Z",
       "updated_at": "2026-09-07T14:26:02.000000Z"
     },
@@ -3697,7 +4188,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 4,
+      "graphOrder": 10,
       "created_at": "2026-09-09T22:35:42.000000Z",
       "updated_at": "2026-09-09T22:35:42.000000Z"
     },
@@ -3710,7 +4201,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 4,
+      "graphOrder": 8,
       "created_at": "2026-09-09T22:35:42.000000Z",
       "updated_at": "2026-09-09T22:35:42.000000Z"
     },
@@ -3736,7 +4227,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": null,
+      "graphOrder": 16,
       "created_at": "2026-09-06T21:10:25.000000Z",
       "updated_at": "2026-09-06T09:41:04.000000Z"
     },
@@ -3749,7 +4240,7 @@
       "text": "FFFFFFFF",
       "is_week": true,
       "graph": true,
-      "graphOrder": 2,
+      "graphOrder": 9,
       "created_at": "2026-09-18T23:15:54.000000Z",
       "updated_at": "2025-10-05T09:42:13.000000Z"
     },
@@ -3778,6 +4269,19 @@
       "graphOrder": 4,
       "created_at": "2026-09-26T12:54:00.000000Z",
       "updated_at": "2026-09-26T12:54:00.000000Z"
+    },
+    {
+      "id": 66,
+      "show_id": 6,
+      "name": "Ticket To Final Build Up",
+      "key": "TTFBU",
+      "color": "FFD4AF37",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 1,
+      "created_at": "2025-02-19T09:41:53.000000Z",
+      "updated_at": "2025-02-19T09:41:53.000000Z"
     }
   ]
 }

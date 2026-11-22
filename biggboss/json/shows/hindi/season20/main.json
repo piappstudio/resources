@@ -25,7 +25,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -184,11 +184,72 @@
           "categories": [
             "Captain"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            16,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Weak personality"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Weak personality"
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16,
+            5,
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not able understand her Bigg boss game play"
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "She exaggerating small issue"
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Needs an exception, talking things to very extreme to insult"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            3,
+            16,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Clashed with him over his claim that she was creating a false narrative against him; told him to continue his drama."
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Questioned her logic and reminded her of being called insecure."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Accused her of repeatedly targeting her for not taking a stand."
+            }
+          ]
         }
-      ],
-      "isCaptain": true
+      ]
     },
     {
       "id": "2",
@@ -365,7 +426,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -527,6 +588,51 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "Not knowing about good touch & bad touch, insulting me"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            12,
+            17,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Called her arguments dramatic and questioned her reactions."
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Reciprocal — “I’m nominating you because you nominated me.”"
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Related to their disagreement over the “tatti wala emotion” / calling him “Professor” (Manish took strong offence)."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Described her as the biggest hypocrite in the house."
+            }
+          ]
         }
       ]
     },
@@ -757,8 +863,65 @@
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "So much arrogance, dominance , she wants whole house to listen her"
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            12,
+            16,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 12,
+              "comments": "Playing safe game"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Backstabbing a lot with different thoughts"
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Biased to Arisfa"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            12,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Felt she crosses the line by speaking on Scout’s behalf / questioned her habit of speaking for others."
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Accused him of playing safe and not taking a stand."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Said she should have stopped Gullu from making remarks against Yung."
+            }
+          ]
         }
       ]
     },
@@ -830,7 +993,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -977,6 +1140,71 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            8,
+            14,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Our friendship is not in good shape now, and I don’t want to change it"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Exchanges some words"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "For kitchen fight, I’m not personally talks about you"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            8,
+            3,
+            11,
+            14,
+            16,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Upset over his comments about her using Scout and keeping him in the loop."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Accused him of disrespecting women (specifically by saying she was using Scout)."
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Cited the food-throwing dispute."
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Accused her of speaking behind people’s backs / backbiting and having double standards / playing safe."
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Asked her to take responsibility for her statements."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Questioned her habit of speaking on behalf of others."
+            }
+          ]
         }
       ]
     },
@@ -992,7 +1220,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1166,6 +1394,39 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            12,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Called her conversations nonsensical and accused her of twisting narratives / questioned her concern for her own image based on behaviour around Gullu."
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Accused him of passing comments behind his back during the Scout-Yung fight."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Called out her double standards for taking selective stands and speaking behind her friends’ backs"
+            }
+          ]
         }
       ]
     },
@@ -1465,8 +1726,50 @@
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "She getting into my personal life which is out of this home"
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Changing the stands. Nowadays she not able to so right things"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Changing stands often bases on conveniences"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "Called her stubborn."
+            }
+          ]
         }
       ]
     },
@@ -1648,8 +1951,65 @@
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "He is rude and not respecting, his heart  and words are spoiled Doing bully"
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            10
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 10,
+              "comments": "I don’t like him"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            16,
+            12,
+            5,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Blamed her for ruining her captaincy and said her fights/arguments are nonsensical / her words have no meaning."
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Called her out for breaking the cassette and not accepting her mistakes."
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Blamed him for ruining her captaincy by deliberately sleeping."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Upset over her comments about her education and acting knowledge."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Held her responsible for supporting the group that ruined her captaincy"
+            }
+          ]
         }
       ]
     },
@@ -1665,7 +2025,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1807,6 +2167,56 @@
           "categories": [],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Taking simple things seriously"
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Speaking some one about something. Make it straight"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            8,
+            3,
+            16,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 8,
+              "comments": "Specific detailed reason less widely quoted; tied to ongoing group tensions and reciprocal targeting."
+            },
+            {
+              "nominate_part_id": 3,
+              "comments": "Objected to Qazi’s remarks about Love and Scout + his aggressive bottle-throwing behaviour."
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Part of the group targeting over accountability and house dynamics."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Called out her double standards when it comes to personal comments during fights."
+            }
+          ]
         }
       ]
     },
@@ -1943,7 +2353,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -2097,10 +2507,53 @@
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            17
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 17,
+              "comments": "No taking the feedback, very sensitive. Getting triggered for silly words"
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Playing like home breaker in Love Gill issue. Taking it to personal"
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Not having good relationship, goes to cheap level"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Questioned her self-respect / accused her of playing safe with double standards."
+            }
+          ]
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "15",
@@ -2363,8 +2816,70 @@
           "categories": [
             "NOM"
           ],
-          "nominates": [],
-          "nomination_detail": []
+          "nominates": [
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Not much understanding"
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            5,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "Talking behind"
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Maintaining distance from me"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            7,
+            11,
+            12,
+            17,
+            1
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 7,
+              "comments": "Accused her of dragging family matters into fights."
+            },
+            {
+              "nominate_part_id": 11,
+              "comments": "Dismissed her cassette-incident monologue as “dhong” (fake/drama)."
+            },
+            {
+              "nominate_part_id": 12,
+              "comments": "Said he interferes in others’ fights without having his own mudda (issue)."
+            },
+            {
+              "nominate_part_id": 17,
+              "comments": "Felt he should have sorted out their differences earlier instead of holding a grudge."
+            },
+            {
+              "nominate_part_id": 1,
+              "comments": "Accused her of being insecure, jealous, and calling people names."
+            }
+          ]
         }
       ]
     },
@@ -2403,45 +2918,9 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
-      "isNominated": true,
+      "eliminated_date": "2026-11-22",
+      "isNominated": false,
       "history": [
-        {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 3,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 6,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
         {
           "week": 7,
           "categories": [
@@ -2482,6 +2961,37 @@
           ],
           "nominates": [],
           "nomination_detail": []
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            3
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 3,
+              "comments": "Exposing Qazi’s for using women’s card on when he act as women"
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM",
+            "EVI"
+          ],
+          "nominates": [
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Felt she should have cleared things up earlier instead of holding a grudge / failed to honour an honesty pact."
+            }
+          ]
         }
       ]
     }

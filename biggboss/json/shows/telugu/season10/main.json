@@ -25,7 +25,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -126,7 +126,44 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16,
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Most undeserved, dirty minded. If he lost game, he can’t accept it."
+            },
+            {
+              "nominate_part_id": 4,
+              "comments": "Last two weeks is not performing well."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Playing safe game."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -144,7 +181,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -267,9 +304,68 @@
         },
         {
           "week": 9,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            14,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "You showed up friendship value 0, game 0, your value and ethics 0. Fake."
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Not good to the society and the Bigg Boss house. Lack of behavior, and playing game."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Forgetting things. Not understanding anything."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            19,
+            19,
+            9,
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "He is not sacrifices ultimate goat. I played, convinced and won it."
+            },
+            {
+              "nominate_part_id": 19,
+              "comments": "He is not sacrifices ultimate goat. I played, convinced and won it."
+            },
+            {
+              "nominate_part_id": 9,
+              "comments": "Lack of captaincy."
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Not following the rules. Cheating others was not sportsmanship."
+            }
+          ]
         }
       ]
     },
@@ -398,7 +494,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -520,7 +616,44 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            9,
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 9,
+              "comments": "Flipping his thoughts. Third week money box time he said money is not important, To reach the people is important but again he flipped if they put 35 lakhs, I will take it."
+            },
+            {
+              "nominate_part_id": 5,
+              "comments": "Last week discussed nomination with others. No personality. He was not helped/ encouraged his friend Rohit."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "If you’re trusting others, they will be looks like a crackers. Otherwise they will be looks like a smoke."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -538,7 +671,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -641,9 +774,63 @@
         },
         {
           "week": 9,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            4,
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Lack of effort in the game."
+            },
+            {
+              "nominate_part_id": 14,
+              "comments": "Flipped her words. This game not only about personality. We need to play game also."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Sound Shiva. Your decisions makes you backfire."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16,
+            16,
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Playing safe game by supported Naresh in the captaincy task."
+            },
+            {
+              "nominate_part_id": 16,
+              "comments": "Playing safe game by supported Naresh in the captaincy task."
+            },
+            {
+              "nominate_part_id": 2,
+              "comments": "Confusion to trust you. Gave me hope but you are not supporting me."
+            }
+          ]
         }
       ]
     },
@@ -692,7 +879,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -809,9 +996,53 @@
         },
         {
           "week": 9,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            14,
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "She’s wrote a letter me cunning person I can’t able to accept it."
+            },
+            {
+              "nominate_part_id": 21,
+              "comments": "As per my performance, she gave me a star, again she get it back for Rohit. That’s hurts me."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            14
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 14,
+              "comments": "Discussed about Letter written by Varshini."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Not clarity in the game. Investigating others."
+            }
+          ]
         }
       ]
     },
@@ -932,7 +1163,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1024,7 +1255,9 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             16,
             14
@@ -1039,6 +1272,34 @@
               "comments": "Night time discussion disturbs others, talking about personality, but you are not nominating Mukesh."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            21,
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "She don’t have balance."
+            },
+            {
+              "nominate_part_id": 21,
+              "comments": "She don’t have balance."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1223,7 +1484,9 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             5,
             14
@@ -1238,8 +1501,44 @@
               "comments": "In ultimate G.O.A.T task why you said to the supporter, “why you are placing my picture”"
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "You are disturbing my game.Keep carrying the tags. Violence."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            19,
+            23
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 19,
+              "comments": "Fake and flipping words."
+            },
+            {
+              "nominate_part_id": 23,
+              "comments": "Hesitate to do sweeping work."
+            }
+          ]
         }
-      ]
+      ],
+      "isCaptain": true
     },
     {
       "id": "12",
@@ -1355,7 +1654,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1455,9 +1754,53 @@
         },
         {
           "week": 9,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            11,
+            19
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 11,
+              "comments": "You are under the bad influence."
+            },
+            {
+              "nominate_part_id": 19,
+              "comments": "You are influenced our alliances and try to break down our bond. He thinks he is the game changer, but it’s not true."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "You did for me “Mithra drogam”."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            5
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 5,
+              "comments": "He created false narrative and blamed on me."
+            }
+          ]
         }
       ]
     },
@@ -1606,7 +1949,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1705,7 +2048,9 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             9,
             1
@@ -1720,6 +2065,29 @@
               "comments": "If you have any concern about me, you’re supposed to talk to me not to others."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Un trustworthy."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -1795,7 +2163,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1868,7 +2236,44 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
+          "nominates": [
+            16,
+            7
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "Not controlling his mouth. Zero personality. He is not deserve to this home."
+            },
+            {
+              "nominate_part_id": 7,
+              "comments": "Lack of clarity. Think about yourself and play game."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            16
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 16,
+              "comments": "He played dirty game in the name of prank."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2"
+          ],
           "nominates": [],
           "nomination_detail": []
         }
@@ -1910,45 +2315,9 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-11-22",
       "isNominated": false,
       "history": [
-        {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 3,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 6,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
         {
           "week": 7,
           "categories": [
@@ -1972,7 +2341,9 @@
         },
         {
           "week": 9,
-          "categories": [],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             14,
             9
@@ -1987,6 +2358,30 @@
               "comments": "Temper Vamsi in task, normal Vamsi in kitchen."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            2
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 2,
+              "comments": "The way of talking was harsh."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2",
+            "EVI"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     },
@@ -2001,45 +2396,9 @@
       "order": null,
       "re_entry_date": null,
       "re_evicted_date": null,
-      "eliminated_date": null,
+      "eliminated_date": "2026-11-15",
       "isNominated": false,
       "history": [
-        {
-          "week": 1,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 2,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 3,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 4,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 5,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
-        {
-          "week": 6,
-          "categories": [],
-          "nominates": [],
-          "nomination_detail": []
-        },
         {
           "week": 7,
           "categories": [
@@ -2071,11 +2430,27 @@
           "nomination_detail": [
             {
               "nominate_part_id": 16,
-              "comments": "In the ultimate G.O.AT you are not convincing the supporters why they want to support you. Getting angry when supporters lose the game."
+              "comments": "In the ultimate G.O.A.T you are not convincing the supporters why they want to support you. Getting angry when supporters lose the game."
             },
             {
               "nominate_part_id": 5,
               "comments": "He gave a star delay so no use of that."
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2",
+            "EVI"
+          ],
+          "nominates": [
+            21
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 21,
+              "comments": "Impatient, you have a gun, but no bullets."
             }
           ]
         }
@@ -2093,7 +2468,7 @@
       "re_entry_date": null,
       "re_evicted_date": null,
       "eliminated_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -2171,6 +2546,29 @@
               "comments": "Lack of ration manager role, and judge role. Emotionally weak."
             }
           ]
+        },
+        {
+          "week": 10,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [
+            4
+          ],
+          "nomination_detail": [
+            {
+              "nominate_part_id": 4,
+              "comments": "Easily give up the ball game. Mukesh saved you but you’re not stand for him him."
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "categories": [
+            "NOM-2"
+          ],
+          "nominates": [],
+          "nomination_detail": []
         }
       ]
     }
